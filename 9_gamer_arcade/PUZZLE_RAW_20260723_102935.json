@@ -1,0 +1,40 @@
+{
+    "module_name": "HSSC CET Group C Exam 2025",
+    "true_false_rapid_fire": [
+        {
+            "statement": "National news includes government policies and national security.",
+            "is_true": true,
+            "explanation": "National news encompasses a broad spectrum of events, policies, and developments that shape the destiny of a nation, including government policies and national security."
+        },
+        {
+            "statement": "Ancient history is not relevant to modern societies.",
+            "is_true": false,
+            "explanation": "Ancient history is the foundation upon which modern societies are built, with civilizations such as the Indus Valley and the Mauryan Empire contributing significantly to our cultural, philosophical, and political heritage."
+        },
+        {
+            "statement": "Deductive reasoning involves making generalizations based on specific observations.",
+            "is_true": false,
+            "explanation": "Deductive reasoning involves drawing specific conclusions from general premises using logical rules, whereas inductive reasoning involves making generalizations based on specific observations."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "National News",
+            "Ancient History",
+            "Deductive Reasoning",
+            "Parts of Speech"
+        ],
+        "right_column_shuffled": [
+            "The study of language components",
+            "Drawing specific conclusions from general premises",
+            "The foundation of modern societies",
+            "Government policies and national security"
+        ],
+        "correct_mapping": {
+            "National News": "Government policies and national security",
+            "Ancient History": "The foundation of modern societies",
+            "Deductive Reasoning": "Drawing specific conclusions from general premises",
+            "Parts of Speech": "The study of language components"
+        }
+    }
+}

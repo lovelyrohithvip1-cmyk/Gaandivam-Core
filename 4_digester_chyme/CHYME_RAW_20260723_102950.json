@@ -1,0 +1,244 @@
+{
+    "exam_name": "UP Board 10th & 12th Examination 2026",
+    "chyme_granular_syllabus": {
+        "Hindi": {
+            "Letter Writing": {
+                "Formal Letters": [
+                    "Official Letters",
+                    "Business Letters",
+                    "Application Letters"
+                ],
+                "Informal Letters": [
+                    "Personal Letters",
+                    "Friendly Letters",
+                    "Family Letters"
+                ]
+            },
+            "Essay": {
+                "Descriptive Essays": [
+                    "Narrative Essays",
+                    "Expository Essays",
+                    "Persuasive Essays"
+                ],
+                "Analytical Essays": [
+                    "Comparative Essays",
+                    "Cause and Effect Essays",
+                    "Problem-Solution Essays"
+                ]
+            },
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Unseen Passages",
+                    "Poems",
+                    "Stories"
+                ],
+                "Writing Comprehension": [
+                    "Summarizing",
+                    "Paraphrasing",
+                    "Note-making"
+                ]
+            },
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            }
+        },
+        "English": {
+            "Prose": {
+                "Fiction": [
+                    "Novels",
+                    "Short Stories",
+                    "Plays"
+                ],
+                "Non-Fiction": [
+                    "Biographies",
+                    "Autobiographies",
+                    "Essays"
+                ]
+            },
+            "Poetry": {
+                "Forms of Poetry": [
+                    "Sonnet",
+                    "Haiku",
+                    "Free Verse"
+                ],
+                "Poetic Devices": [
+                    "Metaphor",
+                    "Simile",
+                    "Personification"
+                ]
+            },
+            "Grammar": {
+                "Tenses": [
+                    "Present Tense",
+                    "Past Tense",
+                    "Future Tense"
+                ],
+                "Clauses": [
+                    "Independent Clauses",
+                    "Dependent Clauses",
+                    "Relative Clauses"
+                ]
+            },
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Unseen Passages",
+                    "Poems",
+                    "Stories"
+                ],
+                "Writing Comprehension": [
+                    "Summarizing",
+                    "Paraphrasing",
+                    "Note-making"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Inequalities": [
+                    "Linear Inequalities",
+                    "Quadratic Inequalities",
+                    "Rational Inequalities"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Midpoint Theorem",
+                    "Distance Formula",
+                    "Section Formula"
+                ],
+                "Angles and Triangles": [
+                    "Angle Sum Property",
+                    "Triangle Inequality",
+                    "Congruence of Triangles"
+                ]
+            },
+            "Trigonometry": {
+                "Trigonometric Ratios": [
+                    "Sine",
+                    "Cosine",
+                    "Tangent"
+                ],
+                "Trigonometric Identities": [
+                    "Pythagorean Identity",
+                    "Sum and Difference Formulas",
+                    "Double Angle Formulas"
+                ]
+            },
+            "Statistics": {
+                "Data Analysis": [
+                    "Mean",
+                    "Median",
+                    "Mode"
+                ],
+                "Data Representation": [
+                    "Bar Graphs",
+                    "Pie Charts",
+                    "Line Graphs"
+                ]
+            }
+        },
+        "Science": {
+            "Physics": {
+                "Mechanics": [
+                    "Kinematics",
+                    "Dynamics",
+                    "Energy and Work"
+                ],
+                "Thermodynamics": [
+                    "Laws of Thermodynamics",
+                    "Thermal Expansion",
+                    "Heat Transfer"
+                ]
+            },
+            "Chemistry": {
+                "Inorganic Chemistry": [
+                    "Atomic Structure",
+                    "Chemical Bonding",
+                    "Periodic Table"
+                ],
+                "Organic Chemistry": [
+                    "Hydrocarbons",
+                    "Functional Groups",
+                    "Polymers"
+                ]
+            },
+            "Biology": {
+                "Cell Biology": [
+                    "Cell Structure",
+                    "Cell Division",
+                    "Cellular Respiration"
+                ],
+                "Genetics": [
+                    "Mendel's Laws",
+                    "DNA Structure",
+                    "Gene Expression"
+                ]
+            }
+        },
+        "Social Science": {
+            "History": {
+                "Ancient History": [
+                    "Indus Valley Civilization",
+                    "Vedic Period",
+                    "Mauryan Empire"
+                ],
+                "Medieval History": [
+                    "Delhi Sultanate",
+                    "Mughal Empire",
+                    "Maratha Empire"
+                ]
+            },
+            "Geography": {
+                "Physical Geography": [
+                    "Landforms",
+                    "Water Bodies",
+                    "Climate"
+                ],
+                "Human Geography": [
+                    "Population",
+                    "Settlements",
+                    "Economic Activities"
+                ]
+            },
+            "Civics": {
+                "Indian Constitution": [
+                    "Preamble",
+                    "Fundamental Rights",
+                    "Directive Principles"
+                ],
+                "Government and Politics": [
+                    "Executive",
+                    "Legislature",
+                    "Judiciary"
+                ]
+            },
+            "Economics": {
+                "Microeconomics": [
+                    "Consumer Behavior",
+                    "Production and Cost",
+                    "Market Structures"
+                ],
+                "Macroeconomics": [
+                    "National Income",
+                    "Inflation",
+                    "Unemployment"
+                ]
+            }
+        }
+    }
+}

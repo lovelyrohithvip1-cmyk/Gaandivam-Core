@@ -1,0 +1,275 @@
+{
+    "exam_name": "Uttarakhand Teacher Eligibility Test (UTET-I & II) 2026",
+    "chyme_granular_syllabus": {
+        "Child Development & Pedagogy": {
+            "Child Development": {
+                "Introduction to Child Development": [
+                    "Definition of Child Development",
+                    "Importance of Child Development",
+                    "Theories of Child Development"
+                ],
+                "Stages of Child Development": [
+                    "Infancy",
+                    "Early Childhood",
+                    "Middle Childhood",
+                    "Adolescence"
+                ]
+            },
+            "Pedagogy": {
+                "Teaching Methods": [
+                    "Traditional Methods",
+                    "Modern Methods",
+                    "Project Method",
+                    "Discussion Method"
+                ],
+                "Learning Theories": [
+                    "Behavioral Theory",
+                    "Cognitive Theory",
+                    "Social Learning Theory"
+                ]
+            }
+        },
+        "Language-I": {
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Types of Questions",
+                    "Techniques for Improvement",
+                    "Practice Exercises"
+                ],
+                "Listening Comprehension": [
+                    "Types of Audio Materials",
+                    "Techniques for Improvement",
+                    "Practice Exercises"
+                ]
+            },
+            "Language Skills": {
+                "Writing Skills": [
+                    "Types of Writing",
+                    "Techniques for Improvement",
+                    "Practice Exercises"
+                ],
+                "Speaking Skills": [
+                    "Types of Speech",
+                    "Techniques for Improvement",
+                    "Practice Exercises"
+                ]
+            }
+        },
+        "Language-II": {
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Types of Questions",
+                    "Techniques for Improvement",
+                    "Practice Exercises"
+                ],
+                "Listening Comprehension": [
+                    "Types of Audio Materials",
+                    "Techniques for Improvement",
+                    "Practice Exercises"
+                ]
+            },
+            "Language Skills": {
+                "Writing Skills": [
+                    "Types of Writing",
+                    "Techniques for Improvement",
+                    "Practice Exercises"
+                ],
+                "Speaking Skills": [
+                    "Types of Speech",
+                    "Techniques for Improvement",
+                    "Practice Exercises"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Number System": {
+                "Introduction to Number System": [
+                    "Definition of Number System",
+                    "Types of Numbers",
+                    "Operations on Numbers"
+                ],
+                "Properties of Numbers": [
+                    "Commutative Property",
+                    "Associative Property",
+                    "Distributive Property"
+                ]
+            },
+            "Algebra": {
+                "Introduction to Algebra": [
+                    "Definition of Algebra",
+                    "Types of Equations",
+                    "Solving Equations"
+                ],
+                "Graphs and Functions": [
+                    "Types of Graphs",
+                    "Types of Functions",
+                    "Graphing Functions"
+                ]
+            },
+            "Geometry": {
+                "Introduction to Geometry": [
+                    "Definition of Geometry",
+                    "Types of Shapes",
+                    "Properties of Shapes"
+                ],
+                "Measurement": [
+                    "Perimeter",
+                    "Area",
+                    "Volume"
+                ]
+            },
+            "Measurement": {
+                "Introduction to Measurement": [
+                    "Definition of Measurement",
+                    "Types of Units",
+                    "Conversion of Units"
+                ],
+                "Practical Applications": [
+                    "Measuring Length",
+                    "Measuring Weight",
+                    "Measuring Capacity"
+                ]
+            }
+        },
+        "Environmental Studies": {
+            "Family and Friends": {
+                "Importance of Family": [
+                    "Types of Families",
+                    "Roles and Responsibilities",
+                    "Family Values"
+                ],
+                "Importance of Friends": [
+                    "Types of Friends",
+                    "Qualities of Good Friends",
+                    "Maintaining Friendships"
+                ]
+            },
+            "Food": {
+                "Types of Food": [
+                    "Nutritious Food",
+                    "Junk Food",
+                    "Street Food"
+                ],
+                "Importance of Nutrition": [
+                    "Balanced Diet",
+                    "Deficiencies and Disorders",
+                    "Healthy Eating Habits"
+                ]
+            },
+            "Shelter": {
+                "Types of Shelters": [
+                    "Houses",
+                    "Apartments",
+                    "Hostels"
+                ],
+                "Importance of Shelter": [
+                    "Protection from Elements",
+                    "Sense of Belonging",
+                    "Security"
+                ]
+            },
+            "Water": {
+                "Importance of Water": [
+                    "Uses of Water",
+                    "Conservation of Water",
+                    "Water Pollution"
+                ],
+                "Water Cycle": [
+                    "Evaporation",
+                    "Condensation",
+                    "Precipitation"
+                ]
+            },
+            "Travel": {
+                "Modes of Transport": [
+                    "Land Transport",
+                    "Water Transport",
+                    "Air Transport"
+                ],
+                "Importance of Travel": [
+                    "Exploration",
+                    "Education",
+                    "Recreation"
+                ]
+            }
+        },
+        "Mathematics & Science": {
+            "Mathematics": {
+                "Introduction to Mathematics": [
+                    "Definition of Mathematics",
+                    "Branches of Mathematics",
+                    "Importance of Mathematics"
+                ],
+                "Applications of Mathematics": [
+                    "Science",
+                    "Technology",
+                    "Engineering",
+                    "Mathematics (STEM)"
+                ]
+            },
+            "Science": {
+                "Introduction to Science": [
+                    "Definition of Science",
+                    "Branches of Science",
+                    "Importance of Science"
+                ],
+                "Applications of Science": [
+                    "Technology",
+                    "Engineering",
+                    "Mathematics (STEM)",
+                    "Daily Life"
+                ]
+            }
+        },
+        "Social Studies": {
+            "History": {
+                "Introduction to History": [
+                    "Definition of History",
+                    "Importance of History",
+                    "Types of History"
+                ],
+                "Ancient Civilizations": [
+                    "Egyptian Civilization",
+                    "Greek Civilization",
+                    "Roman Civilization"
+                ]
+            },
+            "Geography": {
+                "Introduction to Geography": [
+                    "Definition of Geography",
+                    "Importance of Geography",
+                    "Types of Geography"
+                ],
+                "Physical Geography": [
+                    "Mountains",
+                    "Rivers",
+                    "Deserts"
+                ]
+            },
+            "Civics": {
+                "Introduction to Civics": [
+                    "Definition of Civics",
+                    "Importance of Civics",
+                    "Types of Governments"
+                ],
+                "Citizenship": [
+                    "Rights and Responsibilities",
+                    "Duties of Citizens",
+                    "Importance of Voting"
+                ]
+            },
+            "Economics": {
+                "Introduction to Economics": [
+                    "Definition of Economics",
+                    "Importance of Economics",
+                    "Types of Economies"
+                ],
+                "Basic Concepts": [
+                    "Scarcity",
+                    "Opportunity Cost",
+                    "Supply and Demand"
+                ]
+            }
+        }
+    }
+}

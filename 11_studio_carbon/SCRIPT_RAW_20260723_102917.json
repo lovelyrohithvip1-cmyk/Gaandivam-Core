@@ -1,0 +1,78 @@
+{
+    "video_title": "Introduction to HTET 2026",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a 3D animation of a child growing and developing, with books and educational materials surrounding them",
+            "narration_script": "Welcome to the Haryana Teacher Eligibility Test, or HTET, 2026. In this video, we'll be exploring key concepts in Child Development and Pedagogy, Language, and Mathematics.",
+            "on_screen_text": "HTET 2026: Introduction"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "3D animation of ancient Greek philosophers, such as Aristotle, and modern theorists like Jean Piaget, with a timeline in the background",
+            "narration_script": "Child development is a dynamic and multi-faceted field that has evolved significantly over the centuries, from ancient Greek philosophers to modern theorists like Jean Piaget.",
+            "on_screen_text": "Child Development: A Historical Perspective"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "3D animation of a child's brain, with cognitive development stages appearing as puzzle pieces",
+            "narration_script": "Cognitive development refers to the process by which children acquire, process, and use information, including problem-solving skills, memory, and language.",
+            "on_screen_text": "Cognitive Development: Piaget's Stages"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "3D animation of Piaget's stages of cognitive development, with examples and illustrations for each stage",
+            "narration_script": "According to Piaget's theory, children progress through a series of stages, each characterized by a unique way of thinking and understanding the world: Sensorimotor, Preoperational, Concrete Operational, and Formal Operational.",
+            "on_screen_text": "Piaget's Stages: Sensorimotor (0-2), Preoperational (2-7), Concrete Operational (7-11), Formal Operational (11-15)"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "3D animation of a child interacting with others, with social development concepts appearing as speech bubbles",
+            "narration_script": "Social development refers to the process by which children learn to interact and form relationships with others, including the development of social skills, emotional intelligence, and moral values.",
+            "on_screen_text": "Social Development: Vygotsky's Theory"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "3D animation of Vygotsky's zone of proximal development, with a child learning with guidance and support",
+            "narration_script": "According to Vygotsky's theory, social interaction plays a crucial role in shaping children's cognitive and social development, within the zone of proximal development.",
+            "on_screen_text": "Vygotsky's Zone of Proximal Development"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "3D animation of the Hindi language, with grammar and vocabulary concepts appearing as building blocks",
+            "narration_script": "The Hindi language has a rich and diverse history, with roots dating back to the ancient Indus Valley Civilization, and a unique grammar, vocabulary, and literary tradition.",
+            "on_screen_text": "Introduction to Hindi Language"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "3D animation of Hindi grammar concepts, such as verb conjugation and noun declension",
+            "narration_script": "Hindi grammar is characterized by a complex system of verb conjugation, noun declension, and sentence structure, essential for effective communication and expression in the language.",
+            "on_screen_text": "Hindi Grammar: Verb Conjugation, Noun Declension"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "3D animation of Hindi vocabulary, with root words, prefixes, and suffixes appearing as puzzle pieces",
+            "narration_script": "Hindi vocabulary is a treasure trove of words and expressions, with roots in Sanskrit, Arabic, and other languages, and building a strong vocabulary is essential for effective communication and expression in Hindi.",
+            "on_screen_text": "Hindi Vocabulary: Root Words, Prefixes, Suffixes"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "3D animation of the number system, with mathematical operations and properties appearing as gears and cogs",
+            "narration_script": "The number system is a fundamental concept in mathematics, with roots dating back to ancient civilizations, and understanding the number system is essential for mathematical problem-solving and critical thinking.",
+            "on_screen_text": "Introduction to Number System"
+        },
+        {
+            "scene_number": 11,
+            "visual_prompt_for_3D_engine": "3D animation of mathematical operations, such as addition, subtraction, multiplication, and division",
+            "narration_script": "Mathematical operations, such as addition, subtraction, multiplication, and division, are essential for problem-solving and critical thinking, and understanding their properties is crucial for mathematical literacy.",
+            "on_screen_text": "Mathematical Operations: Addition, Subtraction, Multiplication, Division"
+        },
+        {
+            "scene_number": 12,
+            "visual_prompt_for_3D_engine": "3D animation of a child solving a math problem, with the solution appearing as a puzzle piece",
+            "narration_script": "By understanding the number system, mathematical operations, and properties, children can develop problem-solving skills, critical thinking, and mathematical literacy, essential for success in the 21st century.",
+            "on_screen_text": "Mathematical Literacy: Problem-Solving, Critical Thinking"
+        }
+    ]
+}

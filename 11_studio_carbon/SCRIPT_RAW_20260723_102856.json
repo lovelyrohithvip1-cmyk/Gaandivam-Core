@@ -1,0 +1,54 @@
+{
+    "video_title": "HP Police Constable Recruitment 2026: A Comprehensive Guide",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a 3D globe with various historical and modern landmarks visible, such as the Pyramids of Giza, the Eiffel Tower, and the Taj Mahal.",
+            "narration_script": "Welcome to the realm of General Knowledge, a vast and wondrous landscape that spans centuries and continents. From the dawn of human civilization to the modern-day marvels of technology, our understanding of the world has been shaped by the confluence of historical events, cultural exchange, and scientific discovery.",
+            "on_screen_text": null
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "A 3D animated timeline appears, highlighting key national events such as the implementation of GST, elections, and natural disasters.",
+            "narration_script": "National Events are the building blocks of a nation's history, encompassing government policies, elections, and natural disasters that have a profound impact on the lives of its citizens. Understanding these events is crucial for any aspiring police constable, as it fosters a deeper appreciation for the complexities of governance and the role of law enforcement in maintaining social order.",
+            "on_screen_text": "National Events: GST, Elections, Natural Disasters"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A 3D animated globe with interconnected threads representing international relations, global markets, and environmental issues.",
+            "narration_script": "International Events are the threads that weave the tapestry of global politics, economic trends, and environmental issues. The dynamics of international relations, the fluctuations in global markets, and the challenges posed by climate change are all interconnected and influence national policies.",
+            "on_screen_text": "International Events: Global Politics, Economy, Environment"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "A 3D animated book opens, revealing pages with English comprehension exercises, vocabulary lists, and grammar rules.",
+            "narration_script": "The English language is a powerful tool, a bridge that connects cultures and fosters understanding across the globe. Mastery over English is not just about grammar and syntax; it's about the ability to comprehend, to communicate effectively, and to convey ideas with precision and clarity.",
+            "on_screen_text": "English: Comprehension, Vocabulary, Grammar"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A 3D animated number line appears, with real numbers, integers, rational numbers, and irrational numbers marked.",
+            "narration_script": "Mathematics is the language of the universe, a discipline that underlies all scientific and technological advancements. The Number System and Algebra form the backbone of mathematical reasoning, providing the tools to solve problems, model real-world phenomena, and make informed decisions.",
+            "on_screen_text": "Real Numbers: Integers, Rational Numbers, Irrational Numbers"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A 3D animated puzzle appears, with algebraic equations and formulas floating around.",
+            "narration_script": "Algebraic Equations are the puzzles that mathematics helps us solve, from the simplicity of Linear Equations to the complexity of Quadratic and Polynomial Equations. Mastering the techniques of equation solving, including factoring, quadratic formula, and graphical methods, empowers us to tackle a wide range of problems in physics, engineering, and economics.",
+            "on_screen_text": "Algebraic Equations: Linear, Quadratic, Polynomial"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "A 3D animated brain appears, with logical and analytical reasoning pathways highlighted.",
+            "narration_script": "Reasoning is the pinnacle of cognitive abilities, the process by which we evaluate information, identify patterns, and make logical conclusions. Logical and Analytical Reasoning are the pillars upon which critical thinking is built, enabling us to navigate through complex problems, evaluate arguments, and make informed decisions.",
+            "on_screen_text": "Reasoning: Logical, Analytical, Critical Thinking"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "A 3D animated conclusion screen appears, with a summary of key points and a call to action.",
+            "narration_script": "In conclusion, the HP Police Constable Recruitment 2026 exam requires a comprehensive understanding of General Knowledge, English, Mathematics, and Reasoning. By mastering these subjects and staying focused, you can achieve your goal of becoming a police constable and serving the community with dedication and integrity.",
+            "on_screen_text": "Conclusion: Stay Focused, Achieve Your Goal"
+        }
+    ]
+}

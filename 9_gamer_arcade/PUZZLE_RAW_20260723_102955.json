@@ -1,0 +1,40 @@
+{
+    "module_name": "UP Police Constable",
+    "true_false_rapid_fire": [
+        {
+            "statement": "The Indus Valley Civilization thrived over 4,000 years ago.",
+            "is_true": true,
+            "explanation": "The Indus Valley Civilization was a sophisticated urban culture that thrived over 4,000 years ago."
+        },
+        {
+            "statement": "Deductive reasoning involves drawing conclusions from premises using visual information.",
+            "is_true": false,
+            "explanation": "Deductive reasoning involves drawing conclusions from premises using logical rules, not visual information."
+        },
+        {
+            "statement": "The Mauryan Empire rose to power in the 3rd century CE.",
+            "is_true": false,
+            "explanation": "The Mauryan Empire rose to power in the 3rd century BCE, not CE."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "National News",
+            "Ancient History",
+            "Deductive Reasoning",
+            "Poetry"
+        ],
+        "right_column_shuffled": [
+            "Study of ancient human civilizations",
+            "Type of reasoning that involves drawing conclusions from premises using logical rules",
+            "Form of literature that expresses thoughts and feelings",
+            "Encompasses government policies, elections, and natural disasters"
+        ],
+        "correct_mapping": {
+            "National News": "Encompasses government policies, elections, and natural disasters",
+            "Ancient History": "Study of ancient human civilizations",
+            "Deductive Reasoning": "Type of reasoning that involves drawing conclusions from premises using logical rules",
+            "Poetry": "Form of literature that expresses thoughts and feelings"
+        }
+    }
+}

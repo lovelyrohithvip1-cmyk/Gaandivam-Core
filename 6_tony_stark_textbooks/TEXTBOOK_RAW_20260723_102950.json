@@ -1,0 +1,90 @@
+{
+    "exam_name": "UP Board 10th & 12th Examination 2026",
+    "textbook_content": [
+        {
+            "subject": "Hindi",
+            "chapter_title": "Letter Writing",
+            "visionary_introduction": "The art of letter writing has been a cornerstone of human communication since ancient times. From formal letters to informal notes, the way we express ourselves in writing has evolved significantly over the centuries. In this chapter, we will delve into the world of letter writing, exploring its various forms, styles, and importance in modern times.",
+            "core_concepts": [
+                {
+                    "concept_name": "Formal Letters",
+                    "innovative_explanation": "Formal letters are a type of letter that follows a specific structure and tone, used for official or professional purposes. They are characterized by a formal greeting, a clear and concise body, and a polite closing. Examples of formal letters include official letters, business letters, and application letters. To write an effective formal letter, one must pay attention to the tone, language, and formatting.",
+                    "formulas_or_key_facts": "Key elements of a formal letter: formal greeting, introduction, body, conclusion, and signature."
+                },
+                {
+                    "concept_name": "Informal Letters",
+                    "innovative_explanation": "Informal letters, on the other hand, are personal and casual, used to communicate with friends, family, or acquaintances. They are often characterized by a relaxed tone, colloquial language, and a flexible structure. Examples of informal letters include personal letters, friendly letters, and family letters. When writing an informal letter, one can be more creative and expressive, but still maintain a level of coherence and respect.",
+                    "formulas_or_key_facts": "Key elements of an informal letter: personal greeting, casual tone, flexible structure, and affectionate closing."
+                }
+            ]
+        },
+        {
+            "subject": "English",
+            "chapter_title": "Poetry",
+            "visionary_introduction": "Poetry is a powerful form of expression that has been a cornerstone of human culture for centuries. From sonnets to free verse, poetry has evolved to reflect the changing times, emotions, and experiences of humanity. In this chapter, we will explore the world of poetry, delving into its various forms, devices, and significance in modern times.",
+            "core_concepts": [
+                {
+                    "concept_name": "Forms of Poetry",
+                    "innovative_explanation": "Poetry comes in various forms, each with its unique characteristics, structures, and purposes. The sonnet, for example, is a 14-line poem with a specific rhyme scheme, while haiku is a short, three-line poem that captures a moment in time. Free verse, on the other hand, is a more flexible and expressive form of poetry that allows the poet to experiment with language and form.",
+                    "formulas_or_key_facts": "Key forms of poetry: sonnet, haiku, free verse, ballad, and ode."
+                },
+                {
+                    "concept_name": "Poetic Devices",
+                    "innovative_explanation": "Poetic devices are techniques used by poets to create vivid imagery, convey meaning, and evoke emotions. Metaphor, simile, and personification are just a few examples of poetic devices that can add depth, complexity, and beauty to a poem. By understanding and using these devices effectively, poets can craft powerful and memorable poems that resonate with readers.",
+                    "formulas_or_key_facts": "Key poetic devices: metaphor, simile, personification, imagery, and symbolism."
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Algebra",
+            "visionary_introduction": "Algebra is a fundamental branch of mathematics that deals with variables, equations, and functions. From ancient civilizations to modern times, algebra has played a crucial role in shaping our understanding of the world and the universe. In this chapter, we will explore the world of algebra, delving into its core concepts, equations, and inequalities.",
+            "core_concepts": [
+                {
+                    "concept_name": "Equations",
+                    "innovative_explanation": "An equation is a statement that expresses the equality of two mathematical expressions. Linear equations, quadratic equations, and polynomial equations are just a few examples of equations that can be solved using various techniques and formulas. By understanding and applying these techniques, one can solve a wide range of problems in mathematics, science, and engineering.",
+                    "formulas_or_key_facts": "Key types of equations: linear equations (ax + b = c), quadratic equations (ax^2 + bx + c = 0), and polynomial equations (a_n x^n + a_(n-1) x^(n-1) + ... + a_1 x + a_0 = 0)."
+                },
+                {
+                    "concept_name": "Inequalities",
+                    "innovative_explanation": "An inequality is a statement that expresses the relationship between two mathematical expressions, using symbols such as <, >, ≤, or ≥. Linear inequalities, quadratic inequalities, and rational inequalities are just a few examples of inequalities that can be solved using various techniques and formulas. By understanding and applying these techniques, one can solve a wide range of problems in mathematics, science, and engineering.",
+                    "formulas_or_key_facts": "Key types of inequalities: linear inequalities (ax + b < c), quadratic inequalities (ax^2 + bx + c < 0), and rational inequalities (f(x) < 0, where f(x) is a rational function)."
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter_title": "Physics",
+            "visionary_introduction": "Physics is the study of the natural world around us, from the smallest subatomic particles to the vast expanse of the universe. From ancient philosophers to modern scientists, physics has evolved to become a fundamental branch of science that underlies many aspects of our daily lives. In this chapter, we will explore the world of physics, delving into its core concepts, mechanics, and thermodynamics.",
+            "core_concepts": [
+                {
+                    "concept_name": "Mechanics",
+                    "innovative_explanation": "Mechanics is the study of motion, forces, and energy. It deals with the behavior of objects under various types of forces, such as friction, gravity, and electromagnetism. Kinematics, dynamics, and energy are just a few examples of key concepts in mechanics that can help us understand and describe the motion of objects.",
+                    "formulas_or_key_facts": "Key concepts in mechanics: kinematics (distance, velocity, acceleration), dynamics (force, momentum, energy), and energy (kinetic energy, potential energy, work)."
+                },
+                {
+                    "concept_name": "Thermodynamics",
+                    "innovative_explanation": "Thermodynamics is the study of heat, temperature, and energy transfer. It deals with the behavior of systems in terms of their thermal properties, such as temperature, entropy, and energy. The laws of thermodynamics, thermal expansion, and heat transfer are just a few examples of key concepts in thermodynamics that can help us understand and describe the behavior of systems.",
+                    "formulas_or_key_facts": "Key concepts in thermodynamics: zeroth law (temperature), first law (energy conservation), second law (entropy), and third law (absolute zero)."
+                }
+            ]
+        },
+        {
+            "subject": "Social Science",
+            "chapter_title": "History",
+            "visionary_introduction": "History is the study of the past, from ancient civilizations to modern times. It deals with the events, people, and cultures that have shaped the world we live in today. In this chapter, we will explore the world of history, delving into its core concepts, ancient history, and medieval history.",
+            "core_concepts": [
+                {
+                    "concept_name": "Ancient History",
+                    "innovative_explanation": "Ancient history refers to the period of time from the emergence of the first human civilizations to the fall of the Roman Empire. It includes the study of ancient cultures, such as the Indus Valley Civilization, the Vedic Period, and the Mauryan Empire. By understanding ancient history, we can gain insights into the development of human societies, cultures, and technologies.",
+                    "formulas_or_key_facts": "Key periods in ancient history: Indus Valley Civilization (3300-1300 BCE), Vedic Period (1500-500 BCE), and Mauryan Empire (322-185 BCE)."
+                },
+                {
+                    "concept_name": "Medieval History",
+                    "innovative_explanation": "Medieval history refers to the period of time from the fall of the Roman Empire to the Renaissance. It includes the study of medieval cultures, such as the Delhi Sultanate, the Mughal Empire, and the Maratha Empire. By understanding medieval history, we can gain insights into the development of human societies, cultures, and technologies during this period.",
+                    "formulas_or_key_facts": "Key periods in medieval history: Delhi Sultanate (1206-1526 CE), Mughal Empire (1526-1756 CE), and Maratha Empire (1674-1818 CE)."
+                }
+            ]
+        }
+    ]
+}

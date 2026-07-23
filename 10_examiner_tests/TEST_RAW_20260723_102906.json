@@ -1,0 +1,61 @@
+{
+    "exam_name": "JNU Delhi Non-Teaching Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "A conclusion is drawn from two premises: 'All employees are required to attend the meeting' and 'John is an employee.' What type of reasoning is used to arrive at the conclusion that 'John is required to attend the meeting'?",
+            "options": {
+                "A": "Syllogism",
+                "B": "Statement and Conclusion",
+                "C": "Course of Action",
+                "D": "Error Detection"
+            },
+            "correct_answer": "A",
+            "explanation": "This question requires the application of syllogism, which involves drawing conclusions from two or more premises. The premises 'All employees are required to attend the meeting' and 'John is an employee' are used to arrive at the conclusion that 'John is required to attend the meeting.' This type of reasoning is a classic example of syllogism, where a general statement is applied to a specific instance to arrive at a logical conclusion."
+        },
+        {
+            "question_text": "A company is facing a financial crisis and needs to determine the best course of action. The situation can be analyzed using which of the following concepts?",
+            "options": {
+                "A": "Syllogism",
+                "B": "Statement and Conclusion",
+                "C": "Course of Action",
+                "D": "Number System"
+            },
+            "correct_answer": "C",
+            "explanation": "This question requires the application of the concept of 'Course of Action,' which involves evaluating a situation and determining the most appropriate course of action. In this scenario, the company needs to analyze the situation, identify the key elements, and use logical rules to arrive at a decision. The concept of 'Course of Action' is relevant here, as it involves evaluating the situation and determining the best course of action to address the financial crisis."
+        },
+        {
+            "question_text": "A text states, 'The new policy has been implemented to reduce expenses and increase revenue.' What type of statement is this, and what conclusion can be logically drawn from it?",
+            "options": {
+                "A": "Universal statement, conclusion: The policy will definitely reduce expenses and increase revenue",
+                "B": "Particular statement, conclusion: The policy may reduce expenses and increase revenue",
+                "C": "Negative statement, conclusion: The policy will not reduce expenses and increase revenue",
+                "D": "Universal statement, conclusion: The policy may reduce expenses and increase revenue"
+            },
+            "correct_answer": "B",
+            "explanation": "This question requires the application of the concept of 'Statement and Conclusion.' The statement 'The new policy has been implemented to reduce expenses and increase revenue' is a particular statement, as it refers to a specific policy. The conclusion that can be logically drawn from this statement is that 'The policy may reduce expenses and increase revenue.' This conclusion is based on the information provided in the statement, and it is a reasonable inference to make."
+        },
+        {
+            "question_text": "A mathematical expression involves the use of variables and their relationships. What branch of mathematics is this an example of?",
+            "options": {
+                "A": "Arithmetic",
+                "B": "Algebra",
+                "C": "Geometry",
+                "D": "Trigonometry"
+            },
+            "correct_answer": "B",
+            "explanation": "This question requires the application of the concept of 'Algebra,' which is the study of variables and their relationships. The use of variables and their relationships in a mathematical expression is a classic example of algebra, which involves the use of symbols, equations, and formulas to solve problems. Algebra is a fundamental branch of mathematics that deals with the study of variables and their relationships, making it the correct answer to this question."
+        },
+        {
+            "question_text": "A reader is tasked with understanding and interpreting a written text. What technique can be used to identify the main idea of the text and make inferences based on the information provided?",
+            "options": {
+                "A": "Skimming",
+                "B": "Scanning",
+                "C": "Close reading",
+                "D": "All of the above"
+            },
+            "correct_answer": "D",
+            "explanation": "This question requires the application of the concept of 'Reading Comprehension,' which involves the use of various techniques to understand and interpret written text. The techniques of skimming, scanning, and close reading can all be used to identify the main idea of a text and make inferences based on the information provided. Skimming involves quickly reading the text to get a general idea of the content, scanning involves looking for specific information, and close reading involves carefully reading the text to understand the details. All of these techniques are useful for reading comprehension, making 'All of the above' the correct answer."
+        }
+    ]
+}

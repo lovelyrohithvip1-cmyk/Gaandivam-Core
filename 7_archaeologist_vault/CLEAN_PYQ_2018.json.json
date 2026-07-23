@@ -1,0 +1,36 @@
+{
+    "exam_name_and_year": "SSC CGL Tier 1 Exam - 2018",
+    "test_type": "Previous Year Paper",
+    "questions": [
+        {
+            "question_text": "The ruins of the ancient city of Hampi are located in which present-day Indian state?",
+            "options": {
+                "A": "Karnataka",
+                "B": "Telangana",
+                "C": "Maharashtra",
+                "D": "Andhra Pradesh"
+            },
+            "correct_answer": "A"
+        },
+        {
+            "question_text": "What is the SI unit of electric resistance?",
+            "options": {
+                "A": "Volt",
+                "B": "Ampere",
+                "C": "Ohm",
+                "D": "Watt"
+            },
+            "correct_answer": "C"
+        },
+        {
+            "question_text": "Who wrote the book \"Poverty and Un-British Rule in India\"?",
+            "options": {
+                "A": "Dadabhai Naoroji",
+                "B": "R.C. Dutt",
+                "C": "Mahatma Gandhi",
+                "D": "Jawaharlal Nehru"
+            },
+            "correct_answer": "A"
+        }
+    ]
+}

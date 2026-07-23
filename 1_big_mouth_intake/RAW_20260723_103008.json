@@ -1,0 +1,27 @@
+{
+    "conducting_body": "Indian Army",
+    "exam_name": "68th Short Service Commission (Technical) Men Course April 2027",
+    "job_posts_covered": [
+        "SSC (Tech) Men",
+        "SSC (Tech) Women"
+    ],
+    "application_dates": {
+        "start_date": "09 July 2026",
+        "end_date": "07 August 2026"
+    },
+    "fee_structure": "Nil",
+    "selection_stages": [
+        "Shortlisting of Applications",
+        "SSB Interview (Stage I & Stage II)",
+        "Medical Examination",
+        "Final Merit List",
+        "Joining & Training at PCTA"
+    ],
+    "detailed_syllabus": {
+        "Engineering": [
+            "Relevant Field"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/army-ssc-tech-68th-recruitment-2026/",
+    "extraction_timestamp": "2026-07-23T10:30:08.530444Z"
+}

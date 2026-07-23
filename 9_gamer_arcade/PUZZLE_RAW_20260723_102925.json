@@ -1,0 +1,40 @@
+{
+    "module_name": "Chemical Processes and Plant Operations",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Chemical reactions involve the transformation of one or more substances into new substances.",
+            "is_true": true,
+            "explanation": "Chemical reactions are the backbone of chemical engineering and involve the transformation of substances."
+        },
+        {
+            "statement": "Process control in chemical plant operations does not involve the use of control systems.",
+            "is_true": false,
+            "explanation": "Process control involves the use of control systems, instrumentation, and process optimization techniques."
+        },
+        {
+            "statement": "Hazard identification is the process of recognizing potential hazards in the workplace.",
+            "is_true": true,
+            "explanation": "Hazard identification involves risk assessment, hazard mitigation, and emergency response planning."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Chemical Reactions",
+            "Process Control",
+            "Hazard Identification",
+            "Safety Procedures"
+        ],
+        "right_column_shuffled": [
+            "Involves risk assessment and hazard mitigation",
+            "Involves transformation of substances",
+            "Involves use of control systems and instrumentation",
+            "Involves use of PPE and safety protocols"
+        ],
+        "correct_mapping": {
+            "Chemical Reactions": "Involves transformation of substances",
+            "Process Control": "Involves use of control systems and instrumentation",
+            "Hazard Identification": "Involves risk assessment and hazard mitigation",
+            "Safety Procedures": "Involves use of PPE and safety protocols"
+        }
+    }
+}

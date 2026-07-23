@@ -1,0 +1,46 @@
+{
+    "exam_name": "Haryana Teacher Eligibility Test (HTET) 2026",
+    "raw_syllabus": {
+        "Child Development and Pedagogy": [
+            "Child Development",
+            "Concept of Inclusive Education",
+            "Learning and Pedagogy"
+        ],
+        "Language I (Hindi)": [
+            "Hindi Language",
+            "Hindi Grammar",
+            "Hindi Literature"
+        ],
+        "Language II (English)": [
+            "English Language",
+            "English Grammar",
+            "English Literature"
+        ],
+        "Mathematics": [
+            "Number System",
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "Environmental Studies": [
+            "Family and Community",
+            "Food and Nutrition",
+            "Shelter",
+            "Water",
+            "Travel",
+            "Communication"
+        ],
+        "Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ],
+        "Social Studies": [
+            "History",
+            "Geography",
+            "Civics",
+            "Economics"
+        ]
+    }
+}

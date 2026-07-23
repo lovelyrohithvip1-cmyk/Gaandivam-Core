@@ -1,0 +1,40 @@
+{
+    "module_name": "10th & 12th Board Exams 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Algebra is a branch of mathematics that deals with variables and their relationships.",
+            "is_true": true,
+            "explanation": "Algebra is indeed a branch of mathematics that deals with variables and their relationships, and has its roots in ancient civilizations."
+        },
+        {
+            "statement": "The distance formula is used to find the distance between two points in a three-dimensional space.",
+            "is_true": false,
+            "explanation": "The distance formula is actually used to find the distance between two points in a coordinate plane, which is a two-dimensional space."
+        },
+        {
+            "statement": "Chemical bonding is the process by which atoms share or exchange electrons to form compounds.",
+            "is_true": true,
+            "explanation": "Chemical bonding is indeed the process by which atoms share or exchange electrons to form compounds, and there are several types of chemical bonds, including covalent bonds, ionic bonds, and metallic bonds."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Linear Equations",
+            "Quadratic Equations",
+            "Midpoint Theorem",
+            "Distance Formula"
+        ],
+        "right_column_shuffled": [
+            "ax^2 + bx + c = 0",
+            "The line segment joining the midpoints of two sides of a triangle is parallel to the third side and half of its length",
+            "ax + b = c",
+            "√((x2 - x1)^2 + (y2 - y1)^2)"
+        ],
+        "correct_mapping": {
+            "Linear Equations": "ax + b = c",
+            "Quadratic Equations": "ax^2 + bx + c = 0",
+            "Midpoint Theorem": "The line segment joining the midpoints of two sides of a triangle is parallel to the third side and half of its length",
+            "Distance Formula": "√((x2 - x1)^2 + (y2 - y1)^2)"
+        }
+    }
+}

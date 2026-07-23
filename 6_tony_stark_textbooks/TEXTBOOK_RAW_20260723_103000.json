@@ -1,0 +1,90 @@
+{
+    "exam_name": "Agniveervayu Intake 02/2027 Recruitment 2026",
+    "textbook_content": [
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Algebra",
+            "visionary_introduction": "Algebra, a branch of mathematics that deals with the study of variables and their relationships, has its roots in ancient civilizations, with significant contributions from Persian and Arabic mathematicians. The term 'algebra' itself comes from the Arabic word 'al-jabr', meaning 'reunion of broken parts'. Today, algebra is a fundamental tool in various fields, including physics, engineering, and computer science.",
+            "core_concepts": [
+                {
+                    "concept_name": "Linear Equations",
+                    "innovative_explanation": "A linear equation is a mathematical statement that expresses the equality of two linear expressions. It can be represented in the form of ax + by = c, where a, b, and c are constants. Linear equations can be solved using various methods, including substitution, elimination, and graphical representation. The concept of linear equations has numerous real-world applications, such as modeling population growth, financial transactions, and electrical circuits.",
+                    "formulas_or_key_facts": "ax + by = c, where a, b, and c are constants"
+                },
+                {
+                    "concept_name": "Quadratic Equations",
+                    "innovative_explanation": "A quadratic equation is a polynomial equation of degree two, which means the highest power of the variable is two. It can be represented in the form of ax^2 + bx + c = 0, where a, b, and c are constants. Quadratic equations can be solved using various methods, including factoring, quadratic formula, and graphical representation. The concept of quadratic equations has numerous real-world applications, such as modeling projectile motion, electrical circuits, and optimization problems.",
+                    "formulas_or_key_facts": "ax^2 + bx + c = 0, where a, b, and c are constants"
+                }
+            ]
+        },
+        {
+            "subject": "Physics",
+            "chapter_title": "Mechanics",
+            "visionary_introduction": "Mechanics, a branch of physics that deals with the study of motion, forces, and energy, has its roots in ancient Greece, with significant contributions from Aristotle and Archimedes. The modern understanding of mechanics, however, is based on the work of Sir Isaac Newton, who formulated the laws of motion and universal gravitation. Today, mechanics is a fundamental tool in various fields, including engineering, astronomy, and materials science.",
+            "core_concepts": [
+                {
+                    "concept_name": "Kinematics",
+                    "innovative_explanation": "Kinematics is the study of motion without considering the forces that cause it. It involves the description of motion in terms of position, velocity, and acceleration. Kinematics can be applied to various types of motion, including one-dimensional, two-dimensional, and rotational motion. The concept of kinematics has numerous real-world applications, such as modeling projectile motion, designing roller coasters, and optimizing traffic flow.",
+                    "formulas_or_key_facts": "v = dx/dt, a = dv/dt, where v is velocity, x is position, and t is time"
+                },
+                {
+                    "concept_name": "Dynamics",
+                    "innovative_explanation": "Dynamics is the study of motion under the influence of forces. It involves the application of Newton's laws of motion to describe the relationship between forces and motion. Dynamics can be applied to various types of motion, including linear and rotational motion. The concept of dynamics has numerous real-world applications, such as modeling rocket propulsion, designing bridges, and optimizing mechanical systems.",
+                    "formulas_or_key_facts": "F = ma, where F is force, m is mass, and a is acceleration"
+                }
+            ]
+        },
+        {
+            "subject": "English",
+            "chapter_title": "Grammar",
+            "visionary_introduction": "Grammar, a set of rules that govern the structure of language, has its roots in ancient civilizations, with significant contributions from Greek and Roman scholars. The modern understanding of grammar, however, is based on the work of linguists such as Noam Chomsky, who developed the theory of generative grammar. Today, grammar is a fundamental tool in various fields, including language teaching, writing, and communication.",
+            "core_concepts": [
+                {
+                    "concept_name": "Parts of Speech",
+                    "innovative_explanation": "Parts of speech are the basic building blocks of language, which include nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. Each part of speech has its own unique function and characteristics, and understanding their roles is essential for effective communication. The concept of parts of speech has numerous real-world applications, such as language teaching, writing, and editing.",
+                    "formulas_or_key_facts": "Nouns: person, place, thing, or idea; Verbs: action or state of being"
+                },
+                {
+                    "concept_name": "Sentence Structure",
+                    "innovative_explanation": "Sentence structure refers to the organization of words and phrases to convey meaning. It involves the use of simple, compound, and complex sentences to express ideas and relationships. Understanding sentence structure is essential for effective communication, as it helps to convey meaning, tone, and emphasis. The concept of sentence structure has numerous real-world applications, such as writing, editing, and public speaking.",
+                    "formulas_or_key_facts": "Simple sentence: one independent clause; Compound sentence: two or more independent clauses"
+                }
+            ]
+        },
+        {
+            "subject": "Chemistry",
+            "chapter_title": "Inorganic Chemistry",
+            "visionary_introduction": "Inorganic chemistry, a branch of chemistry that deals with the study of inorganic compounds, has its roots in ancient civilizations, with significant contributions from alchemists and metallurgists. The modern understanding of inorganic chemistry, however, is based on the work of chemists such as Dmitri Mendeleev, who developed the periodic table. Today, inorganic chemistry is a fundamental tool in various fields, including materials science, environmental science, and pharmaceuticals.",
+            "core_concepts": [
+                {
+                    "concept_name": "Atomic Structure",
+                    "innovative_explanation": "Atomic structure refers to the arrangement of electrons, protons, and neutrons in an atom. It involves the understanding of electron configuration, periodic trends, and chemical bonding. The concept of atomic structure has numerous real-world applications, such as materials science, nuclear physics, and chemical engineering.",
+                    "formulas_or_key_facts": "Electron configuration: 1s^2 2s^2 2p^6, where s and p are orbitals"
+                },
+                {
+                    "concept_name": "Chemical Reactions",
+                    "innovative_explanation": "Chemical reactions involve the transformation of one or more substances into new substances. It involves the understanding of reaction types, such as synthesis, decomposition, and replacement reactions. The concept of chemical reactions has numerous real-world applications, such as chemical synthesis, materials science, and environmental science.",
+                    "formulas_or_key_facts": "Synthesis reaction: A + B → AB, where A and B are reactants"
+                }
+            ]
+        },
+        {
+            "subject": "Biology",
+            "chapter_title": "Cell Biology",
+            "visionary_introduction": "Cell biology, a branch of biology that deals with the study of cells, has its roots in ancient civilizations, with significant contributions from biologists such as Antonie van Leeuwenhoek, who discovered microorganisms. The modern understanding of cell biology, however, is based on the work of biologists such as Matthias Jakob Schleiden and Theodor Schwann, who developed the cell theory. Today, cell biology is a fundamental tool in various fields, including medicine, biotechnology, and environmental science.",
+            "core_concepts": [
+                {
+                    "concept_name": "Cell Structure",
+                    "innovative_explanation": "Cell structure refers to the organization of cellular components, including the cell membrane, cytoplasm, and nucleus. It involves the understanding of cellular organelles, such as mitochondria, chloroplasts, and ribosomes. The concept of cell structure has numerous real-world applications, such as medicine, biotechnology, and environmental science.",
+                    "formulas_or_key_facts": "Cell membrane: phospholipid bilayer, where phospholipids are amphipathic molecules"
+                },
+                {
+                    "concept_name": "Cell Functions",
+                    "innovative_explanation": "Cell functions refer to the various activities that cells perform to maintain life, including metabolism, transport, and division. It involves the understanding of cellular processes, such as photosynthesis, respiration, and mitosis. The concept of cell functions has numerous real-world applications, such as medicine, biotechnology, and environmental science.",
+                    "formulas_or_key_facts": "Metabolism: energy conversion, where energy is converted from one form to another"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "video_title": "Bihar Police Sub-Inspector Recruitment 2026 Overview",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D globe, zooming in on India",
+            "narration_script": "Welcome to the Bihar Police Sub-Inspector Recruitment 2026 overview. In this video, we will cover key subjects and concepts to help you prepare for the exam.",
+            "on_screen_text": "Bihar Police Sub-Inspector Recruitment 2026"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Animated books and notes appear, with General Knowledge highlighted",
+            "narration_script": "First, let's explore General Knowledge, which encompasses current events and history. This includes national news, such as government policies, elections, and natural disasters, as well as ancient history, like the Indus Valley Civilization and the Mauryan Empire.",
+            "on_screen_text": "General Knowledge: Current Events and History"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A 3D timeline appears, with key historical periods marked",
+            "narration_script": "Key periods and empires in ancient history include the Indus Valley Civilization, the Vedic Period, and the Mauryan Empire. Understanding these elements is crucial for grasping the complexities of a country's internal dynamics.",
+            "on_screen_text": "Key Periods: Indus Valley Civilization (3300 BCE - 1300 BCE), Vedic Period (1500 BCE - 500 BCE), Mauryan Empire (322 BCE - 185 BCE)"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Animated atoms and molecules appear, with Physics and Chemistry highlighted",
+            "narration_script": "Next, let's dive into General Science, covering Physics and Chemistry fundamentals. Physics includes mechanics, which deals with motion, forces, and energy, while Chemistry encompasses inorganic chemistry, studying the composition, structure, and reactions of matter.",
+            "on_screen_text": "General Science: Physics and Chemistry Fundamentals"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A 3D model of an atom appears, with electrons orbiting the nucleus",
+            "narration_script": "Inorganic chemistry is concerned with the study of inorganic compounds, including atomic structure, chemical bonding, and the periodic table. Key concepts include the atomic number, atomic mass, and the periodic table's groups and periods.",
+            "on_screen_text": "Inorganic Chemistry: Atomic Number, Atomic Mass, Periodic Table"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "Animated equations and graphs appear, with Mathematics highlighted",
+            "narration_script": "Moving on to Mathematics, we have Algebra and Geometry. Algebra involves equations, used to model real-world situations and solve complex problems, while Geometry studies shapes, sizes, and positions of objects.",
+            "on_screen_text": "Mathematics: Algebra and Geometry"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "A 3D graph appears, with equations and formulas displayed",
+            "narration_script": "Key formulas in Algebra include the slope-intercept form of a linear equation, the quadratic formula, and the fact that polynomial equations of degree n have n roots. In Geometry, we have the distance formula, the midpoint formula, and trigonometric identities like the Pythagorean identity.",
+            "on_screen_text": "Algebra: Slope-Intercept Form, Quadratic Formula; Geometry: Distance Formula, Midpoint Formula, Trigonometric Identities"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Animated puzzles and brain teasers appear, with Reasoning highlighted",
+            "narration_script": "Finally, let's cover Reasoning, which involves logical and non-verbal reasoning. Logical reasoning enables us to navigate arguments, evaluate evidence, and reach conclusions, while non-verbal reasoning involves visual and spatial reasoning, solving puzzles, and comprehending spatial relationships.",
+            "on_screen_text": "Reasoning: Logical and Non-Verbal Reasoning"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "A 3D mind map appears, with deductive reasoning and arguments displayed",
+            "narration_script": "Deductive reasoning involves reaching a certain conclusion based on one or more premises, using logical rules of inference. Mastering deductive reasoning is essential for critical thinking and sound argumentation.",
+            "on_screen_text": "Deductive Reasoning: Modus Ponens, Modus Tollens, Law of Contrapositive"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "The 3D globe from Scene 1 reappears, with the exam name and a call to action displayed",
+            "narration_script": "That's a wrap! We've covered key subjects and concepts for the Bihar Police Sub-Inspector Recruitment 2026 exam. Stay focused, keep practicing, and you'll be well-prepared for success.",
+            "on_screen_text": "Bihar Police Sub-Inspector Recruitment 2026: Prepare, Practice, Succeed!"
+        }
+    ]
+}

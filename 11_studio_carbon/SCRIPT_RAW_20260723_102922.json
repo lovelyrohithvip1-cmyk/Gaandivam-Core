@@ -1,0 +1,48 @@
+{
+    "video_title": "Exploring Indian History, Geography, and Mathematics",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D map of India, with historical landmarks and geographical features highlighted",
+            "narration_script": "Welcome to the fascinating world of Indian history and geography. From the ancient Indus Valley Civilization to the present day, India's rich cultural heritage and diverse geographical landscape have played a significant role in shaping the country's development.",
+            "on_screen_text": "Indian History and Geography"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "3D animation of the Indus Valley Civilization, with people, buildings, and trade routes",
+            "narration_script": "Ancient India was a land of vibrant cultures, with the Indus Valley Civilization being one of the earliest urban civilizations in the world. The Vedic Period saw the emergence of Hinduism, while the Mauryan Empire was a golden age of Indian history, marked by the reign of Ashoka the Great.",
+            "on_screen_text": "Key dates: Indus Valley Civilization (3300 BCE - 1300 BCE), Vedic Period (1500 BCE - 500 BCE), Mauryan Empire (322 BCE - 185 BCE)"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "3D animation of the Delhi Sultanate and Mughal Empire, with battles, architecture, and cultural achievements",
+            "narration_script": "Medieval India was a period of great turmoil and transformation, with the Delhi Sultanate and the Mughal Empire being two of the most prominent dynasties. The Maratha Empire, which emerged in the 17th century, played a significant role in shaping Indian history.",
+            "on_screen_text": "Key dates: Delhi Sultanate (1206 CE - 1526 CE), Mughal Empire (1526 CE - 1756 CE), Maratha Empire (1674 CE - 1818 CE)"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "3D animation of India's physical geography, with mountains, rivers, and climate zones",
+            "narration_script": "India's physical geography is characterized by its diverse landscape, which includes the Himalayan mountains, the Indo-Gangetic Plain, and the Deccan Plateau. The country's climate varies from tropical to temperate, with the monsoon season playing a crucial role in shaping the nation's agriculture and economy.",
+            "on_screen_text": "Key geographical features: Himalayan mountains, Indo-Gangetic Plain, Deccan Plateau, Ganges River, Brahmaputra River"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "3D animation of a person solving verbal and non-verbal reasoning puzzles",
+            "narration_script": "Reasoning ability is the foundation upon which critical thinking and problem-solving skills are built. In this chapter, we will explore the world of verbal and non-verbal reasoning, including analogies, syllogisms, pattern recognition, and spatial reasoning.",
+            "on_screen_text": "Verbal and Non-Verbal Reasoning"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "3D animation of number systems and algebraic equations, with formulas and graphs",
+            "narration_script": "Number systems and algebra are the building blocks of mathematics, and are essential for problem-solving and critical thinking. In this chapter, we will explore the world of whole numbers, decimals, and fractions, as well as linear and quadratic equations.",
+            "on_screen_text": "Number Systems and Algebra"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "3D animation of a person solving mathematical problems, with equations and formulas",
+            "narration_script": "Understanding whole numbers, linear equations, and other mathematical concepts is essential for developing a strong foundation in mathematics and tackling complex problems with confidence.",
+            "on_screen_text": "Basic operations: addition, subtraction, multiplication, division"
+        }
+    ]
+}

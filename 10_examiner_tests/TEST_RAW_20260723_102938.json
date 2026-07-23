@@ -1,0 +1,61 @@
+{
+    "exam_name": "AAI Manager & Junior Executive Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary function of analogies in verbal reasoning, and how do they contribute to the identification of relationships between concepts?",
+            "options": {
+                "A": "Analogies are used to identify patterns and sequences, contributing to the recognition of logical rules and relationships.",
+                "B": "Analogies are a fundamental aspect of verbal reasoning, involving the identification of relationships between concepts based on semantic, syntactic, and pragmatic types.",
+                "C": "Analogies are primarily used for non-verbal reasoning, focusing on spatial arrangements and visual patterns.",
+                "D": "Analogies have no role in verbal reasoning, as they are confined to non-verbal reasoning tasks."
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because analogies are indeed a fundamental aspect of verbal reasoning. They involve identifying relationships between concepts, which can be based on semantic (meaning-based), syntactic (structure-based), or pragmatic (context-based) types. This skill is essential for discerning how different entities or ideas are connected, whether through cause and effect, similarity, or opposition, thereby contributing significantly to verbal reasoning capabilities."
+        },
+        {
+            "question_text": "How do syllogisms contribute to logical argumentation, and what types of syllogisms are commonly encountered in deductive reasoning?",
+            "options": {
+                "A": "Syllogisms are used in inductive reasoning, focusing on making generalizations from specific instances.",
+                "B": "Syllogisms are a form of logical argument that uses deductive reasoning to arrive at a conclusion based on two or more premises, and they can be categorized into categorical, conditional, and disjunctive types.",
+                "C": "Syllogisms are primarily used for verbal reasoning, with no application in non-verbal reasoning tasks.",
+                "D": "Syllogisms have no role in logical argumentation, as they are confined to descriptive rather than prescriptive reasoning."
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because syllogisms indeed represent a form of logical argument that utilizes deductive reasoning. They are crucial in evaluating arguments, distinguishing between valid and invalid reasoning, and constructing sound logical frameworks. Syllogisms can be categorized into different types, such as categorical, conditional, and disjunctive, each with its unique structure and application, making them a fundamental tool in logical argumentation and deductive reasoning."
+        },
+        {
+            "question_text": "What is the significance of mastering the parts of speech in the English language, and how do they contribute to effective communication?",
+            "options": {
+                "A": "Mastering the parts of speech is unnecessary for effective communication, as it is more about the context than the specific words used.",
+                "B": "The parts of speech are the basic building blocks of the English language, categorizing words based on their functions and properties, and mastering them is essential for clear expression and effective communication.",
+                "C": "The parts of speech are only relevant for written communication, with no significance in spoken English.",
+                "D": "The parts of speech are confined to nouns and verbs, with adjectives and adverbs being less important."
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because the parts of speech indeed form the basic building blocks of the English language. They categorize words based on their functions and properties, with nouns identifying entities, verbs expressing actions or states, adjectives describing qualities, and adverbs modifying verbs, adjectives, or other adverbs. Mastering the parts of speech is essential for effective communication, as it enables individuals to form sentences that convey meaning clearly and accurately, facilitating both written and spoken expression."
+        },
+        {
+            "question_text": "How do equations contribute to problem-solving in mathematics, and what are the primary types of equations encountered?",
+            "options": {
+                "A": "Equations are statements that express inequality, and they are primarily used in geometry.",
+                "B": "Equations are statements that express the equality of two mathematical expressions, containing variables and constants, and they can be categorized into linear, quadratic, and polynomial equations.",
+                "C": "Equations have no role in problem-solving, as they are descriptive rather than prescriptive tools.",
+                "D": "Equations are confined to linear equations, with no application in quadratic or polynomial equations."
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because equations indeed are statements that express the equality of two mathematical expressions. They contain variables and constants and are fundamental to problem-solving in mathematics. Equations can be categorized into primary types such as linear equations, which involve a single variable and can be solved through basic algebraic operations, quadratic equations, which involve a squared variable and can be solved through factoring, the quadratic formula, or graphing, and polynomial equations, which involve variables of higher degrees and require more advanced techniques for solution."
+        },
+        {
+            "question_text": "What is the significance of graphs in data analysis, and how do they facilitate the interpretation of complex relationships?",
+            "options": {
+                "A": "Graphs are used for decorative purposes in reports, with no actual role in data analysis.",
+                "B": "Graphs are visual representations of data, illustrating the relationship between variables, and they are categorized into line graphs, bar graphs, and pie charts, facilitating the identification of trends, patterns, and correlations.",
+                "C": "Graphs are confined to line graphs, with no application in bar graphs or pie charts.",
+                "D": "Graphs have no role in data analysis, as they are less informative than tabular data."
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because graphs indeed are visual representations of data. They illustrate the relationship between variables and are a powerful tool for data analysis. Graphs can be categorized into various types, including line graphs, bar graphs, and pie charts, each suited for different kinds of data and analyses. This categorization facilitates the identification of trends, patterns, and correlations, allowing for the comparison of different data sets and the visualization of complex relationships, thereby making graphs an indispensable tool in data interpretation and analysis."
+        }
+    ]
+}

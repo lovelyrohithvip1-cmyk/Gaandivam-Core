@@ -1,0 +1,245 @@
+{
+    "exam_name": "HP Police Constable Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "General Knowledge": {
+            "Current Events": {
+                "National Events": [
+                    "Government Policies",
+                    "Elections",
+                    "Natural Disasters"
+                ],
+                "International Events": [
+                    "Global Politics",
+                    "Economic Trends",
+                    "Environmental Issues"
+                ]
+            },
+            "History": {
+                "Ancient History": [
+                    "Indian Ancient History",
+                    "World Ancient History"
+                ],
+                "Medieval History": [
+                    "Indian Medieval History",
+                    "World Medieval History"
+                ],
+                "Modern History": [
+                    "Indian Modern History",
+                    "World Modern History"
+                ]
+            },
+            "Geography": {
+                "Physical Geography": [
+                    "Mountains",
+                    "Rivers",
+                    "Forests"
+                ],
+                "Human Geography": [
+                    "Population",
+                    "Settlements",
+                    "Economy"
+                ]
+            },
+            "Polity": {
+                "Indian Constitution": [
+                    "Preamble",
+                    "Fundamental Rights",
+                    "Directive Principles"
+                ],
+                "Government": [
+                    "President",
+                    "Prime Minister",
+                    "Parliament"
+                ]
+            },
+            "Economy": {
+                "Indian Economy": [
+                    "Agriculture",
+                    "Industry",
+                    "Service Sector"
+                ],
+                "Global Economy": [
+                    "International Trade",
+                    "Globalization",
+                    "Economic Organizations"
+                ]
+            },
+            "Science and Technology": {
+                "Physics": [
+                    "Mechanics",
+                    "Thermodynamics",
+                    "Electromagnetism"
+                ],
+                "Chemistry": [
+                    "Inorganic Chemistry",
+                    "Organic Chemistry",
+                    "Physical Chemistry"
+                ],
+                "Biology": [
+                    "Botany",
+                    "Zoology",
+                    "Microbiology"
+                ]
+            }
+        },
+        "English": {
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Passage Completion",
+                    "Summary",
+                    "Inference"
+                ],
+                "Listening Comprehension": [
+                    "Audio Passage",
+                    "Conversation",
+                    "Lecture"
+                ]
+            },
+            "Vocabulary": {
+                "Word Meaning": [
+                    "Synonyms",
+                    "Antonyms",
+                    "Idioms"
+                ],
+                "Word Usage": [
+                    "Contextual Usage",
+                    "Collocations",
+                    "Phrasal Verbs"
+                ]
+            },
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Sentence Formation": {
+                "Sentence Completion": [
+                    "Fill in the Blanks",
+                    "Sentence Rearrangement"
+                ],
+                "Paragraph Formation": [
+                    "Paragraph Completion",
+                    "Paragraph Rearrangement"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Number System": {
+                "Real Numbers": [
+                    "Integers",
+                    "Rational Numbers",
+                    "Irrational Numbers"
+                ],
+                "Complex Numbers": [
+                    "Introduction",
+                    "Operations",
+                    "Applications"
+                ]
+            },
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Inequalities": [
+                    "Linear Inequalities",
+                    "Quadratic Inequalities"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Introduction",
+                    "Properties",
+                    "Applications"
+                ],
+                "Circles and Ellipses": [
+                    "Introduction",
+                    "Properties",
+                    "Applications"
+                ]
+            },
+            "Trigonometry": {
+                "Trigonometric Ratios": [
+                    "Sine",
+                    "Cosine",
+                    "Tangent"
+                ],
+                "Trigonometric Identities": [
+                    "Pythagorean Identities",
+                    "Sum and Difference Identities"
+                ]
+            },
+            "Data Interpretation": {
+                "Tables and Charts": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ],
+                "Graphs and Diagrams": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ]
+            }
+        },
+        "Reasoning": {
+            "Logical Reasoning": {
+                "Deductive Reasoning": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ],
+                "Inductive Reasoning": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ]
+            },
+            "Analytical Reasoning": {
+                "Pattern Recognition": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ],
+                "Problem Solving": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ]
+            },
+            "Verbal Reasoning": {
+                "Analogies": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ],
+                "Syllogisms": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Visual Reasoning": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ],
+                "Spatial Reasoning": [
+                    "Introduction",
+                    "Types",
+                    "Applications"
+                ]
+            }
+        }
+    }
+}

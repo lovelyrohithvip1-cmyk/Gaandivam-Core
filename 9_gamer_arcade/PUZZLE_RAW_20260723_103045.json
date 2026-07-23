@@ -1,0 +1,40 @@
+{
+    "module_name": "DRDO Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Algebra is a branch of mathematics that deals with the study of variables and their relationships.",
+            "is_true": true,
+            "explanation": "Algebra is indeed a branch of mathematics focused on variables and their relationships, making it fundamental in various fields."
+        },
+        {
+            "statement": "The quadratic formula is used to solve linear equations.",
+            "is_true": false,
+            "explanation": "The quadratic formula is specifically used to solve quadratic equations, not linear equations. Linear equations are solved using basic algebraic operations."
+        },
+        {
+            "statement": "Kinematics is the study of the motion of objects considering the forces that cause the motion.",
+            "is_true": false,
+            "explanation": "Kinematics is actually the study of the motion of objects without considering the forces that cause the motion. It involves describing an object's position, velocity, and acceleration as a function of time."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Linear Equations",
+            "Quadratic Equations",
+            "Kinematics",
+            "Electric Fields"
+        ],
+        "right_column_shuffled": [
+            "Study of motion without considering forces",
+            "ax + b = 0",
+            "x = (-b ± √(b^2 - 4ac)) / 2a",
+            "E = kq / r^2"
+        ],
+        "correct_mapping": {
+            "Linear Equations": "ax + b = 0",
+            "Quadratic Equations": "x = (-b ± √(b^2 - 4ac)) / 2a",
+            "Kinematics": "Study of motion without considering forces",
+            "Electric Fields": "E = kq / r^2"
+        }
+    }
+}

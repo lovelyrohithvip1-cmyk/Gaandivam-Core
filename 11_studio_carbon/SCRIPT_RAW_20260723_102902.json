@@ -1,0 +1,60 @@
+{
+    "video_title": "Agniveer Common Entrance Exam (CEE) 2026 Overview",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a futuristic, glowing cityscape with various professions and activities visible in the distance.",
+            "narration_script": "Welcome to the Agniveer Common Entrance Exam (CEE) 2026 overview. This exam is designed to test your knowledge and skills in various subjects, including General Duty, Technical, Clerk, and Tradesman.",
+            "on_screen_text": "Agniveer Common Entrance Exam (CEE) 2026"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Zoom in on a person engaging in physical activity, with animated diagrams of the heart, lungs, and blood vessels appearing in the background.",
+            "narration_script": "In the General Duty section, you'll learn about physical fitness and mental agility. This includes concepts like cardiovascular endurance, which is critical for individuals who engage in endurance sports.",
+            "on_screen_text": "Cardiovascular Endurance"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "Animated equations and formulas appear on screen, with a person in the background solving a puzzle.",
+            "narration_script": "You'll also learn about logical reasoning, which involves analyzing information, identifying patterns, and making informed decisions. This concept is essential for problem-solving, critical thinking, and decision-making.",
+            "on_screen_text": "VO2 max = (15.3 x HRmax) / (HRrest + 3.5), Modus Ponens: If P, then Q. P. Therefore, Q."
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Camera pans over a computer system, with animated code and data structures visible on the screen.",
+            "narration_script": "In the Technical section, you'll explore computer science and electronics. This includes data structures, which are critical for efficient data storage, retrieval, and manipulation.",
+            "on_screen_text": "Data Structures: Arrays, Linked Lists, Stacks, Queues"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "Animated diagrams of microcontrollers and their components appear on screen, with a person in the background working on a project.",
+            "narration_script": "You'll also learn about microcontroller architecture, which is essential for the development of intelligent systems, such as robots, autonomous vehicles, and IoT devices.",
+            "on_screen_text": "Von Neumann architecture: CPU, memory, and input/output interfaces"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "Camera pans over a financial dashboard, with animated financial statements and equations visible on the screen.",
+            "narration_script": "In the Clerk section, you'll learn about accounting and office administration. This includes financial statements, which provide information about a company's financial performance and position.",
+            "on_screen_text": "Accounting equation: Assets = Liabilities + Equity"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "Animated calendars and time management tools appear on screen, with a person in the background prioritizing tasks.",
+            "narration_script": "You'll also learn about time management, which involves prioritizing tasks, allocating time, and managing distractions. This concept is critical for increasing productivity, reducing stress, and achieving your goals.",
+            "on_screen_text": "Eisenhower Matrix: urgent vs. important, do first vs. delegate vs. delete vs. defer"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Camera pans over a mechanical workshop, with animated machine tools and electrical circuits visible in the background.",
+            "narration_script": "In the Tradesman section, you'll explore mechanical and electrical trades. This includes machine tools, which are critical for the production of goods, and electrical circuits, which are essential for the design, installation, and maintenance of electrical systems.",
+            "on_screen_text": "Machine Tools: Lathes, Drilling Machines, Grinding Machines, Ohm's law: V = I x R"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "Camera pans out to show a person standing in front of a cityscape, with various professions and activities visible in the distance.",
+            "narration_script": "By mastering these subjects and concepts, you'll be well-prepared for the Agniveer Common Entrance Exam (CEE) 2026 and set yourself up for success in your chosen profession.",
+            "on_screen_text": null
+        }
+    ]
+}

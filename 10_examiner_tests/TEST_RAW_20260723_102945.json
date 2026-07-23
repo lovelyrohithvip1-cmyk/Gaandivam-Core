@@ -1,0 +1,61 @@
+{
+    "exam_name": "Indian Red Cross Society Haryana Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary importance of staying updated with current events in the context of General Knowledge?",
+            "options": {
+                "A": "To recall significant national events",
+                "B": "To understand the socio-political landscape of a country",
+                "C": "To analyze the impact of international events on global politics",
+                "D": "To recognize the causes and effects of environmental issues"
+            },
+            "correct_answer": "B",
+            "explanation": "The primary importance of staying updated with current events is to understand the socio-political landscape of a country, which encompasses a wide range of topics including national and international events, history, geography, science, and technology. This understanding is crucial for making informed decisions and comprehending the complexities of the world."
+        },
+        {
+            "question_text": "What skill is required to identify the main ideas, recognize the author's purpose, and critically evaluate the information presented in a written text?",
+            "options": {
+                "A": "Reading comprehension",
+                "B": "Writing skills",
+                "C": "Listening skills",
+                "D": "Speaking skills"
+            },
+            "correct_answer": "A",
+            "explanation": "Reading comprehension is the skill required to identify the main ideas, recognize the author's purpose, and critically evaluate the information presented in a written text. It involves the ability to understand, interpret, and analyze written texts, which is essential for effective communication and decision-making."
+        },
+        {
+            "question_text": "What is the function of Sangya (nouns) in the Hindi language?",
+            "options": {
+                "A": "To replace nouns in sentences",
+                "B": "To represent people, places, things, and ideas",
+                "C": "To describe the attributes of nouns",
+                "D": "To indicate the actions of nouns"
+            },
+            "correct_answer": "B",
+            "explanation": "Sangya (nouns) in the Hindi language represent people, places, things, and ideas. They are crucial components of the language, and understanding their types and usage is essential for effective communication in Hindi."
+        },
+        {
+            "question_text": "What is the primary function of the CPU (Central Processing Unit) in a computer system?",
+            "options": {
+                "A": "To store data",
+                "B": "To provide input/output operations",
+                "C": "To execute instructions and perform calculations",
+                "D": "To connect hardware components"
+            },
+            "correct_answer": "C",
+            "explanation": "The primary function of the CPU (Central Processing Unit) in a computer system is to execute instructions and perform calculations. It is the brain of the computer, responsible for processing information and controlling the other components of the system."
+        },
+        {
+            "question_text": "What is the purpose of using Microsoft Word in a professional setting?",
+            "options": {
+                "A": "To create spreadsheets and databases",
+                "B": "To design graphics and presentations",
+                "C": "To produce professional-looking documents and reports",
+                "D": "To develop software applications"
+            },
+            "correct_answer": "C",
+            "explanation": "The purpose of using Microsoft Word in a professional setting is to produce professional-looking documents and reports. It is a powerful tool for creating, editing, and formatting documents, and mastering its features is essential for effective communication and presentation of ideas."
+        }
+    ]
+}

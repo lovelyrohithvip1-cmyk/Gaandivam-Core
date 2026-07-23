@@ -1,0 +1,40 @@
+{
+    "module_name": "RRB Group D",
+    "true_false_rapid_fire": [
+        {
+            "statement": "The number system is the foundation of mathematics.",
+            "is_true": true,
+            "explanation": "The number system is indeed the foundation of mathematics, tracing its origins back to ancient civilizations."
+        },
+        {
+            "statement": "Forces are pulls that cause an object to change its motion, but not pushes.",
+            "is_true": false,
+            "explanation": "Forces are both pushes and pulls that cause an object to change its motion."
+        },
+        {
+            "statement": "Energy is the ability to do work.",
+            "is_true": true,
+            "explanation": "Energy is indeed the ability to do work, and it comes in various forms such as kinetic, potential, and thermal energy."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Place Value",
+            "Forces",
+            "Analogies",
+            "Energy"
+        ],
+        "right_column_shuffled": [
+            "The ability to do work",
+            "Pushes or pulls that cause an object to change its motion",
+            "Relationships between words or concepts",
+            "The value of a digit depending on its position in a number"
+        ],
+        "correct_mapping": {
+            "Place Value": "The value of a digit depending on its position in a number",
+            "Forces": "Pushes or pulls that cause an object to change its motion",
+            "Analogies": "Relationships between words or concepts",
+            "Energy": "The ability to do work"
+        }
+    }
+}

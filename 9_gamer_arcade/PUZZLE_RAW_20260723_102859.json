@@ -1,0 +1,40 @@
+{
+    "module_name": "SBI PO Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "The English language originated in the 5th century.",
+            "is_true": true,
+            "explanation": "The origins of the English language date back to the 5th century."
+        },
+        {
+            "statement": "Identifying the main idea of a passage involves only reading the introduction.",
+            "is_true": false,
+            "explanation": "To identify the main idea of a passage, one must understand the context and then pinpoint the central theme, which involves analyzing the introduction, body, and conclusion."
+        },
+        {
+            "statement": "The CPU is the brain of the computer, executing instructions and handling data.",
+            "is_true": true,
+            "explanation": "The CPU (Central Processing Unit) is indeed the brain of the computer, executing instructions and handling data."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Identifying Main Ideas",
+            "Understanding Word Meanings",
+            "Reading Tables and Interpreting Graphs",
+            "Identifying Patterns in Number Series"
+        ],
+        "right_column_shuffled": [
+            "Involves analyzing the introduction, body, and conclusion",
+            "Involves understanding the word's usage in different contexts",
+            "Involves recognizing sequences, such as arithmetic or geometric progressions",
+            "Involves understanding the axes, legends, and trends presented in the data"
+        ],
+        "correct_mapping": {
+            "Identifying Main Ideas": "Involves analyzing the introduction, body, and conclusion",
+            "Understanding Word Meanings": "Involves understanding the word's usage in different contexts",
+            "Reading Tables and Interpreting Graphs": "Involves understanding the axes, legends, and trends presented in the data",
+            "Identifying Patterns in Number Series": "Involves recognizing sequences, such as arithmetic or geometric progressions"
+        }
+    }
+}

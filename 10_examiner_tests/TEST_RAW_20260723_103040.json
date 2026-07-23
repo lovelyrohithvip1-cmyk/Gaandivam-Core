@@ -1,0 +1,61 @@
+{
+    "exam_name": "NDA & NA (I) 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary difference between a linear equation and a quadratic equation in terms of the highest power of the variable?",
+            "options": {
+                "A": "The highest power of the variable in a linear equation is 2, while in a quadratic equation it is 1.",
+                "B": "The highest power of the variable in a linear equation is 1, while in a quadratic equation it is 2.",
+                "C": "The highest power of the variable in a linear equation is 0, while in a quadratic equation it is 1.",
+                "D": "The highest power of the variable in a linear equation is 1, while in a quadratic equation it is 3."
+            },
+            "correct_answer": "B",
+            "explanation": "According to the core concepts of algebra, a linear equation has the highest power of the variable as 1, represented in the form ax + b = 0, while a quadratic equation has the highest power of the variable as 2, represented in the form ax^2 + bx + c = 0. This fundamental distinction is crucial for solving and applying these equations in various mathematical and real-world contexts."
+        },
+        {
+            "question_text": "How can the determinant of a 3x3 matrix A be expanded along the first row, and what is the formula for this expansion?",
+            "options": {
+                "A": "The determinant can be expanded along the first row as |A| = a11*A11 + a12*A12 + a13*A13, where A11, A12, and A13 are the minors of the elements in the first row.",
+                "B": "The determinant can be expanded along the first row as |A| = a11*C11 + a12*C12 + a13*C13, where C11, C12, and C13 are the cofactors of the elements in the first row.",
+                "C": "The determinant can be expanded along the first row as |A| = a11 - a12 + a13, where a11, a12, and a13 are the elements in the first row.",
+                "D": "The determinant can be expanded along the first row as |A| = a11 + a12 + a13, where a11, a12, and a13 are the elements in the first row."
+            },
+            "correct_answer": "B",
+            "explanation": "The determinant of a 3x3 matrix A can indeed be expanded along the first row using the formula |A| = a11*C11 + a12*C12 + a13*C13, where C11, C12, and C13 are the cofactors of the elements in the first row. This expansion by minors and cofactor expansion is a key property of determinants, facilitating the calculation of determinants for larger matrices."
+        },
+        {
+            "question_text": "What is the definition of the sine of an angle in a right triangle, and how does it relate to the side lengths of the triangle?",
+            "options": {
+                "A": "The sine of an angle is defined as the ratio of the length of the adjacent side to the length of the hypotenuse.",
+                "B": "The sine of an angle is defined as the ratio of the length of the opposite side to the length of the adjacent side.",
+                "C": "The sine of an angle is defined as the ratio of the length of the opposite side to the length of the hypotenuse.",
+                "D": "The sine of an angle is defined as the ratio of the length of the hypotenuse to the length of the opposite side."
+            },
+            "correct_answer": "C",
+            "explanation": "The sine of an angle in a right triangle is indeed defined as the ratio of the length of the opposite side to the length of the hypotenuse. This fundamental trigonometric ratio is crucial for solving problems involving right triangles and is a cornerstone of trigonometry, with applications in various fields such as physics, engineering, and navigation."
+        },
+        {
+            "question_text": "What is the purpose of identifying the main idea, supporting details, and author's tone when reading a passage, and how does it improve reading comprehension?",
+            "options": {
+                "A": "Identifying these elements helps to improve reading comprehension by allowing the reader to recognize the author's purpose, make inferences, and develop critical thinking skills.",
+                "B": "Identifying these elements is unnecessary for reading comprehension, as it is more important to focus on individual words and sentences.",
+                "C": "Identifying these elements is only relevant for reading fiction, not nonfiction texts.",
+                "D": "Identifying these elements is a waste of time, as it does not contribute to understanding the passage."
+            },
+            "correct_answer": "A",
+            "explanation": "Identifying the main idea, supporting details, and author's tone is essential for improving reading comprehension. By recognizing these elements, readers can better understand the author's purpose, make inferences, and develop critical thinking skills, all of which are vital for effective reading comprehension and communication."
+        },
+        {
+            "question_text": "What is the relationship between the sine and cosine of an angle, as described by the Pythagorean identity?",
+            "options": {
+                "A": "sin^2(A) + cos^2(A) = 0",
+                "B": "sin^2(A) - cos^2(A) = 1",
+                "C": "sin^2(A) + cos^2(A) = 1",
+                "D": "sin^2(A) * cos^2(A) = 1"
+            },
+            "correct_answer": "C",
+            "explanation": "The Pythagorean identity sin^2(A) + cos^2(A) = 1 describes the fundamental relationship between the sine and cosine of an angle. This identity is a cornerstone of trigonometry, allowing for the calculation of unknown trigonometric ratios and facilitating problem-solving in various mathematical and real-world contexts."
+        }
+    ]
+}

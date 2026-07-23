@@ -1,0 +1,109 @@
+{
+    "exam_name": "NICL Assistant Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Reasoning": {
+            "Analytical Reasoning": {
+                "Seating Arrangements": [
+                    "Linear Seating",
+                    "Circular Seating",
+                    "Matrix Seating"
+                ],
+                "Puzzles": [
+                    "Blood Relations",
+                    "Direction Sense",
+                    "Coding-Decoding"
+                ]
+            },
+            "Logical Reasoning": {
+                "Syllogisms": [
+                    "Basic Syllogisms",
+                    "Complex Syllogisms",
+                    "Syllogisms with Multiple Conclusions"
+                ],
+                "Arguments": [
+                    "Identifying Arguments",
+                    "Evaluating Arguments",
+                    "Strengthening and Weakening Arguments"
+                ]
+            }
+        },
+        "English Language": {
+            "Grammar": {
+                "Verbs": [
+                    "Tenses",
+                    "Aspects",
+                    "Moods"
+                ],
+                "Nouns": [
+                    "Types of Nouns",
+                    "Number",
+                    "Case"
+                ]
+            },
+            "Vocabulary": {
+                "Word Meanings": [
+                    "Synonyms",
+                    "Antonyms",
+                    "Homophones"
+                ],
+                "Idioms and Phrases": [
+                    "Common Idioms",
+                    "Phrasal Verbs",
+                    "Collocations"
+                ]
+            }
+        },
+        "General Awareness": {
+            "Current Affairs": {
+                "National News": [
+                    "Politics",
+                    "Economy",
+                    "Social Issues"
+                ],
+                "International News": [
+                    "Global Politics",
+                    "Economy",
+                    "Environmental Issues"
+                ]
+            },
+            "Static General Knowledge": {
+                "History": [
+                    "Ancient History",
+                    "Medieval History",
+                    "Modern History"
+                ],
+                "Geography": [
+                    "Physical Geography",
+                    "Human Geography",
+                    "Economic Geography"
+                ]
+            }
+        },
+        "Numerical Ability": {
+            "Quantitative Aptitude": {
+                "Number Systems": [
+                    "Integers",
+                    "Rational Numbers",
+                    "Real Numbers"
+                ],
+                "Algebra": [
+                    "Equations",
+                    "Inequalities",
+                    "Functions"
+                ]
+            },
+            "Data Interpretation": {
+                "Tables": [
+                    "Reading Tables",
+                    "Analyzing Tables",
+                    "Interpreting Tables"
+                ],
+                "Graphs": [
+                    "Types of Graphs",
+                    "Reading Graphs",
+                    "Analyzing Graphs"
+                ]
+            }
+        }
+    }
+}

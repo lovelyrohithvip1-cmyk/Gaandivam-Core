@@ -1,0 +1,136 @@
+{
+    "exam_name": "Agniveervayu Intake 02/2027 Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Graphs": [
+                    "Cartesian Coordinates",
+                    "Graphical Representation",
+                    "Functions"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Distance Formula",
+                    "Section Formula",
+                    "Midpoint Theorem"
+                ],
+                "Circles and Triangles": [
+                    "Properties of Circles",
+                    "Properties of Triangles",
+                    "Trigonometry"
+                ]
+            }
+        },
+        "Physics": {
+            "Mechanics": {
+                "Kinematics": [
+                    "Motion in One Dimension",
+                    "Motion in Two Dimensions",
+                    "Relative Motion"
+                ],
+                "Dynamics": [
+                    "Forces",
+                    "Newton's Laws of Motion",
+                    "Friction"
+                ]
+            },
+            "Thermodynamics": {
+                "Thermal Properties": [
+                    "Temperature",
+                    "Heat Transfer",
+                    "Thermal Expansion"
+                ],
+                "Laws of Thermodynamics": [
+                    "Zeroth Law",
+                    "First Law",
+                    "Second Law"
+                ]
+            }
+        },
+        "English": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Comprehension": {
+                "Reading Skills": [
+                    "Skimming",
+                    "Scanning",
+                    "Inference"
+                ],
+                "Writing Skills": [
+                    "Essay Writing",
+                    "Letter Writing",
+                    "Report Writing"
+                ]
+            }
+        },
+        "Chemistry": {
+            "Inorganic Chemistry": {
+                "Atomic Structure": [
+                    "Electron Configuration",
+                    "Periodic Table",
+                    "Chemical Bonding"
+                ],
+                "Chemical Reactions": [
+                    "Acid-Base Reactions",
+                    "Redox Reactions",
+                    "Precipitation Reactions"
+                ]
+            },
+            "Organic Chemistry": {
+                "Hydrocarbons": [
+                    "Alkanes",
+                    "Alkenes",
+                    "Alkynes"
+                ],
+                "Functional Groups": [
+                    "Alcohols",
+                    "Ethers",
+                    "Aldehydes",
+                    "Ketones"
+                ]
+            }
+        },
+        "Biology": {
+            "Cell Biology": {
+                "Cell Structure": [
+                    "Cell Membrane",
+                    "Cytoplasm",
+                    "Nucleus"
+                ],
+                "Cell Functions": [
+                    "Metabolism",
+                    "Transport",
+                    "Division"
+                ]
+            },
+            "Genetics": {
+                "Mendelian Genetics": [
+                    "Laws of Inheritance",
+                    "Genotype and Phenotype"
+                ],
+                "Molecular Genetics": [
+                    "DNA Structure",
+                    "Gene Expression",
+                    "Genetic Engineering"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "exam_name": "RRB Technician Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary emphasis of the educational qualifications required for the position of Technician Grade-I Signal in the railway sector?",
+            "options": {
+                "A": "Foundational skills in vocational trades",
+                "B": "Strong educational background in engineering disciplines",
+                "C": "Proficiency in management and administration",
+                "D": "Expertise in information technology and computer science"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because the educational qualifications for Technician Grade-I Signal emphasize a strong background in engineering, which includes disciplines such as electrical, electronic, and telecommunications principles. This is crucial for handling the complex nature of signal systems in railways, including design, installation, maintenance, and troubleshooting, to ensure the safe and efficient movement of trains."
+        },
+        {
+            "question_text": "What type of certification is designed to provide students with practical skills necessary for employment in specific trades such as electrical, mechanical, or welding for Technician Grade-III?",
+            "options": {
+                "A": "Engineering Diploma",
+                "B": "Relevant Technical Qualification",
+                "C": "ITI (Industrial Training Institute) certification",
+                "D": "10th Pass certificate"
+            },
+            "correct_answer": "C",
+            "explanation": "The correct answer is C because the ITI certification is specifically designed to provide students with the practical skills necessary for employment in trades such as electrical, mechanical, or welding. This certification makes students immediately productive in the railway workshop environment, which is a key requirement for the Technician Grade-III role."
+        },
+        {
+            "question_text": "What is a key difference between the educational qualifications required for Technician Grade-I Signal and Technician Grade-III?",
+            "options": {
+                "A": "Both require a strong educational background in engineering disciplines",
+                "B": "Both require foundational skills in vocational trades",
+                "C": "Technician Grade-I Signal requires engineering disciplines, while Technician Grade-III focuses on foundational skills and vocational trades",
+                "D": "Technician Grade-III requires a higher level of educational qualification than Technician Grade-I Signal"
+            },
+            "correct_answer": "C",
+            "explanation": "The correct answer is C because the key difference lies in the emphasis of their educational qualifications. Technician Grade-I Signal requires a strong educational background in engineering disciplines, reflecting the complex nature of signal systems. In contrast, Technician Grade-III focuses on foundational skills that can be acquired through a 10th Pass certificate or an ITI certification in a relevant trade, reflecting the more hands-on, vocational nature of the role."
+        },
+        {
+            "question_text": "What is the significance of possessing an Engineering Diploma, an Engineering Degree, or a Relevant Technical Qualification for the role of Technician Grade-I Signal?",
+            "options": {
+                "A": "It ensures proficiency in management and administration",
+                "B": "It provides foundational skills in vocational trades",
+                "C": "It equips candidates with the requisite skills and knowledge to handle the design, installation, maintenance, and troubleshooting of signal systems",
+                "D": "It is a requirement for roles in information technology and computer science"
+            },
+            "correct_answer": "C",
+            "explanation": "The correct answer is C because possessing an Engineering Diploma, an Engineering Degree, or a Relevant Technical Qualification is significant for the role of Technician Grade-I Signal as it equips candidates with the requisite skills and knowledge to handle the complex aspects of signal systems. This includes the design, installation, maintenance, and troubleshooting of these systems, which are critical for the safe and efficient movement of trains."
+        },
+        {
+            "question_text": "How do the eligibility criteria, particularly the educational qualifications, contribute to the recruitment process of technicians in the railway sector?",
+            "options": {
+                "A": "They ensure that candidates have a strong background in management and administration",
+                "B": "They guarantee that candidates possess the requisite skills and knowledge to excel in their roles",
+                "C": "They are irrelevant to the recruitment process",
+                "D": "They focus solely on vocational trades"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because the eligibility criteria, particularly the educational qualifications, serve as the foundation for the recruitment process of technicians in the railway sector. They ensure that candidates possess the requisite skills and knowledge to excel in their roles, whether it be in signal systems for Technician Grade-I Signal or in foundational skills and vocational trades for Technician Grade-III. This foundation is crucial for the efficient operation and maintenance of railway systems."
+        }
+    ]
+}

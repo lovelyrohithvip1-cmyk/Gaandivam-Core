@@ -1,0 +1,61 @@
+{
+    "exam_name": "HPCL Junior Executive Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary purpose of understanding chemical reactions in chemical engineering, and how does it impact the production of chemicals, fuels, and pharmaceuticals?",
+            "options": {
+                "A": "To develop new chemical plants and increase production capacity",
+                "B": "To ensure the efficient and safe production of chemicals, fuels, and pharmaceuticals",
+                "C": "To reduce the cost of production and minimize environmental impact",
+                "D": "To improve the quality of products and enhance customer satisfaction"
+            },
+            "correct_answer": "B",
+            "explanation": "Understanding chemical reactions is crucial for the efficient and safe production of chemicals, fuels, and pharmaceuticals. This knowledge enables chemical engineers to design and operate chemical plants that minimize risks, reduce costs, and optimize production processes. By grasping the concepts of reaction kinetics, catalysis, and chemical equilibrium, chemical engineers can develop processes that produce high-quality products while ensuring the safety of personnel and the environment."
+        },
+        {
+            "question_text": "How do control systems contribute to process control in chemical plant operations, and what are the key components of these systems?",
+            "options": {
+                "A": "Control systems maintain process variables at set points using sensors, controllers, and actuators",
+                "B": "Control systems optimize process efficiency and productivity using mathematical models and algorithms",
+                "C": "Control systems monitor process variables and provide real-time feedback to operators",
+                "D": "Control systems automate process operations and reduce the need for human intervention"
+            },
+            "correct_answer": "A",
+            "explanation": "Control systems play a critical role in process control by maintaining process variables at set points. These systems rely on sensors to measure process variables, controllers to compare the measured values with set points, and actuators to adjust the process variables to maintain the desired conditions. By using control systems, chemical engineers can ensure that processes operate within predetermined limits, optimizing efficiency, productivity, and safety."
+        },
+        {
+            "question_text": "What is the significance of hazard identification in fire prevention and safety management, and how does it contribute to mitigating risks in chemical plants?",
+            "options": {
+                "A": "Hazard identification helps to develop emergency response plans and ensure personnel preparedness",
+                "B": "Hazard identification enables the implementation of safety procedures and protocols",
+                "C": "Hazard identification is the process of recognizing potential hazards and evaluating their likelihood and potential impact",
+                "D": "Hazard identification is a regulatory requirement for chemical plants to ensure compliance with safety standards"
+            },
+            "correct_answer": "C",
+            "explanation": "Hazard identification is a critical component of fire prevention and safety management. It involves recognizing potential hazards in the workplace, evaluating their likelihood and potential impact, and implementing measures to reduce or eliminate risks. By identifying hazards, chemical engineers can develop targeted strategies to mitigate risks, ensuring a safe working environment and minimizing the potential for accidents and emergencies."
+        },
+        {
+            "question_text": "How does chemical equilibrium impact chemical reactions, and what are the key factors that influence the equilibrium state?",
+            "options": {
+                "A": "Chemical equilibrium is a state where the rates of forward and reverse reactions are equal, resulting in no net change in concentrations",
+                "B": "Chemical equilibrium is a state where the concentrations of reactants and products are equal",
+                "C": "Chemical equilibrium is influenced by temperature, pressure, and catalysts",
+                "D": "Chemical equilibrium is a state where the reaction is complete, and no further reaction occurs"
+            },
+            "correct_answer": "A",
+            "explanation": "Chemical equilibrium is a state where the rates of forward and reverse reactions are equal, resulting in no net change in the concentrations of reactants and products. This equilibrium state is influenced by factors such as temperature, pressure, and catalysts. Understanding chemical equilibrium is essential for designing and operating chemical processes, as it enables chemical engineers to predict and control the behavior of chemical reactions."
+        },
+        {
+            "question_text": "What is the role of instrumentation in process control, and how does it contribute to maintaining process variables at set points?",
+            "options": {
+                "A": "Instrumentation provides real-time feedback to operators, enabling them to adjust process variables",
+                "B": "Instrumentation measures process variables, providing accurate and reliable data for control systems",
+                "C": "Instrumentation automates process operations, reducing the need for human intervention",
+                "D": "Instrumentation optimizes process efficiency and productivity using mathematical models and algorithms"
+            },
+            "correct_answer": "B",
+            "explanation": "Instrumentation plays a vital role in process control by measuring process variables and providing accurate and reliable data for control systems. By using instrumentation, chemical engineers can ensure that process variables are maintained at set points, optimizing efficiency, productivity, and safety. Instrumentation enables control systems to function effectively, providing the necessary feedback to adjust process variables and maintain the desired conditions."
+        }
+    ]
+}

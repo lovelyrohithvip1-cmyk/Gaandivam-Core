@@ -1,0 +1,37 @@
+{
+    "exam_name": "HPCL Junior Executive Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Chemical Engineering": {
+            "Chemical Processes": {
+                "Chemical Reactions": [
+                    "Reaction Kinetics",
+                    "Catalysis",
+                    "Chemical Equilibrium"
+                ]
+            },
+            "Chemical Plant Operations": {
+                "Process Control": [
+                    "Control Systems",
+                    "Instrumentation",
+                    "Process Optimization"
+                ]
+            }
+        },
+        "Fire and Safety": {
+            "Fire Prevention": {
+                "Hazard Identification": [
+                    "Risk Assessment",
+                    "Hazard Mitigation",
+                    "Emergency Response Planning"
+                ]
+            },
+            "Safety Management": {
+                "Safety Procedures": [
+                    "Personal Protective Equipment",
+                    "Safety Protocols",
+                    "Emergency Evacuation Procedures"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "exam_name": "DSSSB Recruitment Exam 2025",
+    "chyme_granular_syllabus": {
+        "General Awareness": {
+            "Indian History": {
+                "Ancient India": [
+                    "Indus Valley Civilization",
+                    "Vedic Period",
+                    "Mauryan Empire"
+                ],
+                "Medieval India": [
+                    "Delhi Sultanate",
+                    "Mughal Empire",
+                    "Maratha Empire"
+                ]
+            },
+            "Indian Geography": {
+                "Physical Geography": [
+                    "Mountains",
+                    "Rivers",
+                    "Climate"
+                ],
+                "Political Geography": [
+                    "States and Union Territories",
+                    "Districts",
+                    "Municipalities"
+                ]
+            }
+        },
+        "General Intelligence and Reasoning Ability": {
+            "Verbal Reasoning": {
+                "Analogies": [
+                    "Word Analogies",
+                    "Letter Analogies",
+                    "Number Analogies"
+                ],
+                "Syllogisms": [
+                    "Basic Syllogisms",
+                    "Complex Syllogisms",
+                    "Syllogisms with Multiple Conclusions"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Pattern Recognition": [
+                    "Number Patterns",
+                    "Letter Patterns",
+                    "Image Patterns"
+                ],
+                "Spatial Reasoning": [
+                    "2D Shapes",
+                    "3D Shapes",
+                    "Mirror Images"
+                ]
+            }
+        },
+        "Arithmetical and Numerical Ability": {
+            "Number Systems": {
+                "Whole Numbers": [
+                    "Addition",
+                    "Subtraction",
+                    "Multiplication",
+                    "Division"
+                ],
+                "Decimals and Fractions": [
+                    "Operations on Decimals",
+                    "Operations on Fractions",
+                    "Conversion between Decimals and Fractions"
+                ]
+            },
+            "Algebra": {
+                "Linear Equations": [
+                    "Simple Linear Equations",
+                    "Simultaneous Linear Equations"
+                ],
+                "Quadratic Equations": [
+                    "Simple Quadratic Equations",
+                    "Factorization of Quadratic Expressions"
+                ]
+            }
+        }
+    }
+}

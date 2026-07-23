@@ -1,0 +1,201 @@
+{
+    "exam_name": "Non-Technical Popular Categories (NTPC) exam",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Number Systems": {
+                "Real Numbers": [
+                    "Integers",
+                    "Rational Numbers",
+                    "Irrational Numbers"
+                ],
+                "Complex Numbers": [
+                    "Definition",
+                    "Operations",
+                    "Applications"
+                ]
+            },
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Inequalities": [
+                    "Linear Inequalities",
+                    "Quadratic Inequalities"
+                ],
+                "Graphs": [
+                    "Linear Graphs",
+                    "Quadratic Graphs",
+                    "Functions"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Coordinates",
+                    "Midpoint",
+                    "Slope"
+                ],
+                "Angles and Planes": [
+                    "Types of Angles",
+                    "Properties of Planes"
+                ],
+                "Circles and Triangles": [
+                    "Properties of Circles",
+                    "Properties of Triangles"
+                ]
+            },
+            "Trigonometry": {
+                "Trigonometric Ratios": [
+                    "Sine",
+                    "Cosine",
+                    "Tangent"
+                ],
+                "Trigonometric Identities": [
+                    "Pythagorean Identity",
+                    "Sum and Difference Formulas"
+                ],
+                "Applications": [
+                    "Height and Distance",
+                    "Navigation"
+                ]
+            },
+            "Elementary Statistics": {
+                "Data Representation": [
+                    "Tables",
+                    "Graphs",
+                    "Charts"
+                ],
+                "Measures of Central Tendency": [
+                    "Mean",
+                    "Median",
+                    "Mode"
+                ],
+                "Measures of Dispersion": [
+                    "Range",
+                    "Variance",
+                    "Standard Deviation"
+                ]
+            }
+        },
+        "General Intelligence and Reasoning": {
+            "Analogies": {
+                "Verbal Analogies": [
+                    "Word Analogies",
+                    "Semantic Analogies"
+                ],
+                "Non-Verbal Analogies": [
+                    "Figure Analogies",
+                    "Spatial Analogies"
+                ]
+            },
+            "Completion of Number and Alphabetical Series": {
+                "Number Series": [
+                    "Arithmetic Progression",
+                    "Geometric Progression"
+                ],
+                "Alphabetical Series": [
+                    "Simple Series",
+                    "Complex Series"
+                ]
+            },
+            "Coding and Decoding": {
+                "Coding Techniques": [
+                    "Substitution",
+                    "Transposition"
+                ],
+                "Decoding Techniques": [
+                    "Pattern Recognition",
+                    "Logical Deduction"
+                ]
+            },
+            "Mathematical Operations": {
+                "Basic Operations": [
+                    "Addition",
+                    "Subtraction",
+                    "Multiplication",
+                    "Division"
+                ],
+                "Advanced Operations": [
+                    "Exponents",
+                    "Roots",
+                    "Logarithms"
+                ]
+            },
+            "Syllogism": {
+                "Arguments": [
+                    "Categorical Syllogism",
+                    "Conditional Syllogism"
+                ],
+                "Inferences": [
+                    "Valid Inferences",
+                    "Invalid Inferences"
+                ]
+            }
+        },
+        "General Awareness": {
+            "Current Events": {
+                "National News": [
+                    "Politics",
+                    "Economy",
+                    "Social Issues"
+                ],
+                "International News": [
+                    "Global Politics",
+                    "Economy",
+                    "Environmental Issues"
+                ]
+            },
+            "Indian History": {
+                "Ancient India": [
+                    "Indus Valley Civilization",
+                    "Vedic Period"
+                ],
+                "Medieval India": [
+                    "Delhi Sultanate",
+                    "Mughal Empire"
+                ],
+                "Modern India": [
+                    "British Rule",
+                    "Independence Movement"
+                ]
+            },
+            "Geography": {
+                "Physical Geography": [
+                    "Mountains",
+                    "Rivers",
+                    "Climate"
+                ],
+                "Human Geography": [
+                    "Population",
+                    "Settlements",
+                    "Economy"
+                ]
+            },
+            "Indian Polity and Governance": {
+                "Constitution": [
+                    "Preamble",
+                    "Fundamental Rights",
+                    "Directive Principles"
+                ],
+                "Government": [
+                    "Legislature",
+                    "Executive",
+                    "Judiciary"
+                ]
+            },
+            "Economy": {
+                "Basic Concepts": [
+                    "Scarcity",
+                    "Opportunity Cost",
+                    "Supply and Demand"
+                ],
+                "Indian Economy": [
+                    "Agriculture",
+                    "Industry",
+                    "Services"
+                ]
+            }
+        }
+    }
+}

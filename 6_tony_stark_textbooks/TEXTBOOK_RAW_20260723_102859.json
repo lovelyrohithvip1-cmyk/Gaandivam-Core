@@ -1,0 +1,107 @@
+{
+    "exam_name": "SBI PO Recruitment 2026",
+    "textbook_content": [
+        {
+            "subject": "English Language",
+            "chapter_title": "Reading Comprehension and Grammar Fundamentals",
+            "visionary_introduction": "The origins of the English language date back to the 5th century, and its evolution is a testament to human innovation and communication. Mastering English is crucial for effective expression and comprehension in today's global landscape. This chapter delves into the core concepts of reading comprehension and grammar, tracing their importance from ancient times to the present day.",
+            "core_concepts": [
+                {
+                    "concept_name": "Identifying Main Ideas",
+                    "innovative_explanation": "To identify the main idea of a passage, one must first understand the context and then pinpoint the central theme. This involves analyzing the introduction, body, and conclusion to discern the author's primary message. Innovative strategies include creating concept maps and summarizing the passage in one's own words.",
+                    "formulas_or_key_facts": "Key fact: The main idea is usually supported by details and examples throughout the passage."
+                },
+                {
+                    "concept_name": "Understanding Word Meanings",
+                    "innovative_explanation": "Understanding word meanings is pivotal for effective comprehension. This involves not just knowing the dictionary definition but also understanding the word's usage in different contexts. Innovative strategies include using flashcards, playing word games, and reading extensively to encounter words in various settings.",
+                    "formulas_or_key_facts": "Formula: Context + Dictionary Definition = Comprehensive Understanding"
+                }
+            ]
+        },
+        {
+            "subject": "Quantitative Aptitude",
+            "chapter_title": "Data Interpretation and Number Series",
+            "visionary_introduction": "Quantitative aptitude has its roots in ancient civilizations, where mathematical and logical reasoning were used for trade, architecture, and governance. Today, these skills are essential for data-driven decision-making. This chapter explores data interpretation and number series, highlighting their significance in modern problem-solving.",
+            "core_concepts": [
+                {
+                    "concept_name": "Reading Tables and Interpreting Graphs",
+                    "innovative_explanation": "Reading tables and interpreting graphs are critical skills for data analysis. It involves understanding the axes, legends, and trends presented in the data. Innovative strategies include using technology to create interactive graphs and practicing with real-world data sets.",
+                    "formulas_or_key_facts": "Key fact: Trends in data can often be identified by looking at the slope of lines in graphs or the pattern of numbers in tables."
+                },
+                {
+                    "concept_name": "Identifying Patterns in Number Series",
+                    "innovative_explanation": "Identifying patterns in number series requires a combination of logical reasoning and mathematical insight. It involves recognizing sequences, such as arithmetic or geometric progressions, and predicting the next number. Innovative strategies include using algebraic expressions to represent series and solving puzzles to sharpen pattern recognition skills.",
+                    "formulas_or_key_facts": "Formula: For an arithmetic sequence, the nth term (a_n = a_1 + (n-1)d), where (a_1) is the first term and (d) is the common difference."
+                }
+            ]
+        },
+        {
+            "subject": "Reasoning Ability",
+            "chapter_title": "Logical Reasoning and Data Sufficiency",
+            "visionary_introduction": "Logical reasoning has its origins in ancient philosophy, where it was used to construct arguments and evaluate truths. Today, it is a cornerstone of critical thinking and problem-solving. This chapter delves into logical reasoning and data sufficiency, tracing their evolution and importance in modern reasoning.",
+            "core_concepts": [
+                {
+                    "concept_name": "Identifying Arguments and Assumptions",
+                    "innovative_explanation": "Identifying arguments and assumptions involves analyzing statements to understand the claims being made and the underlying beliefs. Innovative strategies include creating argument maps and evaluating the strength of evidence provided.",
+                    "formulas_or_key_facts": "Key fact: An argument consists of premises and a conclusion, with assumptions being the unstated premises."
+                },
+                {
+                    "concept_name": "Evaluating Statements for Data Sufficiency",
+                    "innovative_explanation": "Evaluating statements for data sufficiency requires determining if the information provided is enough to answer a question or solve a problem. Innovative strategies include breaking down complex problems into simpler components and using decision tables to organize information.",
+                    "formulas_or_key_facts": "Formula: If a statement provides all necessary information to reach a conclusion, it is considered sufficient."
+                }
+            ]
+        },
+        {
+            "subject": "Reasoning & Computer Aptitude",
+            "chapter_title": "Computer Awareness and Logical Reasoning",
+            "visionary_introduction": "The advent of computers has revolutionized the way we process information and make decisions. Combining computer awareness with logical reasoning skills is essential for navigating the digital age. This chapter explores computer basics and logical reasoning, highlighting their interconnectedness in modern computing.",
+            "core_concepts": [
+                {
+                    "concept_name": "Understanding Hardware Components",
+                    "innovative_explanation": "Understanding hardware components involves knowing the functions of the CPU, memory, and input/output devices. Innovative strategies include building a computer from scratch and using interactive simulations to explore hardware functionality.",
+                    "formulas_or_key_facts": "Key fact: The CPU (Central Processing Unit) is the brain of the computer, executing instructions and handling data."
+                },
+                {
+                    "concept_name": "Identifying Patterns and Making Deductions",
+                    "innovative_explanation": "Identifying patterns and making deductions are core skills in logical reasoning. This involves recognizing relationships between pieces of information and drawing conclusions based on evidence. Innovative strategies include solving logic puzzles and playing strategy games.",
+                    "formulas_or_key_facts": "Formula: Pattern recognition + evidence analysis = logical deduction"
+                }
+            ]
+        },
+        {
+            "subject": "Data Analysis & Interpretation",
+            "chapter_title": "Data Interpretation and Graphs",
+            "visionary_introduction": "Data analysis and interpretation are modern tools for uncovering insights and making informed decisions. The ability to interpret data and present findings through graphs is a highly valued skill. This chapter delves into the world of data interpretation and graphs, tracing their development and significance.",
+            "core_concepts": [
+                {
+                    "concept_name": "Reading and Interpreting Tables",
+                    "innovative_explanation": "Reading and interpreting tables involves understanding the structure of the table, identifying key statistics, and drawing conclusions based on the data presented. Innovative strategies include using statistical software to analyze data and creating interactive dashboards to visualize information.",
+                    "formulas_or_key_facts": "Key fact: Tables are useful for presenting detailed data, while graphs are better for showing trends and relationships."
+                },
+                {
+                    "concept_name": "Analyzing Graphs for Trends and Patterns",
+                    "innovative_explanation": "Analyzing graphs for trends and patterns requires understanding the types of graphs (bar, line, pie charts) and what each is best used for. Innovative strategies include using real-world data sets and creating graphs to tell a story with data.",
+                    "formulas_or_key_facts": "Formula: The type of graph used depends on the nature of the data and the story being told."
+                }
+            ]
+        },
+        {
+            "subject": "General Awareness / Economy / Banking Knowledge",
+            "chapter_title": "Current Affairs, Economy, and Banking",
+            "visionary_introduction": "General awareness, economy, and banking knowledge are interconnected fields that shape our understanding of the world and its systems. From ancient trade routes to modern banking systems, these subjects have evolved significantly. This chapter explores current affairs, economic principles, and banking basics, highlighting their relevance in today's interconnected world.",
+            "core_concepts": [
+                {
+                    "concept_name": "Understanding National and International News",
+                    "innovative_explanation": "Understanding national and international news involves recognizing the impact of global events on local economies and societies. Innovative strategies include following reputable news sources and analyzing the economic and political implications of current events.",
+                    "formulas_or_key_facts": "Key fact: Global events can have ripple effects on national economies and political landscapes."
+                },
+                {
+                    "concept_name": "Basic Economic Concepts",
+                    "innovative_explanation": "Basic economic concepts, such as supply and demand, inflation, and GDP, are foundational for understanding how economies work. Innovative strategies include using real-world examples to illustrate economic principles and participating in simulations to experience economic decision-making.",
+                    "formulas_or_key_facts": "Formula: Supply and Demand equilibrium is reached when the quantity supplied equals the quantity demanded."
+                }
+            ]
+        }
+    ]
+}

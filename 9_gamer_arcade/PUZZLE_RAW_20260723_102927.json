@@ -1,0 +1,40 @@
+{
+    "module_name": "Bihar Police Sub-Inspector Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "The Indus Valley Civilization is known for its sophisticated urban planning and water management systems.",
+            "is_true": true,
+            "explanation": "The Indus Valley Civilization, which existed from 3300 BCE to 1300 BCE, is renowned for its advanced urban planning and water management systems."
+        },
+        {
+            "statement": "Mechanics is the branch of physics that deals with the study of motion, forces, and energy, and it includes kinematics, dynamics, and thermodynamics.",
+            "is_true": true,
+            "explanation": "Mechanics, a fundamental branch of physics, encompasses the study of motion, forces, and energy, and is divided into kinematics, dynamics, and thermodynamics."
+        },
+        {
+            "statement": "Deductive reasoning involves reaching a certain conclusion based on one or more premises, using a logical rule of inference, and it is a key aspect of logical reasoning.",
+            "is_true": true,
+            "explanation": "Deductive reasoning is a process of drawing a certain conclusion from one or more premises using logical rules of inference, making it a crucial component of logical reasoning."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "National News",
+            "Ancient History",
+            "Mechanics",
+            "Inorganic Chemistry"
+        ],
+        "right_column_shuffled": [
+            "Study of inorganic compounds",
+            "Branch of physics dealing with motion, forces, and energy",
+            "Encompasses events that shape a nation's fabric",
+            "Foundation of modern civilizations, including the Indus Valley Civilization"
+        ],
+        "correct_mapping": {
+            "National News": "Encompasses events that shape a nation's fabric",
+            "Ancient History": "Foundation of modern civilizations, including the Indus Valley Civilization",
+            "Mechanics": "Branch of physics dealing with motion, forces, and energy",
+            "Inorganic Chemistry": "Study of inorganic compounds"
+        }
+    }
+}

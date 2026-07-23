@@ -1,0 +1,40 @@
+{
+    "module_name": "NCL Mining Sirdar Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Underground mining involves the extraction of minerals and resources that lie beneath the earth's surface.",
+            "is_true": true,
+            "explanation": "Underground mining is a method of extracting minerals and resources from beneath the earth's surface, requiring meticulous planning and specialized equipment."
+        },
+        {
+            "statement": "Drilling machines are only used in surface mining.",
+            "is_true": false,
+            "explanation": "Drilling machines are used in both surface and underground mining for creating holes for blasting, drilling water wells, and exploring mineral deposits."
+        },
+        {
+            "statement": "The detection and monitoring of gases in mining environments are critical for ensuring the safety of miners.",
+            "is_true": true,
+            "explanation": "Gas testing has evolved significantly over the years to ensure the safety of miners and prevent disasters, and is critical for mining operations."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Underground Mining",
+            "Drilling Machines",
+            "Gas Detectors",
+            "Mine Surveying"
+        ],
+        "right_column_shuffled": [
+            "Creating holes for blasting and exploring mineral deposits",
+            "Extracting minerals and resources from beneath the earth's surface",
+            "Detecting gases such as methane, carbon monoxide, and oxygen",
+            "Measuring and mapping the physical space of mines"
+        ],
+        "correct_mapping": {
+            "Underground Mining": "Extracting minerals and resources from beneath the earth's surface",
+            "Drilling Machines": "Creating holes for blasting and exploring mineral deposits",
+            "Gas Detectors": "Detecting gases such as methane, carbon monoxide, and oxygen",
+            "Mine Surveying": "Measuring and mapping the physical space of mines"
+        }
+    }
+}

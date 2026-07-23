@@ -1,0 +1,40 @@
+{
+    "module_name": "UP Board 10th & 12th Examination 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Formal letters are used for official or professional purposes.",
+            "is_true": true,
+            "explanation": "Formal letters follow a specific structure and tone, used for official or professional purposes."
+        },
+        {
+            "statement": "Informal letters are characterized by a formal greeting and a clear structure.",
+            "is_true": false,
+            "explanation": "Informal letters are personal and casual, characterized by a relaxed tone, colloquial language, and a flexible structure."
+        },
+        {
+            "statement": "The sonnet is a 14-line poem with a specific rhyme scheme.",
+            "is_true": true,
+            "explanation": "The sonnet is a form of poetry that consists of 14 lines, usually written in iambic pentameter, with a specific rhyme scheme."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Formal Letters",
+            "Informal Letters",
+            "Sonnets",
+            "Haikus"
+        ],
+        "right_column_shuffled": [
+            "Personal and casual letters",
+            "14-line poem with a specific rhyme scheme",
+            "Formal letters used for official purposes",
+            "Short, three-line poem that captures a moment"
+        ],
+        "correct_mapping": {
+            "Formal Letters": "Formal letters used for official purposes",
+            "Informal Letters": "Personal and casual letters",
+            "Sonnets": "14-line poem with a specific rhyme scheme",
+            "Haikus": "Short, three-line poem that captures a moment"
+        }
+    }
+}

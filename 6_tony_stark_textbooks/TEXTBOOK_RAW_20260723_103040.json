@@ -1,0 +1,73 @@
+{
+    "exam_name": "NDA & NA (I) 2026",
+    "textbook_content": [
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Algebra",
+            "visionary_introduction": "Algebra, a fundamental branch of mathematics, has its roots in ancient civilizations, with contributions from notable mathematicians such as Diophantus and Al-Khwarizmi. Over time, algebra has evolved to become a cornerstone of modern mathematics, with applications in various fields, including physics, engineering, and computer science. In this chapter, we will delve into the core concepts of algebra, exploring equations, inequalities, and functions.",
+            "core_concepts": [
+                {
+                    "concept_name": "Linear Equations",
+                    "innovative_explanation": "A linear equation is an equation in which the highest power of the variable is 1. It can be represented in the form ax + b = 0, where a and b are constants. To solve a linear equation, we can use basic algebraic operations such as addition, subtraction, multiplication, and division. For instance, the equation 2x + 3 = 0 can be solved by subtracting 3 from both sides, resulting in 2x = -3, and then dividing both sides by 2, yielding x = -3/2.",
+                    "formulas_or_key_facts": "ax + b = 0, where a and b are constants"
+                },
+                {
+                    "concept_name": "Quadratic Equations",
+                    "innovative_explanation": "A quadratic equation is an equation in which the highest power of the variable is 2. It can be represented in the form ax^2 + bx + c = 0, where a, b, and c are constants. To solve a quadratic equation, we can use the quadratic formula: x = (-b ± √(b^2 - 4ac)) / 2a. For example, the equation x^2 + 4x + 4 = 0 can be solved using the quadratic formula, resulting in x = (-4 ± √(4^2 - 4*1*4)) / 2*1, which simplifies to x = -2.",
+                    "formulas_or_key_facts": "x = (-b ± √(b^2 - 4ac)) / 2a"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Matrices and Determinants",
+            "visionary_introduction": "Matrices and determinants are essential tools in linear algebra, with applications in various fields, including physics, engineering, and computer science. Matrices can be used to represent systems of linear equations, while determinants can be used to solve these systems. In this chapter, we will explore the core concepts of matrices and determinants, including matrix operations and determinant properties.",
+            "core_concepts": [
+                {
+                    "concept_name": "Matrix Operations",
+                    "innovative_explanation": "Matrix operations include addition, subtraction, and multiplication. Matrix addition involves adding corresponding elements of two matrices, while matrix subtraction involves subtracting corresponding elements. Matrix multiplication involves multiplying corresponding elements of two matrices and summing the products. For instance, the product of two matrices A and B can be represented as C = AB, where C is the resulting matrix.",
+                    "formulas_or_key_facts": "C = AB, where C is the resulting matrix"
+                },
+                {
+                    "concept_name": "Determinant Properties",
+                    "innovative_explanation": "Determinants have several important properties, including expansion by minors and cofactor expansion. Expansion by minors involves expanding a determinant along a row or column, while cofactor expansion involves expanding a determinant along a row or column using cofactors. For example, the determinant of a 3x3 matrix A can be expanded along the first row as |A| = a11*C11 + a12*C12 + a13*C13, where C11, C12, and C13 are the cofactors of the elements in the first row.",
+                    "formulas_or_key_facts": "|A| = a11*C11 + a12*C12 + a13*C13"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Trigonometry",
+            "visionary_introduction": "Trigonometry, the study of triangles, has its roots in ancient civilizations, with contributions from notable mathematicians such as Hipparchus and Ptolemy. Over time, trigonometry has evolved to become a fundamental branch of mathematics, with applications in various fields, including physics, engineering, and navigation. In this chapter, we will explore the core concepts of trigonometry, including angles, triangles, and trigonometric identities.",
+            "core_concepts": [
+                {
+                    "concept_name": "Trigonometric Ratios",
+                    "innovative_explanation": "Trigonometric ratios, including sine, cosine, and tangent, are used to describe the relationships between the angles and side lengths of triangles. For instance, the sine of an angle in a right triangle is defined as the ratio of the length of the opposite side to the length of the hypotenuse. The cosine of an angle is defined as the ratio of the length of the adjacent side to the length of the hypotenuse, and the tangent of an angle is defined as the ratio of the length of the opposite side to the length of the adjacent side.",
+                    "formulas_or_key_facts": "sin(A) = opposite side / hypotenuse, cos(A) = adjacent side / hypotenuse, tan(A) = opposite side / adjacent side"
+                },
+                {
+                    "concept_name": "Pythagorean Identities",
+                    "innovative_explanation": "Pythagorean identities, including sin^2(A) + cos^2(A) = 1, are used to describe the relationships between the trigonometric ratios. For example, the Pythagorean identity sin^2(A) + cos^2(A) = 1 can be used to find the value of sin(A) or cos(A) given the value of the other ratio.",
+                    "formulas_or_key_facts": "sin^2(A) + cos^2(A) = 1"
+                }
+            ]
+        },
+        {
+            "subject": "General Ability",
+            "chapter_title": "English",
+            "visionary_introduction": "English, a global language, has become an essential tool for communication in various fields, including business, education, and international relations. In this chapter, we will explore the core concepts of English, including comprehension, vocabulary, and grammar.",
+            "core_concepts": [
+                {
+                    "concept_name": "Reading Comprehension",
+                    "innovative_explanation": "Reading comprehension involves understanding and interpreting written text. To improve reading comprehension, it is essential to develop skills such as identifying main ideas, making inferences, and recognizing the author's purpose. For instance, when reading a passage, it is essential to identify the main idea, supporting details, and the author's tone.",
+                    "formulas_or_key_facts": "Identify main idea, supporting details, and author's tone"
+                },
+                {
+                    "concept_name": "Word Meaning",
+                    "innovative_explanation": "Word meaning involves understanding the definitions and connotations of words. To improve word meaning, it is essential to develop skills such as recognizing synonyms, antonyms, and word roots. For example, the word 'happy' can be defined as feeling or showing pleasure or contentment, while the word 'unhappy' is the antonym of 'happy'.",
+                    "formulas_or_key_facts": "Recognize synonyms, antonyms, and word roots"
+                }
+            ]
+        }
+    ]
+}

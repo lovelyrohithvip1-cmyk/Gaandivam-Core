@@ -1,0 +1,40 @@
+{
+    "module_name": "Foundations of Engineering",
+    "true_false_rapid_fire": [
+        {
+            "statement": "The field of engineering has its roots in ancient times.",
+            "is_true": true,
+            "explanation": "The construction of monumental structures like the Pyramids of Giza and the Great Wall of China demonstrates the early beginnings of engineering."
+        },
+        {
+            "statement": "Thermodynamics is the branch of physics that deals with mechanics and electromagnetism.",
+            "is_true": false,
+            "explanation": "Thermodynamics is actually the branch of physics that deals with heat, work, temperature, and their relation to energy, radiation, and physical properties of matter."
+        },
+        {
+            "statement": "Electromagnetism is a fundamental physical phenomenon that encompasses the interaction between electrically charged particles and the electromagnetic force.",
+            "is_true": true,
+            "explanation": "Electromagnetism underlies the operation of a wide range of technologies, from simple motors and generators to complex communication systems and medical imaging devices."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Mechanics",
+            "Thermodynamics",
+            "Electromagnetism",
+            "Material Processing"
+        ],
+        "right_column_shuffled": [
+            "Study of heat and energy",
+            "Interaction between electrically charged particles",
+            "Study of motion and forces",
+            "Transformation of materials from raw state to finished product"
+        ],
+        "correct_mapping": {
+            "Mechanics": "Study of motion and forces",
+            "Thermodynamics": "Study of heat and energy",
+            "Electromagnetism": "Interaction between electrically charged particles",
+            "Material Processing": "Transformation of materials from raw state to finished product"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "exam_name": "68th Short Service Commission (Technical) Men Course April 2027",
+    "chyme_granular_syllabus": {
+        "Engineering": {
+            "Relevant Field": {
+                "Fundamentals": [
+                    "Mechanics",
+                    "Thermodynamics",
+                    "Electromagnetism"
+                ],
+                "Materials Science": [
+                    "Properties of Materials",
+                    "Material Selection",
+                    "Material Processing"
+                ],
+                "Engineering Design": [
+                    "Design Principles",
+                    "Design Tools",
+                    "Design Optimization"
+                ]
+            }
+        }
+    }
+}

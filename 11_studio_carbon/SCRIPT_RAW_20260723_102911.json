@@ -1,0 +1,66 @@
+{
+    "video_title": "RRB Group D Exam Prep: Unlocking Mathematics, Science, and Reasoning",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a futuristic, glowing cityscape with mathematical symbols and equations floating in the air.",
+            "narration_script": "Welcome to the world of RRB Group D exam preparation! In this video, we'll be exploring the exciting realms of mathematics, science, and reasoning.",
+            "on_screen_text": null
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Zoom in on a 3D model of a number line, with whole numbers and decimals marked on it.",
+            "narration_script": "Let's start with mathematics, the foundation of problem-solving and critical thinking. We'll delve into the world of whole numbers, decimals, and fractions.",
+            "on_screen_text": "Number System"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "Animate a 3D digit with a place value chart in the background, highlighting the position of each digit.",
+            "narration_script": "Understanding place value is essential for performing arithmetic operations. The place value of a digit depends on its position in a number.",
+            "on_screen_text": "Place Value = digit * (10 ^ position)"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Show a comparison of two whole numbers on a number line, with an arrow indicating which number is greater.",
+            "narration_script": "Comparing whole numbers involves determining which number is greater or lesser. We can use visual aids like number lines or mathematical operations like subtraction.",
+            "on_screen_text": "If a > b, then a - b > 0"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "Animate a 3D model of a car moving on a road, with equations of motion displayed in the background.",
+            "narration_script": "Now, let's shift gears to science and explore the fundamental concepts of physics, including motion, forces, and energy.",
+            "on_screen_text": "Physics"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "Visualize a 3D object in motion, with arrows indicating the direction of forces acting upon it.",
+            "narration_script": "Motion is the change in position of an object over time. Understanding motion is crucial for understanding the behavior of objects in the natural world.",
+            "on_screen_text": "s = ut + 0.5at^2"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "Show a 3D model of a force vector, with the equation F = ma displayed prominently.",
+            "narration_script": "Forces are pushes or pulls that cause an object to change its motion. Understanding forces is essential for understanding the behavior of objects in the natural world.",
+            "on_screen_text": "F = ma"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Animate a 3D model of energy conversion, with kinetic, potential, and thermal energy represented as different colors.",
+            "narration_script": "Energy is the ability to do work. There are different types of energy, including kinetic, potential, and thermal energy.",
+            "on_screen_text": "E = mc^2"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "Visualize a 3D puzzle with verbal reasoning concepts like analogies, syllogisms, and logical reasoning.",
+            "narration_script": "Finally, let's explore the world of verbal reasoning, where we analyze information, identify patterns, and make logical connections.",
+            "on_screen_text": "Verbal Reasoning"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "Show a 3D model of a brain with a lightbulb turning on, representing the 'aha' moment of logical reasoning.",
+            "narration_script": "By mastering these concepts and practicing regularly, you'll be well on your way to acing the RRB Group D exam and unlocking a brighter future.",
+            "on_screen_text": null
+        }
+    ]
+}

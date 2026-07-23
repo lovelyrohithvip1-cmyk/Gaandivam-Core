@@ -1,0 +1,40 @@
+{
+    "module_name": "RRB Group D Recruitment Examination 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Whole numbers include zero and all positive counting numbers.",
+            "is_true": true,
+            "explanation": "Whole numbers are a set of real numbers that include zero and all positive counting numbers."
+        },
+        {
+            "statement": "Decimals are used to represent whole numbers.",
+            "is_true": false,
+            "explanation": "Decimals are used to represent fractions using a point to separate the whole part from the fractional part."
+        },
+        {
+            "statement": "Fractions consist of a numerator and a denominator.",
+            "is_true": true,
+            "explanation": "Fractions represent a part of a whole and consist of a numerator and a denominator."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Whole Numbers",
+            "Decimals",
+            "Fractions",
+            "Motion"
+        ],
+        "right_column_shuffled": [
+            "A way to represent fractions",
+            "A set of real numbers including zero",
+            "Change in position of an object",
+            "A part of a whole"
+        ],
+        "correct_mapping": {
+            "Whole Numbers": "A set of real numbers including zero",
+            "Decimals": "A way to represent fractions",
+            "Fractions": "A part of a whole",
+            "Motion": "Change in position of an object"
+        }
+    }
+}

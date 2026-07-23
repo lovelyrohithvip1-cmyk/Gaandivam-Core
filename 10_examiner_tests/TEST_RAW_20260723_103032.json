@@ -1,0 +1,61 @@
+{
+    "exam_name": "ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary purpose of establishing eligibility criteria for the ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026, and how does it impact the selection process?",
+            "options": {
+                "A": "To ensure candidates have a basic understanding of computer systems, thus filtering out those without fundamental knowledge.",
+                "B": "To guarantee that only candidates with a strong academic foundation are considered, thereby enhancing the overall quality of the recruitment pool.",
+                "C": "To prioritize candidates with diplomas in commercial or secretarial practice over those with other qualifications.",
+                "D": "To solely focus on the typing speed of candidates in English stenography as the decisive factor."
+            },
+            "correct_answer": "B",
+            "explanation": "The primary purpose of establishing eligibility criteria, such as a minimum of 60% marks or a CGPA of 6.32/10 in graduation, is to ensure that only candidates with a strong academic foundation are selected for further evaluation. This criterion is crucial as it reflects the candidate's ability to meet specific academic standards, which is a predictor of their potential to perform well in professional roles. By setting such criteria, the recruitment process can filter out candidates who may not have the requisite academic rigor, thereby enhancing the overall quality of the recruitment pool."
+        },
+        {
+            "question_text": "How do software skills, as highlighted in the context of the ISRO recruitment, contribute to the professional efficiency of an individual in roles such as assistants or stenographers?",
+            "options": {
+                "A": "Software skills are not directly relevant to the roles of assistants or stenographers, as these positions primarily require manual or administrative tasks.",
+                "B": "Software skills enhance productivity and efficiency by enabling individuals to perform tasks accurately and swiftly, which is critical in professional settings.",
+                "C": "The proficiency in operating systems and Microsoft Office is more of a hindrance than a help, as it may distract from core administrative duties.",
+                "D": "Typing speed is the only software skill that matters, as other skills like knowledge of operating systems are less critical."
+            },
+            "correct_answer": "B",
+            "explanation": "Software skills, including proficiency in operating systems, Microsoft Office, and typing speed, are essential for enhancing productivity and efficiency in professional roles. These skills enable individuals to perform tasks with accuracy and speed, which is critical in settings where timely and precise communication and data management are required. By possessing these skills, assistants and stenographers can better support their teams and organizations, contributing to overall efficiency and effectiveness."
+        },
+        {
+            "question_text": "What role does a diploma in commercial or secretarial practice play in the candidacy of individuals applying for positions like assistants or stenographers, and how does relevant experience complement this qualification?",
+            "options": {
+                "A": "A diploma in commercial or secretarial practice is mandatory but having relevant experience does not add significant value to the candidacy.",
+                "B": "Having a diploma in commercial or secretarial practice, coupled with relevant experience, significantly enhances a candidate's eligibility and competitiveness for such roles.",
+                "C": "Relevant experience is more important than a diploma, as practical skills outweigh formal qualifications in these roles.",
+                "D": "Neither a diploma in commercial or secretarial practice nor relevant experience is crucial for these positions, as on-the-job training is sufficient."
+            },
+            "correct_answer": "B",
+            "explanation": "A diploma in commercial or secretarial practice is a specialized qualification that prepares individuals for roles involving administrative support, communication, and organizational management. When combined with relevant experience, this diploma significantly enhances a candidate's candidacy for positions like assistants or stenographers. The diploma provides a foundational knowledge and skill set, while relevant experience demonstrates the practical application and refinement of these skills, making the candidate more competitive and eligible for such roles."
+        },
+        {
+            "question_text": "How has the concept of typing speed, particularly in English stenography, evolved in professional settings, and what is its current standard for the ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026?",
+            "options": {
+                "A": "Typing speed has become less relevant with the advancement of technology, and thus, there is no specific standard for the ISRO recruitment.",
+                "B": "The evolution of typing speed requirements has led to a decrease in the expected words per minute (WPM), with the current standard being 40 WPM for English stenography.",
+                "C": "Typing speed in English stenography has become more critical, with the current standard for the ISRO recruitment being 60 WPM, reflecting the need for efficiency and productivity.",
+                "D": "The standard for typing speed is variable and depends on the specific role within the organization, with no fixed WPM requirement."
+            },
+            "correct_answer": "C",
+            "explanation": "The concept of typing speed, particularly in English stenography, has evolved to reflect the increasing demand for efficiency and productivity in professional environments. With the advent of modern technology, the ability to type at a high speed with accuracy has become more critical. For the ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026, a typing speed of 60 words per minute (WPM) in English stenography is required, highlighting the importance of this skill in professional settings where rapid and accurate communication is essential."
+        },
+        {
+            "question_text": "What is the significance of understanding the historical context and evolution of educational requirements and eligibility criteria in the context of prestigious organizations like ISRO?",
+            "options": {
+                "A": "It is irrelevant to understand the historical context, as current requirements are all that matter for recruitment.",
+                "B": "Understanding the evolution of educational requirements helps in recognizing how standards have changed to meet the needs of a modern workforce, thereby informing the recruitment process.",
+                "C": "The historical context of educational requirements is only significant for academic purposes and does not impact professional recruitment.",
+                "D": "Eligibility criteria have remained static over time, and thus, there is no evolution to understand or consider."
+            },
+            "correct_answer": "B",
+            "explanation": "Understanding the historical context and evolution of educational requirements and eligibility criteria is significant because it provides insight into how these standards have adapted to meet the changing needs of the workforce. This understanding is crucial for prestigious organizations like ISRO, as it informs the recruitment process by ensuring that candidates are selected based on criteria that reflect current professional demands. By tracing the evolution of educational requirements, organizations can better align their recruitment processes with the skills and knowledge required for success in modern professional roles."
+        }
+    ]
+}

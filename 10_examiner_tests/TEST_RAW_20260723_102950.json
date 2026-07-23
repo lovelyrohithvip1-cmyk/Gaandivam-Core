@@ -1,0 +1,61 @@
+{
+    "exam_name": "UP Board 10th & 12th Examination 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary difference between formal and informal letters in terms of their structure and tone?",
+            "options": {
+                "A": "Formal letters are personal and casual, while informal letters are formal and structured",
+                "B": "Formal letters are formal and structured, while informal letters are personal and casual",
+                "C": "Formal letters are used for official purposes, while informal letters are used for personal purposes",
+                "D": "Formal letters are used for personal purposes, while informal letters are used for official purposes"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because formal letters are characterized by a formal greeting, a clear and concise body, and a polite closing, whereas informal letters are personal and casual, with a relaxed tone and a flexible structure. This distinction is crucial in understanding the appropriate tone and structure to use when writing different types of letters."
+        },
+        {
+            "question_text": "Which poetic device is used to compare two unlike things without using 'like' or 'as'?",
+            "options": {
+                "A": "Simile",
+                "B": "Metaphor",
+                "C": "Personification",
+                "D": "Imagery"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because a metaphor is a poetic device that compares two unlike things without using 'like' or 'as'. For example, 'He is a lion on the battlefield' is a metaphor that compares a person to a lion without using 'like' or 'as'. This device is used to create vivid and evocative language in poetry."
+        },
+        {
+            "question_text": "What is the primary purpose of solving equations in algebra?",
+            "options": {
+                "A": "To find the value of a variable",
+                "B": "To graph a function",
+                "C": "To solve a system of equations",
+                "D": "To prove a mathematical theorem"
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because the primary purpose of solving equations in algebra is to find the value of a variable. Equations are statements that express the equality of two mathematical expressions, and solving them involves finding the value of the variable that makes the equation true. This is a fundamental concept in algebra and is used to solve a wide range of problems in mathematics, science, and engineering."
+        },
+        {
+            "question_text": "What is the first law of thermodynamics, and what does it state?",
+            "options": {
+                "A": "The first law of thermodynamics states that energy cannot be created or destroyed, only converted from one form to another",
+                "B": "The first law of thermodynamics states that energy is always conserved in a closed system",
+                "C": "The first law of thermodynamics states that the total energy of a system is always increasing",
+                "D": "The first law of thermodynamics states that the total energy of a system is always decreasing"
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because the first law of thermodynamics, also known as the law of energy conservation, states that energy cannot be created or destroyed, only converted from one form to another. This means that the total energy of a closed system remains constant over time, but it can be converted from one form to another, such as from kinetic energy to potential energy. This law is a fundamental principle in thermodynamics and has far-reaching implications for our understanding of energy and its role in the natural world."
+        },
+        {
+            "question_text": "What is the primary difference between ancient history and medieval history in terms of their time periods and cultural significance?",
+            "options": {
+                "A": "Ancient history refers to the period of time from the emergence of the first human civilizations to the fall of the Roman Empire, while medieval history refers to the period of time from the fall of the Roman Empire to the Renaissance",
+                "B": "Ancient history refers to the period of time from the fall of the Roman Empire to the Renaissance, while medieval history refers to the period of time from the emergence of the first human civilizations to the fall of the Roman Empire",
+                "C": "Ancient history refers to the study of ancient cultures, while medieval history refers to the study of medieval cultures",
+                "D": "Ancient history refers to the study of European history, while medieval history refers to the study of Asian history"
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because ancient history refers to the period of time from the emergence of the first human civilizations to the fall of the Roman Empire, while medieval history refers to the period of time from the fall of the Roman Empire to the Renaissance. This distinction is crucial in understanding the cultural, social, and historical context of different time periods and civilizations. Ancient history includes the study of ancient cultures such as the Indus Valley Civilization, the Vedic Period, and the Mauryan Empire, while medieval history includes the study of medieval cultures such as the Middle Ages in Europe and the Islamic Golden Age in the Middle East."
+        }
+    ]
+}

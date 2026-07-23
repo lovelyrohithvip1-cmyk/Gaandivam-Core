@@ -1,0 +1,61 @@
+{
+    "exam_name": "CBSE Junior Assistant",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the underlying relationship in the analogy 'painter' is to 'brush' as 'writer' is to 'pen'?",
+            "options": {
+                "A": "The relationship between a profession and its tool",
+                "B": "The relationship between a person and their hobby",
+                "C": "The relationship between a product and its manufacturer",
+                "D": "The relationship between a city and its population"
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because the analogy 'painter' is to 'brush' as 'writer' is to 'pen' illustrates the relationship between a profession and the tool used by that profession. This requires the ability to identify the underlying pattern or connection between the words, which is a key aspect of analogies."
+        },
+        {
+            "question_text": "A code substitutes each letter with the letter three positions ahead of it in the alphabet. What would be the decoded message for the coded word 'KHOOR'?",
+            "options": {
+                "A": "EFGHI",
+                "B": "HELLO",
+                "C": "IFMMP",
+                "D": "INKON"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because to decode the message, we need to reverse the process used for coding. Since each letter is substituted with the letter three positions ahead of it, we need to move three positions back in the alphabet for each letter. Applying this to 'KHOOR', we get 'HELLO'. This requires understanding the pattern or rule used for coding and applying logical deductions to decode the message."
+        },
+        {
+            "question_text": "What is the place value of the digit 5 in the number 456,789?",
+            "options": {
+                "A": "Ones place",
+                "B": "Tens place",
+                "C": "Hundreds place",
+                "D": "Ten thousands place"
+            },
+            "correct_answer": "C",
+            "explanation": "The correct answer is C because in the number 456,789, the digit 5 is in the hundreds place. Understanding place value is essential for performing arithmetic operations efficiently, and recognizing the position of each digit in a number is crucial for this. The place value increases by a factor of 10 as you move from right to left, which helps in identifying the correct position of each digit."
+        },
+        {
+            "question_text": "What is the slope-intercept form of the linear equation 2x + 3y = 7?",
+            "options": {
+                "A": "y = (2/3)x + 7/3",
+                "B": "y = (3/2)x - 7/2",
+                "C": "y = (2/3)x - 7/3",
+                "D": "y = (3/2)x + 7/2"
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because to express the linear equation 2x + 3y = 7 in slope-intercept form (y = mx + b), we need to isolate y. Rearranging the equation gives us 3y = -2x + 7, and then dividing by 3 gives y = (-2/3)x + 7/3. This requires understanding the standard form of a linear equation and applying algebraic manipulations to convert it into slope-intercept form."
+        },
+        {
+            "question_text": "What part of speech is the word 'quickly' in the sentence 'She runs quickly'?",
+            "options": {
+                "A": "Adjective",
+                "B": "Adverb",
+                "C": "Noun",
+                "D": "Verb"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because 'quickly' is an adverb in the sentence 'She runs quickly'. Adverbs modify verbs, adjectives, or other adverbs, and 'quickly' here modifies the verb 'runs', indicating the manner in which the action is performed. Understanding the roles of different parts of speech is crucial for constructing grammatically correct sentences and for effective communication."
+        }
+    ]
+}

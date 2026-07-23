@@ -1,0 +1,26 @@
+{
+    "exam_name": "Non-Technical Popular Categories (NTPC) exam",
+    "raw_syllabus": {
+        "Mathematics": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Elementary Statistics"
+        ],
+        "General Intelligence and Reasoning": [
+            "Analogies",
+            "Completion of Number and Alphabetical Series",
+            "Coding and Decoding",
+            "Mathematical Operations",
+            "Syllogism"
+        ],
+        "General Awareness": [
+            "Current Events",
+            "Indian History",
+            "Geography",
+            "Indian Polity and Governance",
+            "Economy"
+        ]
+    }
+}

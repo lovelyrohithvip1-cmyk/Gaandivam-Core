@@ -1,0 +1,61 @@
+{
+    "exam_name": "Haryana Police Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary purpose of studying current events, and how does it impact our personal and professional lives?",
+            "options": {
+                "A": "To understand historical events and their impact on the present",
+                "B": "To be informed about government policies, elections, and international relations, which can affect our personal finances and career opportunities",
+                "C": "To analyze the social, political, and economic contexts of historical events",
+                "D": "To develop critical thinking skills for problem-solving"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because studying current events is essential for being an informed citizen and for making decisions that impact our personal and professional lives. It helps us understand how government policies, elections, and international relations can affect our personal finances and career opportunities. This requires the application of the concept of current events, as explained in the visionary introduction and core concepts of the General Knowledge chapter."
+        },
+        {
+            "question_text": "How does the study of history provide valuable lessons, and what are the key areas to focus on when analyzing historical events?",
+            "options": {
+                "A": "By understanding the 5 Ws (who, what, when, where, why) and considering the social, political, and economic contexts of the time",
+                "B": "By analyzing the structure of arguments and identifying premises and conclusions",
+                "C": "By recognizing number, letter, and image patterns, and understanding number, letter, and image series",
+                "D": "By applying the order of operations (PEMDAS/BODMAS) and rules for fractions"
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because the study of history provides valuable lessons on governance, conflict resolution, and cultural exchange, among other things. When analyzing historical events, it is essential to consider the social, political, and economic contexts of the time and to use the 5 Ws (who, what, when, where, why) to understand the complexities of the event. This requires the application of the concept of history, as explained in the visionary introduction and core concepts of the General Knowledge chapter."
+        },
+        {
+            "question_text": "What is the difference between deductive and inductive reasoning, and how are they used in logical reasoning?",
+            "options": {
+                "A": "Deductive reasoning involves making a general conclusion from specific instances, while inductive reasoning involves drawing a specific conclusion from one or more general premises",
+                "B": "Deductive reasoning involves drawing a specific conclusion from one or more general premises, while inductive reasoning involves making a general conclusion from specific instances",
+                "C": "Deductive reasoning involves recognizing number, letter, and image patterns, while inductive reasoning involves understanding number, letter, and image series",
+                "D": "Deductive reasoning involves applying the order of operations (PEMDAS/BODMAS), while inductive reasoning involves applying rules for fractions"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because deductive reasoning involves drawing a specific conclusion from one or more general premises, using rules of logic. On the other hand, inductive reasoning involves making a general conclusion from specific instances or observations. This requires the application of the concept of logical reasoning, as explained in the visionary introduction and core concepts of the Reasoning chapter."
+        },
+        {
+            "question_text": "What is the primary purpose of analytical reasoning, and how is it used in problem-solving?",
+            "options": {
+                "A": "To evaluate arguments and make sound judgments using logic",
+                "B": "To analyze information, identify patterns, and solve problems by recognizing number, letter, and image patterns",
+                "C": "To understand the structure of arguments and identify premises and conclusions",
+                "D": "To apply the order of operations (PEMDAS/BODMAS) and rules for fractions"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because analytical reasoning involves analyzing information, identifying patterns, and solving problems. It includes recognizing number, letter, and image patterns, as well as understanding number, letter, and image series. This type of reasoning is crucial for solving puzzles, decoding messages, and interpreting data. This requires the application of the concept of analytical reasoning, as explained in the visionary introduction and core concepts of the Reasoning chapter."
+        },
+        {
+            "question_text": "What is the difference between arithmetic and geometry, and how are they used in mathematical problem-solving?",
+            "options": {
+                "A": "Arithmetic involves the study of shapes, sizes, and positions of objects, while geometry involves the study of numbers and their operations",
+                "B": "Arithmetic involves the study of numbers and their operations, while geometry involves the study of shapes, sizes, and positions of objects",
+                "C": "Arithmetic involves recognizing number, letter, and image patterns, while geometry involves understanding number, letter, and image series",
+                "D": "Arithmetic involves applying the order of operations (PEMDAS/BODMAS), while geometry involves applying rules for fractions"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because arithmetic involves the study of numbers and their operations, including whole numbers, fractions, decimals, and the basic operations of addition, subtraction, multiplication, and division. On the other hand, geometry involves the study of shapes, sizes, and positions of objects, including points, lines, angles, and various types of shapes like triangles, quadrilaterals, and polygons. This requires the application of the concept of arithmetic and geometry, as explained in the visionary introduction and core concepts of the Mathematics chapter."
+        }
+    ]
+}

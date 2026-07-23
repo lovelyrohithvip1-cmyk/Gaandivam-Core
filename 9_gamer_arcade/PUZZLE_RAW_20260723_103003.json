@@ -1,0 +1,40 @@
+{
+    "module_name": "RRB Technician Recruitment Eligibility",
+    "true_false_rapid_fire": [
+        {
+            "statement": "For Technician Grade-I Signal, a candidate must have a strong educational background in engineering.",
+            "is_true": true,
+            "explanation": "The position requires an Engineering Diploma, Engineering Degree, or a Relevant Technical Qualification, emphasizing engineering disciplines."
+        },
+        {
+            "statement": "Technician Grade-III requires a degree in engineering.",
+            "is_true": false,
+            "explanation": "Technician Grade-III focuses on foundational skills acquired through a 10th Pass certificate or an ITI certification in a Relevant Trade."
+        },
+        {
+            "statement": "ITI certification provides students with practical skills for employment in specific trades.",
+            "is_true": true,
+            "explanation": "ITI certification is designed to provide students with the practical skills necessary for employment in trades such as electrical, mechanical, or welding."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Technician Grade-I Signal",
+            "Technician Grade-III",
+            "Engineering Diploma",
+            "ITI Certification"
+        ],
+        "right_column_shuffled": [
+            "10th Pass or ITI in Relevant Trade",
+            "Engineering Diploma, Engineering Degree, or Relevant Technical Qualification",
+            "Provides practical skills for employment in specific trades",
+            "Required for Technician Grade-III"
+        ],
+        "correct_mapping": {
+            "Technician Grade-I Signal": "Engineering Diploma, Engineering Degree, or Relevant Technical Qualification",
+            "Technician Grade-III": "10th Pass or ITI in Relevant Trade",
+            "Engineering Diploma": "Required for Technician Grade-I Signal",
+            "ITI Certification": "Provides practical skills for employment in specific trades"
+        }
+    }
+}

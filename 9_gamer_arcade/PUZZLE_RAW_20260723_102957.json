@@ -1,0 +1,40 @@
+{
+    "module_name": "CBSE Junior Assistant",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Analogies are relationships between words, numbers, or concepts that require a deep understanding of patterns and logical connections.",
+            "is_true": true,
+            "explanation": "Analogies involve identifying relationships between elements, which is a fundamental aspect of logical reasoning."
+        },
+        {
+            "statement": "Coding and decoding always involve encrypting and decrypting messages using numbers.",
+            "is_true": false,
+            "explanation": "Coding and decoding can involve patterns, symbols, or codes, not just numbers, and require a systematic approach to identify the pattern or rule used."
+        },
+        {
+            "statement": "Whole numbers include zero and all positive integers.",
+            "is_true": true,
+            "explanation": "Whole numbers are defined as positive integers, including zero, and form the basis of our number system."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Analogies",
+            "Coding and Decoding",
+            "Linear Equations",
+            "Vocabulary"
+        ],
+        "right_column_shuffled": [
+            "Building a collection of words",
+            "Solving algebraic expressions that can be graphed as straight lines",
+            "Relationships between words, numbers, or concepts",
+            "Encrypting and decrypting messages using patterns or codes"
+        ],
+        "correct_mapping": {
+            "Analogies": "Relationships between words, numbers, or concepts",
+            "Coding and Decoding": "Encrypting and decrypting messages using patterns or codes",
+            "Linear Equations": "Solving algebraic expressions that can be graphed as straight lines",
+            "Vocabulary": "Building a collection of words"
+        }
+    }
+}

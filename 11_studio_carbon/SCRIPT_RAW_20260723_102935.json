@@ -1,0 +1,66 @@
+{
+    "video_title": "Exploring General Awareness, Reasoning, English, and Mathematics for HSSC CET Group C Exam 2025",
+    "target_duration_minutes": "30",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a globe, zooming in on different regions as it spins, with news headlines and historical images flashing by.",
+            "narration_script": "Welcome to our journey through General Awareness, where understanding current events and historical context is key to being informed about the world around us.",
+            "on_screen_text": "General Awareness"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "A 3D model of a nation's government building appears, with animations of policies, elections, and security measures being implemented.",
+            "narration_script": "National news encompasses government policies, elections, and national security, all of which shape the destiny of a nation.",
+            "on_screen_text": "National News: Policies, Elections, Security"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "The globe reappears, with lines connecting different countries, illustrating international trade, diplomacy, and environmental issues.",
+            "narration_script": "International news reflects the interconnectedness of the world, with global economy, international relations, and environmental issues requiring global cooperation.",
+            "on_screen_text": "International News: Global Economy, Relations, Environment"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Ancient civilizations such as the Indus Valley, Vedic Period, and Mauryan Empire are depicted in 3D, with notable achievements and timelines appearing.",
+            "narration_script": "Ancient history is the foundation of modern societies, with civilizations contributing to our cultural, philosophical, and political heritage.",
+            "on_screen_text": "Ancient History: Foundations of Modern Societies"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "Medieval history unfolds with 3D models of the Mughal Empire, Maratha Empire, and British Colonization, highlighting their impacts on contemporary landscapes.",
+            "narration_script": "Medieval history saw the rise and fall of empires that continue to influence contemporary political, social, and cultural landscapes.",
+            "on_screen_text": "Medieval History: Shaping Contemporary Landscapes"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A puzzle pieces together, representing logical reasoning, with syllogisms, arguments, and inferences being constructed and evaluated.",
+            "narration_script": "Deductive reasoning involves drawing specific conclusions from general premises using logical rules, such as syllogisms and evaluating arguments.",
+            "on_screen_text": "Deductive Reasoning: Syllogisms, Arguments, Inferences"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "Patterns, analogies, and abstractions are visually represented, with examples of inductive reasoning being applied to new situations.",
+            "narration_script": "Inductive reasoning is about making generalizations or drawing conclusions based on specific observations, recognizing patterns, and understanding analogies.",
+            "on_screen_text": "Inductive Reasoning: Patterns, Analogies, Abstractions"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Visual and spatial reasoning skills are demonstrated through 3D puzzles, shape recognition, and spatial relationships.",
+            "narration_script": "Visual and spatial reasoning involve using visual information to solve problems, understanding shapes, recognizing patterns, and interpreting images and spatial relationships.",
+            "on_screen_text": "Visual and Spatial Reasoning: Solving 3D Puzzles"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "Parts of speech are animated, with examples and usage rules appearing on screen, followed by sentence structures being built and deconstructed.",
+            "narration_script": "Mastering parts of speech and sentence structures is vital for effective communication, with understanding the function and usage of each part of speech and how words are arranged to form sentences.",
+            "on_screen_text": "Parts of Speech and Sentence Structure"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "A book opens, with pages turning to reveal reading comprehension strategies, passage analysis, and question types, followed by writing skills being demonstrated.",
+            "narration_script": "Reading comprehension involves understanding, interpreting, and analyzing texts, while writing skills are essential for expressing thoughts, ideas, and opinions in a clear and coherent manner.",
+            "on_screen_text": "Reading Comprehension and Writing Skills"
+        }
+    ]
+}

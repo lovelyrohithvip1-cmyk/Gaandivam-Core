@@ -1,0 +1,84 @@
+{
+    "exam_name": "UP Police Constable",
+    "chyme_granular_syllabus": {
+        "General Knowledge": {
+            "Current Events": {
+                "National News": [
+                    "Government Policies",
+                    "Elections",
+                    "Natural Disasters"
+                ],
+                "International News": [
+                    "Global Economy",
+                    "International Relations",
+                    "Major International Events"
+                ]
+            },
+            "History": {
+                "Ancient History": [
+                    "Indus Valley Civilization",
+                    "Vedic Period",
+                    "Mauryan Empire"
+                ],
+                "Medieval History": [
+                    "Mughal Empire",
+                    "British Colonization",
+                    "Indian Freedom Struggle"
+                ]
+            }
+        },
+        "Reasoning": {
+            "Logical Reasoning": {
+                "Deductive Reasoning": [
+                    "Syllogisms",
+                    "Arguments",
+                    "Inferences"
+                ],
+                "Inductive Reasoning": [
+                    "Patterns",
+                    "Analogies",
+                    "Series Completion"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Visual Reasoning": [
+                    "Image Completion",
+                    "Mirror Images",
+                    "Paper Folding"
+                ],
+                "Spatial Reasoning": [
+                    "Direction Sense",
+                    "Distance Sense",
+                    "Spatial Visualization"
+                ]
+            }
+        },
+        "Hindi": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Literature": {
+                "Poetry": [
+                    "Types of Poetry",
+                    "Poetic Devices",
+                    "Famous Poets"
+                ],
+                "Prose": [
+                    "Types of Prose",
+                    "Literary Devices",
+                    "Famous Authors"
+                ]
+            }
+        }
+    }
+}

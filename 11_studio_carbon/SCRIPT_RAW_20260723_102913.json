@@ -1,0 +1,78 @@
+{
+    "video_title": "AAI ATC Junior Executive Exam Prep",
+    "target_duration_minutes": "30",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D globe with English words floating around it",
+            "narration_script": "Welcome to the AAI ATC Junior Executive Exam Prep video! In today's interconnected world, mastering English comprehension and grammar is crucial for effective expression and understanding.",
+            "on_screen_text": "English Comprehension and Grammar Fundamentals"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "3D animation of a magnifying glass zooming in on a passage",
+            "narration_script": "To identify the main idea of a passage, look for repetitive keywords, transitional phrases, and the introduction or conclusion, where the author often states the main point explicitly.",
+            "on_screen_text": "Main Idea = Central Theme + Author's Purpose"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "3D animation of a context puzzle being solved",
+            "narration_script": "Understanding the context of a passage is vital for accurate interpretation. Consider the historical period, cultural background, and the author's tone and language to grasp the context.",
+            "on_screen_text": "Context = Situation + Background + Environment"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "3D animation of a word being broken down into its components",
+            "narration_script": "Understanding word meanings is fundamental to reading comprehension and effective communication. Consider the word's denotation, connotation, and any prefixes, suffixes, or roots that may affect its meaning.",
+            "on_screen_text": "Word Meaning = Denotation + Connotation + Prefixes/Suffixes/Roots"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "3D animation of a timeline with past, present, and future tenses marked",
+            "narration_script": "Mastering tenses is essential for clear and accurate communication. The three main tenses are past, present, and future, each with its own set of rules and applications.",
+            "on_screen_text": "Tense = Time + Action + Context"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "3D animation of a reasoning puzzle being solved",
+            "narration_script": "Reasoning is the process of drawing conclusions based on evidence and logic. It's a vital skill for problem-solving, critical thinking, and decision-making.",
+            "on_screen_text": "Reasoning = Evidence + Logic + Conclusion"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "3D animation of a deductive reasoning tree",
+            "narration_script": "Deductive reasoning involves drawing conclusions based on given premises using logical rules. It's a top-down approach, where a general statement is used to make a specific conclusion.",
+            "on_screen_text": "Deductive Reasoning = Premises + Logical Rules + Conclusion"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "3D animation of an inductive reasoning pattern",
+            "narration_script": "Inductive reasoning involves making generalizations based on specific observations. It's a bottom-up approach, where specific instances are used to make a general conclusion.",
+            "on_screen_text": "Inductive Reasoning = Observations + Patterns + Generalization"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "3D animation of a spatial reasoning puzzle being solved",
+            "narration_script": "Spatial reasoning involves visualizing and understanding the relationships between objects in space. It's essential for problem-solving and navigating our environment.",
+            "on_screen_text": "Spatial Reasoning = Visualization + Relationships + Navigation"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "3D animation of a map of India with historical and geographical features marked",
+            "narration_script": "History and geography are fundamental subjects that help us understand the world and its complexities. Let's explore the history of India and the world, as well as the geography of India and the world.",
+            "on_screen_text": "History and Geography"
+        },
+        {
+            "scene_number": 11,
+            "visual_prompt_for_3D_engine": "3D animation of an algebraic equation being solved",
+            "narration_script": "Mathematics is the language of science and technology, and algebra is one of its fundamental branches. Let's explore the basics of algebra, including equations and functions.",
+            "on_screen_text": "Algebra = Equations + Functions"
+        },
+        {
+            "scene_number": 12,
+            "visual_prompt_for_3D_engine": "3D animation of a geometric shape being constructed",
+            "narration_script": "Geometry is another fundamental branch of mathematics, dealing with points, lines, and shapes. Let's explore the principles of geometry and its applications.",
+            "on_screen_text": "Geometry = Points + Lines + Shapes"
+        }
+    ]
+}

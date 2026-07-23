@@ -1,0 +1,40 @@
+{
+    "module_name": "MNSS Rai Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "The Indus Valley Civilization thrived from 3300 to 1300 BCE.",
+            "is_true": true,
+            "explanation": "The Indus Valley Civilization was a sophisticated urban culture that thrived over 4,000 years ago in the Indus Valley region, with key dates ranging from 3300 to 1300 BCE."
+        },
+        {
+            "statement": "The Mughal Empire ruled from 1206 to 1526 CE.",
+            "is_true": false,
+            "explanation": "The Delhi Sultanate ruled from 1206 to 1526 CE, while the Mughal Empire ruled from 1526 to 1756 CE."
+        },
+        {
+            "statement": "The cell membrane is a thin layer of lipid and protein molecules that surrounds the cell and regulates the movement of materials in and out.",
+            "is_true": true,
+            "explanation": "The cell membrane is indeed a thin layer of lipid and protein molecules that surrounds the cell and regulates the movement of materials in and out, as part of the cell structure."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Indus Valley Civilization",
+            "Mughal Empire",
+            "Cell Membrane",
+            "Deductive Reasoning"
+        ],
+        "right_column_shuffled": [
+            "Deductive Reasoning",
+            "Cell Membrane",
+            "Mughal Empire",
+            "Indus Valley Civilization"
+        ],
+        "correct_mapping": {
+            "Indus Valley Civilization": "Indus Valley Civilization",
+            "Mughal Empire": "Mughal Empire",
+            "Cell Membrane": "Cell Membrane",
+            "Deductive Reasoning": "Deductive Reasoning"
+        }
+    }
+}

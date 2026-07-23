@@ -1,0 +1,226 @@
+{
+    "exam_name": "RRB Group D",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Number System": {
+                "Whole Numbers": [
+                    "Place Value",
+                    "Comparison",
+                    "Operations"
+                ],
+                "Decimals": [
+                    "Introduction",
+                    "Operations",
+                    "Conversion"
+                ],
+                "Fractions": [
+                    "Introduction",
+                    "Operations",
+                    "Conversion"
+                ]
+            },
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations"
+                ],
+                "Graphs": [
+                    "Introduction",
+                    "Types of Graphs"
+                ],
+                "Functions": [
+                    "Introduction",
+                    "Types of Functions"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Introduction",
+                    "Properties"
+                ],
+                "Angles and Shapes": [
+                    "Introduction",
+                    "Properties",
+                    "Theorems"
+                ],
+                "Mensuration": [
+                    "Introduction",
+                    "Perimeter",
+                    "Area",
+                    "Volume"
+                ]
+            },
+            "Trigonometry": {
+                "Introduction": [
+                    "Definition",
+                    "Types of Angles"
+                ],
+                "Trigonometric Ratios": [
+                    "Sine",
+                    "Cosine",
+                    "Tangent"
+                ],
+                "Trigonometric Identities": [
+                    "Pythagorean Identity",
+                    "Sum and Difference Formulas"
+                ]
+            },
+            "Statistics": {
+                "Introduction": [
+                    "Definition",
+                    "Types of Data"
+                ],
+                "Graphical Representation": [
+                    "Bar Graphs",
+                    "Pie Charts",
+                    "Line Graphs"
+                ],
+                "Measures of Central Tendency": [
+                    "Mean",
+                    "Median",
+                    "Mode"
+                ]
+            }
+        },
+        "Science": {
+            "Physics": {
+                "Motion": [
+                    "Introduction",
+                    "Types of Motion",
+                    "Equations of Motion"
+                ],
+                "Forces": [
+                    "Introduction",
+                    "Types of Forces",
+                    "Newton's Laws"
+                ],
+                "Energy": [
+                    "Introduction",
+                    "Types of Energy",
+                    "Energy Transfer"
+                ]
+            },
+            "Chemistry": {
+                "Introduction": [
+                    "Definition",
+                    "Branches of Chemistry"
+                ],
+                "Atomic Structure": [
+                    "Introduction",
+                    "Atomic Models",
+                    "Electron Configuration"
+                ],
+                "Chemical Bonding": [
+                    "Introduction",
+                    "Types of Chemical Bonds",
+                    "Properties of Chemical Bonds"
+                ]
+            },
+            "Biology": {
+                "Introduction": [
+                    "Definition",
+                    "Branches of Biology"
+                ],
+                "Cell Biology": [
+                    "Introduction",
+                    "Cell Structure",
+                    "Cell Functions"
+                ],
+                "Genetics": [
+                    "Introduction",
+                    "Mendel's Laws",
+                    "DNA Structure"
+                ]
+            }
+        },
+        "General Intelligence and Reasoning": {
+            "Verbal Reasoning": {
+                "Analogies": [
+                    "Introduction",
+                    "Types of Analogies",
+                    "Solving Analogies"
+                ],
+                "Syllogisms": [
+                    "Introduction",
+                    "Types of Syllogisms",
+                    "Solving Syllogisms"
+                ],
+                "Logical Reasoning": [
+                    "Introduction",
+                    "Types of Logical Reasoning",
+                    "Solving Logical Reasoning"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Visual Reasoning": [
+                    "Introduction",
+                    "Types of Visual Reasoning",
+                    "Solving Visual Reasoning"
+                ],
+                "Spatial Reasoning": [
+                    "Introduction",
+                    "Types of Spatial Reasoning",
+                    "Solving Spatial Reasoning"
+                ],
+                "Pattern Recognition": [
+                    "Introduction",
+                    "Types of Patterns",
+                    "Solving Pattern Recognition"
+                ]
+            }
+        },
+        "General Awareness": {
+            "History": {
+                "Ancient History": [
+                    "Introduction",
+                    "Ancient Civilizations",
+                    "Important Events"
+                ],
+                "Medieval History": [
+                    "Introduction",
+                    "Medieval Period",
+                    "Important Events"
+                ],
+                "Modern History": [
+                    "Introduction",
+                    "Modern Period",
+                    "Important Events"
+                ]
+            },
+            "Geography": {
+                "Physical Geography": [
+                    "Introduction",
+                    "Types of Landforms",
+                    "Climate and Weather"
+                ],
+                "Human Geography": [
+                    "Introduction",
+                    "Population",
+                    "Settlements"
+                ],
+                "Economic Geography": [
+                    "Introduction",
+                    "Natural Resources",
+                    "Agriculture"
+                ]
+            },
+            "Polity": {
+                "Introduction": [
+                    "Definition",
+                    "Types of Governments"
+                ],
+                "Constitution": [
+                    "Introduction",
+                    "Preamble",
+                    "Fundamental Rights"
+                ],
+                "Governance": [
+                    "Introduction",
+                    "Executive",
+                    "Legislature",
+                    "Judiciary"
+                ]
+            }
+        }
+    }
+}

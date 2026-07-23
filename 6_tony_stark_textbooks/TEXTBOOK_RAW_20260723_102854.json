@@ -1,0 +1,73 @@
+{
+    "exam_name": "10th & 12th Board Exams 2026",
+    "textbook_content": [
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Algebra",
+            "visionary_introduction": "Algebra, a branch of mathematics that deals with variables and their relationships, has its roots in ancient civilizations, with significant contributions from Greek mathematicians like Diophantus and Indian mathematicians like Aryabhata. Over time, algebra has evolved, influencing various fields such as science, engineering, and economics. Its importance lies in its ability to model real-world problems, making it an indispensable tool for problem-solving and critical thinking.",
+            "core_concepts": [
+                {
+                    "concept_name": "Linear Equations",
+                    "innovative_explanation": "Linear equations are equations in which the highest power of the variable(s) is 1. They can be represented in the form of ax + b = c, where a, b, and c are constants, and x is the variable. These equations can be graphically represented as straight lines, with the slope of the line being -a/b. Linear equations have numerous applications in real-life scenarios, such as calculating distances, speeds, and costs.",
+                    "formulas_or_key_facts": "ax + b = c, where a ≠ 0"
+                },
+                {
+                    "concept_name": "Quadratic Equations",
+                    "innovative_explanation": "Quadratic equations are polynomial equations of degree two, which means the highest power of the variable is 2. They can be represented in the form of ax^2 + bx + c = 0, where a, b, and c are constants, and x is the variable. These equations can be solved using various methods, including factoring, the quadratic formula, and graphing. Quadratic equations have numerous applications in physics, engineering, and computer science, such as modeling projectile motion and designing electronic circuits.",
+                    "formulas_or_key_facts": "ax^2 + bx + c = 0, x = (-b ± √(b^2 - 4ac)) / 2a"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Geometry",
+            "visionary_introduction": "Geometry, a branch of mathematics that deals with the study of shapes, sizes, and positions of objects, has its roots in ancient civilizations, with significant contributions from Greek mathematicians like Euclid and Archimedes. Over time, geometry has evolved, influencing various fields such as architecture, engineering, and art. Its importance lies in its ability to describe the physical world, making it an indispensable tool for problem-solving and critical thinking.",
+            "core_concepts": [
+                {
+                    "concept_name": "Midpoint Theorem",
+                    "innovative_explanation": "The midpoint theorem states that the line segment joining the midpoints of two sides of a triangle is parallel to the third side and half of its length. This theorem has numerous applications in geometry, such as proving the congruence of triangles and finding the centroids of triangles.",
+                    "formulas_or_key_facts": "(x1 + x2)/2, (y1 + y2)/2"
+                },
+                {
+                    "concept_name": "Distance Formula",
+                    "innovative_explanation": "The distance formula is used to find the distance between two points in a coordinate plane. It is derived from the Pythagorean theorem and can be represented as √((x2 - x1)^2 + (y2 - y1)^2). This formula has numerous applications in geometry, such as finding the lengths of line segments and calculating the distances between objects.",
+                    "formulas_or_key_facts": "√((x2 - x1)^2 + (y2 - y1)^2)"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter_title": "Physics",
+            "visionary_introduction": "Physics, a branch of science that deals with the study of matter, energy, and the fundamental laws that govern the behavior of the physical universe, has its roots in ancient civilizations, with significant contributions from Greek philosophers like Aristotle and Archimedes. Over time, physics has evolved, influencing various fields such as engineering, technology, and medicine. Its importance lies in its ability to describe the natural world, making it an indispensable tool for problem-solving and critical thinking.",
+            "core_concepts": [
+                {
+                    "concept_name": "Kinematics",
+                    "innovative_explanation": "Kinematics is the branch of physics that deals with the study of motion, without considering the forces that cause the motion. It involves the description of motion in terms of displacement, velocity, and acceleration. Kinematics has numerous applications in real-life scenarios, such as calculating the motion of objects, designing electronic circuits, and modeling the behavior of complex systems.",
+                    "formulas_or_key_facts": "v = dx/dt, a = dv/dt"
+                },
+                {
+                    "concept_name": "Dynamics",
+                    "innovative_explanation": "Dynamics is the branch of physics that deals with the study of motion, considering the forces that cause the motion. It involves the description of motion in terms of force, mass, and acceleration. Dynamics has numerous applications in real-life scenarios, such as calculating the motion of objects, designing electronic circuits, and modeling the behavior of complex systems.",
+                    "formulas_or_key_facts": "F = ma, F = dp/dt"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter_title": "Chemistry",
+            "visionary_introduction": "Chemistry, a branch of science that deals with the study of matter, its properties, and the changes it undergoes, has its roots in ancient civilizations, with significant contributions from Greek philosophers like Empedocles and Aristotle. Over time, chemistry has evolved, influencing various fields such as medicine, technology, and environmental science. Its importance lies in its ability to describe the composition and behavior of matter, making it an indispensable tool for problem-solving and critical thinking.",
+            "core_concepts": [
+                {
+                    "concept_name": "Periodic Table",
+                    "innovative_explanation": "The periodic table is a tabular arrangement of the elements, organized by their atomic number, electron configuration, and recurring chemical properties. The elements are listed in order of increasing atomic number and are grouped into rows called periods and columns called groups. The periodic table has numerous applications in chemistry, such as predicting the properties of elements and understanding the behavior of compounds.",
+                    "formulas_or_key_facts": "Atomic number, Electron configuration"
+                },
+                {
+                    "concept_name": "Chemical Bonding",
+                    "innovative_explanation": "Chemical bonding is the process by which atoms share or exchange electrons to form compounds. There are several types of chemical bonds, including covalent bonds, ionic bonds, and metallic bonds. Chemical bonding has numerous applications in chemistry, such as understanding the properties of compounds and predicting the behavior of molecules.",
+                    "formulas_or_key_facts": "Covalent bonds: sharing of electrons, Ionic bonds: transfer of electrons"
+                }
+            ]
+        }
+    ]
+}

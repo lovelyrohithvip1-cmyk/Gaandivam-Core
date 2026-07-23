@@ -1,0 +1,40 @@
+{
+    "module_name": "Introduction to Child Development and Pedagogy",
+    "true_false_rapid_fire": [
+        {
+            "statement": "According to Piaget's theory, children progress through a series of stages, each characterized by a unique way of thinking and understanding the world.",
+            "is_true": true,
+            "explanation": "Piaget's theory states that children progress through a series of stages, including Sensorimotor, Preoperational, Concrete Operational, and Formal Operational."
+        },
+        {
+            "statement": "Vygotsky's zone of proximal development refers to the range of tasks that a child can accomplish independently.",
+            "is_true": false,
+            "explanation": "Vygotsky's zone of proximal development refers to the range of tasks that a child can accomplish with guidance and support."
+        },
+        {
+            "statement": "Child development is influenced by a complex interplay of genetic, environmental, and socio-cultural factors.",
+            "is_true": true,
+            "explanation": "Child development is indeed influenced by a complex interplay of genetic, environmental, and socio-cultural factors."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Cognitive Development",
+            "Social Development",
+            "Sensorimotor Stage",
+            "Zone of Proximal Development"
+        ],
+        "right_column_shuffled": [
+            "Vygotsky's theory",
+            "Sensorimotor Stage",
+            "Zone of Proximal Development",
+            "Piaget's theory"
+        ],
+        "correct_mapping": {
+            "Cognitive Development": "Piaget's theory",
+            "Social Development": "Vygotsky's theory",
+            "Sensorimotor Stage": "Piaget's theory",
+            "Zone of Proximal Development": "Vygotsky's theory"
+        }
+    }
+}

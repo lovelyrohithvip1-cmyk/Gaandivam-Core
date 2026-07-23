@@ -1,0 +1,61 @@
+{
+    "exam_name": "JNU Delhi Non-Teaching Recruitment 2026",
+    "textbook_content": [
+        {
+            "subject": "General Intelligence",
+            "chapter_title": "Reasoning and Problem Solving",
+            "visionary_introduction": "The art of reasoning and problem-solving has been the cornerstone of human intelligence since the dawn of civilization. From ancient philosophers like Aristotle, who laid the foundations of logical reasoning, to modern-day psychologists, who continue to unravel the mysteries of the human mind, the ability to reason and solve problems has been the key to progress and innovation. In this chapter, we will delve into the fascinating world of logical and non-verbal reasoning, as well as problem-solving, and explore the concepts and techniques that will help you excel in these areas.",
+            "core_concepts": [
+                {
+                    "concept_name": "Syllogism",
+                    "innovative_explanation": "Syllogism is a form of logical reasoning that involves drawing conclusions from two or more premises. It is a powerful tool for evaluating arguments and making informed decisions. To master syllogism, it's essential to understand the different types of premises, such as categorical, conditional, and disjunctive, and how to combine them to form valid conclusions.",
+                    "formulas_or_key_facts": "All A are B, All B are C, ∴ All A are C"
+                },
+                {
+                    "concept_name": "Statement and Conclusion",
+                    "innovative_explanation": "This concept involves evaluating a statement and determining the conclusion that can be logically drawn from it. It requires analyzing the statement, identifying the key elements, and using logical rules to arrive at a conclusion. To excel in this area, it's crucial to understand the different types of statements, such as universal, particular, and negative, and how to apply logical rules to arrive at a valid conclusion.",
+                    "formulas_or_key_facts": "Statement: All employees are required to attend the meeting. Conclusion: ∴ John, being an employee, is required to attend the meeting."
+                },
+                {
+                    "concept_name": "Course of Action",
+                    "innovative_explanation": "This concept involves evaluating a situation and determining the most appropriate course of action. It requires analyzing the situation, identifying the key elements, and using logical rules to arrive at a decision. To master this concept, it's essential to understand the different types of situations, such as problems, opportunities, and challenges, and how to apply logical rules to determine the best course of action.",
+                    "formulas_or_key_facts": "Situation: The company is facing a financial crisis. Course of Action: ∴ Reduce expenses, increase revenue, and explore new funding options."
+                }
+            ]
+        },
+        {
+            "subject": "Quantitative Aptitude",
+            "chapter_title": "Arithmetic and Data Interpretation",
+            "visionary_introduction": "Quantitative aptitude is the foundation of mathematical reasoning, and arithmetic is its core. From ancient civilizations like the Babylonians, who developed the concept of zero, to modern-day mathematicians, who continue to push the boundaries of mathematical knowledge, arithmetic has been the language of science and technology. In this chapter, we will explore the fascinating world of arithmetic, algebra, and data interpretation, and discover the concepts and techniques that will help you excel in these areas.",
+            "core_concepts": [
+                {
+                    "concept_name": "Number System",
+                    "innovative_explanation": "The number system is the foundation of arithmetic, and it involves the study of numbers and their properties. To master this concept, it's essential to understand the different types of numbers, such as integers, fractions, and decimals, and how to perform operations like addition, subtraction, multiplication, and division.",
+                    "formulas_or_key_facts": "Integers: ..., -3, -2, -1, 0, 1, 2, 3, ...; Fractions: 1/2, 3/4, 2/3; Decimals: 0.5, 0.25, 0.75"
+                },
+                {
+                    "concept_name": "Algebra",
+                    "innovative_explanation": "Algebra is the study of variables and their relationships, and it involves the use of symbols, equations, and formulas to solve problems. To excel in algebra, it's crucial to understand the different types of equations, such as linear, quadratic, and polynomial, and how to solve them using various techniques like factoring, graphing, and substitution.",
+                    "formulas_or_key_facts": "Linear Equation: 2x + 3 = 5; Quadratic Equation: x^2 + 4x + 4 = 0; Polynomial Equation: x^3 + 2x^2 - 7x - 12 = 0"
+                }
+            ]
+        },
+        {
+            "subject": "English Language",
+            "chapter_title": "Comprehension and Grammar",
+            "visionary_introduction": "The English language is a powerful tool for communication, and comprehension and grammar are its core components. From ancient writers like Shakespeare, who mastered the art of language, to modern-day authors, who continue to push the boundaries of literary expression, the ability to comprehend and use language effectively has been the key to success. In this chapter, we will explore the fascinating world of comprehension and grammar, and discover the concepts and techniques that will help you excel in these areas.",
+            "core_concepts": [
+                {
+                    "concept_name": "Reading Comprehension",
+                    "innovative_explanation": "Reading comprehension is the ability to understand and interpret written text, and it involves the use of various techniques like skimming, scanning, and close reading. To master this concept, it's essential to understand the different types of texts, such as fiction, non-fiction, and poetry, and how to apply comprehension strategies like identifying main ideas, making inferences, and evaluating arguments.",
+                    "formulas_or_key_facts": "Main Idea: The central idea or message of the text; Inference: A conclusion drawn from the text based on evidence; Argument: A claim or statement supported by evidence"
+                },
+                {
+                    "concept_name": "Error Detection",
+                    "innovative_explanation": "Error detection is the ability to identify and correct errors in language, and it involves the use of various techniques like proofreading and editing. To excel in this area, it's crucial to understand the different types of errors, such as grammatical, punctuation, and spelling, and how to apply correction strategies like using grammar and spell check tools, and seeking feedback from others.",
+                    "formulas_or_key_facts": "Subject-Verb Agreement: The subject and verb must agree in number; Tense: The verb must be in the correct tense; Modals: The use of modal verbs like can, could, and may"
+                }
+            ]
+        }
+    ]
+}

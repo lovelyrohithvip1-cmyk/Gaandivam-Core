@@ -1,0 +1,83 @@
+{
+    "exam_name": "JNU Delhi Non-Teaching Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "General Intelligence": {
+            "Reasoning": {
+                "Logical Reasoning": [
+                    "Syllogism",
+                    "Statement and Conclusion",
+                    "Course of Action",
+                    "Analogy"
+                ],
+                "Non-Verbal Reasoning": [
+                    "Series",
+                    "Pattern Completion",
+                    "Mirror Images",
+                    "Paper Folding"
+                ]
+            },
+            "Problem Solving": {
+                "Number Series": [
+                    "Simple Number Series",
+                    "Mixed Series",
+                    "Alphabet Series"
+                ],
+                "Data Sufficiency": [
+                    "Logical Data Sufficiency",
+                    "Numerical Data Sufficiency"
+                ]
+            }
+        },
+        "Quantitative Aptitude": {
+            "Arithmetic": {
+                "Number System": [
+                    "Divisibility",
+                    "HCF and LCM",
+                    "Decimal Fractions"
+                ],
+                "Algebra": [
+                    "Equations",
+                    "Inequalities",
+                    "Graphs"
+                ]
+            },
+            "Data Interpretation": {
+                "Tables": [
+                    "Simple Tables",
+                    "Complex Tables"
+                ],
+                "Graphs": [
+                    "Bar Graphs",
+                    "Line Graphs",
+                    "Pie Charts"
+                ]
+            }
+        },
+        "English Language": {
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Passage Completion",
+                    "Summary",
+                    "Inference"
+                ],
+                "Vocabulary": [
+                    "Synonyms",
+                    "Antonyms",
+                    "Word Usage"
+                ]
+            },
+            "Grammar": {
+                "Error Detection": [
+                    "Subject-Verb Agreement",
+                    "Tense",
+                    "Modals"
+                ],
+                "Sentence Improvement": [
+                    "Simple Sentence",
+                    "Complex Sentence",
+                    "Compound Sentence"
+                ]
+            }
+        }
+    }
+}

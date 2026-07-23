@@ -1,0 +1,40 @@
+{
+    "module_name": "UTET-I & II 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Child development refers to the holistic growth and maturation of children, encompassing physical, cognitive, emotional, and social aspects.",
+            "is_true": true,
+            "explanation": "Child development is a dynamic, interactive process influenced by both genetic and environmental factors."
+        },
+        {
+            "statement": "The number system includes only natural numbers and whole numbers.",
+            "is_true": false,
+            "explanation": "The number system includes natural numbers, whole numbers, integers, rational numbers, and real numbers."
+        },
+        {
+            "statement": "Reading comprehension involves the ability to understand, interpret, and analyze written texts.",
+            "is_true": true,
+            "explanation": "Effective reading comprehension is vital for academic success and lifelong learning."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Child Development",
+            "Number System",
+            "Reading Comprehension",
+            "Shelter"
+        ],
+        "right_column_shuffled": [
+            "Refers to the holistic growth and maturation of children",
+            "Includes natural numbers, whole numbers, integers, rational numbers, and real numbers",
+            "Provides protection from environmental elements and a sense of security",
+            "Involves the ability to understand, interpret, and analyze written texts"
+        ],
+        "correct_mapping": {
+            "Child Development": "Refers to the holistic growth and maturation of children",
+            "Number System": "Includes natural numbers, whole numbers, integers, rational numbers, and real numbers",
+            "Reading Comprehension": "Involves the ability to understand, interpret, and analyze written texts",
+            "Shelter": "Provides protection from environmental elements and a sense of security"
+        }
+    }
+}

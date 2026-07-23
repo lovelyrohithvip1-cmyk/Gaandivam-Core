@@ -1,0 +1,61 @@
+{
+    "exam_name": "Agniveer Common Entrance Exam (CEE) 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "A person engages in regular aerobic exercise for 30 minutes per session, three times a week. What is the primary benefit of this exercise regimen in terms of physical fitness?",
+            "options": {
+                "A": "Improved muscular strength",
+                "B": "Enhanced cardiovascular endurance",
+                "C": "Increased flexibility",
+                "D": "Better balance and coordination"
+            },
+            "correct_answer": "B",
+            "explanation": "The primary benefit of regular aerobic exercise is the improvement of cardiovascular endurance, which refers to the ability of the heart, lungs, and blood vessels to supply oxygen and nutrients to the muscles during prolonged periods of physical activity. This is because aerobic exercise, such as jogging or cycling, strengthens the heart and lungs, allowing them to function more efficiently and increasing the body's ability to transport oxygen and nutrients to the muscles."
+        },
+        {
+            "question_text": "A company's financial statements include a balance sheet, income statement, and cash flow statement. What is the primary purpose of these statements?",
+            "options": {
+                "A": "To provide information about the company's management structure",
+                "B": "To disclose the company's marketing strategies",
+                "C": "To provide information about the company's financial performance and position",
+                "D": "To outline the company's human resources policies"
+            },
+            "correct_answer": "C",
+            "explanation": "The primary purpose of a company's financial statements is to provide information about its financial performance and position. The balance sheet shows the company's assets, liabilities, and equity at a specific point in time, while the income statement and cash flow statement provide information about the company's revenues, expenses, and cash flows over a specific period. This information is essential for investors, creditors, and other stakeholders to make informed decisions about the company."
+        },
+        {
+            "question_text": "A microcontroller is a small computer used in embedded systems. What is the primary component of a microcontroller?",
+            "options": {
+                "A": "Memory",
+                "B": "Input/Output interfaces",
+                "C": "CPU",
+                "D": "Power supply"
+            },
+            "correct_answer": "C",
+            "explanation": "The primary component of a microcontroller is the Central Processing Unit (CPU), which executes instructions and performs calculations. The CPU is the brain of the microcontroller and is responsible for controlling the other components, such as memory and input/output interfaces. The CPU's architecture, such as the Von Neumann architecture, determines how the microcontroller processes information and executes instructions."
+        },
+        {
+            "question_text": "A person uses the Pomodoro Technique to manage their time. What is the primary benefit of this technique?",
+            "options": {
+                "A": "Improved multitasking skills",
+                "B": "Increased productivity",
+                "C": "Enhanced creativity",
+                "D": "Better communication skills"
+            },
+            "correct_answer": "B",
+            "explanation": "The primary benefit of the Pomodoro Technique is increased productivity. This technique involves working in focused, 25-minute increments, followed by a five-minute break. By eliminating distractions and minimizing burnout, the Pomodoro Technique helps individuals stay focused and maintain a sustainable work pace, leading to increased productivity and better time management."
+        },
+        {
+            "question_text": "A machine tool is used to manufacture a component. What is the primary factor that determines the cutting speed of the machine tool?",
+            "options": {
+                "A": "Material properties",
+                "B": "Tool geometry",
+                "C": "Cutting speed formula: v = π x d x n / 1000",
+                "D": "Machine power"
+            },
+            "correct_answer": "C",
+            "explanation": "The primary factor that determines the cutting speed of a machine tool is the cutting speed formula: v = π x d x n / 1000, where v is the cutting speed, d is the diameter of the tool, and n is the rotational speed of the tool. This formula takes into account the tool's geometry and the machine's rotational speed to calculate the optimal cutting speed for a specific operation."
+        }
+    ]
+}

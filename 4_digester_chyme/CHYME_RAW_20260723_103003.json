@@ -1,0 +1,22 @@
+{
+    "exam_name": "RRB Technician Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Technician Grade-I Signal": {
+            "Eligibility Criteria": {
+                "Educational Qualification": [
+                    "Engineering Diploma",
+                    "Engineering Degree",
+                    "Relevant Technical Qualification"
+                ]
+            }
+        },
+        "Technician Grade-III": {
+            "Eligibility Criteria": {
+                "Educational Qualification": [
+                    "10th Pass",
+                    "ITI in Relevant Trade"
+                ]
+            }
+        }
+    }
+}

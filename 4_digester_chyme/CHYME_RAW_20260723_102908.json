@@ -1,0 +1,79 @@
+{
+    "exam_name": "Chandigarh Administration Clerk & Typist",
+    "chyme_granular_syllabus": {
+        "Clerk": {
+            "Graduate Level Topics": {
+                "General Knowledge": [
+                    "Current Events",
+                    "History",
+                    "Geography"
+                ],
+                "Mathematics": [
+                    "Algebra",
+                    "Geometry",
+                    "Trigonometry"
+                ],
+                "English": [
+                    "Grammar",
+                    "Vocabulary",
+                    "Comprehension"
+                ]
+            },
+            "Typing Skills": {
+                "Keyboard Familiarity": [
+                    "Hand Position",
+                    "Finger Placement",
+                    "Typing Speed"
+                ],
+                "Document Preparation": [
+                    "Letter Writing",
+                    "Report Writing",
+                    "Table Creation"
+                ]
+            }
+        },
+        "Steno – Typist": {
+            "Graduate Level Topics": {
+                "General Knowledge": [
+                    "Current Events",
+                    "History",
+                    "Geography"
+                ],
+                "Mathematics": [
+                    "Algebra",
+                    "Geometry",
+                    "Trigonometry"
+                ],
+                "English": [
+                    "Grammar",
+                    "Vocabulary",
+                    "Comprehension"
+                ]
+            },
+            "Typing Skills": {
+                "Keyboard Familiarity": [
+                    "Hand Position",
+                    "Finger Placement",
+                    "Typing Speed"
+                ],
+                "Document Preparation": [
+                    "Letter Writing",
+                    "Report Writing",
+                    "Table Creation"
+                ]
+            },
+            "Stenography Skills": {
+                "Shorthand Writing": [
+                    "Symbolism",
+                    "Phonetics",
+                    "Transcription"
+                ],
+                "Audio Recording": [
+                    "Equipment Handling",
+                    "Sound Quality",
+                    "Transcription Techniques"
+                ]
+            }
+        }
+    }
+}

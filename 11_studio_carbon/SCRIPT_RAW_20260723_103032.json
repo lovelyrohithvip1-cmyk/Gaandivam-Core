@@ -1,0 +1,42 @@
+{
+    "video_title": "ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026: Unlocking Success",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a futuristic, glowing 3D representation of the ISRO logo, transitioning into a dynamic, animated backdrop of books, laptops, and professional settings.",
+            "narration_script": "Welcome to the journey of unlocking success in the ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026. The foundation of any successful career, especially in prestigious organizations like ISRO, begins with a strong educational background.",
+            "on_screen_text": "ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Animated 3D models of graduation caps and diplomas appear, with books and academic symbols swirling around them, symbolizing the importance of education.",
+            "narration_script": "Understanding the graduation requirements and eligibility criteria is crucial for aspiring candidates. This involves meeting specific academic standards, such as having a minimum of 60% marks or a CGPA of 6.32/10 in their graduation.",
+            "on_screen_text": "Minimum 60% Marks or CGPA 6.32/10"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "The scene transitions to a 3D animated computer lab, with characters typing on keyboards and interacting with software, highlighting computer proficiency.",
+            "narration_script": "In today's digital age, computer proficiency is no longer a luxury but a necessity. Proficiency in operating systems, Microsoft Office, and typing speed are highlighted as key software skills for the recruitment.",
+            "on_screen_text": "Operating System, Microsoft Office, Typing Speed"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "A 3D animation of a secretary or administrative assistant working efficiently, with calendars, phones, and computers around them, illustrating secretarial practice.",
+            "narration_script": "The role of secretarial practice in commercial and professional settings is pivotal. A diploma in commercial or secretarial practice, coupled with relevant experience, significantly enhances candidacy for roles like assistants or stenographers.",
+            "on_screen_text": "Diploma in Commercial/Secretarial Practice, Relevant Experience"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "The scene shifts to a stenographer typing on a stenotype machine, with a speedometer in the background showing an increasing speed, symbolizing typing speed and accuracy.",
+            "narration_script": "For stenographers, a typing speed of 60 words per minute (WPM) in English stenography is required. Mastering this skill involves practice, muscle memory, and a deep understanding of keyboard layouts and typing techniques.",
+            "on_screen_text": "60 WPM English Stenography"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "The final scene is a dynamic, animated collage of all the skills and qualifications mentioned, with the ISRO logo at the center, symbolizing the integration of all these elements for success in the recruitment.",
+            "narration_script": "Unlocking success in the ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026 involves a combination of strong educational background, computer proficiency, secretarial skills, and for stenographers, a high typing speed. Equip yourself with these skills and pave your way to a successful career.",
+            "on_screen_text": null
+        }
+    ]
+}

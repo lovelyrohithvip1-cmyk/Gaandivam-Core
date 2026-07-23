@@ -1,0 +1,61 @@
+{
+    "exam_name": "Haryana Teacher Eligibility Test (HTET) 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "According to Piaget's theory, which stage of cognitive development is characterized by the ability to think logically and solve problems using concrete objects and events?",
+            "options": {
+                "A": "Sensorimotor stage",
+                "B": "Preoperational stage",
+                "C": "Concrete Operational stage",
+                "D": "Formal Operational stage"
+            },
+            "correct_answer": "C",
+            "explanation": "Piaget's theory proposes that children progress through a series of stages, each characterized by a unique way of thinking and understanding the world. The Concrete Operational stage, which occurs between 7-11 years, is marked by the ability to think logically and solve problems using concrete objects and events. This stage is critical in the development of problem-solving skills and lays the foundation for more abstract thinking in later stages."
+        },
+        {
+            "question_text": "Vygotsky's zone of proximal development refers to:",
+            "options": {
+                "A": "The range of tasks that a child can accomplish independently",
+                "B": "The range of tasks that a child can accomplish with guidance and support",
+                "C": "The range of tasks that a child cannot accomplish even with guidance and support",
+                "D": "The range of tasks that a child can accomplish only through self-discovery"
+            },
+            "correct_answer": "B",
+            "explanation": "Vygotsky's zone of proximal development is a concept that highlights the importance of social interaction in shaping children's cognitive and social development. It refers to the range of tasks that a child can accomplish with guidance and support from more knowledgeable others, such as teachers or peers. This concept emphasizes the role of scaffolding and collaborative learning in facilitating children's learning and development."
+        },
+        {
+            "question_text": "What is the primary function of Hindi verb conjugation in sentence structure?",
+            "options": {
+                "A": "To indicate the grammatical case of nouns",
+                "B": "To indicate the tense, aspect, and mood of verbs",
+                "C": "To indicate the number and person of nouns",
+                "D": "To indicate the sentence type, such as declarative or interrogative"
+            },
+            "correct_answer": "B",
+            "explanation": "Hindi verb conjugation plays a crucial role in sentence structure, as it indicates the tense, aspect, and mood of verbs. The conjugation of verbs helps to convey the time, manner, and attitude of the action described, which is essential for effective communication and expression in the language. Understanding Hindi verb conjugation is essential for constructing grammatically correct sentences and conveying meaning accurately."
+        },
+        {
+            "question_text": "The commutative property of numbers states that:",
+            "options": {
+                "A": "a + b = b + a, but a * b ≠ b * a",
+                "B": "a + b = b + a, and a * b = b * a",
+                "C": "a + b ≠ b + a, but a * b = b * a",
+                "D": "a + b ≠ b + a, and a * b ≠ b * a"
+            },
+            "correct_answer": "B",
+            "explanation": "The commutative property of numbers is a fundamental concept in mathematics, which states that the order of numbers does not change the result of an operation. For addition, this means that a + b = b + a, and for multiplication, this means that a * b = b * a. This property is essential for simplifying mathematical expressions and solving problems, as it allows for the rearrangement of numbers to facilitate calculations."
+        },
+        {
+            "question_text": "According to the concept of social development, which of the following is a key factor that influences children's social skills and emotional intelligence?",
+            "options": {
+                "A": "Genetic factors",
+                "B": "Environmental factors",
+                "C": "Socio-cultural factors",
+                "D": "All of the above"
+            },
+            "correct_answer": "D",
+            "explanation": "Social development is a complex and multi-faceted process that is influenced by a range of factors, including genetic, environmental, and socio-cultural factors. Genetic factors can influence temperament and personality, environmental factors can shape experiences and interactions, and socio-cultural factors can impact values, norms, and expectations. All these factors interact and influence one another, shaping children's social skills and emotional intelligence in unique and dynamic ways."
+        }
+    ]
+}

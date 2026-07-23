@@ -1,0 +1,95 @@
+{
+    "exam_name": "MNSS Rai Recruitment 2026",
+    "textbook_content": [
+        {
+            "subject": "General Knowledge",
+            "chapter_title": "History and Geography",
+            "visionary_introduction": "The study of history and geography is crucial for understanding the complexities of our world. From the ancient civilizations to the present day, human societies have been shaped by their environments and the interactions with other cultures. In this chapter, we will delve into the fascinating world of history and geography, exploring the key concepts and ideas that have defined our world.",
+            "core_concepts": [
+                {
+                    "concept_name": "Ancient History",
+                    "innovative_explanation": "The ancient history of our world is a rich tapestry of cultures, empires, and ideas. The Indus Valley Civilization, for example, was a sophisticated urban culture that thrived over 4,000 years ago in the Indus Valley region. The Vedic Period, on the other hand, was a time of great philosophical and literary achievement in ancient India. The Mauryan Empire, which ruled much of the Indian subcontinent from 322 to 185 BCE, was a major center of trade, culture, and learning.",
+                    "formulas_or_key_facts": "Key dates: Indus Valley Civilization (3300-1300 BCE), Vedic Period (1500-500 BCE), Mauryan Empire (322-185 BCE)"
+                },
+                {
+                    "concept_name": "Medieval History",
+                    "innovative_explanation": "The medieval period was a time of great change and upheaval in world history. The Delhi Sultanate, which ruled much of the Indian subcontinent from 1206 to 1526 CE, was a major center of Islamic culture and learning. The Mughal Empire, which ruled from 1526 to 1756 CE, was a period of great artistic, literary, and architectural achievement. The Maratha Empire, which ruled from 1674 to 1818 CE, was a major Hindu power that resisted the expansion of the Mughal Empire.",
+                    "formulas_or_key_facts": "Key dates: Delhi Sultanate (1206-1526 CE), Mughal Empire (1526-1756 CE), Maratha Empire (1674-1818 CE)"
+                },
+                {
+                    "concept_name": "Physical Geography",
+                    "innovative_explanation": "The physical geography of our world is characterized by a diverse range of landscapes and features. Mountains, such as the Himalayas and the Rocky Mountains, are formed through the movement of tectonic plates and are home to a wide range of flora and fauna. Rivers, such as the Ganges and the Amazon, are vital sources of water and support a wide range of ecosystems. Deserts, such as the Sahara and the Mojave, are arid regions that are characterized by low rainfall and limited vegetation.",
+                    "formulas_or_key_facts": "Key concepts: plate tectonics, erosion, deposition"
+                }
+            ]
+        },
+        {
+            "subject": "English",
+            "chapter_title": "Grammar and Literature",
+            "visionary_introduction": "The study of English grammar and literature is essential for effective communication and cultural understanding. In this chapter, we will explore the key concepts of English grammar, including parts of speech, sentence structure, and literary devices. We will also delve into the world of English literature, examining the major genres, periods, and authors that have shaped the language.",
+            "core_concepts": [
+                {
+                    "concept_name": "Parts of Speech",
+                    "innovative_explanation": "The parts of speech are the building blocks of language, and include nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. Nouns are words that refer to people, places, things, and ideas, while verbs are words that express action or state. Adjectives and adverbs are words that modify or describe nouns and verbs, and pronouns are words that replace nouns in a sentence.",
+                    "formulas_or_key_facts": "Key concepts: noun, verb, adjective, adverb, pronoun"
+                },
+                {
+                    "concept_name": "Literary Genres",
+                    "innovative_explanation": "Literary genres are categories of literature that are defined by their form, style, and content. Poetry, for example, is a genre that uses language in a creative and imaginative way to express thoughts and feelings. Prose, on the other hand, is a genre that uses language in a more straightforward and narrative way to tell stories or convey information.",
+                    "formulas_or_key_facts": "Key genres: poetry, prose, drama, essay"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Algebra and Geometry",
+            "visionary_introduction": "The study of mathematics is essential for understanding the world around us. In this chapter, we will explore the key concepts of algebra and geometry, including equations, inequalities, and shapes. We will also examine the major branches of mathematics, including number theory, algebra, and geometry.",
+            "core_concepts": [
+                {
+                    "concept_name": "Equations",
+                    "innovative_explanation": "An equation is a statement that expresses the equality of two mathematical expressions. Linear equations, for example, are equations in which the highest power of the variable is 1, while quadratic equations are equations in which the highest power of the variable is 2. Polynomial equations are equations in which the highest power of the variable is 3 or more.",
+                    "formulas_or_key_facts": "Key formulas: linear equation (ax + b = c), quadratic equation (ax^2 + bx + c = 0)"
+                },
+                {
+                    "concept_name": "Geometry",
+                    "innovative_explanation": "Geometry is the branch of mathematics that deals with the study of shapes and sizes. Points, lines, and angles are the basic building blocks of geometry, and are used to define and analyze shapes such as triangles, quadrilaterals, and polygons.",
+                    "formulas_or_key_facts": "Key concepts: point, line, angle, triangle, quadrilateral"
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter_title": "Biology and Chemistry",
+            "visionary_introduction": "The study of science is essential for understanding the natural world. In this chapter, we will explore the key concepts of biology and chemistry, including cell structure, photosynthesis, and chemical reactions. We will also examine the major branches of science, including biology, chemistry, and physics.",
+            "core_concepts": [
+                {
+                    "concept_name": "Cell Structure",
+                    "innovative_explanation": "The cell is the basic unit of life, and is composed of a variety of organelles that work together to maintain the cell's functions. The cell membrane, for example, is a thin layer of lipid and protein molecules that surrounds the cell and regulates the movement of materials in and out. The nucleus, on the other hand, is the control center of the cell, and contains the genetic material that determines the cell's characteristics.",
+                    "formulas_or_key_facts": "Key concepts: cell membrane, nucleus, mitochondria, chloroplast"
+                },
+                {
+                    "concept_name": "Chemical Reactions",
+                    "innovative_explanation": "Chemical reactions are processes in which one or more substances are converted into new substances. Chemical reactions involve the breaking and forming of chemical bonds, and can be classified into different types such as synthesis, decomposition, and replacement reactions.",
+                    "formulas_or_key_facts": "Key concepts: chemical equation, reactant, product, catalyst"
+                }
+            ]
+        },
+        {
+            "subject": "Reasoning",
+            "chapter_title": "Logical and Non-Verbal Reasoning",
+            "visionary_introduction": "The study of reasoning is essential for developing critical thinking and problem-solving skills. In this chapter, we will explore the key concepts of logical and non-verbal reasoning, including deductive and inductive reasoning, visual reasoning, and spatial reasoning.",
+            "core_concepts": [
+                {
+                    "concept_name": "Deductive Reasoning",
+                    "innovative_explanation": "Deductive reasoning is a type of reasoning in which a conclusion is drawn from a set of premises using logical rules. Syllogisms, for example, are a type of deductive reasoning in which a conclusion is drawn from two premises using a logical rule.",
+                    "formulas_or_key_facts": "Key concepts: premise, conclusion, syllogism"
+                },
+                {
+                    "concept_name": "Visual Reasoning",
+                    "innovative_explanation": "Visual reasoning is a type of reasoning that involves the use of visual information to solve problems. Patterns, shapes, and images are used to convey information and solve problems, and require the ability to analyze and interpret visual data.",
+                    "formulas_or_key_facts": "Key concepts: pattern, shape, image, visual analysis"
+                }
+            ]
+        }
+    ]
+}

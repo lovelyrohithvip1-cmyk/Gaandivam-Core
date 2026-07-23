@@ -1,0 +1,84 @@
+{
+    "video_title": "Foundations of Knowledge for AAI Manager & Junior Executive Recruitment 2026",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D globe, with various subjects (Reasoning, English, Mathematics, General Knowledge) highlighted as it rotates.",
+            "narration_script": "Welcome to the comprehensive guide for the AAI Manager & Junior Executive Recruitment 2026 exam. This video will cover the foundational concepts across four key subjects: Reasoning, English, Mathematics, and General Knowledge.",
+            "on_screen_text": "AAI Manager & Junior Executive Recruitment 2026"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Zoom into the Reasoning section, where 3D blocks labeled 'Analogies' and 'Syllogisms' come into view.",
+            "narration_script": "First, let's explore Reasoning, which forms the cornerstone of human intellect. It encompasses verbal and non-verbal reasoning, including analogies and syllogisms.",
+            "on_screen_text": "Reasoning: Analogies, Syllogisms"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "Analogies are visually represented as connecting bridges between different concepts, with examples of semantic, syntactic, and pragmatic relationships.",
+            "narration_script": "Analogies involve identifying relationships between concepts, which can be semantic, syntactic, or pragmatic. Recognizing these relationships is crucial for verbal reasoning.",
+            "on_screen_text": "Types of Analogies: Semantic, Syntactic, Pragmatic"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Syllogisms are depicted as a logical flowchart, showing premises leading to a conclusion.",
+            "narration_script": "Syllogisms are a form of logical argument that uses deductive reasoning to arrive at a conclusion based on premises. They are vital for evaluating arguments and constructing logical frameworks.",
+            "on_screen_text": "Syllogism Structure: All A are B, X is A, → X is B"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "Transition to the English section, where 3D words 'Nouns', 'Verbs', 'Adjectives', and 'Adverbs' float in, forming sentences.",
+            "narration_script": "Moving on to English, the foundation of communication. Understanding the parts of speech, including nouns, verbs, adjectives, and adverbs, is essential for effective expression.",
+            "on_screen_text": "Parts of Speech: Nouns, Verbs, Adjectives, Adverbs"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A timeline appears, marking the present, past, and future tenses.",
+            "narration_script": "Tenses in English indicate the time of actions or states, with the present, past, and future tenses being primary categories. Mastering tenses is vital for coherent communication.",
+            "on_screen_text": "Tenses: Present (I go), Past (I went), Future (I will go)"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "The scene shifts to Mathematics, where equations and graphs are visualized in 3D.",
+            "narration_script": "Mathematics, the language of science, encompasses various disciplines. Equations and graphs are fundamental tools for problem-solving and critical thinking.",
+            "on_screen_text": "Mathematics: Equations, Graphs"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Linear and quadratic equations are solved on a 3D blackboard, with formulas and solutions appearing.",
+            "narration_script": "Equations, such as linear and quadratic, can be solved using various methods. Understanding these concepts is crucial for mathematical reasoning.",
+            "on_screen_text": "Linear Equation: ax + b = c, Quadratic Equation: ax^2 + bx + c = 0"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "Different types of graphs (line, bar, pie charts) are displayed, with data points and trends highlighted.",
+            "narration_script": "Graphs are visual representations of data, useful for identifying trends, patterns, and correlations. They facilitate data analysis and comparison.",
+            "on_screen_text": "Types of Graphs: Line, Bar, Pie. Key Skill: Data Analysis"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "The General Knowledge section is introduced, with a 3D model of the Earth and historical timelines.",
+            "narration_script": "Lastly, General Knowledge, which encompasses history, science, and culture. Understanding these subjects provides a well-rounded view of the world.",
+            "on_screen_text": "General Knowledge: History, Science, Culture"
+        },
+        {
+            "scene_number": 11,
+            "visual_prompt_for_3D_engine": "Historical periods (ancient, medieval, modern) are visually distinguished, with key events and figures mentioned.",
+            "narration_script": "History helps us learn from the past, appreciate the present, and anticipate the future. It provides a framework for analyzing current issues in historical contexts.",
+            "on_screen_text": "Periods of History: Ancient, Medieval, Modern"
+        },
+        {
+            "scene_number": 12,
+            "visual_prompt_for_3D_engine": "The scientific method is illustrated as a cycle (observation, hypothesis, experimentation), with physics, chemistry, and biology highlighted.",
+            "narration_script": "Science is the systematic study of the natural world, with disciplines like physics, chemistry, and biology. The scientific method is key to understanding and advancing knowledge.",
+            "on_screen_text": "Scientific Method: Observation, Hypothesis, Experimentation"
+        },
+        {
+            "scene_number": 13,
+            "visual_prompt_for_3D_engine": "The 3D globe from the beginning reappears, with all subjects interconnected.",
+            "narration_script": "In conclusion, mastering these foundational concepts across Reasoning, English, Mathematics, and General Knowledge is essential for success in the AAI Manager & Junior Executive Recruitment 2026 exam and beyond.",
+            "on_screen_text": "AAI Manager & Junior Executive Recruitment 2026: Foundations of Knowledge"
+        }
+    ]
+}

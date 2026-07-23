@@ -1,0 +1,60 @@
+{
+    "video_title": "DRDO Recruitment 2026: Unlocking Success",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a futuristic, glowing cityscape before zooming into a book that opens to reveal the subjects: Mathematics, Science, English, and Reasoning.",
+            "narration_script": "Welcome to the world of DRDO Recruitment 2026. In this journey, we will explore the four pillars of success: Mathematics, Science, English, and Reasoning.",
+            "on_screen_text": "DRDO Recruitment 2026: Unlocking Success"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Animation transitions to a 3D map of ancient civilizations, with notable mathematicians like Diophantus and Al-Khwarizmi appearing as avatars.",
+            "narration_script": "Algebra, a branch of mathematics, has its roots in ancient civilizations, with significant contributions from mathematicians such as Diophantus and Al-Khwarizmi.",
+            "on_screen_text": "Algebra: The Foundation of Mathematics"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "Visuals of linear equations appear on screen, with animations demonstrating how to solve them.",
+            "narration_script": "A linear equation is a polynomial equation of degree one, which can be written in the form ax + b = 0, where a and b are constants. The solution to a linear equation can be found using basic algebraic operations.",
+            "on_screen_text": "Linear Equations: ax + b = 0"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Quadratic equations are visualized in 3D, with the quadratic formula appearing as a hovering, glowing orb.",
+            "narration_script": "A quadratic equation is a polynomial equation of degree two, which can be written in the form ax^2 + bx + c = 0, where a, b, and c are constants. The quadratic formula provides a straightforward method for solving quadratic equations.",
+            "on_screen_text": "Quadratic Equations: x = (-b ± √(b^2 - 4ac)) / 2a"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "Scene transitions to a physics laboratory, with experiments demonstrating kinematics and electric fields.",
+            "narration_script": "Physics, the study of the natural world, explains the fundamental laws governing the behavior of matter and energy. Kinematics and electric fields are crucial concepts in understanding the universe and developing innovative technologies.",
+            "on_screen_text": "Physics: Kinematics and Electric Fields"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "Visuals of passage analysis appear on screen, with animations highlighting main ideas, supporting details, and literary devices.",
+            "narration_script": "Effective communication is the backbone of any successful endeavor. Comprehension is the foundation upon which all communication is built. Passage analysis involves the critical evaluation of a written passage to understand its meaning, tone, and purpose.",
+            "on_screen_text": "Passage Analysis: Main Idea, Supporting Details, Literary Devices"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "Scene transitions to a library, with books opening to reveal new words and their meanings.",
+            "narration_script": "Vocabulary refers to the collection of words that an individual knows and uses to communicate effectively. A strong vocabulary is essential for clear and concise expression.",
+            "on_screen_text": "Vocabulary: Word Meanings, Usage, Context"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Logical reasoning is visualized as a puzzle, with pieces fitting together to form a complete picture.",
+            "narration_script": "Logical reasoning is the process of using logic to evaluate arguments and arrive at a conclusion. It involves the use of deductive and inductive reasoning to analyze information, identify patterns, and make informed decisions.",
+            "on_screen_text": "Logical Reasoning: Deductive and Inductive Reasoning"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "Camera pans out to show all the subjects and concepts covered, with the DRDO Recruitment 2026 logo appearing in the center.",
+            "narration_script": "In conclusion, mastering the subjects of Mathematics, Science, English, and Reasoning is crucial for success in the DRDO Recruitment 2026. Stay focused, keep learning, and unlock your potential.",
+            "on_screen_text": "DRDO Recruitment 2026: Unlock Your Potential"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "video_title": "Mastering RRB Group D Recruitment Examination 2026",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D globe with mathematical symbols and equations floating around it",
+            "narration_script": "Welcome to the world of mathematics, science, and reasoning. In this video, we will explore the fundamental concepts that will help you master the RRB Group D Recruitment Examination 2026.",
+            "on_screen_text": "RRB Group D Recruitment Examination 2026"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Zoom into a 3D representation of the number system, with whole numbers, decimals, and fractions floating in mid-air",
+            "narration_script": "Let's start with the number system, a fundamental concept in mathematics. The number system includes whole numbers, decimals, and fractions.",
+            "on_screen_text": "Number System: Whole Numbers, Decimals, Fractions"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "Camera focuses on a 3D representation of whole numbers, with digits and place values highlighted",
+            "narration_script": "Whole numbers are a set of real numbers that include zero and all positive counting numbers. Understanding whole numbers is essential for grasping more complex mathematical concepts.",
+            "on_screen_text": "Place Value = Face Value * Place Value"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Camera zooms into a 3D representation of decimals, with tenths, hundredths, and thousandths highlighted",
+            "narration_script": "Decimals are a way to represent fractions using a point to separate the whole part from the fractional part. Decimals are crucial in mathematical operations that require precision.",
+            "on_screen_text": "Decimal Representation: Whole Part + Fractional Part"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "Camera shows a 3D representation of fractions, with numerators and denominators highlighted",
+            "narration_script": "Fractions represent a part of a whole. They consist of a numerator and a denominator, where the numerator represents the number of equal parts, and the denominator represents the total number of parts.",
+            "on_screen_text": "Fraction = Numerator / Denominator"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "Camera pans over a 3D representation of the physics world, with objects in motion and energy transfer highlighted",
+            "narration_script": "Now, let's move on to physics, the study of the natural world around us. Physics is crucial for understanding the fundamental laws that govern the behavior of energy, matter, and the universe as a whole.",
+            "on_screen_text": "Physics: Motion, Energy, Forces"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "Camera focuses on a 3D representation of motion, with displacement, velocity, and acceleration highlighted",
+            "narration_script": "Motion refers to the change in position of an object over time. It can be described in terms of displacement, velocity, and acceleration.",
+            "on_screen_text": "Velocity = Displacement / Time, Acceleration = Change in Velocity / Time"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Camera zooms into a 3D representation of energy, with kinetic energy, potential energy, and thermal energy highlighted",
+            "narration_script": "Energy is the ability to do work. It comes in various forms, such as kinetic energy, potential energy, thermal energy, and electrical energy.",
+            "on_screen_text": "Kinetic Energy = 1/2 * Mass * Velocity^2, Potential Energy = Mass * Gravity * Height"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "Camera shows a 3D representation of verbal reasoning, with analogies and syllogisms highlighted",
+            "narration_script": "Finally, let's talk about verbal reasoning, a critical aspect of intelligence. Verbal reasoning involves the ability to reason, analyze, and draw conclusions from given information.",
+            "on_screen_text": "Verbal Reasoning: Analogies, Syllogisms"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "Camera focuses on a 3D representation of analogies, with relationships between words or concepts highlighted",
+            "narration_script": "Analogies are a type of verbal reasoning that involves identifying relationships between words or concepts. They require the ability to analyze and reason about the relationships between given information.",
+            "on_screen_text": "Analogy = Relationship between Words or Concepts"
+        },
+        {
+            "scene_number": 11,
+            "visual_prompt_for_3D_engine": "Camera zooms into a 3D representation of syllogisms, with premises and conclusions highlighted",
+            "narration_script": "Syllogisms are a type of verbal reasoning that involves drawing conclusions from given premises. They require the ability to analyze and reason about the relationships between the premises and the conclusion.",
+            "on_screen_text": "Syllogism = Premise + Premise -> Conclusion"
+        },
+        {
+            "scene_number": 12,
+            "visual_prompt_for_3D_engine": "Camera pans out to show a 3D representation of the RRB Group D Recruitment Examination 2026, with all the concepts and formulas highlighted",
+            "narration_script": "In conclusion, mastering the RRB Group D Recruitment Examination 2026 requires a deep understanding of mathematical concepts, physics, and verbal reasoning. We hope this video has helped you in your preparation.",
+            "on_screen_text": "RRB Group D Recruitment Examination 2026: Mastering the Concepts"
+        }
+    ]
+}

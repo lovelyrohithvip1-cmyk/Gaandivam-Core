@@ -1,0 +1,48 @@
+{
+    "video_title": "Foundations of General Knowledge and Beyond",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D map of the world, with historical landmarks and notable figures appearing as the camera moves.",
+            "narration_script": "Welcome to the world of general knowledge, where understanding current events, history, and geography is crucial for informed decision-making. From ancient civilizations to modern times, the importance of general knowledge has only grown.",
+            "on_screen_text": "Foundations of General Knowledge"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "A 3D animation of a newsroom, with news anchors and reporters working together to deliver current events.",
+            "narration_script": "Current events refer to the significant happenings and developments that are shaping our world today. Understanding current events is essential for being an informed citizen, as it enables us to engage with the world around us, form opinions, and make decisions.",
+            "on_screen_text": "Key facts: Stay updated with daily news, analyze the impact of events, and engage in discussions to form opinions."
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A 3D timeline of historical events, with notable figures and cultural practices appearing as the timeline progresses.",
+            "narration_script": "History is the study of past events, cultures, and civilizations. It provides us with a context to understand the present and make informed decisions about the future. By exploring historical events, figures, and cultural practices, we can gain insights into the complexities of human societies and the evolution of ideas.",
+            "on_screen_text": "Key facts: Historical events, cultural practices, and figures shape our understanding of the world; analyze causes and consequences to gain insights."
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "A 3D globe, with geographical features such as mountains, oceans, and cities appearing as the camera rotates.",
+            "narration_script": "Geography is the study of the Earth's physical features, human populations, and the interactions between them. Understanding geography is crucial for addressing global challenges like environmental sustainability, economic development, and social inequality.",
+            "on_screen_text": "Key facts: Study physical features, human populations, and their interactions to understand global challenges and develop sustainable strategies."
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A 3D animation of mathematical equations and formulas, with algebraic expressions and geometric shapes appearing as the camera moves.",
+            "narration_script": "Mathematics provides us with the tools to understand and describe the world around us, from the laws of physics to the principles of economics. In this chapter, we will explore the core concepts of mathematics, including algebra, geometry, and trigonometry, and their applications in real-world scenarios.",
+            "on_screen_text": "Key formulas: Linear equation (y = mx + b), Quadratic equation (ax^2 + bx + c = 0)"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A 3D animation of the English language, with grammar rules, vocabulary, and comprehension strategies appearing as the camera moves.",
+            "narration_script": "Mastering English language skills is essential for effective communication, academic success, and professional advancement. In this chapter, we will explore the core concepts of English, including grammar, vocabulary, and comprehension, and provide tips and strategies for improving language skills.",
+            "on_screen_text": "Key facts: Parts of speech, sentence structure, verb tenses; grammar rules (e.g., subject-verb agreement, punctuation)"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "A 3D animation of a typing keyboard, with fingers typing away as the camera moves.",
+            "narration_script": "Typing skills are essential for effective communication, productivity, and career advancement in today's digital age. Mastering typing skills involves not only developing hand-eye coordination and finger dexterity but also understanding keyboard layout, typing techniques, and document preparation.",
+            "on_screen_text": null
+        }
+    ]
+}

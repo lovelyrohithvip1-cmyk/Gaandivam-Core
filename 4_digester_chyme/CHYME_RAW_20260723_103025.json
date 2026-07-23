@@ -1,0 +1,111 @@
+{
+    "exam_name": "KVS and NVS Teaching and Non Teaching",
+    "chyme_granular_syllabus": {
+        "General Awareness": {
+            "Current Events": {
+                "National News": [
+                    "Government Policies",
+                    "Economic Updates",
+                    "Social Issues"
+                ],
+                "International News": [
+                    "Global Economy",
+                    "International Relations",
+                    "Environmental Concerns"
+                ]
+            },
+            "Social and Cultural Heritage": {
+                "Indian Culture": [
+                    "Art and Architecture",
+                    "Music and Dance",
+                    "Festivals and Traditions"
+                ],
+                "World Culture": [
+                    "Western Culture",
+                    "Eastern Culture",
+                    "African Culture"
+                ]
+            }
+        },
+        "Reasoning Ability": {
+            "Verbal Reasoning": {
+                "Analogies": [
+                    "Word Analogies",
+                    "Number Analogies",
+                    "Logical Analogies"
+                ],
+                "Syllogisms": [
+                    "Basic Syllogisms",
+                    "Complex Syllogisms",
+                    "Syllogisms with Multiple Conclusions"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Pattern Recognition": [
+                    "Number Patterns",
+                    "Letter Patterns",
+                    "Image Patterns"
+                ],
+                "Spatial Reasoning": [
+                    "2D Shapes",
+                    "3D Shapes",
+                    "Spatial Visualizations"
+                ]
+            }
+        },
+        "English Language": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Vocabulary": {
+                "Word Meanings": [
+                    "Synonyms",
+                    "Antonyms",
+                    "Homophones"
+                ],
+                "Idioms and Phrases": [
+                    "Common Idioms",
+                    "Phrasal Verbs",
+                    "Colloquial Expressions"
+                ]
+            }
+        },
+        "Hindi Language": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Sarvanam",
+                    "Visheshan",
+                    "Kriya",
+                    "Avyay"
+                ],
+                "Sentence Structure": [
+                    "Saral Vaky",
+                    "Sanyukt Vaky",
+                    "Mishrit Vaky"
+                ]
+            },
+            "Vocabulary": {
+                "Word Meanings": [
+                    "Parayavachi",
+                    "Viparyay",
+                    "Shabdarth"
+                ],
+                "Idioms and Phrases": [
+                    "Lokokti",
+                    "Muhavare",
+                    "Vachan"
+                ]
+            }
+        }
+    }
+}

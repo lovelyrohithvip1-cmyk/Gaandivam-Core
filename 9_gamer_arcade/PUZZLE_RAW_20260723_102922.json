@@ -1,0 +1,40 @@
+{
+    "module_name": "DSSSB Recruitment Exam 2025",
+    "true_false_rapid_fire": [
+        {
+            "statement": "The Indus Valley Civilization was one of the earliest urban civilizations in the world.",
+            "is_true": true,
+            "explanation": "The Indus Valley Civilization is known to be one of the earliest urban civilizations, dating back to 3300 BCE."
+        },
+        {
+            "statement": "The Mughal Empire emerged in the 17th century.",
+            "is_true": false,
+            "explanation": "The Mughal Empire actually emerged in 1526 CE, during the medieval period of Indian history."
+        },
+        {
+            "statement": "The Himalayan mountains are a key geographical feature of India's physical geography.",
+            "is_true": true,
+            "explanation": "The Himalayan mountains are indeed a crucial part of India's diverse landscape and physical geography."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Indus Valley Civilization",
+            "Delhi Sultanate",
+            "Mughal Empire",
+            "Maratha Empire"
+        ],
+        "right_column_shuffled": [
+            "1674 CE - 1818 CE",
+            "1206 CE - 1526 CE",
+            "3300 BCE - 1300 BCE",
+            "1526 CE - 1756 CE"
+        ],
+        "correct_mapping": {
+            "Indus Valley Civilization": "3300 BCE - 1300 BCE",
+            "Delhi Sultanate": "1206 CE - 1526 CE",
+            "Mughal Empire": "1526 CE - 1756 CE",
+            "Maratha Empire": "1674 CE - 1818 CE"
+        }
+    }
+}

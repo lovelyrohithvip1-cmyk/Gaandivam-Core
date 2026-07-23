@@ -1,0 +1,57 @@
+{
+    "exam_name": "10th & 12th Board Exams 2026",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Graphs": [
+                    "Linear Graphs",
+                    "Quadratic Graphs",
+                    "Circle Graphs"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Midpoint Theorem",
+                    "Distance Formula",
+                    "Section Formula"
+                ],
+                "Circles": [
+                    "Properties of Circles",
+                    "Tangents and Secants",
+                    "Circle Theorems"
+                ]
+            }
+        },
+        "Science": {
+            "Physics": {
+                "Mechanics": [
+                    "Kinematics",
+                    "Dynamics",
+                    "Energy and Work"
+                ],
+                "Thermodynamics": [
+                    "Laws of Thermodynamics",
+                    "Thermal Expansion",
+                    "Thermal Conductivity"
+                ]
+            },
+            "Chemistry": {
+                "Inorganic Chemistry": [
+                    "Periodic Table",
+                    "Chemical Bonding",
+                    "Acid-Base Chemistry"
+                ],
+                "Organic Chemistry": [
+                    "Hydrocarbons",
+                    "Functional Groups",
+                    "Reaction Mechanisms"
+                ]
+            }
+        }
+    }
+}

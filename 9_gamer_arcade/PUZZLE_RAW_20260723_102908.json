@@ -1,0 +1,40 @@
+{
+    "module_name": "Foundations of General Knowledge",
+    "true_false_rapid_fire": [
+        {
+            "statement": "General Knowledge has its roots in ancient civilizations.",
+            "is_true": true,
+            "explanation": "General Knowledge has its roots in ancient civilizations, where knowledge of current events, history, and geography was crucial for informed decision-making."
+        },
+        {
+            "statement": "Understanding current events is not essential for being an informed citizen.",
+            "is_true": false,
+            "explanation": "Understanding current events is essential for being an informed citizen, as it enables us to engage with the world around us, form opinions, and make decisions."
+        },
+        {
+            "statement": "History is just about memorizing dates and events.",
+            "is_true": false,
+            "explanation": "History is not just about memorizing dates and events; it's about analyzing the causes and consequences of historical phenomena and their relevance to contemporary issues."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Current Events",
+            "History",
+            "Geography",
+            "General Knowledge"
+        ],
+        "right_column_shuffled": [
+            "Study of past events and cultures",
+            "Significant happenings and developments shaping our world today",
+            "Study of the Earth's physical features and human populations",
+            "Knowledge of current events, history, and geography"
+        ],
+        "correct_mapping": {
+            "Current Events": "Significant happenings and developments shaping our world today",
+            "History": "Study of past events and cultures",
+            "Geography": "Study of the Earth's physical features and human populations",
+            "General Knowledge": "Knowledge of current events, history, and geography"
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "exam_name": "Uttarakhand Teacher Eligibility Test (UTET-I & II) 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary focus of the cognitive-developmental theory of child development proposed by Jean Piaget?",
+            "options": {
+                "A": "The role of environment in shaping child development",
+                "B": "The process of cognitive development through stages",
+                "C": "The influence of heredity on child development",
+                "D": "The impact of culture on child development"
+            },
+            "correct_answer": "B",
+            "explanation": "The cognitive-developmental theory proposed by Jean Piaget focuses on the process of cognitive development in children, which progresses through a series of stages, including Sensorimotor, Preoperational, Concrete Operational, and Formal Operational. This theory emphasizes how children construct their understanding of the world through active engagement and experience."
+        },
+        {
+            "question_text": "Which of the following is a key factor that influences child development, according to the core concepts provided?",
+            "options": {
+                "A": "Only heredity",
+                "B": "Only nutrition",
+                "C": "Heredity, nutrition, health, family, culture, and education",
+                "D": "Only family and culture"
+            },
+            "correct_answer": "C",
+            "explanation": "Child development is a holistic and dynamic process influenced by a combination of genetic and environmental factors. The key factors that influence child development include heredity, nutrition, health, family, culture, and education. These factors interact and impact the physical, cognitive, emotional, and social growth of children."
+        },
+        {
+            "question_text": "What is the primary goal of reading comprehension in the context of language skills?",
+            "options": {
+                "A": "To merely decode written texts",
+                "B": "To understand, interpret, and analyze written texts",
+                "C": "To enhance writing skills",
+                "D": "To improve speaking skills"
+            },
+            "correct_answer": "B",
+            "explanation": "Reading comprehension is a critical language skill that involves the ability to understand, interpret, and analyze written texts. It requires a combination of decoding skills, vocabulary knowledge, and cognitive strategies such as summarizing, questioning, and visualizing. Effective reading comprehension is vital for academic success and lifelong learning, enabling individuals to extract meaning and apply knowledge from various texts."
+        },
+        {
+            "question_text": "Which of the following types of writing is characterized by the intention to persuade the reader towards a particular point of view or action?",
+            "options": {
+                "A": "Narrative writing",
+                "B": "Descriptive writing",
+                "C": "Expository writing",
+                "D": "Persuasive writing"
+            },
+            "correct_answer": "D",
+            "explanation": "Persuasive writing is a type of writing that aims to convince or persuade the reader to adopt a particular point of view, make a decision, or take action. It involves the use of logical arguments, emotional appeals, and evidence to influence the reader's thoughts or behaviors. Persuasive writing is commonly used in editorials, advertisements, and argumentative essays."
+        },
+        {
+            "question_text": "What is the significance of understanding the number system in mathematics?",
+            "options": {
+                "A": "It is only useful for basic arithmetic operations",
+                "B": "It is essential for understanding algebra and advanced mathematical concepts",
+                "C": "It has no relevance to real-world problems",
+                "D": "It is only important for scientists and engineers"
+            },
+            "correct_answer": "B",
+            "explanation": "The number system is a fundamental concept in mathematics that provides a way of representing quantities using digits and symbols. Understanding the number system, which includes natural numbers, whole numbers, integers, rational numbers, and real numbers, is essential for performing arithmetic operations, solving equations, and applying mathematical concepts to real-world problems. It serves as a foundation for more advanced mathematical studies, including algebra and other branches of mathematics."
+        }
+    ]
+}

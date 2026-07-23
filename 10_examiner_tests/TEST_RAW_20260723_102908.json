@@ -1,0 +1,61 @@
+{
+    "exam_name": "Chandigarh Administration Clerk & Typist",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary purpose of studying current events in the context of general knowledge?",
+            "options": {
+                "A": "To understand historical events",
+                "B": "To stay updated with daily news and analyze its impact on society",
+                "C": "To learn about geographical features",
+                "D": "To master mathematical concepts"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because studying current events enables us to engage with the world around us, form opinions, and make informed decisions. It involves staying updated with daily news, analyzing the impact of events, and participating in discussions to form opinions, as mentioned in the core concept of Current Events."
+        },
+        {
+            "question_text": "How does the study of history contribute to our understanding of the world?",
+            "options": {
+                "A": "It provides a context to understand only historical events",
+                "B": "It helps us to analyze the causes and consequences of historical phenomena and their relevance to contemporary issues",
+                "C": "It is limited to memorizing dates and events",
+                "D": "It is not relevant to modern times"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because the study of history provides us with a context to understand the present and make informed decisions about the future. It involves analyzing the causes and consequences of historical phenomena and their relevance to contemporary issues, as mentioned in the core concept of History."
+        },
+        {
+            "question_text": "What is the significance of geography in addressing global challenges?",
+            "options": {
+                "A": "It is limited to studying physical features",
+                "B": "It helps us to understand the interactions between human populations and the environment",
+                "C": "It is not relevant to economic development",
+                "D": "It is only about memorizing countries and capitals"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because geography is the study of the Earth's physical features, human populations, and the interactions between them. Understanding geography is crucial for addressing global challenges like environmental sustainability, economic development, and social inequality, as mentioned in the core concept of Geography."
+        },
+        {
+            "question_text": "What is the primary application of algebra in real-world scenarios?",
+            "options": {
+                "A": "It is limited to solving simple equations",
+                "B": "It provides a powerful tool for solving problems and modeling real-world phenomena",
+                "C": "It is only used in geometry and trigonometry",
+                "D": "It is not relevant to modern technology"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because algebra is the branch of mathematics that deals with variables, equations, and functions. It provides a powerful tool for solving problems and modeling real-world phenomena, from simple equations to complex systems, as mentioned in the core concept of Algebra."
+        },
+        {
+            "question_text": "What is the key to effective communication in the English language?",
+            "options": {
+                "A": "It is limited to grammar rules",
+                "B": "It involves understanding grammar, vocabulary, and comprehension",
+                "C": "It is only about speaking and listening",
+                "D": "It is not relevant to writing and reading skills"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because effective communication in the English language involves understanding grammar, vocabulary, and comprehension. It requires a combination of these skills to express oneself clearly and accurately, as mentioned in the core concepts of English."
+        }
+    ]
+}

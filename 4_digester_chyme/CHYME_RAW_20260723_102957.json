@@ -1,0 +1,86 @@
+{
+    "exam_name": "CBSE Junior Assistant",
+    "chyme_granular_syllabus": {
+        "General Intelligence and Reasoning": {
+            "Verbal Reasoning": {
+                "Analogies": [
+                    "Number Analogies",
+                    "Letter Analogies",
+                    "Meaningful Analogies"
+                ],
+                "Coding and Decoding": [
+                    "Coding Patterns",
+                    "Decoding Techniques",
+                    "Cryptic Codes"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Series and Patterns": [
+                    "Number Series",
+                    "Letter Series",
+                    "Image Series"
+                ],
+                "Mirror and Water Images": [
+                    "Mirror Images",
+                    "Water Images",
+                    "Reflections"
+                ]
+            }
+        },
+        "Numerical Aptitude": {
+            "Number Systems": {
+                "Whole Numbers": [
+                    "Place Value",
+                    "Rounding Numbers",
+                    "Comparing Numbers"
+                ],
+                "Fractions and Decimals": [
+                    "Equivalent Fractions",
+                    "Comparing Fractions",
+                    "Converting Fractions to Decimals"
+                ]
+            },
+            "Algebra": {
+                "Linear Equations": [
+                    "Solving Linear Equations",
+                    "Graphing Linear Equations",
+                    "Applications of Linear Equations"
+                ],
+                "Quadratic Equations": [
+                    "Solving Quadratic Equations",
+                    "Graphing Quadratic Equations",
+                    "Applications of Quadratic Equations"
+                ]
+            }
+        },
+        "English Language and Comprehension": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Tenses and Aspects": [
+                    "Present Tense",
+                    "Past Tense",
+                    "Future Tense",
+                    "Conditional Tense"
+                ]
+            },
+            "Vocabulary": {
+                "Word Meanings": [
+                    "Synonyms",
+                    "Antonyms",
+                    "Homophones",
+                    "Homographs"
+                ],
+                "Idioms and Phrases": [
+                    "Common Idioms",
+                    "Phrasal Verbs",
+                    "Collocations"
+                ]
+            }
+        }
+    }
+}

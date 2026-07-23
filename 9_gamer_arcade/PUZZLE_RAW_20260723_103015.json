@@ -1,0 +1,40 @@
+{
+    "module_name": "NICL Assistant Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Seating arrangements in analytical reasoning can be approached through linear, circular, and matrix seating.",
+            "is_true": true,
+            "explanation": "Seating arrangements are a fundamental concept in analytical reasoning, where the goal is to determine the positions of individuals based on given conditions, and can be approached through linear, circular, and matrix seating."
+        },
+        {
+            "statement": "Puzzles in logical reasoning only involve blood relations.",
+            "is_true": false,
+            "explanation": "Puzzles in logical reasoning encompass a variety of topics including blood relations, direction sense, and coding-decoding, not just blood relations."
+        },
+        {
+            "statement": "Syllogisms are a form of logical argument that uses deductive reasoning to arrive at a conclusion based on two or more premises.",
+            "is_true": true,
+            "explanation": "Syllogisms, a form of logical argument, indeed use deductive reasoning to arrive at a conclusion based on two or more premises, making them a cornerstone of logical reasoning."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Seating Arrangements",
+            "Puzzles",
+            "Syllogisms",
+            "Arguments"
+        ],
+        "right_column_shuffled": [
+            "Involves deductive reasoning to arrive at a conclusion",
+            "Encompasses blood relations, direction sense, and coding-decoding",
+            "Involves determining positions based on given conditions",
+            "Involves identifying, evaluating, strengthening, and weakening arguments"
+        ],
+        "correct_mapping": {
+            "Seating Arrangements": "Involves determining positions based on given conditions",
+            "Puzzles": "Encompasses blood relations, direction sense, and coding-decoding",
+            "Syllogisms": "Involves deductive reasoning to arrive at a conclusion",
+            "Arguments": "Involves identifying, evaluating, strengthening, and weakening arguments"
+        }
+    }
+}

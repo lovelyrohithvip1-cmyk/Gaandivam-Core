@@ -1,0 +1,109 @@
+{
+    "exam_name": "AAI ATC Junior Executive Exam",
+    "chyme_granular_syllabus": {
+        "English": {
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Identifying Main Ideas",
+                    "Understanding Context",
+                    "Making Inferences"
+                ],
+                "Vocabulary": [
+                    "Word Meanings",
+                    "Synonyms",
+                    "Antonyms"
+                ]
+            },
+            "Grammar": {
+                "Verbal Ability": [
+                    "Tenses",
+                    "Clauses",
+                    "Phrases"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            }
+        },
+        "Reasoning": {
+            "Logical Reasoning": {
+                "Deductive Reasoning": [
+                    "Syllogisms",
+                    "Arguments",
+                    "Conclusions"
+                ],
+                "Inductive Reasoning": [
+                    "Patterns",
+                    "Analogies",
+                    "Sequences"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Spatial Reasoning": [
+                    "Visualizing Shapes",
+                    "Mental Rotation",
+                    "Spatial Awareness"
+                ],
+                "Pattern Recognition": [
+                    "Identifying Patterns",
+                    "Completing Patterns",
+                    "Analyzing Patterns"
+                ]
+            }
+        },
+        "General Knowledge": {
+            "History": {
+                "Indian History": [
+                    "Ancient India",
+                    "Medieval India",
+                    "Modern India"
+                ],
+                "World History": [
+                    "Ancient Civilizations",
+                    "World Wars",
+                    "Global Events"
+                ]
+            },
+            "Geography": {
+                "Indian Geography": [
+                    "Physical Geography",
+                    "Economic Geography",
+                    "Human Geography"
+                ],
+                "World Geography": [
+                    "Continents",
+                    "Countries",
+                    "Cultures"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Functions": [
+                    "Domain",
+                    "Range",
+                    "Composition"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Coordinates",
+                    "Slopes",
+                    "Intercepts"
+                ],
+                "Shapes": [
+                    "Properties",
+                    "Formulas",
+                    "Theorems"
+                ]
+            }
+        }
+    }
+}

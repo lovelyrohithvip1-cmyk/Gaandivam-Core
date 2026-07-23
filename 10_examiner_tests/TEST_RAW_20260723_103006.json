@@ -1,0 +1,61 @@
+{
+    "exam_name": "NCL Mining Sirdar Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary factor that determines the choice of drilling machine in mining operations?",
+            "options": {
+                "A": "Type of mineral deposit",
+                "B": "Geological conditions of the mine site",
+                "C": "Type of rock and desired hole size",
+                "D": "Depth of the mineral deposit"
+            },
+            "correct_answer": "C",
+            "explanation": "The choice of drilling machine depends on the type of rock, the desired hole size, and the drilling depth, as each drilling machine is suited for specific conditions and requirements. This is crucial for efficient and safe drilling operations in mining."
+        },
+        {
+            "question_text": "In the context of gas detection in mining environments, what does the Lower Explosive Limit (LEL) signify?",
+            "options": {
+                "A": "The minimum concentration of a gas that can be detected by a gas detector",
+                "B": "The maximum concentration of a gas that is considered safe",
+                "C": "The minimum concentration of a gas that can ignite and cause an explosion",
+                "D": "The concentration of oxygen in the mine atmosphere"
+            },
+            "correct_answer": "C",
+            "explanation": "The Lower Explosive Limit (LEL) is the minimum concentration of a gas in the air that can ignite and cause an explosion. It is a critical parameter in gas detection and monitoring, as concentrations below the LEL are considered safe, while those above it pose a significant risk of explosion."
+        },
+        {
+            "question_text": "What is the primary purpose of regular inspections and maintenance of gas detectors in mining operations?",
+            "options": {
+                "A": "To reduce the cost of gas detection",
+                "B": "To increase the sensitivity of gas detectors",
+                "C": "To ensure the accuracy and reliability of gas detectors",
+                "D": "To comply with regulatory requirements"
+            },
+            "correct_answer": "C",
+            "explanation": "Regular inspections and maintenance of gas detectors are essential to ensure their accuracy and reliability. This is critical for the safety of miners, as faulty or poorly maintained detectors may fail to detect hazardous gas concentrations, leading to potential disasters."
+        },
+        {
+            "question_text": "In the context of first aid in mining environments, what is the primary principle of wound care to prevent infection?",
+            "options": {
+                "A": "Apply antibiotic ointment immediately",
+                "B": "Cover the wound with a protective dressing",
+                "C": "Stop bleeding and clean the wound",
+                "D": "Use topical creams to promote healing"
+            },
+            "correct_answer": "C",
+            "explanation": "The primary principle of wound care to prevent infection involves stopping the bleeding and cleaning the wound. This is crucial in mining environments where wounds can be particularly susceptible to contamination due to dust and debris. Proper wound care helps prevent infection and promotes healing."
+        },
+        {
+            "question_text": "In mine surveying, what is the purpose of control surveys?",
+            "options": {
+                "A": "To map out the mine's features in detail",
+                "B": "To establish reference points for further surveys",
+                "C": "To monitor changes in the mine's layout over time",
+                "D": "To create detailed geological maps of the mine site"
+            },
+            "correct_answer": "B",
+            "explanation": "Control surveys in mine surveying are conducted to establish reference points. These reference points serve as a basis for all other surveys, ensuring that the data collected is accurate and reliable. This is fundamental for planning, safety, and the efficient extraction of resources in mining operations."
+        }
+    ]
+}

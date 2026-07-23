@@ -1,0 +1,61 @@
+{
+    "exam_name": "68th Short Service Commission (Technical) Men Course April 2027",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary reason why understanding mechanics is crucial for engineers?",
+            "options": {
+                "A": "It allows them to analyze and design electrical systems",
+                "B": "It enables them to understand and optimize the motion of objects and the forces that cause this motion",
+                "C": "It provides the principles necessary to understand how energy can be converted from one form to another",
+                "D": "It is vital for understanding how materials behave under different conditions"
+            },
+            "correct_answer": "B",
+            "explanation": "Understanding mechanics is crucial for engineers because it allows them to analyze, design, and optimize systems to achieve specific goals, whether it's the efficiency of a mechanical system or the safety of a structure. Mechanics underlies all of engineering, from the design of simple machines to the development of complex systems like rockets and satellites."
+        },
+        {
+            "question_text": "According to the first law of thermodynamics, what is the relationship between the change in energy, heat added to the system, and work done by the system?",
+            "options": {
+                "A": "ΔE = Q + W",
+                "B": "ΔE = Q - W",
+                "C": "ΔE = W - Q",
+                "D": "ΔE = Q / W"
+            },
+            "correct_answer": "B",
+            "explanation": "The first law of thermodynamics states that energy cannot be created or destroyed, only converted from one form to another. This is represented by the equation ΔE = Q - W, where ΔE is the change in energy, Q is the heat added to the system, and W is the work done by the system."
+        },
+        {
+            "question_text": "What is the significance of the electromagnetic spectrum in engineering applications?",
+            "options": {
+                "A": "It includes all types of electromagnetic radiation, from radio waves to gamma rays, and underlies the operation of a wide range of technologies",
+                "B": "It is only relevant to the design of electrical systems",
+                "C": "It is crucial for understanding the properties of materials",
+                "D": "It is used to analyze the motion of objects"
+            },
+            "correct_answer": "A",
+            "explanation": "The electromagnetic spectrum is significant in engineering applications because it includes all types of electromagnetic radiation, from radio waves to gamma rays. Electromagnetic principles underlie the operation of a wide range of technologies, from simple motors and generators to complex communication systems and medical imaging devices."
+        },
+        {
+            "question_text": "What is the primary goal of material selection in engineering design?",
+            "options": {
+                "A": "To minimize the cost of the material",
+                "B": "To identify the material that best balances technical performance, cost, availability, manufacturability, and environmental impact",
+                "C": "To maximize the strength of the material",
+                "D": "To reduce the weight of the material"
+            },
+            "correct_answer": "B",
+            "explanation": "The primary goal of material selection in engineering design is to identify the material that best balances technical performance, cost, availability, manufacturability, and environmental impact. This involves considering a range of factors to achieve the desired functionality, efficiency, and sustainability of the final product."
+        },
+        {
+            "question_text": "What is the relationship between stress and strain within the proportional limit of a material, according to Young's Modulus?",
+            "options": {
+                "A": "E = σ + ε",
+                "B": "E = σ / ε",
+                "C": "E = ε / σ",
+                "D": "E = σ * ε"
+            },
+            "correct_answer": "B",
+            "explanation": "Young's Modulus relates stress and strain within the proportional limit of a material. It is represented by the equation E = σ / ε, where E is Young's Modulus, σ is stress, and ε is strain. This equation describes the linear relationship between stress and strain in the elastic region of a material."
+        }
+    ]
+}

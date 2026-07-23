@@ -1,0 +1,66 @@
+{
+    "video_title": "MNSS Rai Recruitment 2026 Overview",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D globe, zooming in on different continents and regions.",
+            "narration_script": "Welcome to the MNSS Rai Recruitment 2026 overview video. In this video, we will explore the key concepts and subjects that you need to know to succeed in the exam.",
+            "on_screen_text": "MNSS Rai Recruitment 2026"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "A 3D animation of a timeline appears, with key dates and events highlighted.",
+            "narration_script": "Let's start with the subject of General Knowledge, which includes History and Geography. The study of history and geography is crucial for understanding the complexities of our world.",
+            "on_screen_text": "History and Geography"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A 3D model of the Indus Valley Civilization appears, with animated people and buildings.",
+            "narration_script": "The ancient history of our world is a rich tapestry of cultures, empires, and ideas. The Indus Valley Civilization, for example, was a sophisticated urban culture that thrived over 4,000 years ago in the Indus Valley region.",
+            "on_screen_text": "Indus Valley Civilization (3300-1300 BCE)"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "A 3D animation of the Delhi Sultanate and Mughal Empire appears, with animated maps and buildings.",
+            "narration_script": "The medieval period was a time of great change and upheaval in world history. The Delhi Sultanate and Mughal Empire were major centers of Islamic culture and learning.",
+            "on_screen_text": "Delhi Sultanate (1206-1526 CE), Mughal Empire (1526-1756 CE)"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A 3D model of the Earth appears, with animated mountains, rivers, and deserts.",
+            "narration_script": "The physical geography of our world is characterized by a diverse range of landscapes and features. Mountains, rivers, and deserts are just a few examples of the many different types of environments that exist on our planet.",
+            "on_screen_text": "Physical Geography"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A 3D animation of the English language appears, with animated words and grammar rules.",
+            "narration_script": "Next, let's move on to the subject of English, which includes Grammar and Literature. The study of English grammar and literature is essential for effective communication and cultural understanding.",
+            "on_screen_text": "English Grammar and Literature"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "A 3D model of a math equation appears, with animated numbers and symbols.",
+            "narration_script": "The study of mathematics is essential for understanding the world around us. In this chapter, we will explore the key concepts of algebra and geometry, including equations, inequalities, and shapes.",
+            "on_screen_text": "Algebra and Geometry"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "A 3D animation of a cell appears, with animated organelles and biological processes.",
+            "narration_script": "The study of science is essential for understanding the natural world. In this chapter, we will explore the key concepts of biology and chemistry, including cell structure, photosynthesis, and chemical reactions.",
+            "on_screen_text": "Biology and Chemistry"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "A 3D model of a logical reasoning puzzle appears, with animated shapes and patterns.",
+            "narration_script": "Finally, let's move on to the subject of Reasoning, which includes Logical and Non-Verbal Reasoning. The study of reasoning is essential for developing critical thinking and problem-solving skills.",
+            "on_screen_text": "Logical and Non-Verbal Reasoning"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "A 3D animation of a person studying and preparing for the exam appears, with animated books and notes.",
+            "narration_script": "We hope this video has provided you with a comprehensive overview of the key concepts and subjects that you need to know to succeed in the MNSS Rai Recruitment 2026 exam. Good luck with your studies and preparation!",
+            "on_screen_text": "Good Luck with Your Studies!"
+        }
+    ]
+}

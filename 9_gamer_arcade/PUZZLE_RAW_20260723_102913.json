@@ -1,0 +1,40 @@
+{
+    "module_name": "AAI ATC Junior Executive Exam",
+    "true_false_rapid_fire": [
+        {
+            "statement": "The English language originated in the 5th century.",
+            "is_true": true,
+            "explanation": "The origins of the English language date back to the 5th century."
+        },
+        {
+            "statement": "Identifying the main idea of a passage involves understanding the central theme or message the author intends to convey.",
+            "is_true": true,
+            "explanation": "Identifying the main idea of a passage involves understanding the central theme or message the author intends to convey."
+        },
+        {
+            "statement": "Deductive reasoning involves making generalizations based on specific observations.",
+            "is_true": false,
+            "explanation": "Deductive reasoning involves drawing conclusions based on given premises using logical rules, whereas inductive reasoning involves making generalizations based on specific observations."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Identifying Main Ideas",
+            "Understanding Context",
+            "Making Inferences",
+            "Deductive Reasoning"
+        ],
+        "right_column_shuffled": [
+            "Drawing conclusions based on given premises using logical rules",
+            "Understanding the situation, background, or environment in which the text is written",
+            "Identifying the central theme or message the author intends to convey",
+            "Drawing conclusions based on the information provided in the text"
+        ],
+        "correct_mapping": {
+            "Identifying Main Ideas": "Identifying the central theme or message the author intends to convey",
+            "Understanding Context": "Understanding the situation, background, or environment in which the text is written",
+            "Making Inferences": "Drawing conclusions based on the information provided in the text",
+            "Deductive Reasoning": "Drawing conclusions based on given premises using logical rules"
+        }
+    }
+}

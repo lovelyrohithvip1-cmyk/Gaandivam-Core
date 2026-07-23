@@ -1,0 +1,497 @@
+{
+    "exam_name": "Haryana Teacher Eligibility Test (HTET) 2026",
+    "chyme_granular_syllabus": {
+        "Child Development and Pedagogy": {
+            "Child Development": {
+                "Introduction to Child Development": [
+                    "Cognitive Development",
+                    "Social Development",
+                    "Emotional Development"
+                ],
+                "Theories of Child Development": [
+                    "Piaget's Theory",
+                    "Vygotsky's Theory",
+                    "Kohlberg's Theory"
+                ],
+                "Factors Influencing Child Development": [
+                    "Genetic Factors",
+                    "Environmental Factors",
+                    "Socio-Cultural Factors"
+                ]
+            },
+            "Concept of Inclusive Education": {
+                "Introduction to Inclusive Education": [
+                    "Definition of Inclusive Education",
+                    "Importance of Inclusive Education",
+                    "Benefits of Inclusive Education"
+                ],
+                "Principles of Inclusive Education": [
+                    "Equity",
+                    "Access",
+                    "Participation",
+                    "Acceptance"
+                ],
+                "Barriers to Inclusive Education": [
+                    "Physical Barriers",
+                    "Social Barriers",
+                    "Economic Barriers",
+                    "Cultural Barriers"
+                ]
+            },
+            "Learning and Pedagogy": {
+                "Introduction to Learning": [
+                    "Definition of Learning",
+                    "Types of Learning",
+                    "Factors Influencing Learning"
+                ],
+                "Teaching Methods": [
+                    "Traditional Methods",
+                    "Modern Methods",
+                    "Innovative Methods"
+                ],
+                "Assessment and Evaluation": [
+                    "Formative Assessment",
+                    "Summative Assessment",
+                    "Continuous and Comprehensive Evaluation"
+                ]
+            }
+        },
+        "Language I (Hindi)": {
+            "Hindi Language": {
+                "Introduction to Hindi Language": [
+                    "History of Hindi Language",
+                    "Importance of Hindi Language",
+                    "Features of Hindi Language"
+                ],
+                "Hindi Grammar": [
+                    "Parts of Speech",
+                    "Tenses",
+                    "Clauses",
+                    "Phrases"
+                ],
+                "Hindi Vocabulary": [
+                    "Root Words",
+                    "Prefixes",
+                    "Suffixes",
+                    "Idioms and Phrases"
+                ]
+            },
+            "Hindi Grammar": {
+                "Introduction to Hindi Grammar": [
+                    "Definition of Grammar",
+                    "Importance of Grammar",
+                    "Branches of Grammar"
+                ],
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences",
+                    "Compound-Complex Sentences"
+                ]
+            },
+            "Hindi Literature": {
+                "Introduction to Hindi Literature": [
+                    "History of Hindi Literature",
+                    "Periods of Hindi Literature",
+                    "Forms of Hindi Literature"
+                ],
+                "Hindi Poetry": [
+                    "Forms of Poetry",
+                    "Poetic Devices",
+                    "Famous Poets"
+                ],
+                "Hindi Prose": [
+                    "Forms of Prose",
+                    "Prose Styles",
+                    "Famous Writers"
+                ]
+            }
+        },
+        "Language II (English)": {
+            "English Language": {
+                "Introduction to English Language": [
+                    "History of English Language",
+                    "Importance of English Language",
+                    "Features of English Language"
+                ],
+                "English Grammar": [
+                    "Parts of Speech",
+                    "Tenses",
+                    "Clauses",
+                    "Phrases"
+                ],
+                "English Vocabulary": [
+                    "Root Words",
+                    "Prefixes",
+                    "Suffixes",
+                    "Idioms and Phrases"
+                ]
+            },
+            "English Grammar": {
+                "Introduction to English Grammar": [
+                    "Definition of Grammar",
+                    "Importance of Grammar",
+                    "Branches of Grammar"
+                ],
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences",
+                    "Compound-Complex Sentences"
+                ]
+            },
+            "English Literature": {
+                "Introduction to English Literature": [
+                    "History of English Literature",
+                    "Periods of English Literature",
+                    "Forms of English Literature"
+                ],
+                "English Poetry": [
+                    "Forms of Poetry",
+                    "Poetic Devices",
+                    "Famous Poets"
+                ],
+                "English Prose": [
+                    "Forms of Prose",
+                    "Prose Styles",
+                    "Famous Writers"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Number System": {
+                "Introduction to Number System": [
+                    "Definition of Number System",
+                    "Types of Number Systems",
+                    "Importance of Number System"
+                ],
+                "Properties of Numbers": [
+                    "Commutative Property",
+                    "Associative Property",
+                    "Distributive Property",
+                    "Identity Property"
+                ],
+                "Operations on Numbers": [
+                    "Addition",
+                    "Subtraction",
+                    "Multiplication",
+                    "Division"
+                ]
+            },
+            "Algebra": {
+                "Introduction to Algebra": [
+                    "Definition of Algebra",
+                    "Importance of Algebra",
+                    "Branches of Algebra"
+                ],
+                "Equations and Inequalities": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations",
+                    "Rational Inequalities"
+                ],
+                "Graphs and Functions": [
+                    "Types of Graphs",
+                    "Types of Functions",
+                    "Graphical Representation of Functions"
+                ]
+            },
+            "Geometry": {
+                "Introduction to Geometry": [
+                    "Definition of Geometry",
+                    "Importance of Geometry",
+                    "Branches of Geometry"
+                ],
+                "Points, Lines, and Planes": [
+                    "Definition of Points",
+                    "Definition of Lines",
+                    "Definition of Planes"
+                ],
+                "Angles and Measurements": [
+                    "Types of Angles",
+                    "Measurement of Angles",
+                    "Types of Measurements"
+                ]
+            },
+            "Trigonometry": {
+                "Introduction to Trigonometry": [
+                    "Definition of Trigonometry",
+                    "Importance of Trigonometry",
+                    "Branches of Trigonometry"
+                ],
+                "Trigonometric Ratios": [
+                    "Sine",
+                    "Cosine",
+                    "Tangent",
+                    "Cotangent"
+                ],
+                "Trigonometric Identities": [
+                    "Pythagorean Identity",
+                    "Sum and Difference Identities",
+                    "Double Angle Identities"
+                ]
+            },
+            "Statistics": {
+                "Introduction to Statistics": [
+                    "Definition of Statistics",
+                    "Importance of Statistics",
+                    "Branches of Statistics"
+                ],
+                "Data Collection and Analysis": [
+                    "Types of Data",
+                    "Methods of Data Collection",
+                    "Methods of Data Analysis"
+                ],
+                "Probability and Distribution": [
+                    "Definition of Probability",
+                    "Types of Probability Distributions",
+                    "Normal Distribution"
+                ]
+            }
+        },
+        "Environmental Studies": {
+            "Family and Community": {
+                "Introduction to Family and Community": [
+                    "Definition of Family",
+                    "Definition of Community",
+                    "Importance of Family and Community"
+                ],
+                "Family Structure and Functions": [
+                    "Types of Family Structures",
+                    "Functions of Family",
+                    "Family Relationships"
+                ],
+                "Community Structure and Functions": [
+                    "Types of Community Structures",
+                    "Functions of Community",
+                    "Community Relationships"
+                ]
+            },
+            "Food and Nutrition": {
+                "Introduction to Food and Nutrition": [
+                    "Definition of Food",
+                    "Definition of Nutrition",
+                    "Importance of Food and Nutrition"
+                ],
+                "Types of Food": [
+                    "Carbohydrates",
+                    "Proteins",
+                    "Fats",
+                    "Vitamins and Minerals"
+                ],
+                "Nutritional Disorders": [
+                    "Malnutrition",
+                    "Obesity",
+                    "Deficiency Diseases"
+                ]
+            },
+            "Shelter": {
+                "Introduction to Shelter": [
+                    "Definition of Shelter",
+                    "Importance of Shelter",
+                    "Types of Shelters"
+                ],
+                "Types of Houses": [
+                    "Traditional Houses",
+                    "Modern Houses",
+                    "Eco-Friendly Houses"
+                ],
+                "Housing and Urbanization": [
+                    "Urbanization",
+                    "Slum Development",
+                    "Housing Policies"
+                ]
+            },
+            "Water": {
+                "Introduction to Water": [
+                    "Definition of Water",
+                    "Importance of Water",
+                    "Sources of Water"
+                ],
+                "Water Cycle": [
+                    "Evaporation",
+                    "Condensation",
+                    "Precipitation",
+                    "Runoff"
+                ],
+                "Water Conservation": [
+                    "Methods of Water Conservation",
+                    "Importance of Water Conservation",
+                    "Water Conservation Techniques"
+                ]
+            },
+            "Travel": {
+                "Introduction to Travel": [
+                    "Definition of Travel",
+                    "Importance of Travel",
+                    "Types of Travel"
+                ],
+                "Modes of Transport": [
+                    "Land Transport",
+                    "Water Transport",
+                    "Air Transport"
+                ],
+                "Tourism and Travel Industry": [
+                    "Types of Tourism",
+                    "Tourism Industry",
+                    "Travel Agencies"
+                ]
+            },
+            "Communication": {
+                "Introduction to Communication": [
+                    "Definition of Communication",
+                    "Importance of Communication",
+                    "Types of Communication"
+                ],
+                "Verbal and Non-Verbal Communication": [
+                    "Verbal Communication",
+                    "Non-Verbal Communication",
+                    "Barriers to Communication"
+                ],
+                "Mass Media and Communication": [
+                    "Types of Mass Media",
+                    "Importance of Mass Media",
+                    "Media and Communication"
+                ]
+            }
+        },
+        "Science": {
+            "Physics": {
+                "Introduction to Physics": [
+                    "Definition of Physics",
+                    "Importance of Physics",
+                    "Branches of Physics"
+                ],
+                "Motion and Forces": [
+                    "Types of Motion",
+                    "Forces and Newton's Laws",
+                    "Friction and Gravity"
+                ],
+                "Energy and Work": [
+                    "Types of Energy",
+                    "Work and Energy",
+                    "Efficiency and Power"
+                ]
+            },
+            "Chemistry": {
+                "Introduction to Chemistry": [
+                    "Definition of Chemistry",
+                    "Importance of Chemistry",
+                    "Branches of Chemistry"
+                ],
+                "Atoms and Molecules": [
+                    "Structure of Atoms",
+                    "Types of Chemical Bonds",
+                    "Chemical Reactions"
+                ],
+                "Acids, Bases, and Salts": [
+                    "Definition of Acids and Bases",
+                    "Types of Acids and Bases",
+                    "Salts and Their Properties"
+                ]
+            },
+            "Biology": {
+                "Introduction to Biology": [
+                    "Definition of Biology",
+                    "Importance of Biology",
+                    "Branches of Biology"
+                ],
+                "Cell Structure and Functions": [
+                    "Cell Membrane",
+                    "Cell Organelles",
+                    "Cell Division"
+                ],
+                "Human Body Systems": [
+                    "Nervous System",
+                    "Circulatory System",
+                    "Respiratory System",
+                    "Digestive System"
+                ]
+            }
+        },
+        "Social Studies": {
+            "History": {
+                "Introduction to History": [
+                    "Definition of History",
+                    "Importance of History",
+                    "Branches of History"
+                ],
+                "Ancient Civilizations": [
+                    "Indus Valley Civilization",
+                    "Egyptian Civilization",
+                    "Greek Civilization",
+                    "Roman Civilization"
+                ],
+                "Medieval and Modern History": [
+                    "Medieval Period",
+                    "Modern Period",
+                    "World History"
+                ]
+            },
+            "Geography": {
+                "Introduction to Geography": [
+                    "Definition of Geography",
+                    "Importance of Geography",
+                    "Branches of Geography"
+                ],
+                "Physical Geography": [
+                    "Landforms",
+                    "Water Bodies",
+                    "Climate and Weather"
+                ],
+                "Human Geography": [
+                    "Population",
+                    "Settlements",
+                    "Economic Activities"
+                ]
+            },
+            "Civics": {
+                "Introduction to Civics": [
+                    "Definition of Civics",
+                    "Importance of Civics",
+                    "Branches of Civics"
+                ],
+                "Government and Politics": [
+                    "Types of Governments",
+                    "Political Systems",
+                    "Citizenship and Rights"
+                ],
+                "Constitution and Laws": [
+                    "Indian Constitution",
+                    "Fundamental Rights",
+                    "Directive Principles of State Policy"
+                ]
+            },
+            "Economics": {
+                "Introduction to Economics": [
+                    "Definition of Economics",
+                    "Importance of Economics",
+                    "Branches of Economics"
+                ],
+                "Basic Concepts": [
+                    "Scarcity",
+                    "Opportunity Cost",
+                    "Supply and Demand"
+                ],
+                "Indian Economy": [
+                    "Agricultural Sector",
+                    "Industrial Sector",
+                    "Service Sector",
+                    "Fiscal Policy and Budget"
+                ]
+            }
+        }
+    }
+}

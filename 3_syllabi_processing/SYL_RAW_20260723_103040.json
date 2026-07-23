@@ -1,0 +1,24 @@
+{
+    "exam_name": "NDA & NA (I) 2026",
+    "raw_syllabus": {
+        "Mathematics": [
+            "Algebra",
+            "Matrices and Determinants",
+            "Trigonometry",
+            "Analytical Geometry",
+            "Differential Calculus",
+            "Integral Calculus",
+            "Statistics and Probability"
+        ],
+        "General Ability": [
+            "English",
+            "General Knowledge",
+            "Physics",
+            "Chemistry",
+            "General Science",
+            "History",
+            "Geography",
+            "Current Events"
+        ]
+    }
+}

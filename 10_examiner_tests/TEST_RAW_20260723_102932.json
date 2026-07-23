@@ -1,0 +1,61 @@
+{
+    "exam_name": "RRB Group D Recruitment Examination 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary reason why whole numbers are essential in mathematical operations, and how do they relate to the concept of place value?",
+            "options": {
+                "A": "Whole numbers are essential because they are used in addition and subtraction, and place value is critical for understanding the representation of whole numbers.",
+                "B": "Whole numbers are essential because they are used in multiplication and division, but place value is not critical for understanding their representation.",
+                "C": "Whole numbers are essential because they are used in fractions and decimals, and place value is only relevant for decimals.",
+                "D": "Whole numbers are not essential in mathematical operations, and place value is only relevant for fractions."
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because whole numbers are indeed essential in mathematical operations such as addition, subtraction, multiplication, and division. Moreover, the concept of place value is critical for understanding the representation of whole numbers, as it refers to the value of a digit depending on its position within a number. This is evident from the formula: Place value = face value * place value, where face value is the value of the digit itself, and place value is the value of the place the digit holds in the number."
+        },
+        {
+            "question_text": "A decimal representation of a number can be converted to a fraction. What is the relationship between the whole part and the fractional part in a decimal representation?",
+            "options": {
+                "A": "The whole part is separated from the fractional part by a comma.",
+                "B": "The whole part is separated from the fractional part by a decimal point.",
+                "C": "The whole part and the fractional part are combined using a fraction bar.",
+                "D": "The whole part and the fractional part are combined using a colon."
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because in a decimal representation, the whole part is indeed separated from the fractional part by a decimal point. This is evident from the formula: Decimal representation = whole part + fractional part, where the fractional part is separated by a decimal point. For example, the decimal number 3.14 can be represented as a fraction: 314/100, which simplifies to 157/50."
+        },
+        {
+            "question_text": "What is the primary difference between a fraction and a decimal, and how do they represent numbers that are not whole?",
+            "options": {
+                "A": "A fraction represents a part of a whole using a numerator and a denominator, while a decimal represents a part of a whole using a point to separate the whole part from the fractional part.",
+                "B": "A fraction represents a part of a whole using a decimal point, while a decimal represents a part of a whole using a numerator and a denominator.",
+                "C": "A fraction and a decimal are the same, and they both represent whole numbers.",
+                "D": "A fraction and a decimal are the same, and they both represent numbers that are not whole, but only in certain contexts."
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because a fraction indeed represents a part of a whole using a numerator and a denominator, while a decimal represents a part of a whole using a point to separate the whole part from the fractional part. For example, the fraction 1/2 can be represented as a decimal: 0.5, which denotes a part of a whole. Both fractions and decimals are used to represent numbers that are not whole, but they differ in their notation and representation."
+        },
+        {
+            "question_text": "What is the relationship between velocity, displacement, and time in the concept of motion, and how is velocity calculated?",
+            "options": {
+                "A": "Velocity is calculated as displacement divided by time, and it is a measure of an object's speed in a specific direction.",
+                "B": "Velocity is calculated as time divided by displacement, and it is a measure of an object's speed without considering direction.",
+                "C": "Velocity is calculated as the product of displacement and time, and it is a measure of an object's acceleration.",
+                "D": "Velocity is calculated as the difference between displacement and time, and it is a measure of an object's deceleration."
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because velocity is indeed calculated as displacement divided by time, and it is a measure of an object's speed in a specific direction. This is evident from the formula: Velocity = displacement / time. For example, if an object travels a displacement of 100 meters in 10 seconds, its velocity would be 10 meters per second. Velocity is a fundamental concept in motion, and it is essential for understanding an object's movement and behavior."
+        },
+        {
+            "question_text": "What is the primary difference between an analogy and a syllogism in verbal reasoning, and how do they test cognitive abilities?",
+            "options": {
+                "A": "An analogy tests pattern recognition and logical reasoning by identifying relationships between words or concepts, while a syllogism tests logical reasoning and argumentation by drawing conclusions from premises.",
+                "B": "An analogy tests logical reasoning and argumentation by drawing conclusions from premises, while a syllogism tests pattern recognition and logical reasoning by identifying relationships between words or concepts.",
+                "C": "An analogy and a syllogism are the same, and they both test pattern recognition and logical reasoning.",
+                "D": "An analogy and a syllogism are the same, and they both test logical reasoning and argumentation."
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A because an analogy indeed tests pattern recognition and logical reasoning by identifying relationships between words or concepts, while a syllogism tests logical reasoning and argumentation by drawing conclusions from premises. Analogies require the ability to analyze and reason about relationships between given information, while syllogisms require the ability to analyze and reason about the relationships between premises and conclusions. Both analogies and syllogisms are essential in verbal reasoning, and they test different cognitive abilities such as pattern recognition, logical reasoning, and argumentation."
+        }
+    ]
+}

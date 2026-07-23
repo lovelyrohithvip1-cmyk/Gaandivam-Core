@@ -1,0 +1,61 @@
+{
+    "exam_name": "10th & 12th Board Exams 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary application of linear equations in real-life scenarios?",
+            "options": {
+                "A": "Modeling projectile motion",
+                "B": "Designing electronic circuits",
+                "C": "Calculating distances, speeds, and costs",
+                "D": "Predicting the properties of elements"
+            },
+            "correct_answer": "C",
+            "explanation": "Linear equations have numerous applications in real-life scenarios, such as calculating distances, speeds, and costs, as they can be used to model and solve problems involving straight lines and constant rates of change."
+        },
+        {
+            "question_text": "Which concept in geometry states that the line segment joining the midpoints of two sides of a triangle is parallel to the third side and half of its length?",
+            "options": {
+                "A": "Distance Formula",
+                "B": "Midpoint Theorem",
+                "C": "Pythagorean Theorem",
+                "D": "Quadratic Equation"
+            },
+            "correct_answer": "B",
+            "explanation": "The Midpoint Theorem is a fundamental concept in geometry that describes the relationship between the midpoints of the sides of a triangle and the parallelism of the resulting line segments."
+        },
+        {
+            "question_text": "What is the formula used to find the distance between two points in a coordinate plane?",
+            "options": {
+                "A": "ax + b = c",
+                "B": "ax^2 + bx + c = 0",
+                "C": "√((x2 - x1)^2 + (y2 - y1)^2)",
+                "D": "F = ma"
+            },
+            "correct_answer": "C",
+            "explanation": "The Distance Formula, √((x2 - x1)^2 + (y2 - y1)^2), is a fundamental concept in geometry that allows us to calculate the distance between two points in a coordinate plane, which has numerous applications in various fields."
+        },
+        {
+            "question_text": "Which branch of physics deals with the study of motion, considering the forces that cause the motion?",
+            "options": {
+                "A": "Kinematics",
+                "B": "Dynamics",
+                "C": "Thermodynamics",
+                "D": "Electromagnetism"
+            },
+            "correct_answer": "B",
+            "explanation": "Dynamics is the branch of physics that deals with the study of motion, considering the forces that cause the motion, which involves the description of motion in terms of force, mass, and acceleration, and has numerous applications in real-life scenarios."
+        },
+        {
+            "question_text": "What is the primary function of the periodic table in chemistry?",
+            "options": {
+                "A": "To predict the properties of compounds",
+                "B": "To understand the behavior of molecules",
+                "C": "To arrange the elements in order of increasing atomic number and group them by recurring chemical properties",
+                "D": "To describe the composition of matter"
+            },
+            "correct_answer": "C",
+            "explanation": "The periodic table is a tabular arrangement of the elements, organized by their atomic number, electron configuration, and recurring chemical properties, which allows us to predict the properties of elements and understand the behavior of compounds."
+        }
+    ]
+}

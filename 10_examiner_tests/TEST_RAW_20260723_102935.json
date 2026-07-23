@@ -1,0 +1,61 @@
+{
+    "exam_name": "HSSC CET Group C Exam 2025",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary role of national news in shaping the destiny of a nation?",
+            "options": {
+                "A": "To focus solely on international relations",
+                "B": "To encompass a broad spectrum of events, policies, and developments",
+                "C": "To prioritize only economic news",
+                "D": "To cover exclusively environmental issues"
+            },
+            "correct_answer": "B",
+            "explanation": "National news plays a crucial role in shaping a nation's destiny by covering a wide range of topics including government policies, elections, and national security, which all impact the country's governance, development, and safety."
+        },
+        {
+            "question_text": "How does inductive reasoning differ from deductive reasoning?",
+            "options": {
+                "A": "Inductive reasoning involves making generalizations from specific observations, while deductive reasoning involves drawing specific conclusions from general premises",
+                "B": "Inductive reasoning is used only in scientific research, while deductive reasoning is used in all other fields",
+                "C": "Deductive reasoning is about recognizing patterns, while inductive reasoning is about evaluating arguments",
+                "D": "Inductive reasoning and deductive reasoning are interchangeable terms"
+            },
+            "correct_answer": "A",
+            "explanation": "Inductive reasoning involves making generalizations or drawing conclusions based on specific observations, which is the opposite of deductive reasoning where specific conclusions are drawn from general premises using logical rules."
+        },
+        {
+            "question_text": "What is the significance of understanding parts of speech in the English language?",
+            "options": {
+                "A": "It helps in understanding only complex sentences",
+                "B": "It is crucial for constructing meaningful sentences and conveying thoughts accurately",
+                "C": "It is necessary only for reading comprehension",
+                "D": "It is irrelevant for effective communication"
+            },
+            "correct_answer": "B",
+            "explanation": "Understanding parts of speech is fundamental because it helps in constructing meaningful sentences, conveying thoughts accurately, and overall, in effective communication. Each part of speech has its function and usage, and knowing these is essential for clear expression."
+        },
+        {
+            "question_text": "What is the primary skill required for spatial reasoning?",
+            "options": {
+                "A": "Understanding only visual data",
+                "B": "Comprehending the relationships between objects in space",
+                "C": "Recognizing patterns in numbers",
+                "D": "Analyzing texts for comprehension"
+            },
+            "correct_answer": "B",
+            "explanation": "Spatial reasoning is about understanding the relationships between objects in space, which involves comprehending directions, distances, and mappings. This skill is crucial for navigation, architecture, and many aspects of daily life."
+        },
+        {
+            "question_text": "How does international news reflect the interconnectedness of the world?",
+            "options": {
+                "A": "Through the isolation of national economies",
+                "B": "By focusing only on environmental issues",
+                "C": "By showing how events in one part of the globe can have far-reaching implications elsewhere",
+                "D": "By ignoring the impact of globalization"
+            },
+            "correct_answer": "C",
+            "explanation": "International news reflects the interconnectedness of the world by highlighting how events, whether they be economic, political, or environmental, in one part of the globe can have significant and far-reaching implications in other parts, demonstrating the complex web of global relationships and interdependencies."
+        }
+    ]
+}

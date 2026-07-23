@@ -1,0 +1,66 @@
+{
+    "video_title": "Mastering KVS and NVS Teaching and Non-Teaching Exams",
+    "target_duration_minutes": "30",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a vast, glowing map of the world, with key locations highlighted",
+            "narration_script": "Welcome to the world of General Awareness, where understanding national and international events, social and cultural heritage, is key to building a strong foundation for your future.",
+            "on_screen_text": "General Awareness"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "3D animation of a newspaper unfolding, with headlines about government policies, economic updates, and social issues",
+            "narration_script": "National news is the backbone of a country's awareness, covering government policies, economic updates, and social issues. It's crucial for understanding a nation's development and challenges.",
+            "on_screen_text": "National News: Government Policies, Economic Updates, Social Issues"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A globe spins, showing different countries and their connections, with news headlines popping up",
+            "narration_script": "International news broadens our perspective, enabling us to understand global trends, international relations, and environmental concerns. The global economy is interconnected, and events in one country can affect others.",
+            "on_screen_text": "International News: Global Trends, International Relations, Environmental Concerns"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "A vibrant, animated tapestry of Indian culture, with images of the Taj Mahal, classical dances, and festivals",
+            "narration_script": "Indian culture is a rich and diverse heritage, encompassing art, architecture, music, dance, festivals, and traditions. Each aspect is a window into the country's history, values, and beliefs.",
+            "on_screen_text": "Indian Culture: Art, Architecture, Music, Dance, Festivals, Traditions"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A puzzle pieces together, representing reasoning and problem-solving",
+            "narration_script": "Reasoning ability is the cornerstone of problem-solving and critical thinking, essential for navigating the complexities of the modern world. It encompasses both verbal and non-verbal reasoning.",
+            "on_screen_text": "Reasoning Ability: Verbal and Non-Verbal Reasoning"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "Analogies appear on screen, with words and numbers, requiring the viewer to identify relationships",
+            "narration_script": "Analogies are a fundamental part of verbal reasoning, requiring the ability to identify relationships between words, numbers, or concepts. Understanding these relationships is key to solving analogies.",
+            "on_screen_text": "Analogies: Identifying Relationships"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "Syllogisms are visually represented, with premises and conclusions, to illustrate deductive reasoning",
+            "narration_script": "Syllogisms are logical arguments that use deductive reasoning to arrive at a conclusion based on two or more premises. Understanding the structure of syllogisms is crucial for logical reasoning.",
+            "on_screen_text": "Syllogisms: Deductive Reasoning"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Patterns appear on screen, with numbers, letters, and images, requiring the viewer to recognize sequences",
+            "narration_script": "Pattern recognition is a vital aspect of non-verbal reasoning, involving the identification of sequences or patterns in numbers, letters, or images. Recognizing patterns is essential for problem-solving.",
+            "on_screen_text": "Pattern Recognition: Identifying Sequences"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "A book opens, showing the parts of speech, with animations to illustrate their functions",
+            "narration_script": "The parts of speech are the building blocks of the English language, including nouns, verbs, adjectives, and adverbs. Each part of speech has its role and function in a sentence.",
+            "on_screen_text": "Parts of Speech: Nouns, Verbs, Adjectives, Adverbs"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "Words and their meanings appear on screen, with synonyms, antonyms, and idioms, to illustrate vocabulary",
+            "narration_script": "Vocabulary is the heart of any language, with word meanings, synonyms, antonyms, and homophones being essential for precise communication. Building a strong vocabulary is key to effective expression.",
+            "on_screen_text": "Vocabulary: Word Meanings, Synonyms, Antonyms, Idioms"
+        }
+    ]
+}

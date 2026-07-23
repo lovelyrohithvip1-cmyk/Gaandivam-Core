@@ -1,0 +1,60 @@
+{
+    "video_title": "SBI PO Recruitment 2026: Mastering the Fundamentals",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D globe, with books and laptops floating around it, symbolizing the fusion of knowledge and technology.",
+            "narration_script": "Welcome to the SBI PO Recruitment 2026 preparation journey. In today's interconnected world, mastering the fundamentals of English Language, Quantitative Aptitude, Reasoning Ability, and Computer Awareness is crucial for success.",
+            "on_screen_text": "SBI PO Recruitment 2026: Empowering Your Future"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "A 3D animation of a person reading a book, with words and concepts floating out of the pages, highlighting the importance of reading comprehension.",
+            "narration_script": "Let's start with the English Language, a cornerstone of effective communication. Reading comprehension and grammar fundamentals are essential skills to master.",
+            "on_screen_text": "English Language: The Foundation of Communication"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "An animated concept map appears, showing how to identify main ideas and understand word meanings, with flashing lights emphasizing key concepts.",
+            "narration_script": "To identify main ideas, analyze the context, introduction, body, and conclusion. Understanding word meanings involves knowing dictionary definitions and usage in different contexts.",
+            "on_screen_text": "Key Concepts: Identifying Main Ideas, Understanding Word Meanings"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "A 3D graph and table appear, with animated arrows pointing out trends and patterns, illustrating data interpretation skills.",
+            "narration_script": "Quantitative Aptitude is about more than just numbers; it's about interpreting data, reading tables, and graphs to make informed decisions.",
+            "on_screen_text": "Quantitative Aptitude: Unlocking Data Insights"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A logical reasoning puzzle is animated, with pieces fitting together to reveal a solution, symbolizing the power of logical reasoning.",
+            "narration_script": "Reasoning Ability is the backbone of critical thinking, involving logical reasoning, identifying arguments, and evaluating data sufficiency.",
+            "on_screen_text": "Reasoning Ability: The Art of Critical Thinking"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A computer hardware component 3D model is shown, with animated circuits and wires, highlighting the importance of computer awareness.",
+            "narration_script": "In the digital age, combining computer awareness with logical reasoning skills is essential. Understanding hardware components and identifying patterns are key skills.",
+            "on_screen_text": "Computer Awareness: The Digital Edge"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "A 3D animation of a person analyzing data on a laptop, with graphs and charts popping up, illustrating data analysis and interpretation.",
+            "narration_script": "Data Analysis and Interpretation are modern tools for uncovering insights. Reading and interpreting tables, and analyzing graphs for trends and patterns are highly valued skills.",
+            "on_screen_text": "Data Analysis & Interpretation: Uncovering Insights"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "A globe with financial and economic data floating around it, with a cityscape in the background, symbolizing the interconnectedness of economy and banking.",
+            "narration_script": "Lastly, General Awareness, Economy, and Banking Knowledge are interconnected fields that shape our understanding of the world. Staying updated on current affairs, economic principles, and banking basics is crucial.",
+            "on_screen_text": "General Awareness / Economy / Banking Knowledge: Staying Ahead"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "A 3D animation of a person successfully overcoming challenges, with a cityscape and a glowing globe in the background, symbolizing success and empowerment.",
+            "narration_script": "Mastering these fundamentals will empower you to succeed in the SBI PO Recruitment 2026 and beyond. Stay focused, keep learning, and you will achieve your goals.",
+            "on_screen_text": "Empowering Your Success: SBI PO Recruitment 2026"
+        }
+    ]
+}

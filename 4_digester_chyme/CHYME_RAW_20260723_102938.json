@@ -1,0 +1,110 @@
+{
+    "exam_name": "AAI Manager & Junior Executive Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Reasoning": {
+            "Verbal Reasoning": {
+                "Analogies": [
+                    "Types of Analogies",
+                    "Analogies Based on Relationships",
+                    "Analogies Based on Patterns"
+                ],
+                "Syllogisms": [
+                    "Types of Syllogisms",
+                    "Syllogisms Based on Arguments",
+                    "Syllogisms Based on Conclusions"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Series": [
+                    "Number Series",
+                    "Letter Series",
+                    "Pattern Series"
+                ],
+                "Puzzles": [
+                    "Seating Arrangements",
+                    "Logical Puzzles",
+                    "Data Arrangements"
+                ]
+            }
+        },
+        "English": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Tenses": [
+                    "Present Tense",
+                    "Past Tense",
+                    "Future Tense"
+                ]
+            },
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Types of Passages",
+                    "Understanding the Context",
+                    "Identifying the Main Idea"
+                ],
+                "Vocabulary": [
+                    "Word Meanings",
+                    "Synonyms",
+                    "Antonyms"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Graphs": [
+                    "Types of Graphs",
+                    "Graphical Representation",
+                    "Graphical Analysis"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Properties of Points",
+                    "Properties of Lines",
+                    "Relationship Between Points and Lines"
+                ],
+                "Angles and Shapes": [
+                    "Types of Angles",
+                    "Properties of Shapes",
+                    "Relationship Between Angles and Shapes"
+                ]
+            }
+        },
+        "General Knowledge": {
+            "History": {
+                "Ancient History": [
+                    "Pre-Historic Era",
+                    "Medieval Era",
+                    "Modern Era"
+                ],
+                "Modern History": [
+                    "National Movement",
+                    "World History",
+                    "Contemporary History"
+                ]
+            },
+            "Science": {
+                "Physics": [
+                    "Mechanics",
+                    "Thermodynamics",
+                    "Electromagnetism"
+                ],
+                "Chemistry": [
+                    "Inorganic Chemistry",
+                    "Organic Chemistry",
+                    "Physical Chemistry"
+                ]
+            }
+        }
+    }
+}

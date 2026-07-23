@@ -1,0 +1,54 @@
+{
+    "video_title": "Mastering NTPC Exam Concepts",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing, futuristic cityscape with mathematical symbols and formulas floating in the air",
+            "narration_script": "Welcome to the world of mathematics, a cornerstone of human innovation since ancient civilizations. From the intricate patterns of the Indus Valley Civilization to the groundbreaking works of Euclid and Archimedes, mathematics has been the language of the universe.",
+            "on_screen_text": null
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Zoom into a 3D number line, with real numbers marked and highlighted",
+            "narration_script": "Real numbers are the building blocks of mathematics, encompassing all rational and irrational numbers. They can be visualized on the number line, a concept that has been pivotal in the development of mathematics since the ancient Greeks.",
+            "on_screen_text": "Real Numbers: Rational + Irrational"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "Show a linear equation on a blackboard, with variables and constants highlighted",
+            "narration_script": "Linear equations are the simplest form of algebraic equations, where the highest power of the variable(s) is 1. They have been a cornerstone in problem-solving since ancient times, with applications ranging from simple arithmetic to complex scientific and engineering problems.",
+            "on_screen_text": "Linear Equation: ax + by = c"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Camera transitions to a puzzle piece falling into place, representing verbal analogies",
+            "narration_script": "Verbal analogies are relationships between words that can be based on synonyms, antonyms, cause and effect, or other logical connections. They require a deep understanding of language and the ability to recognize patterns.",
+            "on_screen_text": "Verbal Analogies: Recognizing Patterns"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "Show a number series on a screen, with the pattern highlighted",
+            "narration_script": "Number series involve sequences of numbers that follow a specific pattern or rule. These can range from simple arithmetic progressions to more complex patterns. Identifying the pattern is crucial to predicting the next number in the series.",
+            "on_screen_text": "Number Series: Identifying Patterns"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "Camera pans over a historical timeline of India, with key events and figures highlighted",
+            "narration_script": "Ancient India was a cradle of civilization, with the Indus Valley Civilization being one of the earliest urban civilizations in the world. This period saw significant advancements in architecture, governance, and trade.",
+            "on_screen_text": "Ancient India: Indus Valley Civilization (3300 BCE - 1300 BCE)"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "Show the Indian Constitution on a screen, with the three branches of government highlighted",
+            "narration_script": "The Indian polity is based on the principles of democracy, secularism, and federalism. The Constitution of India, adopted in 1950, is the supreme law of the land, outlining the framework of the government, the relationship between the government and the citizens, and the fundamental rights and duties of citizens.",
+            "on_screen_text": "Indian Polity: Legislative, Executive, Judiciary"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Camera zooms out to show a person studying, with books and notes surrounding them",
+            "narration_script": "Mastering these concepts is key to success in the NTPC exam. With dedication and practice, you can unlock the doors to a brighter future.",
+            "on_screen_text": null
+        }
+    ]
+}

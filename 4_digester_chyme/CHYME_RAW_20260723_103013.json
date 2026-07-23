@@ -1,0 +1,83 @@
+{
+    "exam_name": "Haryana Police Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "General Knowledge": {
+            "Current Events": {
+                "National News": [
+                    "Government Policies",
+                    "Elections",
+                    "Natural Disasters"
+                ],
+                "International News": [
+                    "Global Economy",
+                    "International Relations",
+                    "World Events"
+                ]
+            },
+            "History": {
+                "Indian History": [
+                    "Ancient India",
+                    "Medieval India",
+                    "Modern India"
+                ],
+                "World History": [
+                    "World War I",
+                    "World War II",
+                    "Cold War"
+                ]
+            }
+        },
+        "Reasoning": {
+            "Logical Reasoning": {
+                "Arguments": [
+                    "Types of Arguments",
+                    "Argument Forms",
+                    "Fallacies"
+                ],
+                "Inferences": [
+                    "Types of Inferences",
+                    "Inference Forms",
+                    "Inference Rules"
+                ]
+            },
+            "Analytical Reasoning": {
+                "Patterns": [
+                    "Number Patterns",
+                    "Letter Patterns",
+                    "Image Patterns"
+                ],
+                "Series": [
+                    "Number Series",
+                    "Letter Series",
+                    "Image Series"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Arithmetic": {
+                "Numbers": [
+                    "Whole Numbers",
+                    "Fractions",
+                    "Decimals"
+                ],
+                "Algebra": [
+                    "Equations",
+                    "Inequalities",
+                    "Graphs"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Points",
+                    "Lines",
+                    "Angles"
+                ],
+                "Shapes": [
+                    "Triangles",
+                    "Quadrilaterals",
+                    "Polygons"
+                ]
+            }
+        }
+    }
+}

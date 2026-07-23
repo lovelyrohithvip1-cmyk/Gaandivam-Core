@@ -1,0 +1,42 @@
+{
+    "video_title": "Unlocking the Power of Mathematics and English",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a futuristic cityscape with mathematical symbols and English words floating in the air",
+            "narration_script": "Welcome to the world of mathematics and English, where numbers and words come together to unlock the secrets of the universe. In this video, we'll explore the fundamental concepts of algebra, matrices, trigonometry, and English language skills.",
+            "on_screen_text": "Mathematics and English: The Building Blocks of Knowledge"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Animated equations and formulas appear on screen, with variables and constants being solved",
+            "narration_script": "Algebra is a fundamental branch of mathematics that deals with variables and constants. Linear equations, quadratic equations, and functions are just a few of the many concepts that make up this fascinating field.",
+            "on_screen_text": "ax + b = 0, x = (-b ± √(b^2 - 4ac)) / 2a"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "Matrices and determinants are visualized as 3D cubes and grids, with operations being performed on them",
+            "narration_script": "Matrices and determinants are essential tools in linear algebra, with applications in physics, engineering, and computer science. Matrix operations and determinant properties are crucial in solving systems of linear equations.",
+            "on_screen_text": "C = AB, |A| = a11*C11 + a12*C12 + a13*C13"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Animated triangles and circles appear on screen, with trigonometric ratios and identities being explained",
+            "narration_script": "Trigonometry is the study of triangles, with applications in navigation, physics, and engineering. Trigonometric ratios, including sine, cosine, and tangent, are used to describe the relationships between angles and side lengths.",
+            "on_screen_text": "sin(A) = opposite side / hypotenuse, cos(A) = adjacent side / hypotenuse, tan(A) = opposite side / adjacent side"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "Animated books and reading comprehension exercises appear on screen, with vocabulary and grammar being explained",
+            "narration_script": "English is a global language, and reading comprehension, vocabulary, and grammar are essential skills for effective communication. Improving these skills can help you succeed in various fields, including business, education, and international relations.",
+            "on_screen_text": "Identify main idea, supporting details, and author's tone, Recognize synonyms, antonyms, and word roots"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "Camera pans out to show a person holding a tablet with mathematical symbols and English words on the screen",
+            "narration_script": "In conclusion, mathematics and English are the building blocks of knowledge, and mastering these subjects can unlock a world of possibilities. Whether you're interested in science, technology, engineering, and mathematics (STEM) or humanities, these skills will serve as the foundation for your future success.",
+            "on_screen_text": "Unlock Your Potential with Mathematics and English"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "module_name": "ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Candidates must have a minimum of 50% marks or a CGPA of 5.32/10 in their graduation to be eligible for the ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026.",
+            "is_true": false,
+            "explanation": "According to the eligibility criteria, candidates must have a minimum of 60% marks or a CGPA of 6.32/10 in their graduation."
+        },
+        {
+            "statement": "Proficiency in operating systems, Microsoft Office, and typing speed are key software skills required for the ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026.",
+            "is_true": true,
+            "explanation": "Software skills encompass a broad range of competencies related to the use of computer programs and applications, including operating systems, Microsoft Office, and typing speed."
+        },
+        {
+            "statement": "A typing speed of 40 words per minute (WPM) in English stenography is required for the ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026.",
+            "is_true": false,
+            "explanation": "A typing speed of 60 words per minute (WPM) in English stenography is required for the ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Eligibility Criteria",
+            "Software Skills",
+            "Diploma Requirements",
+            "Typing Speed"
+        ],
+        "right_column_shuffled": [
+            "Diploma in Commercial/Secretarial Practice",
+            "60 WPM English Stenography",
+            "Minimum 60% Marks or CGPA 6.32/10",
+            "Operating System, Microsoft Office, Typing Speed"
+        ],
+        "correct_mapping": {
+            "Eligibility Criteria": "Minimum 60% Marks or CGPA 6.32/10",
+            "Software Skills": "Operating System, Microsoft Office, Typing Speed",
+            "Diploma Requirements": "Diploma in Commercial/Secretarial Practice",
+            "Typing Speed": "60 WPM English Stenography"
+        }
+    }
+}

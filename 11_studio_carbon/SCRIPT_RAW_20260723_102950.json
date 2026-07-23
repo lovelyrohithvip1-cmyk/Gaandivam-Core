@@ -1,0 +1,72 @@
+{
+    "video_title": "UP Board 10th & 12th Examination 2026 Overview",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D map of India, zooming in on various regions representing different subjects",
+            "narration_script": "Welcome to the UP Board 10th & 12th Examination 2026 overview. In this video, we will explore the key concepts and subjects that you need to know to excel in your exams.",
+            "on_screen_text": "UP Board 10th & 12th Examination 2026"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "3D animation of a pen writing on a piece of paper, with Hindi letters and words appearing on the screen",
+            "narration_script": "Let's start with the Hindi subject. The art of letter writing has been a cornerstone of human communication since ancient times. From formal letters to informal notes, the way we express ourselves in writing has evolved significantly over the centuries.",
+            "on_screen_text": "Hindi - Letter Writing"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "3D animation of a formal letter being written, with key elements such as greeting, introduction, body, and signature highlighted",
+            "narration_script": "Formal letters are a type of letter that follows a specific structure and tone, used for official or professional purposes. They are characterized by a formal greeting, a clear and concise body, and a polite closing.",
+            "on_screen_text": "Key elements of a formal letter: formal greeting, introduction, body, conclusion, and signature"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "3D animation of an informal letter being written, with key elements such as personal greeting, casual tone, and flexible structure highlighted",
+            "narration_script": "Informal letters, on the other hand, are personal and casual, used to communicate with friends, family, or acquaintances. They are often characterized by a relaxed tone, colloquial language, and a flexible structure.",
+            "on_screen_text": "Key elements of an informal letter: personal greeting, casual tone, flexible structure, and affectionate closing"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "3D animation of a bookshelf with English literature books, with poetry books highlighted",
+            "narration_script": "Moving on to the English subject, poetry is a powerful form of expression that has been a cornerstone of human culture for centuries. From sonnets to free verse, poetry has evolved to reflect the changing times, emotions, and experiences of humanity.",
+            "on_screen_text": "English - Poetry"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "3D animation of different forms of poetry, such as sonnets, haikus, and free verse, with key characteristics highlighted",
+            "narration_script": "Poetry comes in various forms, each with its unique characteristics, structures, and purposes. The sonnet, for example, is a 14-line poem with a specific rhyme scheme, while haiku is a short, three-line poem that captures a moment in time.",
+            "on_screen_text": "Key forms of poetry: sonnet, haiku, free verse, ballad, and ode"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "3D animation of poetic devices, such as metaphors, similes, and personification, with examples highlighted",
+            "narration_script": "Poetic devices are techniques used by poets to create vivid imagery, convey meaning, and evoke emotions. Metaphor, simile, and personification are just a few examples of poetic devices that can add depth, complexity, and beauty to a poem.",
+            "on_screen_text": "Key poetic devices: metaphor, simile, personification, imagery, and symbolism"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "3D animation of mathematical equations and formulas, with algebraic equations highlighted",
+            "narration_script": "In the mathematics subject, algebra is a fundamental branch that deals with variables, equations, and functions. From ancient civilizations to modern times, algebra has played a crucial role in shaping our understanding of the world and the universe.",
+            "on_screen_text": "Mathematics - Algebra"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "3D animation of different types of equations, such as linear, quadratic, and polynomial equations, with key formulas highlighted",
+            "narration_script": "An equation is a statement that expresses the equality of two mathematical expressions. Linear equations, quadratic equations, and polynomial equations are just a few examples of equations that can be solved using various techniques and formulas.",
+            "on_screen_text": "Key types of equations: linear equations (ax + b = c), quadratic equations (ax^2 + bx + c = 0), and polynomial equations (a_n x^n + a_(n-1) x^(n-1) + ... + a_1 x + a_0 = 0)"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "3D animation of scientific concepts, such as physics and thermodynamics, with key formulas and laws highlighted",
+            "narration_script": "In the science subject, physics is the study of the natural world around us, from the smallest subatomic particles to the vast expanse of the universe. From ancient philosophers to modern scientists, physics has evolved to become a fundamental branch of science that underlies many aspects of our daily lives.",
+            "on_screen_text": "Science - Physics"
+        },
+        {
+            "scene_number": 11,
+            "visual_prompt_for_3D_engine": "3D animation of historical events and timelines, with key periods and dates highlighted",
+            "narration_script": "Finally, in the social science subject, history is the study of the past, from ancient civilizations to modern times. It deals with the events, people, and cultures that have shaped the world we live in today.",
+            "on_screen_text": "Social Science - History"
+        }
+    ]
+}

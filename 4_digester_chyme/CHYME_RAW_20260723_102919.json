@@ -1,0 +1,159 @@
+{
+    "exam_name": "MNSS Rai Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "General Knowledge": {
+            "History": {
+                "Ancient History": [
+                    "Indus Valley Civilization",
+                    "Vedic Period",
+                    "Mauryan Empire"
+                ],
+                "Medieval History": [
+                    "Delhi Sultanate",
+                    "Mughal Empire",
+                    "Maratha Empire"
+                ]
+            },
+            "Geography": {
+                "Physical Geography": [
+                    "Mountains",
+                    "Rivers",
+                    "Deserts"
+                ],
+                "Political Geography": [
+                    "Countries",
+                    "Capitals",
+                    "Boundaries"
+                ]
+            },
+            "Science": {
+                "Biology": [
+                    "Cell Structure",
+                    "Photosynthesis",
+                    "Ecosystem"
+                ],
+                "Chemistry": [
+                    "Atomic Structure",
+                    "Chemical Reactions",
+                    "Acids and Bases"
+                ]
+            }
+        },
+        "English": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Literature": {
+                "Poetry": [
+                    "Sonnet",
+                    "Haiku",
+                    "Free Verse"
+                ],
+                "Prose": [
+                    "Novel",
+                    "Short Story",
+                    "Essay"
+                ]
+            },
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Passage Analysis",
+                    "Inference",
+                    "Vocabulary"
+                ],
+                "Writing Comprehension": [
+                    "Essay Writing",
+                    "Letter Writing",
+                    "Report Writing"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Inequalities": [
+                    "Linear Inequalities",
+                    "Quadratic Inequalities",
+                    "Rational Inequalities"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Coordinates",
+                    "Midpoint",
+                    "Distance"
+                ],
+                "Angles and Shapes": [
+                    "Types of Angles",
+                    "Properties of Shapes",
+                    "Theorems"
+                ]
+            },
+            "Statistics": {
+                "Data Analysis": [
+                    "Mean",
+                    "Median",
+                    "Mode",
+                    "Standard Deviation"
+                ],
+                "Probability": [
+                    "Theoretical Probability",
+                    "Experimental Probability",
+                    "Conditional Probability"
+                ]
+            }
+        },
+        "Reasoning": {
+            "Logical Reasoning": {
+                "Deductive Reasoning": [
+                    "Syllogisms",
+                    "Arguments",
+                    "Inferences"
+                ],
+                "Inductive Reasoning": [
+                    "Patterns",
+                    "Analogies",
+                    "Generalizations"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Visual Reasoning": [
+                    "Patterns",
+                    "Shapes",
+                    "Images"
+                ],
+                "Spatial Reasoning": [
+                    "Mazes",
+                    "Puzzles",
+                    "3D Visualizations"
+                ]
+            },
+            "Verbal Reasoning": {
+                "Analogies": [
+                    "Word Analogies",
+                    "Semantic Analogies",
+                    "Logical Analogies"
+                ],
+                "Syllogisms": [
+                    "Categorical Syllogisms",
+                    "Conditional Syllogisms",
+                    "Disjunctive Syllogisms"
+                ]
+            }
+        }
+    }
+}

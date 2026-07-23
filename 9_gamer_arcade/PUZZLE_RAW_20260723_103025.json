@@ -1,0 +1,40 @@
+{
+    "module_name": "KVS and NVS Teaching and Non Teaching",
+    "true_false_rapid_fire": [
+        {
+            "statement": "National news covers topics including government policies, economic updates, and social issues.",
+            "is_true": true,
+            "explanation": "National news is crucial for understanding a nation's development and challenges, encompassing government policies, economic updates, and social issues."
+        },
+        {
+            "statement": "International news is limited to events within one's own country.",
+            "is_true": false,
+            "explanation": "International news broadens our perspective, enabling us to understand global trends, international relations, and environmental concerns that can affect multiple countries."
+        },
+        {
+            "statement": "Indian culture encompasses only music and dance.",
+            "is_true": false,
+            "explanation": "Indian culture is a rich and diverse heritage that includes art and architecture, music and dance, festivals, and traditions, each providing a window into the country's history, values, and beliefs."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "National News",
+            "International News",
+            "Indian Culture",
+            "Parts of Speech"
+        ],
+        "right_column_shuffled": [
+            "Encompasses art, architecture, music, dance, and festivals",
+            "Covers government policies, economic updates, and social issues",
+            "Involves understanding global trends and international relations",
+            "Includes nouns, verbs, adjectives, and adverbs"
+        ],
+        "correct_mapping": {
+            "National News": "Covers government policies, economic updates, and social issues",
+            "International News": "Involves understanding global trends and international relations",
+            "Indian Culture": "Encompasses art, architecture, music, dance, and festivals",
+            "Parts of Speech": "Includes nouns, verbs, adjectives, and adverbs"
+        }
+    }
+}

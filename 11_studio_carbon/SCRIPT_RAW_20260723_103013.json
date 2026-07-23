@@ -1,0 +1,66 @@
+{
+    "video_title": "Haryana Police Recruitment 2026: Mastering General Knowledge, Reasoning, and Mathematics",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a futuristic, glowing globe with various subjects floating around it, such as history books, mathematical formulas, and reasoning puzzles.",
+            "narration_script": "Welcome to the world of competitive exams, where knowledge and skills are the keys to success. In this video, we will explore the essential subjects for the Haryana Police Recruitment 2026: General Knowledge, Reasoning, and Mathematics.",
+            "on_screen_text": null
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "The camera zooms in on a book labeled 'General Knowledge', with pages turning to reveal current events and historical milestones.",
+            "narration_script": "General Knowledge is the foundation of a well-informed individual. It encompasses current events, history, and more. Understanding current events helps you stay updated on national and international news, while history provides valuable lessons on governance, conflict resolution, and cultural exchange.",
+            "on_screen_text": "General Knowledge = Current Events + History"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A 3D map of the world appears, with news headlines and historical events popping up at different locations.",
+            "narration_script": "Current events include national news like government policies and elections, as well as international news like the global economy and world events. History, on the other hand, spans from ancient civilizations to modern times, shaping the world we live in today.",
+            "on_screen_text": "Key areas to focus on: Political Developments, Economic Trends, Social Issues"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "The camera transitions to a puzzle board, with logical reasoning and analytical reasoning puzzles appearing.",
+            "narration_script": "Reasoning is the process of forming conclusions and judgments from facts and observations. It's a critical skill for problem-solving and decision-making. Logical reasoning involves using logic to evaluate arguments, while analytical reasoning involves breaking down complex information into parts.",
+            "on_screen_text": "Reasoning = Logical Reasoning + Analytical Reasoning"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A logical reasoning puzzle is solved step-by-step, with the camera zooming in on the solution.",
+            "narration_script": "Logical reasoning involves understanding argument structures, identifying premises and conclusions, and evaluating validity. Key concepts include deductive and inductive reasoning, argument forms, and fallacies like ad hominem and straw man.",
+            "on_screen_text": "Deductive Reasoning: All A are B, X is A, therefore X is B"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "An analytical reasoning puzzle is solved, with patterns and sequences appearing on the screen.",
+            "narration_script": "Analytical reasoning involves recognizing patterns, identifying sequences, and solving problems. It's crucial for decoding messages, interpreting data, and solving puzzles.",
+            "on_screen_text": "Key skills: Pattern Recognition, Sequence Completion, Rule Application"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "A mathematics equation appears on a blackboard, with numbers and symbols floating around it.",
+            "narration_script": "Mathematics is the language of science and technology, providing a powerful tool for describing the world. Arithmetic and geometry form the foundation of mathematical knowledge.",
+            "on_screen_text": "Mathematics = Arithmetic + Geometry"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "A fraction is visualized as a pie chart, with the camera zooming in on the numerator and denominator.",
+            "narration_script": "Arithmetic involves the study of numbers and their operations. Understanding fractions, decimals, and basic operations is fundamental for solving problems in science, technology, engineering, and mathematics (STEM) fields.",
+            "on_screen_text": "Key formulas: Order of Operations (PEMDAS/BODMAS), Fraction Rules, Decimal Operations"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "A geometric shape, such as a triangle, appears on the screen, with the camera rotating it to show its properties.",
+            "narration_script": "Geometry is the study of shapes, sizes, and positions of objects. It involves points, lines, angles, and various types of shapes like triangles, quadrilaterals, and polygons.",
+            "on_screen_text": "Key formulas: Pythagorean Theorem (a^2 + b^2 = c^2), Properties of Congruent and Similar Figures"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "The camera pans out to show the globe again, with the subjects floating around it.",
+            "narration_script": "Mastering General Knowledge, Reasoning, and Mathematics is essential for success in the Haryana Police Recruitment 2026. Stay updated, practice regularly, and develop your skills to achieve your goals.",
+            "on_screen_text": null
+        }
+    ]
+}

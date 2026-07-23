@@ -1,0 +1,61 @@
+{
+    "exam_name": "KVS and NVS Teaching and Non Teaching",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary role of national news in the context of a country's development?",
+            "options": {
+                "A": "To focus solely on international relations",
+                "B": "To cover a wide range of topics including government policies, economic updates, and social issues",
+                "C": "To prioritize cultural heritage over current events",
+                "D": "To limit coverage to environmental concerns"
+            },
+            "correct_answer": "B",
+            "explanation": "National news plays a crucial role in understanding the dynamics of a nation's development by covering government policies, economic updates, and social issues, which are fundamental to a nation's growth and well-being."
+        },
+        {
+            "question_text": "How does understanding international news contribute to a broader perspective?",
+            "options": {
+                "A": "It allows for a focus on local issues only",
+                "B": "It enables understanding of global trends, international relations, and environmental concerns",
+                "C": "It limits knowledge to national news",
+                "D": "It ignores the impact of global events on local economies"
+            },
+            "correct_answer": "B",
+            "explanation": "International news broadens our perspective by enabling us to understand global trends, international relations, and environmental concerns, which are interconnected and can impact local economies and societies."
+        },
+        {
+            "question_text": "What is the significance of recognizing patterns in non-verbal reasoning?",
+            "options": {
+                "A": "It is irrelevant to problem-solving",
+                "B": "It involves only verbal analogies",
+                "C": "It requires the ability to identify sequences or patterns in numbers, letters, or images",
+                "D": "It is limited to understanding syllogisms"
+            },
+            "correct_answer": "C",
+            "explanation": "Recognizing patterns is vital in non-verbal reasoning as it involves identifying sequences or patterns in numbers, letters, or images, which requires spatial reasoning and the ability to recognize shapes and their transformations."
+        },
+        {
+            "question_text": "How does mastering the parts of speech contribute to effective communication in English?",
+            "options": {
+                "A": "It has no impact on sentence structure",
+                "B": "It is unnecessary for clear expression",
+                "C": "It allows for the correct construction of grammatically correct sentences",
+                "D": "It limits the understanding of word meanings"
+            },
+            "correct_answer": "C",
+            "explanation": "Mastering the parts of speech, including nouns, verbs, adjectives, and adverbs, is essential for effective communication in English as it enables the construction of grammatically correct sentences, contributing to the overall clarity and meaning of the message."
+        },
+        {
+            "question_text": "What is the role of vocabulary in precise communication?",
+            "options": {
+                "A": "It is insignificant in conveying meanings",
+                "B": "It involves only learning word meanings",
+                "C": "It is the heart of any language, essential for precise communication through word meanings, synonyms, antonyms, and homophones",
+                "D": "It ignores the nuances of idiomatic expressions"
+            },
+            "correct_answer": "C",
+            "explanation": "Vocabulary is the heart of any language, playing a crucial role in precise communication by providing word meanings, synonyms, antonyms, and homophones, as well as understanding the nuances of idiomatic expressions, which are essential for conveying complex meanings and ideas."
+        }
+    ]
+}

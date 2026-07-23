@@ -1,0 +1,32 @@
+{
+    "exam_name": "HP Police Constable Recruitment 2026",
+    "raw_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy",
+            "Science and Technology"
+        ],
+        "English": [
+            "Comprehension",
+            "Vocabulary",
+            "Grammar",
+            "Sentence Formation"
+        ],
+        "Mathematics": [
+            "Number System",
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Data Interpretation"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning",
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ]
+    }
+}

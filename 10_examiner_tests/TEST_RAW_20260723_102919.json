@@ -1,0 +1,61 @@
+{
+    "exam_name": "MNSS Rai Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary factor that has shaped human societies throughout history, according to the visionary introduction of the History and Geography chapter?",
+            "options": {
+                "A": "Economic systems",
+                "B": "Environmental factors and cultural interactions",
+                "C": "Political ideologies",
+                "D": "Technological advancements"
+            },
+            "correct_answer": "B",
+            "explanation": "The visionary introduction of the History and Geography chapter states that human societies have been shaped by their environments and interactions with other cultures, indicating that environmental factors and cultural interactions are the primary factors that have shaped human societies throughout history."
+        },
+        {
+            "question_text": "Which of the following literary genres is characterized by the use of language in a creative and imaginative way to express thoughts and feelings?",
+            "options": {
+                "A": "Prose",
+                "B": "Drama",
+                "C": "Essay",
+                "D": "Poetry"
+            },
+            "correct_answer": "D",
+            "explanation": "According to the core concepts of the English chapter, poetry is a literary genre that uses language in a creative and imaginative way to express thoughts and feelings, making it the correct answer."
+        },
+        {
+            "question_text": "What is the term for the process by which one or more substances are converted into new substances, involving the breaking and forming of chemical bonds?",
+            "options": {
+                "A": "Chemical equation",
+                "B": "Reactant",
+                "C": "Product",
+                "D": "Chemical reaction"
+            },
+            "correct_answer": "D",
+            "explanation": "The core concepts of the Science chapter define chemical reactions as processes in which one or more substances are converted into new substances, involving the breaking and forming of chemical bonds, making chemical reaction the correct answer."
+        },
+        {
+            "question_text": "Which of the following types of reasoning involves drawing a conclusion from a set of premises using logical rules, such as syllogisms?",
+            "options": {
+                "A": "Inductive reasoning",
+                "B": "Deductive reasoning",
+                "C": "Visual reasoning",
+                "D": "Spatial reasoning"
+            },
+            "correct_answer": "B",
+            "explanation": "According to the core concepts of the Reasoning chapter, deductive reasoning is a type of reasoning that involves drawing a conclusion from a set of premises using logical rules, such as syllogisms, making it the correct answer."
+        },
+        {
+            "question_text": "What is the term for the basic unit of life, composed of a variety of organelles that work together to maintain the cell's functions, including the cell membrane and nucleus?",
+            "options": {
+                "A": "Molecule",
+                "B": "Tissue",
+                "C": "Organ",
+                "D": "Cell"
+            },
+            "correct_answer": "D",
+            "explanation": "The core concepts of the Science chapter define the cell as the basic unit of life, composed of a variety of organelles that work together to maintain the cell's functions, including the cell membrane and nucleus, making cell the correct answer."
+        }
+    ]
+}

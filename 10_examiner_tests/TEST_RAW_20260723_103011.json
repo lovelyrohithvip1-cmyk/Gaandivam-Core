@@ -1,0 +1,61 @@
+{
+    "exam_name": "Non-Technical Popular Categories (NTPC) exam",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary difference between real numbers and other number systems, and how does this impact their application in solving equations and understanding the physical world?",
+            "options": {
+                "A": "Real numbers include only rational numbers and thus are limited in their application.",
+                "B": "Real numbers encompass both rational and irrational numbers, making them fundamental in mathematics and science.",
+                "C": "Real numbers are primarily used in algebra and have little relevance to the physical world.",
+                "D": "Real numbers are a subset of complex numbers and are less versatile."
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because real numbers include all rational and irrational numbers, which makes them crucial for solving equations, graphing functions, and understanding the physical world. This is due to their properties such as commutativity, associativity, and distributivity, which are essential for mathematical and scientific applications."
+        },
+        {
+            "question_text": "A linear equation in two variables represents a line on a graph. What is the significance of the standard form of a linear equation (ax + by = c), and how does it relate to the graphical representation?",
+            "options": {
+                "A": "The standard form is used only for solving equations algebraically and does not relate to graphical representation.",
+                "B": "The coefficients a and b in the standard form represent the x and y intercepts of the line, respectively.",
+                "C": "The standard form (ax + by = c) allows for both algebraic manipulation and graphical representation, with a and b influencing the slope and c affecting the y-intercept.",
+                "D": "The standard form is primarily used for equations in one variable and is not applicable to equations in two variables."
+            },
+            "correct_answer": "C",
+            "explanation": "The correct answer is C because the standard form of a linear equation (ax + by = c) is significant for both algebraic manipulation and graphical representation. The coefficients a and b influence the slope of the line, and c affects the y-intercept, making this form versatile for solving equations and understanding their graphical representation."
+        },
+        {
+            "question_text": "Verbal analogies are based on relationships between words. What type of relationship is illustrated by the analogy 'painter' is to 'brush' as 'writer' is to 'pen', and how does this reflect a deeper understanding of language?",
+            "options": {
+                "A": "This analogy illustrates a cause-and-effect relationship, showing how one profession affects another.",
+                "B": "It represents a part-to-whole relationship, where the tool is part of the profession.",
+                "C": "This analogy demonstrates a relationship between a professional and their tool, highlighting a specific type of verbal analogy.",
+                "D": "It shows a synonym relationship, where 'painter' and 'writer' are synonymous, as are 'brush' and 'pen'."
+            },
+            "correct_answer": "C",
+            "explanation": "The correct answer is C because the analogy 'painter' is to 'brush' as 'writer' is to 'pen' illustrates a relationship between a professional and their tool. This reflects a deeper understanding of language, as it requires recognizing the logical connection between words based on their usage and context, which is a key aspect of verbal analogies."
+        },
+        {
+            "question_text": "Number series can follow various patterns. What is the pattern in the series 2, 5, 8, 11, 14, and how can understanding this pattern help in predicting the next number in the series?",
+            "options": {
+                "A": "The pattern involves alternating between adding and subtracting 3, which makes it complex to predict the next number.",
+                "B": "The series follows a pattern of adding 3 to the previous number to get the next number, making it a simple arithmetic progression.",
+                "C": "The pattern involves multiplying the previous number by 2 and then adding 1, which is a more complex rule.",
+                "D": "The series is based on a geometric progression, where each term is found by multiplying the previous term by a constant factor."
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because the series 2, 5, 8, 11, 14 follows a simple arithmetic progression where each term is found by adding 3 to the previous term. Understanding this pattern allows for easy prediction of the next number in the series by continuing the addition of 3, which is a fundamental skill in number series and pattern recognition."
+        },
+        {
+            "question_text": "The Indian polity is based on the principles of democracy, secularism, and federalism. What is the significance of the Constitution of India in outlining the framework of the government and the relationship between the government and citizens?",
+            "options": {
+                "A": "The Constitution of India is a historical document with little relevance to current governance.",
+                "B": "It outlines the powers of the Prime Minister but does not address the relationship between the government and citizens.",
+                "C": "The Constitution is the supreme law of the land, detailing the framework of the government, fundamental rights, and duties of citizens, thus serving as the foundation of Indian governance.",
+                "D": "It primarily focuses on the judicial system, with less emphasis on the legislative and executive branches."
+            },
+            "correct_answer": "C",
+            "explanation": "The correct answer is C because the Constitution of India is the supreme law of the land, adopted in 1950. It outlines the framework of the government, including the relationship between the legislative, executive, and judicial branches, as well as the fundamental rights and duties of citizens. This document serves as the foundation of Indian governance, ensuring democracy, secularism, and federalism are upheld, and thus is crucial for understanding the Indian polity and its functioning."
+        }
+    ]
+}

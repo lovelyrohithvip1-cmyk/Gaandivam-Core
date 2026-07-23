@@ -1,0 +1,125 @@
+{
+    "exam_name": "RRB Group D Recruitment Examination 2026",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Number System": {
+                "Whole Numbers": [
+                    "Place Value",
+                    "Comparison",
+                    "Operations"
+                ],
+                "Decimals": [
+                    "Introduction",
+                    "Operations",
+                    "Conversion"
+                ],
+                "Fractions": [
+                    "Introduction",
+                    "Operations",
+                    "Conversion"
+                ]
+            },
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations"
+                ],
+                "Graphs": [
+                    "Introduction",
+                    "Types of Graphs"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Introduction",
+                    "Properties"
+                ],
+                "Angles and Shapes": [
+                    "Introduction",
+                    "Properties",
+                    "Theorems"
+                ]
+            }
+        },
+        "Science": {
+            "Physics": {
+                "Motion": [
+                    "Introduction",
+                    "Types of Motion",
+                    "Laws of Motion"
+                ],
+                "Energy": [
+                    "Introduction",
+                    "Types of Energy",
+                    "Conservation of Energy"
+                ]
+            },
+            "Chemistry": {
+                "Introduction to Chemistry": [
+                    "Branches of Chemistry",
+                    "Importance of Chemistry"
+                ],
+                "Atomic Structure": [
+                    "Introduction",
+                    "Atomic Models",
+                    "Electron Configuration"
+                ]
+            },
+            "Biology": {
+                "Introduction to Biology": [
+                    "Branches of Biology",
+                    "Importance of Biology"
+                ],
+                "Cell Structure": [
+                    "Introduction",
+                    "Cell Organelles",
+                    "Cell Functions"
+                ]
+            }
+        },
+        "General Intelligence and Reasoning": {
+            "Verbal Reasoning": {
+                "Analogies": [
+                    "Introduction",
+                    "Types of Analogies"
+                ],
+                "Syllogisms": [
+                    "Introduction",
+                    "Types of Syllogisms"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Series": [
+                    "Introduction",
+                    "Types of Series"
+                ],
+                "Patterns": [
+                    "Introduction",
+                    "Types of Patterns"
+                ]
+            }
+        },
+        "General Awareness": {
+            "Current Events": {
+                "National News": [
+                    "Introduction",
+                    "Important Events"
+                ],
+                "International News": [
+                    "Introduction",
+                    "Important Events"
+                ]
+            },
+            "Static General Knowledge": {
+                "History": [
+                    "Introduction",
+                    "Important Events"
+                ],
+                "Geography": [
+                    "Introduction",
+                    "Important Facts"
+                ]
+            }
+        }
+    }
+}

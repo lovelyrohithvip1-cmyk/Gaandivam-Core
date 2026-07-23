@@ -1,0 +1,40 @@
+{
+    "module_name": "Rajasthan Police Constable Exam",
+    "true_false_rapid_fire": [
+        {
+            "statement": "The formula for an arithmetic progression is given by a_n = a_1 + (n-1)d.",
+            "is_true": true,
+            "explanation": "The arithmetic progression formula is indeed a_n = a_1 + (n-1)d, where a_n is the nth term, a_1 is the first term, n is the term number, and d is the common difference."
+        },
+        {
+            "statement": "The quadratic formula is used to solve linear equations.",
+            "is_true": false,
+            "explanation": "The quadratic formula, x = [-b ± sqrt(b^2 - 4ac)] / 2a, is actually used to solve quadratic equations of the form ax^2 + bx + c = 0, not linear equations."
+        },
+        {
+            "statement": "The Pythagorean theorem applies to all types of triangles.",
+            "is_true": false,
+            "explanation": "The Pythagorean theorem, a^2 + b^2 = c^2, specifically applies to right-angled triangles, where a and b are the lengths of the legs, and c is the length of the hypotenuse."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Arithmetic Progression",
+            "Geometric Progression",
+            "Substitution Cipher",
+            "Pythagorean Theorem"
+        ],
+        "right_column_shuffled": [
+            "a_n = a_1 * r^(n-1)",
+            "E(x) = (x + n) mod 26",
+            "a^2 + b^2 = c^2",
+            "a_n = a_1 + (n-1)d"
+        ],
+        "correct_mapping": {
+            "Arithmetic Progression": "a_n = a_1 + (n-1)d",
+            "Geometric Progression": "a_n = a_1 * r^(n-1)",
+            "Substitution Cipher": "E(x) = (x + n) mod 26",
+            "Pythagorean Theorem": "a^2 + b^2 = c^2"
+        }
+    }
+}

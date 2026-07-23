@@ -1,0 +1,34 @@
+{
+    "exam_name": "UP Board 10th & 12th Examination 2026",
+    "raw_syllabus": {
+        "Hindi": [
+            "Letter Writing",
+            "Essay",
+            "Comprehension",
+            "Grammar"
+        ],
+        "English": [
+            "Prose",
+            "Poetry",
+            "Grammar",
+            "Comprehension"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ],
+        "Social Science": [
+            "History",
+            "Geography",
+            "Civics",
+            "Economics"
+        ]
+    }
+}

@@ -1,0 +1,90 @@
+{
+    "video_title": "NICL Assistant Recruitment 2026 Exam Prep",
+    "target_duration_minutes": "30",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D globe with books and pens floating around it, symbolizing knowledge and learning",
+            "narration_script": "Welcome to the NICL Assistant Recruitment 2026 exam preparation video. In this video, we will cover the key concepts and topics that you need to know to succeed in the exam.",
+            "on_screen_text": "NICL Assistant Recruitment 2026 Exam Prep"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "A 3D animation of a puzzle being solved, with pieces falling into place",
+            "narration_script": "The exam consists of three main subjects: Reasoning, English Language, and General Awareness. Let's start with Reasoning, which includes topics such as seating arrangements, puzzles, syllogisms, and arguments.",
+            "on_screen_text": "Reasoning"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A 3D animation of a seating arrangement, with people moving into their seats",
+            "narration_script": "Seating arrangements are a fundamental concept in analytical reasoning, where the goal is to determine the positions of individuals based on given conditions.",
+            "on_screen_text": "Seating Arrangements"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "A 3D animation of a puzzle being solved, with a blood relation diagram appearing",
+            "narration_script": "Puzzles, including blood relations, direction sense, and coding-decoding, are designed to challenge one's logical reasoning and analytical thinking.",
+            "on_screen_text": "Puzzles"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A 3D animation of a syllogism, with logical rules and deductions appearing",
+            "narration_script": "Syllogisms, a form of logical argument that uses deductive reasoning to arrive at a conclusion based on two or more premises, have been a cornerstone of logical reasoning since ancient times.",
+            "on_screen_text": "Syllogisms"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A 3D animation of an argument, with premises and conclusions appearing",
+            "narration_script": "Arguments, in the context of logical reasoning, involve identifying, evaluating, strengthening, and weakening arguments.",
+            "on_screen_text": "Arguments"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "A 3D animation of a book opening, with English grammar rules appearing",
+            "narration_script": "Moving on to the English Language section, which includes topics such as verbs, nouns, word meanings, and idioms and phrases.",
+            "on_screen_text": "English Language"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "A 3D animation of a verb conjugation, with different tenses and moods appearing",
+            "narration_script": "Verbs, the action words of the English language, are essential for expressing actions, events, and states of being.",
+            "on_screen_text": "Verbs"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "A 3D animation of a noun, with different types and functions appearing",
+            "narration_script": "Nouns, the words used to identify people, places, things, and ideas, form the backbone of the English language.",
+            "on_screen_text": "Nouns"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "A 3D animation of a word meaning, with synonyms, antonyms, and homophones appearing",
+            "narration_script": "Word meanings, including synonyms, antonyms, and homophones, are crucial for effective vocabulary.",
+            "on_screen_text": "Word Meanings"
+        },
+        {
+            "scene_number": 11,
+            "visual_prompt_for_3D_engine": "A 3D animation of an idiom, with common idioms and phrases appearing",
+            "narration_script": "Idioms and phrases, which include common idioms, phrasal verbs, and collocations, add flavor and depth to the English language.",
+            "on_screen_text": "Idioms and Phrases"
+        },
+        {
+            "scene_number": 12,
+            "visual_prompt_for_3D_engine": "A 3D animation of a globe, with current events and static general knowledge appearing",
+            "narration_script": "Finally, the General Awareness section, which includes current affairs and static general knowledge, requires a deep understanding of national and international events, history, geography, and more.",
+            "on_screen_text": "General Awareness"
+        },
+        {
+            "scene_number": 13,
+            "visual_prompt_for_3D_engine": "A 3D animation of a person studying, with books and notes appearing",
+            "narration_script": "To succeed in the NICL Assistant Recruitment 2026 exam, it's essential to have a strong foundation in all three subjects and to practice regularly.",
+            "on_screen_text": "Practice and Prepare"
+        },
+        {
+            "scene_number": 14,
+            "visual_prompt_for_3D_engine": "A 3D animation of a person passing the exam, with a certificate and congratulations appearing",
+            "narration_script": "With dedication and hard work, you can achieve your goal of passing the NICL Assistant Recruitment 2026 exam. Good luck!",
+            "on_screen_text": "Good Luck!"
+        }
+    ]
+}

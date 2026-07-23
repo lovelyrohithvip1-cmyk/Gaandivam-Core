@@ -1,0 +1,61 @@
+{
+    "exam_name": "UP Police Constable",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "A police constable is investigating a natural disaster and needs to understand the government's response to the crisis. Which of the following is the most relevant concept to apply in this situation?",
+            "options": {
+                "A": "Deductive Reasoning",
+                "B": "National News",
+                "C": "Ancient History",
+                "D": "Visual Reasoning"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B, National News, because understanding national news, including government policies and responses to natural disasters, is crucial for a police constable to make informed decisions and respond effectively in emergency situations. This concept is directly relevant to the scenario, as it involves applying knowledge of current events and government policies to a real-world situation."
+        },
+        {
+            "question_text": "A police constable is analyzing a crime scene and needs to use visual information to identify a suspect. Which of the following reasoning skills is most relevant to this task?",
+            "options": {
+                "A": "Deductive Reasoning",
+                "B": "Inductive Reasoning",
+                "C": "Visual Reasoning",
+                "D": "Non-Verbal Reasoning"
+            },
+            "correct_answer": "C",
+            "explanation": "The correct answer is C, Visual Reasoning, because visual reasoning involves using visual information to solve problems and make decisions, which is essential for a police constable analyzing a crime scene and identifying a suspect. This skill is critical in policing, as it enables officers to analyze visual evidence and make informed decisions quickly and effectively."
+        },
+        {
+            "question_text": "A police constable is communicating with a witness who speaks Hindi and needs to understand the cultural context of the community. Which of the following concepts is most relevant to this situation?",
+            "options": {
+                "A": "Parts of Speech",
+                "B": "Poetry",
+                "C": "Grammar and Literature",
+                "D": "Ancient History"
+            },
+            "correct_answer": "A",
+            "explanation": "The correct answer is A, Parts of Speech, because understanding the parts of speech in Hindi, such as nouns, verbs, and adjectives, is essential for effective communication with the witness. This concept is directly relevant to the scenario, as it involves applying knowledge of Hindi grammar to a real-world situation, enabling the police constable to communicate effectively and understand the cultural context of the community."
+        },
+        {
+            "question_text": "A police constable is evaluating evidence and needs to draw a conclusion based on premises using logical rules. Which of the following reasoning skills is most relevant to this task?",
+            "options": {
+                "A": "Inductive Reasoning",
+                "B": "Deductive Reasoning",
+                "C": "Visual Reasoning",
+                "D": "Non-Verbal Reasoning"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B, Deductive Reasoning, because deductive reasoning involves drawing conclusions from premises using logical rules, which is essential for a police constable evaluating evidence and making informed decisions. This skill is critical in policing, as it enables officers to analyze evidence, evaluate arguments, and make sound decisions quickly and effectively."
+        },
+        {
+            "question_text": "A police constable is investigating a crime and needs to understand the historical context of the community. Which of the following concepts is most relevant to this situation?",
+            "options": {
+                "A": "National News",
+                "B": "Ancient History",
+                "C": "Visual Reasoning",
+                "D": "Parts of Speech"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B, Ancient History, because understanding the ancient history of the community, including the Indus Valley Civilization and the Mauryan Empire, can provide valuable insights into the cultural and social context of the crime. This concept is directly relevant to the scenario, as it involves applying knowledge of historical events to a real-world situation, enabling the police constable to better understand the community and investigate the crime effectively."
+        }
+    ]
+}

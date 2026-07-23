@@ -1,0 +1,54 @@
+{
+    "video_title": "Unlocking Excellence: CBSE Junior Assistant Exam Preparation",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a futuristic, glowing cityscape before zooming into a book that opens to reveal the title 'CBSE Junior Assistant Exam Guide'",
+            "narration_script": "Welcome to the world of competitive examinations, where knowledge and strategy come together to unlock excellence. In this video, we'll explore key concepts and subjects that will help you prepare for the CBSE Junior Assistant exam.",
+            "on_screen_text": "CBSE Junior Assistant Exam Guide"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Animated gears and cogs come together to form a brain, symbolizing reasoning and intelligence",
+            "narration_script": "Let's start with General Intelligence and Reasoning, a cornerstone of competitive exams. This subject tests your ability to think critically, solve problems, and make informed decisions.",
+            "on_screen_text": "General Intelligence and Reasoning"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A puzzle piece fits into place, illustrating the concept of analogies",
+            "narration_script": "Analogies are relationships between words, numbers, or concepts that require a deep understanding of patterns and logical connections. To solve analogies, identify the underlying relationship and apply it to find the missing element.",
+            "on_screen_text": "Analogies: Identifying Patterns and Logical Connections"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "A coded message appears on screen, with letters shifting to reveal the decoded text",
+            "narration_script": "Coding and decoding involve encrypting and decrypting messages using patterns, symbols, or codes. Recognize the pattern or rule used for coding and apply it to decode the message.",
+            "on_screen_text": "Coding and Decoding: Cracking the Code"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A numerical keypad appears, with numbers and symbols floating around it",
+            "narration_script": "Moving on to Numerical Aptitude, understanding number systems and algebraic concepts is crucial for problem-solving. Whole numbers, fractions, decimals, linear equations, and quadratic equations form the foundation of numerical aptitude.",
+            "on_screen_text": "Numerical Aptitude: Number Systems and Algebra"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A graph paper background with linear equations and formulas appearing on it",
+            "narration_script": "Linear equations are algebraic expressions that can be graphed as straight lines. Solving linear equations involves isolating the variable, which can be achieved through addition, subtraction, multiplication, or division.",
+            "on_screen_text": "Linear Equations: Slope-Intercept Form (y = mx + b)"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "An animated book opens to reveal pages with parts of speech and grammar rules",
+            "narration_script": "Lastly, English Language and Comprehension is vital for effective expression and comprehension. Mastering English grammar and vocabulary involves understanding parts of speech, tenses and aspects, word meanings, and idioms.",
+            "on_screen_text": "English Language and Comprehension: Grammar and Vocabulary"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "A lightbulb turns on, symbolizing knowledge and understanding",
+            "narration_script": "By grasping these key concepts and subjects, you'll be well-prepared to tackle the CBSE Junior Assistant exam and unlock your path to success.",
+            "on_screen_text": "Unlock Your Potential: Prepare for the CBSE Junior Assistant Exam"
+        }
+    ]
+}

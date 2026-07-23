@@ -1,0 +1,73 @@
+{
+    "exam_name": "Agniveer Common Entrance Exam (CEE) 2026",
+    "textbook_content": [
+        {
+            "subject": "General Duty",
+            "chapter_title": "Physical Fitness and Mental Agility",
+            "visionary_introduction": "The concept of physical fitness and mental agility dates back to ancient civilizations, where warriors and athletes would train to achieve peak performance. Today, these concepts are crucial for individuals in various professions, including the military, sports, and emergency services. Understanding the principles of physical fitness and mental agility can help individuals optimize their performance, reduce the risk of injury, and improve their overall well-being.",
+            "core_concepts": [
+                {
+                    "concept_name": "Cardiovascular Endurance",
+                    "innovative_explanation": "Cardiovascular endurance refers to the ability of the heart, lungs, and blood vessels to supply oxygen and nutrients to the muscles during prolonged periods of physical activity. This concept is critical for individuals who engage in endurance sports, such as distance running, cycling, or swimming. To improve cardiovascular endurance, individuals can engage in regular aerobic exercise, such as jogging, cycling, or swimming, for at least 30 minutes per session, three to four times per week.",
+                    "formulas_or_key_facts": "VO2 max = (15.3 x HRmax) / (HRrest + 3.5)"
+                },
+                {
+                    "concept_name": "Logical Reasoning",
+                    "innovative_explanation": "Logical reasoning refers to the ability to analyze information, identify patterns, and make informed decisions. This concept is essential for problem-solving, critical thinking, and decision-making. To improve logical reasoning, individuals can engage in activities that challenge their cognitive abilities, such as puzzles, brain teasers, or strategy games.",
+                    "formulas_or_key_facts": "Modus Ponens: If P, then Q. P. Therefore, Q."
+                }
+            ]
+        },
+        {
+            "subject": "Technical",
+            "chapter_title": "Computer Science and Electronics",
+            "visionary_introduction": "The field of computer science and electronics has revolutionized the way we live, work, and communicate. From the development of the first computers to the creation of artificial intelligence, this field has experienced rapid growth and innovation. Understanding the principles of computer science and electronics can help individuals develop new technologies, improve existing systems, and solve complex problems.",
+            "core_concepts": [
+                {
+                    "concept_name": "Data Structures",
+                    "innovative_explanation": "Data structures refer to the organization and management of data in a computer system. This concept is critical for efficient data storage, retrieval, and manipulation. Common data structures include arrays, linked lists, stacks, and queues. To implement data structures, individuals can use programming languages such as Python, Java, or C++.",
+                    "formulas_or_key_facts": "Big O notation: O(1), O(log n), O(n), O(n log n), O(n^2)"
+                },
+                {
+                    "concept_name": "Microcontroller Architecture",
+                    "innovative_explanation": "Microcontroller architecture refers to the design and organization of microcontrollers, which are small computers used in embedded systems. This concept is essential for the development of intelligent systems, such as robots, autonomous vehicles, and IoT devices. To understand microcontroller architecture, individuals can study the components of a microcontroller, including the CPU, memory, and input/output interfaces.",
+                    "formulas_or_key_facts": "Von Neumann architecture: CPU, memory, and input/output interfaces"
+                }
+            ]
+        },
+        {
+            "subject": "Clerk",
+            "chapter_title": "Accounting and Office Administration",
+            "visionary_introduction": "The field of accounting and office administration is critical for the management of financial resources, communication, and organization. From the development of financial statements to the implementation of office management systems, this field has experienced significant growth and innovation. Understanding the principles of accounting and office administration can help individuals manage financial resources, improve communication, and increase productivity.",
+            "core_concepts": [
+                {
+                    "concept_name": "Financial Statements",
+                    "innovative_explanation": "Financial statements refer to the reports that provide information about a company's financial performance and position. This concept is essential for investors, creditors, and other stakeholders to make informed decisions. The three primary financial statements are the balance sheet, income statement, and cash flow statement.",
+                    "formulas_or_key_facts": "Accounting equation: Assets = Liabilities + Equity"
+                },
+                {
+                    "concept_name": "Time Management",
+                    "innovative_explanation": "Time management refers to the ability to prioritize tasks, allocate time, and manage distractions. This concept is critical for individuals to increase productivity, reduce stress, and achieve their goals. To improve time management, individuals can use techniques such as the Pomodoro Technique, time blocking, or the Eisenhower Matrix.",
+                    "formulas_or_key_facts": "Eisenhower Matrix: urgent vs. important, do first vs. delegate vs. delete vs. defer"
+                }
+            ]
+        },
+        {
+            "subject": "Tradesman",
+            "chapter_title": "Mechanical and Electrical Trades",
+            "visionary_introduction": "The field of mechanical and electrical trades is essential for the development, maintenance, and repair of machines, devices, and systems. From the creation of machine tools to the installation of electrical circuits, this field has experienced significant growth and innovation. Understanding the principles of mechanical and electrical trades can help individuals develop new technologies, improve existing systems, and solve complex problems.",
+            "core_concepts": [
+                {
+                    "concept_name": "Machine Tools",
+                    "innovative_explanation": "Machine tools refer to the devices used to manufacture, shape, and assemble components. This concept is critical for the production of goods, such as cars, airplanes, and consumer products. Common machine tools include lathes, drilling machines, and grinding machines.",
+                    "formulas_or_key_facts": "Cutting speed: v = π x d x n / 1000"
+                },
+                {
+                    "concept_name": "Electrical Circuits",
+                    "innovative_explanation": "Electrical circuits refer to the paths through which electric current flows. This concept is essential for the design, installation, and maintenance of electrical systems. Common electrical circuits include series circuits, parallel circuits, and series-parallel circuits.",
+                    "formulas_or_key_facts": "Ohm's law: V = I x R"
+                }
+            ]
+        }
+    ]
+}

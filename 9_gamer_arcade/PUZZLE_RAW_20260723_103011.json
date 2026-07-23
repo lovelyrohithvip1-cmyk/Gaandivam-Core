@@ -1,0 +1,40 @@
+{
+    "module_name": "NTPC Exam Preparation",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Real numbers include all rational and irrational numbers.",
+            "is_true": true,
+            "explanation": "Real numbers encompass all rational numbers (fractions) and irrational numbers (non-repeating, non-terminating decimals)."
+        },
+        {
+            "statement": "Linear equations have the highest power of the variable(s) as 2.",
+            "is_true": false,
+            "explanation": "Linear equations are defined as having the highest power of the variable(s) as 1, not 2."
+        },
+        {
+            "statement": "The Indus Valley Civilization is considered one of the earliest urban civilizations in the world.",
+            "is_true": true,
+            "explanation": "Ancient India, specifically the Indus Valley Civilization, was a cradle of civilization with significant advancements in architecture, governance, and trade."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Real Numbers",
+            "Linear Equations",
+            "Verbal Analogies",
+            "Ancient India"
+        ],
+        "right_column_shuffled": [
+            "Relationships between words based on synonyms, antonyms, etc.",
+            "The set of numbers including all rational and irrational numbers",
+            "Ancient Indian civilization with advancements in architecture and governance",
+            "Algebraic equations where the highest power of the variable(s) is 1"
+        ],
+        "correct_mapping": {
+            "Real Numbers": "The set of numbers including all rational and irrational numbers",
+            "Linear Equations": "Algebraic equations where the highest power of the variable(s) is 1",
+            "Verbal Analogies": "Relationships between words based on synonyms, antonyms, etc.",
+            "Ancient India": "Ancient Indian civilization with advancements in architecture and governance"
+        }
+    }
+}

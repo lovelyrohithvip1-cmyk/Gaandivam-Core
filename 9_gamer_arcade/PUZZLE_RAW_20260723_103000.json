@@ -1,0 +1,40 @@
+{
+    "module_name": "Agniveervayu Intake 02/2027 Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Algebra is a branch of mathematics that deals with the study of variables and their relationships.",
+            "is_true": true,
+            "explanation": "Algebra is indeed a branch of mathematics that deals with the study of variables and their relationships, with roots in ancient civilizations and significant contributions from Persian and Arabic mathematicians."
+        },
+        {
+            "statement": "The term 'algebra' comes from the Greek word 'al-jabr'.",
+            "is_true": false,
+            "explanation": "The term 'algebra' actually comes from the Arabic word 'al-jabr', meaning 'reunion of broken parts'."
+        },
+        {
+            "statement": "Linear equations can be solved using various methods, including substitution, elimination, and graphical representation.",
+            "is_true": true,
+            "explanation": "Linear equations can indeed be solved using various methods, including substitution, elimination, and graphical representation, with numerous real-world applications such as modeling population growth and financial transactions."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Linear Equations",
+            "Quadratic Equations",
+            "Kinematics",
+            "Dynamics"
+        ],
+        "right_column_shuffled": [
+            "Study of motion under the influence of forces",
+            "ax + by = c",
+            "ax^2 + bx + c = 0",
+            "Study of motion without considering the forces that cause it"
+        ],
+        "correct_mapping": {
+            "Linear Equations": "ax + by = c",
+            "Quadratic Equations": "ax^2 + bx + c = 0",
+            "Kinematics": "Study of motion without considering the forces that cause it",
+            "Dynamics": "Study of motion under the influence of forces"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "module_name": "Indian Red Cross Society Haryana Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "General Knowledge encompasses a wide range of topics including national and international events, history, geography, science, and technology.",
+            "is_true": true,
+            "explanation": "General Knowledge is the foundation upon which informed decisions are made, covering various subjects."
+        },
+        {
+            "statement": "The English language originated from Old English and has remained unchanged since its inception.",
+            "is_true": false,
+            "explanation": "The English language has evolved significantly from Old English to the diverse, dynamic language it is today."
+        },
+        {
+            "statement": "Understanding hardware components is essential for troubleshooting and maintenance of computer systems.",
+            "is_true": true,
+            "explanation": "Hardware components are the physical parts of a computer system, and understanding their functions is crucial for system maintenance."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "National Events",
+            "International Events",
+            "Reading Comprehension",
+            "Hardware Components"
+        ],
+        "right_column_shuffled": [
+            "Involves understanding global politics and environmental issues",
+            "Includes government policies, elections, and natural disasters",
+            "Requires skills such as passage analysis and contextual understanding",
+            "Refers to the physical parts of a computer system"
+        ],
+        "correct_mapping": {
+            "National Events": "Includes government policies, elections, and natural disasters",
+            "International Events": "Involves understanding global politics and environmental issues",
+            "Reading Comprehension": "Requires skills such as passage analysis and contextual understanding",
+            "Hardware Components": "Refers to the physical parts of a computer system"
+        }
+    }
+}

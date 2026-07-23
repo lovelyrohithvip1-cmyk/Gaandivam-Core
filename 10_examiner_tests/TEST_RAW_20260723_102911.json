@@ -1,0 +1,61 @@
+{
+    "exam_name": "RRB Group D",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "A number has a place value of 400. What is the digit and its position in the number?",
+            "options": {
+                "A": "Digit 4 at the hundreds place",
+                "B": "Digit 4 at the tens place",
+                "C": "Digit 4 at the ones place",
+                "D": "Digit 4 at the thousands place"
+            },
+            "correct_answer": "A",
+            "explanation": "The place value of a digit is calculated by multiplying the digit by 10 raised to the power of its position. In this case, the place value is 400, which means the digit is 4 and its position is the hundreds place, as 4 * (10 ^ 2) = 400."
+        },
+        {
+            "question_text": "Compare the numbers 456 and 457 using subtraction. What is the result and what does it indicate?",
+            "options": {
+                "A": "The result is -1, indicating 456 is greater than 457",
+                "B": "The result is 1, indicating 457 is greater than 456",
+                "C": "The result is 0, indicating 456 is equal to 457",
+                "D": "The result is -1, indicating 457 is greater than 456"
+            },
+            "correct_answer": "B",
+            "explanation": "When comparing whole numbers using subtraction, if the result is positive, it indicates that the number being subtracted from is greater. In this case, 457 - 456 = 1, which means 457 is greater than 456."
+        },
+        {
+            "question_text": "A car travels a distance of 100 meters in 10 seconds. What is its equation of motion?",
+            "options": {
+                "A": "s = ut + 0.5at^2, where u = 0, s = 100, and t = 10",
+                "B": "s = ut + 0.5at^2, where u = 10, s = 100, and t = 0",
+                "C": "s = ut + 0.5at^2, where u = 0, s = 10, and t = 100",
+                "D": "s = ut + 0.5at^2, where u = 100, s = 10, and t = 0"
+            },
+            "correct_answer": "A",
+            "explanation": "The equation of motion is given by s = ut + 0.5at^2, where s is the distance traveled, u is the initial velocity, t is the time taken, and a is the acceleration. Since the car starts from rest, its initial velocity u is 0. The distance traveled s is 100 meters, and the time taken t is 10 seconds. Therefore, the equation of motion is s = ut + 0.5at^2, where u = 0, s = 100, and t = 10."
+        },
+        {
+            "question_text": "An object has a mass of 5 kg and is acted upon by a force of 10 N. What is its acceleration?",
+            "options": {
+                "A": "a = 10 / 5 = 2 m/s^2",
+                "B": "a = 5 / 10 = 0.5 m/s^2",
+                "C": "a = 10 * 5 = 50 m/s^2",
+                "D": "a = 5 * 10 = 50 m/s^2"
+            },
+            "correct_answer": "A",
+            "explanation": "The force acting on an object is given by F = ma, where F is the force, m is the mass, and a is the acceleration. Rearranging the formula to solve for acceleration, we get a = F / m. In this case, the force F is 10 N, and the mass m is 5 kg. Therefore, the acceleration a is 10 / 5 = 2 m/s^2."
+        },
+        {
+            "question_text": "If it is raining, then the streets will be wet. This is an example of which type of reasoning?",
+            "options": {
+                "A": "Inductive reasoning",
+                "B": "Deductive reasoning",
+                "C": "Abductive reasoning",
+                "D": "Logical reasoning"
+            },
+            "correct_answer": "D",
+            "explanation": "The statement 'if it is raining, then the streets will be wet' is an example of logical reasoning, as it involves using logic to arrive at a conclusion. This type of reasoning is essential for problem-solving and critical thinking. The statement is in the form 'if A, then B', which is a classic example of logical reasoning."
+        }
+    ]
+}

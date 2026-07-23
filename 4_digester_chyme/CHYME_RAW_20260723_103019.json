@@ -1,0 +1,83 @@
+{
+    "exam_name": "Rajasthan Police Constable Exam",
+    "chyme_granular_syllabus": {
+        "Reasoning": {
+            "Logical Reasoning": {
+                "Number Series": [
+                    "Identifying Patterns",
+                    "Predicting Next Number",
+                    "Analyzing Progressions"
+                ],
+                "Coding-Decoding": [
+                    "Understanding Codes",
+                    "Decoding Messages",
+                    "Encoding Messages"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Figure Completion": [
+                    "Identifying Missing Parts",
+                    "Completing Shapes",
+                    "Analyzing Patterns"
+                ],
+                "Mirror Images": [
+                    "Identifying Reflections",
+                    "Creating Mirror Images",
+                    "Analyzing Symmetry"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Arithmetic": {
+                "Number System": [
+                    "Understanding Place Value",
+                    "Performing Operations",
+                    "Simplifying Expressions"
+                ],
+                "Algebra": [
+                    "Solving Equations",
+                    "Graphing Functions",
+                    "Analyzing Inequalities"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Understanding Coordinates",
+                    "Graphing Points",
+                    "Finding Midpoints"
+                ],
+                "Angles and Shapes": [
+                    "Identifying Types of Angles",
+                    "Classifying Shapes",
+                    "Calculating Perimeter and Area"
+                ]
+            }
+        },
+        "General Knowledge": {
+            "History": {
+                "Ancient History": [
+                    "Understanding Time Periods",
+                    "Identifying Key Events",
+                    "Analyzing Historical Figures"
+                ],
+                "Medieval History": [
+                    "Understanding Empires",
+                    "Identifying Key Battles",
+                    "Analyzing Social Structures"
+                ]
+            },
+            "Geography": {
+                "Indian Geography": [
+                    "Understanding Physical Features",
+                    "Identifying States and Capitals",
+                    "Analyzing Climate and Natural Resources"
+                ],
+                "World Geography": [
+                    "Understanding Countries and Capitals",
+                    "Identifying Mountain Ranges",
+                    "Analyzing Global Climate Patterns"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "exam_name": "Agniveervayu Intake 02/2027 Recruitment 2026",
+    "raw_syllabus": {
+        "Science Subjects": [
+            "Mathematics",
+            "Physics",
+            "English"
+        ],
+        "Other Than Science Subjects": [
+            "Any stream with minimum 50% marks in aggregate and 50% marks in English"
+        ],
+        "Medical Assistant (10+2)": [
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "English"
+        ],
+        "Medical Assistant (Pharmacist)": [
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "English",
+            "Diploma / B.Pharmacy / B.Sc Pharmacy"
+        ]
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "exam_name": "Bihar Police Sub-Inspector Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary focus of the study of ancient history in the context of the Indus Valley Civilization, the Vedic Period, and the Mauryan Empire?",
+            "options": {
+                "A": "Understanding the evolution of political systems",
+                "B": "Analyzing the impact of natural disasters on national security",
+                "C": "Exploring the philosophical and literary contributions of these periods",
+                "D": "Examining the sophisticated urban planning and water management systems"
+            },
+            "correct_answer": "D",
+            "explanation": "The correct answer is D because the study of ancient history, particularly in the context of the Indus Valley Civilization, the Vedic Period, and the Mauryan Empire, focuses on understanding the sophisticated urban planning, water management systems, and other achievements of these civilizations. This knowledge is essential for grasping the complexities of a country's internal dynamics and its cultural heritage."
+        },
+        {
+            "question_text": "How does the concept of mechanics in physics relate to the study of motion, forces, and energy?",
+            "options": {
+                "A": "Mechanics is the study of the composition, structure, properties, and reactions of matter",
+                "B": "Mechanics is the branch of physics that deals with the study of motion, forces, and energy",
+                "C": "Mechanics is concerned with the study of inorganic compounds and their properties",
+                "D": "Mechanics is the study of the relationships between the sides and angles of triangles"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because mechanics is indeed the branch of physics that deals with the study of motion, forces, and energy. This includes kinematics, dynamics, and thermodynamics, which are essential for understanding how objects move, respond to forces, and interact with their environment."
+        },
+        {
+            "question_text": "What is the significance of understanding equations in algebra, particularly in solving real-world problems?",
+            "options": {
+                "A": "Equations are used to study the properties of three-dimensional figures",
+                "B": "Equations are statements that express the equality of two mathematical expressions, containing variables and constants",
+                "C": "Equations are used to analyze the impact of natural disasters on national security",
+                "D": "Equations are concerned with the study of inorganic compounds and their properties"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because equations are indeed statements that express the equality of two mathematical expressions, containing variables and constants. Understanding equations is essential for solving real-world problems, as they are used to model linear, quadratic, and more complex relationships in various fields, from economics to physics."
+        },
+        {
+            "question_text": "How does deductive reasoning enable us to navigate arguments and evaluate evidence?",
+            "options": {
+                "A": "Deductive reasoning involves making judgments based on visual information",
+                "B": "Deductive reasoning is the process of reaching a certain conclusion based on one or more premises, using a logical rule of inference",
+                "C": "Deductive reasoning is concerned with the study of inorganic compounds and their properties",
+                "D": "Deductive reasoning is used to analyze the impact of natural disasters on national security"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because deductive reasoning is indeed the process of reaching a certain conclusion based on one or more premises, using a logical rule of inference. This involves syllogisms, arguments, and inferences, which are essential for critical thinking and sound argumentation."
+        },
+        {
+            "question_text": "What is the relationship between the study of points and lines in geometry and the use of coordinates to locate points in a plane?",
+            "options": {
+                "A": "The study of points and lines is concerned with the study of inorganic compounds and their properties",
+                "B": "The study of points and lines involves the use of coordinates to locate points in a plane, but only in three dimensions",
+                "C": "The study of points and lines is used to analyze the impact of natural disasters on national security",
+                "D": "The study of points and lines involves the use of coordinates to locate points in a plane, which is crucial for graphing and analyzing geometric shapes"
+            },
+            "correct_answer": "D",
+            "explanation": "The correct answer is D because the study of points and lines in geometry indeed involves the use of coordinates to locate points in a plane, which is crucial for graphing and analyzing geometric shapes. This knowledge is essential for understanding spatial relationships and solving problems involving right triangles and wave patterns."
+        }
+    ]
+}

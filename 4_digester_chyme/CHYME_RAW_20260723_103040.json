@@ -1,0 +1,164 @@
+{
+    "exam_name": "NDA & NA (I) 2026",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Algebra": {
+                "Equations and Inequalities": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Functions": [
+                    "Domain and Range",
+                    "Even and Odd Functions",
+                    "Composition of Functions"
+                ]
+            },
+            "Matrices and Determinants": {
+                "Matrix Operations": [
+                    "Addition and Subtraction",
+                    "Multiplication",
+                    "Transpose"
+                ],
+                "Determinant Properties": [
+                    "Expansion by Minors",
+                    "Cofactor Expansion",
+                    "Determinant of a Product"
+                ]
+            },
+            "Trigonometry": {
+                "Angles and Triangles": [
+                    "Angle Measurement",
+                    "Trigonometric Ratios",
+                    "Triangle Solutions"
+                ],
+                "Trigonometric Identities": [
+                    "Pythagorean Identities",
+                    "Sum and Difference Formulas",
+                    "Double Angle Formulas"
+                ]
+            },
+            "Analytical Geometry": {
+                "Coordinate Geometry": [
+                    "Points and Lines",
+                    "Circles and Ellipses",
+                    "Parabolas and Hyperbolas"
+                ],
+                "Vector Operations": [
+                    "Addition and Scalar Multiplication",
+                    "Dot Product and Cross Product"
+                ]
+            },
+            "Differential Calculus": {
+                "Limits and Derivatives": [
+                    "Limit Definitions",
+                    "Derivative Rules",
+                    "Geometric Interpretations"
+                ],
+                "Applications of Derivatives": [
+                    "Optimization",
+                    "Motion Along a Line",
+                    "Related Rates"
+                ]
+            },
+            "Integral Calculus": {
+                "Definite Integrals": [
+                    "Basic Properties",
+                    "Substitution Method",
+                    "Integration by Parts"
+                ],
+                "Applications of Integrals": [
+                    "Area Between Curves",
+                    "Volume of Solids",
+                    "Surface Area"
+                ]
+            },
+            "Statistics and Probability": {
+                "Descriptive Statistics": [
+                    "Measures of Central Tendency",
+                    "Measures of Variability",
+                    "Data Visualization"
+                ],
+                "Probability Concepts": [
+                    "Sample Space",
+                    "Events and Probability",
+                    "Conditional Probability"
+                ]
+            }
+        },
+        "General Ability": {
+            "English": {
+                "Comprehension and Vocabulary": [
+                    "Reading Comprehension",
+                    "Word Meaning",
+                    "Contextual Usage"
+                ],
+                "Grammar and Sentence Structure": [
+                    "Parts of Speech",
+                    "Clause and Phrase Structure",
+                    "Sentence Types"
+                ]
+            },
+            "General Knowledge": {
+                "History": [
+                    "Ancient Civilizations",
+                    "Medieval Period",
+                    "Modern Era"
+                ],
+                "Geography": [
+                    "Physical Geography",
+                    "Human Geography",
+                    "Economic Geography"
+                ]
+            },
+            "Physics": {
+                "Mechanics": [
+                    "Kinematics",
+                    "Dynamics",
+                    "Energy and Work"
+                ],
+                "Thermodynamics": [
+                    "Laws of Thermodynamics",
+                    "Thermal Properties",
+                    "Heat Transfer"
+                ]
+            },
+            "Chemistry": {
+                "Inorganic Chemistry": [
+                    "Atomic Structure",
+                    "Chemical Bonding",
+                    "Acid-Base Chemistry"
+                ],
+                "Organic Chemistry": [
+                    "Hydrocarbons",
+                    "Functional Groups",
+                    "Reaction Mechanisms"
+                ]
+            },
+            "General Science": {
+                "Biology": [
+                    "Cell Structure",
+                    "Genetics",
+                    "Evolution"
+                ],
+                "Environmental Science": [
+                    "Ecosystems",
+                    "Conservation",
+                    "Sustainability"
+                ]
+            },
+            "Current Events": {
+                "National News": [
+                    "Politics",
+                    "Economy",
+                    "Social Issues"
+                ],
+                "International News": [
+                    "Global Politics",
+                    "Economy",
+                    "Environmental Issues"
+                ]
+            }
+        }
+    }
+}

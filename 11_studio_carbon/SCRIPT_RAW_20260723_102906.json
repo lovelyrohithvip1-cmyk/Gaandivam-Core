@@ -1,0 +1,66 @@
+{
+    "video_title": "JNU Delhi Non-Teaching Recruitment 2026: Mastering General Intelligence, Quantitative Aptitude, and English Language",
+    "target_duration_minutes": "30",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D brain with neurons lighting up, symbolizing the dawn of human intelligence",
+            "narration_script": "The art of reasoning and problem-solving has been the cornerstone of human intelligence since the dawn of civilization. From ancient philosophers like Aristotle, who laid the foundations of logical reasoning, to modern-day psychologists, who continue to unravel the mysteries of the human mind, the ability to reason and solve problems has been the key to progress and innovation.",
+            "on_screen_text": null
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "A 3D animation of a syllogism puzzle being solved, with pieces falling into place",
+            "narration_script": "Syllogism is a form of logical reasoning that involves drawing conclusions from two or more premises. It is a powerful tool for evaluating arguments and making informed decisions. To master syllogism, it's essential to understand the different types of premises, such as categorical, conditional, and disjunctive, and how to combine them to form valid conclusions.",
+            "on_screen_text": "All A are B, All B are C, ∴ All A are C"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A 3D animation of a statement and conclusion being connected by a logical bridge",
+            "narration_script": "This concept involves evaluating a statement and determining the conclusion that can be logically drawn from it. It requires analyzing the statement, identifying the key elements, and using logical rules to arrive at a conclusion. To excel in this area, it's crucial to understand the different types of statements, such as universal, particular, and negative, and how to apply logical rules to arrive at a valid conclusion.",
+            "on_screen_text": "Statement: All employees are required to attend the meeting. Conclusion: ∴ John, being an employee, is required to attend the meeting."
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "A 3D animation of a course of action being determined, with a compass and map in the background",
+            "narration_script": "This concept involves evaluating a situation and determining the most appropriate course of action. It requires analyzing the situation, identifying the key elements, and using logical rules to arrive at a decision. To master this concept, it's essential to understand the different types of situations, such as problems, opportunities, and challenges, and how to apply logical rules to determine the best course of action.",
+            "on_screen_text": "Situation: The company is facing a financial crisis. Course of Action: ∴ Reduce expenses, increase revenue, and explore new funding options."
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A 3D animation of numbers and arithmetic operations being performed, with a calculator in the background",
+            "narration_script": "Quantitative aptitude is the foundation of mathematical reasoning, and arithmetic is its core. From ancient civilizations like the Babylonians, who developed the concept of zero, to modern-day mathematicians, who continue to push the boundaries of mathematical knowledge, arithmetic has been the language of science and technology.",
+            "on_screen_text": null
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A 3D animation of the number system being explored, with integers, fractions, and decimals being displayed",
+            "narration_script": "The number system is the foundation of arithmetic, and it involves the study of numbers and their properties. To master this concept, it's essential to understand the different types of numbers, such as integers, fractions, and decimals, and how to perform operations like addition, subtraction, multiplication, and division.",
+            "on_screen_text": "Integers: ..., -3, -2, -1, 0, 1, 2, 3, ...; Fractions: 1/2, 3/4, 2/3; Decimals: 0.5, 0.25, 0.75"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "A 3D animation of algebraic equations being solved, with variables and symbols being manipulated",
+            "narration_script": "Algebra is the study of variables and their relationships, and it involves the use of symbols, equations, and formulas to solve problems. To excel in algebra, it's crucial to understand the different types of equations, such as linear, quadratic, and polynomial, and how to solve them using various techniques like factoring, graphing, and substitution.",
+            "on_screen_text": "Linear Equation: 2x + 3 = 5; Quadratic Equation: x^2 + 4x + 4 = 0; Polynomial Equation: x^3 + 2x^2 - 7x - 12 = 0"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "A 3D animation of a book being opened, with words and sentences being highlighted",
+            "narration_script": "The English language is a powerful tool for communication, and comprehension and grammar are its core components. From ancient writers like Shakespeare, who mastered the art of language, to modern-day authors, who continue to push the boundaries of literary expression, the ability to comprehend and use language effectively has been the key to success.",
+            "on_screen_text": null
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "A 3D animation of a reading comprehension puzzle being solved, with main ideas and inferences being highlighted",
+            "narration_script": "Reading comprehension is the ability to understand and interpret written text, and it involves the use of various techniques like skimming, scanning, and close reading. To master this concept, it's essential to understand the different types of texts, such as fiction, non-fiction, and poetry, and how to apply comprehension strategies like identifying main ideas, making inferences, and evaluating arguments.",
+            "on_screen_text": "Main Idea: The central idea or message of the text; Inference: A conclusion drawn from the text based on evidence; Argument: A claim or statement supported by evidence"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "A 3D animation of a error detection process, with grammar and spell check tools being used",
+            "narration_script": "Error detection is the ability to identify and correct errors in language, and it involves the use of various techniques like proofreading and editing. To excel in this area, it's crucial to understand the different types of errors, such as grammatical, punctuation, and spelling, and how to apply correction strategies like using grammar and spell check tools, and seeking feedback from others.",
+            "on_screen_text": "Subject-Verb Agreement: The subject and verb must agree in number; Tense: The verb must be in the correct tense; Modals: The use of modal verbs like can, could, and may"
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "video_title": "Unlocking the Secrets of Agniveervayu Intake 02/2027 Recruitment 2026",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a futuristic, glowing 3D globe, with equations and formulas floating around it",
+            "narration_script": "Welcome to the world of Agniveervayu Intake 02/2027 Recruitment 2026, where mathematics, physics, English, chemistry, and biology come together to unlock the secrets of the universe",
+            "on_screen_text": "Agniveervayu Intake 02/2027 Recruitment 2026"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "Camera zooms in on a 3D equation, ax + by = c, with variables and constants floating around it",
+            "narration_script": "In mathematics, algebra is a fundamental tool for solving equations and understanding relationships between variables. Let's explore the world of linear equations, where ax + by = c is the key to unlocking the secrets of the universe",
+            "on_screen_text": "ax + by = c"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "Camera shows a 3D graph of a quadratic equation, ax^2 + bx + c = 0, with curves and parabolas floating around it",
+            "narration_script": "Quadratic equations, on the other hand, are polynomial equations of degree two, where ax^2 + bx + c = 0. These equations have numerous real-world applications, from modeling projectile motion to optimizing electrical circuits",
+            "on_screen_text": "ax^2 + bx + c = 0"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Camera pans over a 3D model of a mechanical system, with gears, levers, and pulleys floating around it",
+            "narration_script": "In physics, mechanics is the study of motion, forces, and energy. Let's explore the world of kinematics, where v = dx/dt and a = dv/dt are the keys to understanding motion and optimizing mechanical systems",
+            "on_screen_text": "v = dx/dt, a = dv/dt"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "Camera shows a 3D model of a sentence structure, with words and phrases floating around it",
+            "narration_script": "In English, grammar is the foundation of effective communication. Let's explore the world of parts of speech and sentence structure, where nouns, verbs, and adjectives come together to convey meaning and tone",
+            "on_screen_text": "Nouns: person, place, thing, or idea; Verbs: action or state of being"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "Camera pans over a 3D model of an atom, with electrons, protons, and neutrons floating around it",
+            "narration_script": "In chemistry, atomic structure is the key to understanding the behavior of elements and compounds. Let's explore the world of electron configuration, where 1s^2 2s^2 2p^6 is the code to unlocking the secrets of the periodic table",
+            "on_screen_text": "Electron configuration: 1s^2 2s^2 2p^6"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "Camera shows a 3D model of a cell, with cellular components and organelles floating around it",
+            "narration_script": "In biology, cell biology is the study of the structure and function of cells. Let's explore the world of cell structure, where the cell membrane, cytoplasm, and nucleus come together to sustain life and optimize cellular processes",
+            "on_screen_text": "Cell membrane: phospholipid bilayer"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "Camera pans out to show a 3D model of the globe, with equations, formulas, and concepts from mathematics, physics, English, chemistry, and biology floating around it",
+            "narration_script": "In conclusion, the world of Agniveervayu Intake 02/2027 Recruitment 2026 is a complex and fascinating place, where mathematics, physics, English, chemistry, and biology come together to unlock the secrets of the universe. Remember, the key to success lies in understanding the relationships between variables, optimizing systems, and communicating effectively",
+            "on_screen_text": "Agniveervayu Intake 02/2027 Recruitment 2026: Unlocking the Secrets of the Universe"
+        }
+    ]
+}

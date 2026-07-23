@@ -1,0 +1,109 @@
+{
+    "exam_name": "Agniveer Common Entrance Exam (CEE) 2026",
+    "chyme_granular_syllabus": {
+        "General Duty": {
+            "Physical Fitness": {
+                "Endurance": [
+                    "Cardiovascular Endurance",
+                    "Muscular Endurance",
+                    "Flexibility"
+                ],
+                "Strength": [
+                    "Upper Body Strength",
+                    "Lower Body Strength",
+                    "Core Strength"
+                ]
+            },
+            "Mental Agility": {
+                "Problem Solving": [
+                    "Logical Reasoning",
+                    "Pattern Recognition",
+                    "Decision Making"
+                ],
+                "Adaptability": [
+                    "Stress Management",
+                    "Teamwork",
+                    "Communication Skills"
+                ]
+            }
+        },
+        "Technical": {
+            "Computer Science": {
+                "Programming": [
+                    "Data Structures",
+                    "Algorithms",
+                    "Object-Oriented Programming"
+                ],
+                "Networking": [
+                    "Network Fundamentals",
+                    "Network Security",
+                    "Network Architecture"
+                ]
+            },
+            "Electronics": {
+                "Circuit Analysis": [
+                    "AC Circuits",
+                    "DC Circuits",
+                    "Electronic Components"
+                ],
+                "Microcontrollers": [
+                    "Microcontroller Architecture",
+                    "Programming Microcontrollers",
+                    "Interfacing Devices"
+                ]
+            }
+        },
+        "Clerk": {
+            "Accounting": {
+                "Financial Statements": [
+                    "Balance Sheet",
+                    "Income Statement",
+                    "Cash Flow Statement"
+                ],
+                "Accounting Principles": [
+                    "GAAP",
+                    "Accounting Standards",
+                    "Financial Reporting"
+                ]
+            },
+            "Office Administration": {
+                "Time Management": [
+                    "Prioritization",
+                    "Scheduling",
+                    "Organization"
+                ],
+                "Communication": [
+                    "Written Communication",
+                    "Verbal Communication",
+                    "Interpersonal Skills"
+                ]
+            }
+        },
+        "Tradesman": {
+            "Mechanical": {
+                "Machine Tools": [
+                    "Lathe Machines",
+                    "Drilling Machines",
+                    "Grinding Machines"
+                ],
+                "Welding": [
+                    "Shielded Metal Arc Welding",
+                    "Gas Metal Arc Welding",
+                    "Gas Tungsten Arc Welding"
+                ]
+            },
+            "Electrical": {
+                "Electrical Circuits": [
+                    "Series Circuits",
+                    "Parallel Circuits",
+                    "Series-Parallel Circuits"
+                ],
+                "Electrical Machines": [
+                    "Generators",
+                    "Motors",
+                    "Transformers"
+                ]
+            }
+        }
+    }
+}

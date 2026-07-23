@@ -1,0 +1,61 @@
+{
+    "exam_name": "RRB Group D Recruitment Examination 2026",
+    "textbook_content": [
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Number System",
+            "visionary_introduction": "The number system, a fundamental concept in mathematics, has its roots in ancient civilizations. From the Babylonians to the present day, the understanding and application of numbers have evolved significantly, influencing various fields such as science, technology, and economics. The number system is the backbone of mathematical operations and is crucial for problem-solving in real-life scenarios.",
+            "core_concepts": [
+                {
+                    "concept_name": "Whole Numbers",
+                    "innovative_explanation": "Whole numbers are a set of real numbers that include zero and all positive counting numbers. They are used in various mathematical operations such as addition, subtraction, multiplication, and division. Understanding whole numbers is essential for grasping more complex mathematical concepts. For instance, the concept of place value is critical in understanding the representation of whole numbers. Place value refers to the value of a digit depending on its position within a number.",
+                    "formulas_or_key_facts": "Place value = face value * place value, where face value is the value of the digit itself, and place value is the value of the place the digit holds in the number."
+                },
+                {
+                    "concept_name": "Decimals",
+                    "innovative_explanation": "Decimals are a way to represent fractions using a point to separate the whole part from the fractional part. They are used to denote numbers that are not whole, such as 0.5 or 3.14. Decimals are crucial in mathematical operations that require precision, such as measurements and calculations involving fractions. The introduction to decimals involves understanding the concept of tenths, hundredths, and thousandths, which are essential for performing operations with decimals.",
+                    "formulas_or_key_facts": "Decimal representation: whole part + fractional part, where the fractional part is separated by a decimal point."
+                },
+                {
+                    "concept_name": "Fractions",
+                    "innovative_explanation": "Fractions represent a part of a whole. They consist of a numerator and a denominator, where the numerator represents the number of equal parts, and the denominator represents the total number of parts. Fractions are used to represent numbers that are not whole, such as 1/2 or 3/4. Understanding fractions is essential for mathematical operations that involve proportions and ratios.",
+                    "formulas_or_key_facts": "Fraction = numerator / denominator, where the numerator represents the number of equal parts, and the denominator represents the total number of parts."
+                }
+            ]
+        },
+        {
+            "subject": "Science",
+            "chapter_title": "Physics",
+            "visionary_introduction": "Physics, the study of the natural world around us, has its roots in ancient Greece. From Aristotle to Newton, and from Einstein to the present day, physics has evolved significantly, influencing various fields such as technology, engineering, and medicine. Physics is crucial for understanding the fundamental laws that govern the behavior of energy, matter, and the universe as a whole.",
+            "core_concepts": [
+                {
+                    "concept_name": "Motion",
+                    "innovative_explanation": "Motion refers to the change in position of an object over time. It can be described in terms of displacement, velocity, and acceleration. Understanding motion is essential for grasping more complex concepts in physics, such as forces and energy. The introduction to motion involves understanding the types of motion, including translational, rotational, and periodic motion.",
+                    "formulas_or_key_facts": "Velocity = displacement / time, Acceleration = change in velocity / time"
+                },
+                {
+                    "concept_name": "Energy",
+                    "innovative_explanation": "Energy is the ability to do work. It comes in various forms, such as kinetic energy, potential energy, thermal energy, and electrical energy. Understanding energy is crucial for grasping the fundamental laws that govern the behavior of the universe. The introduction to energy involves understanding the types of energy, including renewable and non-renewable energy sources.",
+                    "formulas_or_key_facts": "Kinetic energy = 1/2 * mass * velocity^2, Potential energy = mass * gravity * height"
+                }
+            ]
+        },
+        {
+            "subject": "General Intelligence and Reasoning",
+            "chapter_title": "Verbal Reasoning",
+            "visionary_introduction": "Verbal reasoning, a critical aspect of intelligence, involves the ability to reason, analyze, and draw conclusions from given information. It is essential for problem-solving, decision-making, and critical thinking. Verbal reasoning has its roots in ancient Greece, where philosophers such as Aristotle and Plato emphasized the importance of logical reasoning and argumentation.",
+            "core_concepts": [
+                {
+                    "concept_name": "Analogies",
+                    "innovative_explanation": "Analogies are a type of verbal reasoning that involves identifying relationships between words or concepts. They require the ability to analyze and reason about the relationships between given information. Analogies are used to test cognitive abilities such as pattern recognition, logical reasoning, and problem-solving.",
+                    "formulas_or_key_facts": "Analogy = relationship between words or concepts, where the relationship is based on similarity, difference, or causality."
+                },
+                {
+                    "concept_name": "Syllogisms",
+                    "innovative_explanation": "Syllogisms are a type of verbal reasoning that involves drawing conclusions from given premises. They require the ability to analyze and reason about the relationships between the premises and the conclusion. Syllogisms are used to test cognitive abilities such as logical reasoning, argumentation, and critical thinking.",
+                    "formulas_or_key_facts": "Syllogism = premise + premise -> conclusion, where the premises are statements that support the conclusion."
+                }
+            ]
+        }
+    ]
+}

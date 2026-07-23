@@ -1,0 +1,61 @@
+{
+    "exam_name": "DSSSB Recruitment Exam 2025",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary factor that has shaped India's development, according to the visionary introduction to Indian History and Geography?",
+            "options": {
+                "A": "Ancient India's cultural heritage",
+                "B": "Medieval India's political landscape",
+                "C": "India's physical and political geography",
+                "D": "The country's economic growth"
+            },
+            "correct_answer": "C",
+            "explanation": "The visionary introduction states that Indian history and geography are the pillars upon which the nation's identity is built, indicating that the country's physical and political geography have played a significant role in shaping its development."
+        },
+        {
+            "question_text": "Which of the following empires is credited with being a golden age of Indian history, marked by the reign of Ashoka the Great?",
+            "options": {
+                "A": "Gupta Empire",
+                "B": "Pallava dynasty",
+                "C": "Mauryan Empire",
+                "D": "Maratha Empire"
+            },
+            "correct_answer": "C",
+            "explanation": "According to the core concept of Ancient India, the Mauryan Empire was a golden age of Indian history, marked by the reign of Ashoka the Great."
+        },
+        {
+            "question_text": "What type of reasoning is required to identify a pattern or sequence in a series of numbers, letters, or images?",
+            "options": {
+                "A": "Verbal reasoning",
+                "B": "Non-verbal reasoning",
+                "C": "Critical thinking",
+                "D": "Problem-solving"
+            },
+            "correct_answer": "B",
+            "explanation": "According to the core concept of Pattern Recognition, non-verbal reasoning is required to identify a pattern or sequence in a series of numbers, letters, or images."
+        },
+        {
+            "question_text": "What is the primary purpose of linear equations in algebra?",
+            "options": {
+                "A": "To represent relationships between variables",
+                "B": "To solve quadratic equations",
+                "C": "To model real-world situations",
+                "D": "To perform calculations with whole numbers"
+            },
+            "correct_answer": "A",
+            "explanation": "According to the core concept of Linear Equations, linear equations are used to represent relationships between variables, and can be used to model real-world situations."
+        },
+        {
+            "question_text": "What is the significance of the monsoon season in India's physical geography?",
+            "options": {
+                "A": "It shapes the country's political landscape",
+                "B": "It supports a vast array of flora and fauna",
+                "C": "It plays a crucial role in shaping the nation's agriculture and economy",
+                "D": "It is a characteristic of the Himalayan mountains"
+            },
+            "correct_answer": "C",
+            "explanation": "According to the core concept of Physical Geography, the monsoon season plays a crucial role in shaping India's agriculture and economy, as it supports the country's rivers and irrigation systems."
+        }
+    ]
+}

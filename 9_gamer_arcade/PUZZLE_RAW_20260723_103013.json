@@ -1,0 +1,40 @@
+{
+    "module_name": "Haryana Police Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "General Knowledge encompasses a broad range of subjects including current events and history.",
+            "is_true": true,
+            "explanation": "General Knowledge is the foundation upon which a well-informed and critically thinking individual is built, and it includes subjects like current events and history."
+        },
+        {
+            "statement": "Logical Reasoning involves using logic to evaluate arguments and arrive at a conclusion, while Analytical Reasoning involves breaking down complex information into parts to understand it better.",
+            "is_true": true,
+            "explanation": "Logical Reasoning is about using logic to assess arguments and make sound judgments, and Analytical Reasoning involves analyzing information, identifying patterns, and solving problems."
+        },
+        {
+            "statement": "Geometry is concerned with numbers and their operations.",
+            "is_true": false,
+            "explanation": "Geometry is actually concerned with shapes, sizes, and positions of objects, while Arithmetic deals with numbers and their operations."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Current Events",
+            "History",
+            "Logical Reasoning",
+            "Geometry"
+        ],
+        "right_column_shuffled": [
+            "Study of past events",
+            "Happenings of the present time",
+            "Study of shapes and sizes",
+            "Using logic to evaluate arguments"
+        ],
+        "correct_mapping": {
+            "Current Events": "Happenings of the present time",
+            "History": "Study of past events",
+            "Logical Reasoning": "Using logic to evaluate arguments",
+            "Geometry": "Study of shapes and sizes"
+        }
+    }
+}

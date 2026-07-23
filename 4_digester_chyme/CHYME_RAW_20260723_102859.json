@@ -1,0 +1,234 @@
+{
+    "exam_name": "SBI PO Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "English Language": {
+            "Reading Comprehension": {
+                "Comprehension Skills": [
+                    "Identifying Main Ideas",
+                    "Making Inferences",
+                    "Identifying Tone and Purpose"
+                ],
+                "Vocabulary in Context": [
+                    "Understanding Word Meanings",
+                    "Contextual Usage",
+                    "Synonyms and Antonyms"
+                ]
+            },
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Clauses",
+                    "Phrases",
+                    "Active and Passive Voice"
+                ]
+            },
+            "Vocabulary": {
+                "Word Formation": [
+                    "Prefixes",
+                    "Suffixes",
+                    "Root Words"
+                ],
+                "Word Usage": [
+                    "Synonyms",
+                    "Antonyms",
+                    "Idioms and Phrases"
+                ]
+            }
+        },
+        "Quantitative Aptitude": {
+            "Data Interpretation": {
+                "Tables and Graphs": [
+                    "Reading Tables",
+                    "Interpreting Graphs",
+                    "Calculating Percentages"
+                ],
+                "Case Studies": [
+                    "Analyzing Data",
+                    "Drawing Conclusions",
+                    "Identifying Trends"
+                ]
+            },
+            "Number Series": {
+                "Pattern Recognition": [
+                    "Identifying Patterns",
+                    "Predicting Next Numbers",
+                    "Analyzing Progressions"
+                ],
+                "Series Completion": [
+                    "Completing Series",
+                    "Identifying Missing Numbers",
+                    "Understanding Relationships"
+                ]
+            },
+            "Quadratic Equations": {
+                "Equation Solving": [
+                    "Factoring",
+                    "Using Formulas",
+                    "Solving Inequalities"
+                ],
+                "Equation Applications": [
+                    "Word Problems",
+                    "Graphical Representation",
+                    "Analyzing Solutions"
+                ]
+            }
+        },
+        "Reasoning Ability": {
+            "Logical Reasoning": {
+                "Arguments and Assumptions": [
+                    "Identifying Arguments",
+                    "Understanding Assumptions",
+                    "Evaluating Conclusions"
+                ],
+                "Puzzles and Games": [
+                    "Solving Puzzles",
+                    "Understanding Rules",
+                    "Making Deductions"
+                ]
+            },
+            "Data Sufficiency": {
+                "Statement Analysis": [
+                    "Evaluating Statements",
+                    "Identifying Relevant Information",
+                    "Making Decisions"
+                ],
+                "Conclusion Drawing": [
+                    "Drawing Conclusions",
+                    "Identifying Patterns",
+                    "Making Inferences"
+                ]
+            },
+            "Puzzles": {
+                "Seating Arrangements": [
+                    "Analyzing Arrangements",
+                    "Identifying Patterns",
+                    "Making Deductions"
+                ],
+                "Logical Puzzles": [
+                    "Solving Puzzles",
+                    "Understanding Rules",
+                    "Making Conclusions"
+                ]
+            }
+        },
+        "Reasoning & Computer Aptitude": {
+            "Computer Awareness": {
+                "Hardware Basics": [
+                    "Understanding Hardware Components",
+                    "Identifying Functions",
+                    "Analyzing Performance"
+                ],
+                "Software Basics": [
+                    "Understanding Software Types",
+                    "Identifying Applications",
+                    "Analyzing Usage"
+                ]
+            },
+            "Logical Reasoning": {
+                "Pattern Recognition": [
+                    "Identifying Patterns",
+                    "Predicting Outcomes",
+                    "Analyzing Relationships"
+                ],
+                "Statement Analysis": [
+                    "Evaluating Statements",
+                    "Identifying Relevant Information",
+                    "Making Decisions"
+                ]
+            },
+            "Data Sufficiency": {
+                "Statement Evaluation": [
+                    "Evaluating Statements",
+                    "Identifying Relevant Information",
+                    "Making Decisions"
+                ],
+                "Conclusion Drawing": [
+                    "Drawing Conclusions",
+                    "Identifying Patterns",
+                    "Making Inferences"
+                ]
+            }
+        },
+        "Data Analysis & Interpretation": {
+            "Data Interpretation": {
+                "Table Analysis": [
+                    "Reading Tables",
+                    "Interpreting Data",
+                    "Calculating Percentages"
+                ],
+                "Graph Analysis": [
+                    "Reading Graphs",
+                    "Interpreting Trends",
+                    "Analyzing Patterns"
+                ]
+            },
+            "Graphs": {
+                "Types of Graphs": [
+                    "Bar Graphs",
+                    "Line Graphs",
+                    "Pie Charts"
+                ],
+                "Graph Interpretation": [
+                    "Reading Graphs",
+                    "Interpreting Data",
+                    "Analyzing Trends"
+                ]
+            },
+            "Charts": {
+                "Types of Charts": [
+                    "Column Charts",
+                    "Line Charts",
+                    "Scatter Plots"
+                ],
+                "Chart Interpretation": [
+                    "Reading Charts",
+                    "Interpreting Data",
+                    "Analyzing Patterns"
+                ]
+            }
+        },
+        "General Awareness / Economy / Banking Knowledge": {
+            "Current Affairs": {
+                "National News": [
+                    "Understanding National Events",
+                    "Analyzing Impacts",
+                    "Identifying Trends"
+                ],
+                "International News": [
+                    "Understanding Global Events",
+                    "Analyzing Impacts",
+                    "Identifying Relationships"
+                ]
+            },
+            "Economy": {
+                "Basic Concepts": [
+                    "Understanding Economic Terms",
+                    "Identifying Concepts",
+                    "Analyzing Relationships"
+                ],
+                "Economic Systems": [
+                    "Understanding Types of Economies",
+                    "Identifying Characteristics",
+                    "Analyzing Performance"
+                ]
+            },
+            "Banking Awareness": {
+                "Banking Basics": [
+                    "Understanding Banking Concepts",
+                    "Identifying Functions",
+                    "Analyzing Services"
+                ],
+                "Banking Systems": [
+                    "Understanding Banking Systems",
+                    "Identifying Types",
+                    "Analyzing Performance"
+                ]
+            }
+        }
+    }
+}

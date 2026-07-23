@@ -1,0 +1,56 @@
+{
+    "exam_name": "Haryana Teacher Eligibility Test (HTET) 2026",
+    "textbook_content": [
+        {
+            "subject": "Child Development and Pedagogy",
+            "chapter_title": "Introduction to Child Development",
+            "visionary_introduction": "Child development is a dynamic and multi-faceted field that has evolved significantly over the centuries. From ancient Greek philosophers like Aristotle to modern theorists like Jean Piaget, our understanding of how children grow and develop has been shaped by various theories and research. Today, we recognize that child development is influenced by a complex interplay of genetic, environmental, and socio-cultural factors.",
+            "core_concepts": [
+                {
+                    "concept_name": "Cognitive Development",
+                    "innovative_explanation": "Cognitive development refers to the process by which children acquire, process, and use information. This includes the development of problem-solving skills, memory, and language. According to Piaget's theory, children progress through a series of stages, each characterized by a unique way of thinking and understanding the world.",
+                    "formulas_or_key_facts": "Piaget's stages of cognitive development: Sensorimotor (0-2 years), Preoperational (2-7 years), Concrete Operational (7-11 years), Formal Operational (11-15 years)"
+                },
+                {
+                    "concept_name": "Social Development",
+                    "innovative_explanation": "Social development refers to the process by which children learn to interact and form relationships with others. This includes the development of social skills, emotional intelligence, and moral values. According to Vygotsky's theory, social interaction plays a crucial role in shaping children's cognitive and social development.",
+                    "formulas_or_key_facts": "Vygotsky's zone of proximal development: the range of tasks that a child can accomplish with guidance and support"
+                }
+            ]
+        },
+        {
+            "subject": "Language I (Hindi)",
+            "chapter_title": "Introduction to Hindi Language",
+            "visionary_introduction": "The Hindi language has a rich and diverse history, with roots dating back to the ancient Indus Valley Civilization. Over the centuries, Hindi has evolved into a vibrant and expressive language, with a unique grammar, vocabulary, and literary tradition.",
+            "core_concepts": [
+                {
+                    "concept_name": "Hindi Grammar",
+                    "innovative_explanation": "Hindi grammar is characterized by a complex system of verb conjugation, noun declension, and sentence structure. Understanding Hindi grammar is essential for effective communication and expression in the language.",
+                    "formulas_or_key_facts": "Hindi verb conjugation: present tense, past tense, future tense; Hindi noun declension: masculine, feminine, neuter"
+                },
+                {
+                    "concept_name": "Hindi Vocabulary",
+                    "innovative_explanation": "Hindi vocabulary is a treasure trove of words and expressions, with roots in Sanskrit, Arabic, and other languages. Building a strong vocabulary is essential for effective communication and expression in Hindi.",
+                    "formulas_or_key_facts": "Hindi vocabulary: root words, prefixes, suffixes, idioms and phrases"
+                }
+            ]
+        },
+        {
+            "subject": "Mathematics",
+            "chapter_title": "Introduction to Number System",
+            "visionary_introduction": "The number system is a fundamental concept in mathematics, with roots dating back to ancient civilizations. Understanding the number system is essential for mathematical problem-solving and critical thinking.",
+            "core_concepts": [
+                {
+                    "concept_name": "Properties of Numbers",
+                    "innovative_explanation": "Numbers have various properties, such as commutative, associative, and distributive properties, which are essential for mathematical operations and problem-solving.",
+                    "formulas_or_key_facts": "Commutative property: a + b = b + a; Associative property: (a + b) + c = a + (b + c); Distributive property: a(b + c) = ab + ac"
+                },
+                {
+                    "concept_name": "Operations on Numbers",
+                    "innovative_explanation": "Mathematical operations, such as addition, subtraction, multiplication, and division, are essential for problem-solving and critical thinking.",
+                    "formulas_or_key_facts": "Addition: a + b; Subtraction: a - b; Multiplication: a * b; Division: a / b"
+                }
+            ]
+        }
+    ]
+}

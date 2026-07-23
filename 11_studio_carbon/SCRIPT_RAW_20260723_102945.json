@@ -1,0 +1,66 @@
+{
+    "video_title": "Indian Red Cross Society Haryana Recruitment 2026 Overview",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D globe with India highlighted, transitioning into a book opening with the title 'General Knowledge' appearing in bold letters.",
+            "narration_script": "Welcome to the Indian Red Cross Society Haryana Recruitment 2026 video guide. General Knowledge is the foundation of informed decisions, covering national and international events, history, geography, science, and technology.",
+            "on_screen_text": "General Knowledge"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "3D animation of a newspaper unfolding, with headlines about government policies, elections, and natural disasters.",
+            "narration_script": "National events include government policies, elections, and natural disasters, all of which significantly impact the socio-political landscape and the lives of citizens.",
+            "on_screen_text": "National Events: Government Policies, Elections, Natural Disasters"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A 3D Earth rotates, showing connections between countries, with icons representing global politics, economic trends, and environmental issues.",
+            "narration_script": "International events such as global politics, economic trends, and environmental issues have a profound impact on the world, requiring global cooperation and individual actions.",
+            "on_screen_text": "International Events: Global Politics, Economic Trends, Environmental Issues"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Camera zooms into a book with the title 'English' on the cover, opening to reveal pages with comprehension and grammar exercises.",
+            "narration_script": "Mastering the English language is essential in today's globalized world, involving comprehension, grammar, and vocabulary.",
+            "on_screen_text": "English: Comprehension, Grammar, Vocabulary"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "3D animation of a person reading a book, with thought bubbles showing analysis and inference skills.",
+            "narration_script": "Reading comprehension involves understanding, interpreting, and analyzing written texts, requiring skills like passage analysis, inference, and contextual understanding.",
+            "on_screen_text": "Reading Comprehension: Passage Analysis, Inference, Contextual Understanding"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A 3D puzzle pieces together, labeled with parts of speech (nouns, verbs, adjectives, adverbs).",
+            "narration_script": "The parts of speech are the building blocks of the English language, each with a distinct function in a sentence, contributing to its meaning and structure.",
+            "on_screen_text": "Parts of Speech: Nouns, Verbs, Adjectives, Adverbs"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "Camera transitions to a book with 'Hindi' on the cover, opening to show Devanagari script and comprehension exercises.",
+            "narration_script": "Hindi, a widely spoken language in India, involves comprehension, grammar, and vocabulary, with roots tracing back to Sanskrit.",
+            "on_screen_text": "Hindi: Comprehension, Grammar, Vocabulary"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "3D animation of a person practicing reading in Devanagari script, with thought bubbles showing understanding and interpretation.",
+            "narration_script": "Reading comprehension in Hindi requires the ability to understand and interpret texts in the Devanagari script, involving skills like passage analysis and contextual understanding.",
+            "on_screen_text": "Reading Comprehension in Hindi: Passage Analysis, Contextual Understanding"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "A 3D model of a computer assembles itself, with components labeled (CPU, RAM, input/output devices).",
+            "narration_script": "Computer knowledge is fundamental, covering basic computer concepts, Microsoft Office applications, and typing skills, crucial for professional and personal tasks.",
+            "on_screen_text": "Computer Knowledge: Basic Concepts, Microsoft Office, Typing Skills"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "3D animation of Microsoft Word in use, showing document creation, editing, and formatting.",
+            "narration_script": "Mastering Microsoft Word is essential for producing professional-looking documents, reports, and other written materials, offering features like document creation, editing tools, and formatting options.",
+            "on_screen_text": "Microsoft Word: Document Creation, Editing, Formatting"
+        }
+    ]
+}

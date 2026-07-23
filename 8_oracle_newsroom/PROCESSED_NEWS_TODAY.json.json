@@ -1,0 +1,29 @@
+{
+    "daily_bulletin_date": "Today",
+    "news_categories": [
+        {
+            "category": "Science & Tech",
+            "headline": "ISRO Launches Chandrayaan-4 Mission",
+            "event_summary": "ISRO successfully launched the Chandrayaan-4 mission from Sriharikota, aiming for a lunar sample return.",
+            "historical_context_and_exam_relevance": "This mission follows the success of Chandrayaan-3 in 2023, which made India the fourth country to achieve a soft landing on the Moon. The Chandrayaan series is crucial for understanding lunar geology and has significant implications for space exploration. Students should note the progression of India's lunar missions and their contributions to global space research, especially relevant for exams focusing on space technology advancements post-2021."
+        },
+        {
+            "category": "Sports",
+            "headline": "India Wins Asian Hockey Championship",
+            "event_summary": "India won the Asian Hockey Championship by defeating Pakistan 3-1.",
+            "historical_context_and_exam_relevance": "This victory marks a significant milestone in India's hockey history, following a series of international wins and losses. Since 2021, India has shown consistent improvement in hockey, with notable performances in the Olympics and other international tournaments. Students should be aware of India's performance in major sports events and the impact of such wins on national morale and international sports diplomacy."
+        },
+        {
+            "category": "Economy",
+            "headline": "RBI Announces New Repo Rate",
+            "event_summary": "The RBI announced a new repo rate of 6.25% to curb rising inflation.",
+            "historical_context_and_exam_relevance": "The decision to increase the repo rate is part of the RBI's monetary policy to control inflation, which has been rising due to various global and domestic factors since 2021. Students should understand the role of the RBI in managing inflation, the impact of repo rate changes on the economy, and how these decisions reflect the broader economic trends and challenges faced by India post-2021, including the effects of the pandemic and global economic shifts."
+        },
+        {
+            "category": "International",
+            "headline": "G20 Summit Concludes in Brazil",
+            "event_summary": "The G20 Summit for this year officially concluded in Brazil, focusing on sustainable energy.",
+            "historical_context_and_exam_relevance": "The G20 Summit has been a crucial platform for discussing global issues, including climate change and energy security, since 2021. The focus on sustainable energy reflects the growing international consensus on the need to transition to renewable energy sources to combat climate change. Students should be aware of the key outcomes of major international summits like the G20, especially how they address global challenges and promote international cooperation, highlighting trends and commitments made by countries towards sustainable development goals post-2021."
+        }
+    ]
+}

@@ -1,0 +1,54 @@
+{
+    "video_title": "NCL Mining Sirdar Recruitment 2026: Comprehensive Overview",
+    "target_duration_minutes": "30",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a 3D model of a mine, showing various mining activities",
+            "narration_script": "Welcome to the world of mining engineering, where science, technology, and innovation come together to extract valuable resources from the earth safely and efficiently.",
+            "on_screen_text": "Introduction to Mining Methods and Machinery"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "3D animation of underground mining, showing room and pillar mining, sublevel caving, and block caving techniques",
+            "narration_script": "Underground mining involves extracting minerals beneath the earth's surface, requiring meticulous planning, precise engineering, and specialized equipment.",
+            "on_screen_text": "Underground Mining: Room and Pillar, Sublevel Caving, Block Caving"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "3D model of drilling machines, from handheld drills to large rotary drills, in action",
+            "narration_script": "Drilling machines are fundamental in both surface and underground mining for creating holes for blasting, drilling water wells, and exploring mineral deposits.",
+            "on_screen_text": "Drilling Machines: Efficiency = (Actual Drilling Time / Theoretical Drilling Time) * 100"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Camera zooms in on a gas detector, then cuts to a 3D animation of different types of gas detectors",
+            "narration_script": "The detection and monitoring of gases in mining environments are critical for ensuring miner safety and preventing disasters.",
+            "on_screen_text": "Types of Gas Detectors: Catalytic Combustion, Infrared, Electrochemical Sensors"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "3D animation illustrating the formula for calculating the Lower Explosive Limit (LEL) of a gas",
+            "narration_script": "Understanding the principles of gas detection and the types of gas detectors is essential for accurate and reliable gas testing in mining operations.",
+            "on_screen_text": "LEL = (Volume of Gas / Total Volume) * 100"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "3D animation of first aid procedures in a mining context, including wound care and CPR",
+            "narration_script": "First aid is a critical component of mining safety, providing immediate care to individuals injured in accidents, including wound care and cardiopulmonary resuscitation.",
+            "on_screen_text": "First Aid Essentials: Wound Care, CPR - 30:2 Ratio, 2-inch Compression Depth"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "3D model of a mine surveyor at work, using various surveying instruments",
+            "narration_script": "Mine surveying is the science of measuring and mapping the physical space of mines, crucial for planning, safety, and efficient resource extraction.",
+            "on_screen_text": "Mine Surveying: Control Surveys, Detail Surveys, Geodetic Surveys"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "3D animation showing the preparation of mine maps, including data collection and software use",
+            "narration_script": "Mine maps are detailed representations of the mine's layout, including tunnels, shafts, and geological features, essential for navigation, planning, and safety.",
+            "on_screen_text": "Map Preparation: Data Collection, Geological Integration, Software Drafting"
+        }
+    ]
+}

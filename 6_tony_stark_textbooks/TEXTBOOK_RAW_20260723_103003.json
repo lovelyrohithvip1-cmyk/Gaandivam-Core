@@ -1,0 +1,22 @@
+{
+    "exam_name": "RRB Technician Recruitment 2026",
+    "textbook_content": [
+        {
+            "subject": "Eligibility Criteria for RRB Technician Recruitment",
+            "chapter_title": "Understanding Educational Qualifications",
+            "visionary_introduction": "The journey to becoming a technician in the railway sector is rooted in the early 19th century when the first steam locomotives were introduced in India. Over the years, the role of a technician has evolved significantly, demanding a blend of theoretical knowledge and practical skills. The Railway Recruitment Board (RRB) has been at the forefront of identifying and recruiting talented individuals who can contribute to the efficient operation and maintenance of railway systems. The eligibility criteria, particularly the educational qualifications, serve as the foundation for this recruitment process, ensuring that candidates possess the requisite skills and knowledge to excel in their roles.",
+            "core_concepts": [
+                {
+                    "concept_name": "Educational Qualification for Technician Grade-I Signal",
+                    "innovative_explanation": "For the position of Technician Grade-I Signal, candidates are required to have a strong educational background in engineering. This can be fulfilled by possessing an Engineering Diploma, an Engineering Degree, or a Relevant Technical Qualification. The emphasis on engineering disciplines underscores the complex nature of signal systems in railways, which require a deep understanding of electrical, electronic, and telecommunications principles. Candidates with these qualifications are well-equipped to handle the design, installation, maintenance, and troubleshooting of signal systems, ensuring the safe and efficient movement of trains.",
+                    "formulas_or_key_facts": "Key qualifications include: Engineering Diploma, Engineering Degree, Relevant Technical Qualification."
+                },
+                {
+                    "concept_name": "Educational Qualification for Technician Grade-III",
+                    "innovative_explanation": "In contrast, the eligibility criteria for Technician Grade-III focus on foundational skills that can be acquired through a 10th Pass certificate or an ITI (Industrial Training Institute) certification in a Relevant Trade. This reflects the more hands-on, vocational nature of the role, which requires proficiency in specific trades such as electrical, mechanical, or welding. The ITI certification, in particular, is designed to provide students with the practical skills necessary for employment in these trades, making them immediately productive in the railway workshop environment.",
+                    "formulas_or_key_facts": "Key qualifications include: 10th Pass, ITI in Relevant Trade."
+                }
+            ]
+        }
+    ]
+}

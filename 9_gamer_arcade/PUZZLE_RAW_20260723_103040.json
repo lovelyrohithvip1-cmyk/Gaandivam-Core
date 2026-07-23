@@ -1,0 +1,40 @@
+{
+    "module_name": "NDA & NA (I) 2026 Mathematics and English",
+    "true_false_rapid_fire": [
+        {
+            "statement": "A linear equation is an equation in which the highest power of the variable is 2.",
+            "is_true": false,
+            "explanation": "A linear equation is an equation in which the highest power of the variable is 1."
+        },
+        {
+            "statement": "The quadratic formula is used to solve linear equations.",
+            "is_true": false,
+            "explanation": "The quadratic formula is used to solve quadratic equations, not linear equations."
+        },
+        {
+            "statement": "The sine of an angle in a right triangle is defined as the ratio of the length of the opposite side to the length of the hypotenuse.",
+            "is_true": true,
+            "explanation": "The sine of an angle in a right triangle is indeed defined as the ratio of the length of the opposite side to the length of the hypotenuse."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Linear Equations",
+            "Quadratic Equations",
+            "Trigonometric Ratios",
+            "Reading Comprehension"
+        ],
+        "right_column_shuffled": [
+            "sin(A) = opposite side / hypotenuse",
+            "ax + b = 0",
+            "Identify main idea, supporting details, and author's tone",
+            "x = (-b ± √(b^2 - 4ac)) / 2a"
+        ],
+        "correct_mapping": {
+            "Linear Equations": "ax + b = 0",
+            "Quadratic Equations": "x = (-b ± √(b^2 - 4ac)) / 2a",
+            "Trigonometric Ratios": "sin(A) = opposite side / hypotenuse",
+            "Reading Comprehension": "Identify main idea, supporting details, and author's tone"
+        }
+    }
+}

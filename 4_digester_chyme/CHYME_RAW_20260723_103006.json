@@ -1,0 +1,69 @@
+{
+    "exam_name": "NCL Mining Sirdar Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Mining Sirdar": {
+            "Mining Engineering": {
+                "Mining Methods": [
+                    "Underground Mining",
+                    "Surface Mining",
+                    "Placer Mining"
+                ],
+                "Mining Machinery": [
+                    "Drilling Machines",
+                    "Loading Machines",
+                    "Haulage Systems"
+                ]
+            },
+            "Gas Testing": {
+                "Gas Detection": [
+                    "Types of Gas Detectors",
+                    "Calibration of Detectors",
+                    "Detector Maintenance"
+                ],
+                "Gas Monitoring": [
+                    "Monitoring Procedures",
+                    "Gas Sampling",
+                    "Analysis of Gas Samples"
+                ]
+            },
+            "First Aid": {
+                "Basic First Aid": [
+                    "Wound Care",
+                    "Burn Care",
+                    "Cardiopulmonary Resuscitation"
+                ],
+                "Emergency Response": [
+                    "Emergency Procedures",
+                    "Evacuation Techniques",
+                    "Communication in Emergencies"
+                ]
+            }
+        },
+        "Surveyor (Mining)": {
+            "Mine Surveying Engineering": {
+                "Surveying Principles": [
+                    "Types of Surveys",
+                    "Surveying Instruments",
+                    "Measurement Techniques"
+                ],
+                "Mine Mapping": [
+                    "Map Preparation",
+                    "Map Symbols",
+                    "Map Interpretation"
+                ]
+            },
+            "Surveyor Certificate of Competency": {
+                "Certification Requirements": [
+                    "Eligibility Criteria",
+                    "Examination Process",
+                    "Certificate Validation"
+                ],
+                "Professional Development": [
+                    "Continuing Education",
+                    "Professional Ethics",
+                    "Industry Standards"
+                ]
+            }
+        }
+    }
+}

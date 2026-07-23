@@ -1,0 +1,37 @@
+{
+    "exam_name": "ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "General Education": {
+            "Graduation Requirements": {
+                "Eligibility Criteria": [
+                    "Minimum 60% Marks",
+                    "CGPA 6.32/10"
+                ]
+            }
+        },
+        "Computer Science": {
+            "Computer Proficiency": {
+                "Software Skills": [
+                    "Operating System",
+                    "Microsoft Office",
+                    "Typing Speed"
+                ]
+            }
+        },
+        "Secretarial Practice": {
+            "Commercial Practice": {
+                "Diploma Requirements": [
+                    "Diploma in Commercial/Secretarial Practice",
+                    "Relevant Experience"
+                ]
+            }
+        },
+        "Stenography": {
+            "English Stenography": {
+                "Typing Speed": [
+                    "60 WPM English Stenography"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "module_name": "JNU Delhi Non-Teaching Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Syllogism is a form of logical reasoning that involves drawing conclusions from two or more premises.",
+            "is_true": true,
+            "explanation": "Syllogism is a powerful tool for evaluating arguments and making informed decisions."
+        },
+        {
+            "statement": "The number system is the foundation of algebra.",
+            "is_true": false,
+            "explanation": "The number system is the foundation of arithmetic."
+        },
+        {
+            "statement": "Reading comprehension is the ability to understand and interpret written text.",
+            "is_true": true,
+            "explanation": "Reading comprehension involves the use of various techniques like skimming, scanning, and close reading."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Syllogism",
+            "Algebra",
+            "Reading Comprehension",
+            "Error Detection"
+        ],
+        "right_column_shuffled": [
+            "Involves the study of variables and their relationships",
+            "Involves drawing conclusions from two or more premises",
+            "Involves identifying and correcting errors in language",
+            "Involves understanding and interpreting written text"
+        ],
+        "correct_mapping": {
+            "Syllogism": "Involves drawing conclusions from two or more premises",
+            "Algebra": "Involves the study of variables and their relationships",
+            "Reading Comprehension": "Involves understanding and interpreting written text",
+            "Error Detection": "Involves identifying and correcting errors in language"
+        }
+    }
+}

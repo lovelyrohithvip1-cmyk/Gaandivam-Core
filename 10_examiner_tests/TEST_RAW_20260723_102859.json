@@ -1,0 +1,61 @@
+{
+    "exam_name": "SBI PO Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "What is the primary strategy for identifying the main idea of a passage, and how does it involve analyzing the passage's structure?",
+            "options": {
+                "A": "By focusing solely on the introduction and ignoring the body and conclusion",
+                "B": "By analyzing the introduction, body, and conclusion to discern the author's primary message",
+                "C": "By reading the passage only once and guessing the main idea",
+                "D": "By skipping the introduction and focusing on the body and conclusion"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because identifying the main idea of a passage involves a comprehensive analysis of its structure, including the introduction, body, and conclusion, to understand the author's primary message. This is a key concept in reading comprehension, as outlined in the visionary introduction to the English Language chapter."
+        },
+        {
+            "question_text": "How does understanding word meanings in different contexts contribute to effective comprehension, and what innovative strategy can be used to achieve this?",
+            "options": {
+                "A": "By only knowing the dictionary definition and not considering the context",
+                "B": "By using flashcards, playing word games, and reading extensively to encounter words in various settings",
+                "C": "By guessing the meaning of words based on their appearance",
+                "D": "By avoiding words that are not familiar"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because understanding word meanings in different contexts is pivotal for effective comprehension. Using flashcards, playing word games, and reading extensively are innovative strategies that help encounter words in various settings, thereby enhancing comprehension. This aligns with the concept of understanding word meanings in the English Language chapter."
+        },
+        {
+            "question_text": "What is the key fact to remember when identifying trends in data presented in graphs or tables, and how does this relate to data interpretation?",
+            "options": {
+                "A": "Trends can only be identified by looking at the pattern of numbers in tables",
+                "B": "Trends can be identified by looking at the slope of lines in graphs or the pattern of numbers in tables",
+                "C": "Trends are irrelevant in data interpretation",
+                "D": "Trends can only be identified by using statistical software"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because the key fact in identifying trends in data is to look at the slope of lines in graphs or the pattern of numbers in tables. This is crucial for data interpretation, as it helps in understanding the relationships and changes in the data, which is a core concept in the Data Interpretation and Number Series chapter."
+        },
+        {
+            "question_text": "What formula is used to find the nth term of an arithmetic sequence, and how does this apply to identifying patterns in number series?",
+            "options": {
+                "A": "a_n = a_1 - (n-1)d",
+                "B": "a_n = a_1 + (n-1)d",
+                "C": "a_n = a_1 * (n-1)d",
+                "D": "a_n = a_1 / (n-1)d"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because the formula a_n = a_1 + (n-1)d is used to find the nth term of an arithmetic sequence, where a_1 is the first term and d is the common difference. This formula is essential for identifying patterns in number series, which is a critical skill in quantitative aptitude, as discussed in the Data Interpretation and Number Series chapter."
+        },
+        {
+            "question_text": "What is the primary skill required for evaluating statements for data sufficiency, and how does this relate to logical reasoning?",
+            "options": {
+                "A": "The ability to ignore irrelevant information and focus on the conclusion",
+                "B": "The ability to determine if the information provided is enough to answer a question or solve a problem",
+                "C": "The ability to only consider the premises and not the conclusion",
+                "D": "The ability to guess the answer without evaluating the information"
+            },
+            "correct_answer": "B",
+            "explanation": "The correct answer is B because evaluating statements for data sufficiency requires the ability to determine if the information provided is enough to answer a question or solve a problem. This is a fundamental skill in logical reasoning, as it involves analyzing the given information, identifying what is needed to reach a conclusion, and determining if there is sufficient data to do so, which is a key concept in the Logical Reasoning and Data Sufficiency chapter."
+        }
+    ]
+}

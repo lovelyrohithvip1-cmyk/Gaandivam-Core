@@ -1,0 +1,40 @@
+{
+    "module_name": "HP Police Constable Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "National Events include Government Policies, Elections, and Natural Disasters.",
+            "is_true": true,
+            "explanation": "National Events are the building blocks of a nation's history, encompassing Government Policies, Elections, and Natural Disasters that have a profound impact on the lives of its citizens."
+        },
+        {
+            "statement": "International Events are solely related to global politics.",
+            "is_true": false,
+            "explanation": "International Events are the threads that weave the tapestry of global politics, economic trends, and environmental issues, influencing national policies and requiring awareness from a police constable to address transnational crimes."
+        },
+        {
+            "statement": "Real Numbers in mathematics include Integers, Rational Numbers, and Irrational Numbers.",
+            "is_true": true,
+            "explanation": "Real Numbers are the foundation of mathematical analysis, encompassing Integers, Rational Numbers, and Irrational Numbers, which are crucial for solving equations, graphing functions, and applying mathematical models to real-world problems."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "National Events",
+            "International Events",
+            "Real Numbers",
+            "Deductive Reasoning"
+        ],
+        "right_column_shuffled": [
+            "Threads of global politics, economic trends, and environmental issues",
+            "Foundation of mathematical analysis including Integers, Rational, and Irrational Numbers",
+            "Building blocks of a nation's history including Government Policies, Elections, and Natural Disasters",
+            "Process of drawing specific conclusions from general premises using logic"
+        ],
+        "correct_mapping": {
+            "National Events": "Building blocks of a nation's history including Government Policies, Elections, and Natural Disasters",
+            "International Events": "Threads of global politics, economic trends, and environmental issues",
+            "Real Numbers": "Foundation of mathematical analysis including Integers, Rational, and Irrational Numbers",
+            "Deductive Reasoning": "Process of drawing specific conclusions from general premises using logic"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "exam_name": "Uttarakhand Teacher Eligibility Test (UTET-I & II) 2026",
+    "raw_syllabus": {
+        "Child Development & Pedagogy": [
+            "Child Development",
+            "Pedagogy"
+        ],
+        "Language-I": [
+            "Comprehension",
+            "Language Skills"
+        ],
+        "Language-II": [
+            "Comprehension",
+            "Language Skills"
+        ],
+        "Mathematics": [
+            "Number System",
+            "Algebra",
+            "Geometry",
+            "Measurement"
+        ],
+        "Environmental Studies": [
+            "Family and Friends",
+            "Food",
+            "Shelter",
+            "Water",
+            "Travel"
+        ],
+        "Mathematics & Science": [
+            "Mathematics",
+            "Science"
+        ],
+        "Social Studies": [
+            "History",
+            "Geography",
+            "Civics",
+            "Economics"
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "module_name": "AAI Manager & Junior Executive Recruitment 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Aristotle and Plato laid the groundwork for logical reasoning.",
+            "is_true": true,
+            "explanation": "Aristotle and Plato were ancient philosophers who contributed significantly to the development of logical reasoning."
+        },
+        {
+            "statement": "The English language has only one type of tense.",
+            "is_true": false,
+            "explanation": "The English language has three primary categories of tenses: present, past, and future."
+        },
+        {
+            "statement": "Graphs are used only for mathematical data analysis.",
+            "is_true": false,
+            "explanation": "Graphs are visual representations of data and can be used for various types of data analysis, including non-mathematical data."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Analogies",
+            "Syllogisms",
+            "Parts of Speech",
+            "Equations"
+        ],
+        "right_column_shuffled": [
+            "Fundamental aspect of verbal reasoning",
+            "Form of logical argument",
+            "Basic building blocks of the English language",
+            "Statements that express the equality of two mathematical expressions"
+        ],
+        "correct_mapping": {
+            "Analogies": "Fundamental aspect of verbal reasoning",
+            "Syllogisms": "Form of logical argument",
+            "Parts of Speech": "Basic building blocks of the English language",
+            "Equations": "Statements that express the equality of two mathematical expressions"
+        }
+    }
+}

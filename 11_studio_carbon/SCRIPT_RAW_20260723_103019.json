@@ -1,0 +1,66 @@
+{
+    "video_title": "Rajasthan Police Constable Exam Prep",
+    "target_duration_minutes": "10",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a glowing 3D map of Rajasthan, with key locations highlighted",
+            "narration_script": "Welcome to the Rajasthan Police Constable Exam preparation video. In this video, we will cover the key subjects and concepts that you need to know to succeed in the exam.",
+            "on_screen_text": "Rajasthan Police Constable Exam"
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "3D animation of a puzzle being solved, with pieces fitting together",
+            "narration_script": "Reasoning is the cornerstone of problem-solving, and it has its roots in ancient civilizations. From logical deductions to pattern recognition, mastering reasoning skills is crucial for success in the exam.",
+            "on_screen_text": "Reasoning: The Cornerstone of Problem-Solving"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "3D animation of numbers and patterns appearing on screen, with a geometric progression sequence highlighted",
+            "narration_script": "Number series is a fundamental aspect of logical reasoning. It involves identifying patterns in sequences of numbers, such as arithmetic progressions and geometric progressions.",
+            "on_screen_text": "Number Series: Arithmetic Progression (AP) formula: a_n = a_1 + (n-1)d, Geometric Progression (GP) formula: a_n = a_1 * r^(n-1)"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "3D animation of a code being deciphered, with letters and symbols appearing on screen",
+            "narration_script": "Coding and decoding are essential skills in logical reasoning. It involves creating and deciphering codes, using substitution ciphers and other techniques.",
+            "on_screen_text": "Coding-Decoding: Substitution Cipher Formula: E(x) = (x + n) mod 26"
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "3D animation of a figure being completed, with missing parts appearing on screen",
+            "narration_script": "Figure completion is a part of non-verbal reasoning. It requires the ability to identify missing parts in a figure or complete a shape based on a given pattern.",
+            "on_screen_text": "Figure Completion: Understanding Symmetry and Patterns"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "3D animation of mathematical symbols and equations appearing on screen, with a quadratic formula highlighted",
+            "narration_script": "Mathematics is the language of the universe, and it has been the backbone of human progress. In the context of the Rajasthan Police Constable Exam, a strong foundation in arithmetic and geometry is essential.",
+            "on_screen_text": "Mathematics: Quadratic Formula: x = [-b ± sqrt(b^2 - 4ac)] / 2a"
+        },
+        {
+            "scene_number": 7,
+            "visual_prompt_for_3D_engine": "3D animation of a map of India, with key geographical features highlighted",
+            "narration_script": "General knowledge, encompassing history, geography, and more, is the bedrock of a well-rounded education. Understanding historical events, geographical locations, and their significance is crucial for developing a global perspective.",
+            "on_screen_text": "General Knowledge: Indian Geography, Ancient History"
+        },
+        {
+            "scene_number": 8,
+            "visual_prompt_for_3D_engine": "3D animation of a timeline appearing on screen, with key dates and events highlighted",
+            "narration_script": "Ancient history, spanning from the dawn of civilization to the fall of the Roman Empire, is a rich tapestry of cultures, empires, and events that have shaped the modern world.",
+            "on_screen_text": "Ancient History: Timeline of Major Ancient Civilizations"
+        },
+        {
+            "scene_number": 9,
+            "visual_prompt_for_3D_engine": "3D animation of a map of India, with key geographical features and rivers highlighted",
+            "narration_script": "Indian geography, with its diverse landscapes, climates, and natural resources, is a fascinating subject that plays a critical role in shaping the country's economy, culture, and politics.",
+            "on_screen_text": "Indian Geography: Key Features, Rivers, and Climate"
+        },
+        {
+            "scene_number": 10,
+            "visual_prompt_for_3D_engine": "Camera pans out to show a 3D animation of a person taking an exam, with a confident expression",
+            "narration_script": "With this knowledge and preparation, you will be well on your way to success in the Rajasthan Police Constable Exam. Stay focused, stay confident, and you will achieve your goals.",
+            "on_screen_text": "Success in the Rajasthan Police Constable Exam: Stay Focused, Stay Confident"
+        }
+    ]
+}

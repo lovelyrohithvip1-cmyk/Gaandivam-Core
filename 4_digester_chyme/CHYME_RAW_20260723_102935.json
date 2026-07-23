@@ -1,0 +1,109 @@
+{
+    "exam_name": "HSSC CET Group C Exam 2025",
+    "chyme_granular_syllabus": {
+        "General Awareness": {
+            "Current Events": {
+                "National News": [
+                    "Government Policies",
+                    "Elections",
+                    "National Security"
+                ],
+                "International News": [
+                    "Global Economy",
+                    "International Relations",
+                    "Environmental Issues"
+                ]
+            },
+            "History": {
+                "Ancient History": [
+                    "Indus Valley Civilization",
+                    "Vedic Period",
+                    "Mauryan Empire"
+                ],
+                "Medieval History": [
+                    "Mughal Empire",
+                    "Maratha Empire",
+                    "British Colonization"
+                ]
+            }
+        },
+        "Reasoning": {
+            "Logical Reasoning": {
+                "Deductive Reasoning": [
+                    "Syllogisms",
+                    "Arguments",
+                    "Inferences"
+                ],
+                "Inductive Reasoning": [
+                    "Patterns",
+                    "Analogies",
+                    "Abstractions"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Visual Reasoning": [
+                    "Shapes",
+                    "Patterns",
+                    "Images"
+                ],
+                "Spatial Reasoning": [
+                    "Directions",
+                    "Distances",
+                    "Mappings"
+                ]
+            }
+        },
+        "English": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Passage Analysis",
+                    "Question Types",
+                    "Answer Techniques"
+                ],
+                "Writing Skills": [
+                    "Essay Writing",
+                    "Letter Writing",
+                    "Report Writing"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Arithmetic": {
+                "Number Systems": [
+                    "Integers",
+                    "Fractions",
+                    "Decimals"
+                ],
+                "Algebra": [
+                    "Equations",
+                    "Inequalities",
+                    "Graphs"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Coordinates",
+                    "Angles",
+                    "Triangles"
+                ],
+                "Shapes and Solids": [
+                    "Quadrilaterals",
+                    "Polygons",
+                    "Circles"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "module_name": "Agniveer Common Entrance Exam (CEE) 2026",
+    "true_false_rapid_fire": [
+        {
+            "statement": "Cardiovascular endurance refers to the ability of the heart, lungs, and blood vessels to supply oxygen and nutrients to the muscles during prolonged periods of physical activity.",
+            "is_true": true,
+            "explanation": "Cardiovascular endurance is critical for individuals who engage in endurance sports, such as distance running, cycling, or swimming."
+        },
+        {
+            "statement": "Logical reasoning is not essential for problem-solving, critical thinking, and decision-making.",
+            "is_true": false,
+            "explanation": "Logical reasoning is essential for problem-solving, critical thinking, and decision-making, and can be improved through activities that challenge cognitive abilities."
+        },
+        {
+            "statement": "The accounting equation is Assets = Liabilities - Equity.",
+            "is_true": false,
+            "explanation": "The accounting equation is actually Assets = Liabilities + Equity, which provides information about a company's financial performance and position."
+        }
+    ],
+    "match_the_following": {
+        "left_column": [
+            "Cardiovascular Endurance",
+            "Logical Reasoning",
+            "Data Structures",
+            "Financial Statements"
+        ],
+        "right_column_shuffled": [
+            "Organization and management of data in a computer system",
+            "The ability of the heart, lungs, and blood vessels to supply oxygen and nutrients to the muscles",
+            "The reports that provide information about a company's financial performance and position",
+            "The ability to analyze information, identify patterns, and make informed decisions"
+        ],
+        "correct_mapping": {
+            "Cardiovascular Endurance": "The ability of the heart, lungs, and blood vessels to supply oxygen and nutrients to the muscles",
+            "Logical Reasoning": "The ability to analyze information, identify patterns, and make informed decisions",
+            "Data Structures": "Organization and management of data in a computer system",
+            "Financial Statements": "The reports that provide information about a company's financial performance and position"
+        }
+    }
+}

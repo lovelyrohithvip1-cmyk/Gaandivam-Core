@@ -1,0 +1,61 @@
+{
+    "exam_name": "NICL Assistant Recruitment 2026",
+    "test_type": "Topic-Specific Mock Test",
+    "questions": [
+        {
+            "question_text": "In a linear seating arrangement, if person A is to the left of person B, and person C is to the right of person B, but person A is not at either end, what can be deduced about the seating arrangement?",
+            "options": {
+                "A": "Person C must be at the right end",
+                "B": "Person B must be at the left end",
+                "C": "There must be at least four people in the arrangement",
+                "D": "Person A must be at the left end"
+            },
+            "correct_answer": "C",
+            "explanation": "Given that person A is to the left of person B, and person C is to the right of person B, but person A is not at either end, it implies there must be someone to the left of person A. Since person A is already to the left of person B, and person C is to the right of person B, the minimum number of people required to satisfy all conditions (including someone being to the left of A) is four."
+        },
+        {
+            "question_text": "Which of the following types of nouns is 'family' an example of?",
+            "options": {
+                "A": "Proper noun",
+                "B": "Common noun",
+                "C": "Collective noun",
+                "D": "Abstract noun"
+            },
+            "correct_answer": "C",
+            "explanation": "'Family' refers to a group of people related by birth, marriage, or adoption, making it a collective noun. Collective nouns are names of groups, such as 'family', 'team', or 'herd'."
+        },
+        {
+            "question_text": "Syllogisms are a form of logical argument that uses deductive reasoning to arrive at a conclusion based on two or more premises. What is the key formula or rule in basic syllogisms?",
+            "options": {
+                "A": "All A are B, All B are C, therefore All A are not C",
+                "B": "All A are B, All B are C, therefore All A are C",
+                "C": "Some A are B, All B are C, therefore Some A are C",
+                "D": "No A are B, All B are C, therefore No A are C"
+            },
+            "correct_answer": "B",
+            "explanation": "The basic rule of syllogisms is that if all A are B, and all B are C, then logically, all A must be C. This is a fundamental principle of deductive reasoning in syllogisms, allowing for the derivation of a conclusion from two premises."
+        },
+        {
+            "question_text": "What is the primary function of verbs in the English language?",
+            "options": {
+                "A": "To identify people, places, and things",
+                "B": "To express actions, events, and states of being",
+                "C": "To modify nouns and other verbs",
+                "D": "To indicate the relationship between a subject and a predicate"
+            },
+            "correct_answer": "B",
+            "explanation": "Verbs are action words that express what is happening, has happened, or will happen in a sentence. They are essential for conveying actions, events, and states of being, making them a critical component of the English language for effective communication."
+        },
+        {
+            "question_text": "Idioms and phrases are expressions with meanings that are different from the literal meanings of their individual words. What is the primary benefit of understanding idioms and phrases in the English language?",
+            "options": {
+                "A": "To improve grammar and vocabulary",
+                "B": "To enhance the ability to communicate effectively and naturally",
+                "C": "To recognize and use idiomatic expressions out of context",
+                "D": "To differentiate between synonyms, antonyms, and homophones"
+            },
+            "correct_answer": "B",
+            "explanation": "Understanding idioms and phrases can significantly enhance one's ability to communicate effectively and naturally in English. Idioms add flavor and depth to language, allowing for more nuanced and expressive communication, which is crucial for both written and spoken English."
+        }
+    ]
+}

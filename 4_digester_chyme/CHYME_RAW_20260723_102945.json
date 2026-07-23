@@ -1,0 +1,149 @@
+{
+    "exam_name": "Indian Red Cross Society Haryana Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "General Knowledge": {
+            "Current Events": {
+                "National Events": [
+                    "Government Policies",
+                    "Elections",
+                    "Natural Disasters"
+                ],
+                "International Events": [
+                    "Global Politics",
+                    "Economic Trends",
+                    "Environmental Issues"
+                ]
+            },
+            "General Awareness": {
+                "History": [
+                    "Indian History",
+                    "World History"
+                ],
+                "Geography": [
+                    "Indian Geography",
+                    "World Geography"
+                ],
+                "Science and Technology": [
+                    "Scientific Developments",
+                    "Technological Advancements"
+                ]
+            }
+        },
+        "English": {
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Passage Analysis",
+                    "Inference Skills",
+                    "Contextual Understanding"
+                ],
+                "Listening Comprehension": [
+                    "Audio Analysis",
+                    "Note-taking Skills",
+                    "Verbal Reasoning"
+                ]
+            },
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Vocabulary": {
+                "Word Meanings": [
+                    "Synonyms",
+                    "Antonyms",
+                    "Homophones"
+                ],
+                "Idioms and Phrases": [
+                    "Common Idioms",
+                    "Phrasal Verbs",
+                    "Colloquial Expressions"
+                ]
+            }
+        },
+        "Hindi": {
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Passage Analysis",
+                    "Inference Skills",
+                    "Contextual Understanding"
+                ],
+                "Listening Comprehension": [
+                    "Audio Analysis",
+                    "Note-taking Skills",
+                    "Verbal Reasoning"
+                ]
+            },
+            "Grammar": {
+                "Parts of Speech": [
+                    "Sangya",
+                    "Sarvanam",
+                    "Visheshan",
+                    "Kriya"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Vocabulary": {
+                "Word Meanings": [
+                    "Synonyms",
+                    "Antonyms",
+                    "Homophones"
+                ],
+                "Idioms and Phrases": [
+                    "Common Idioms",
+                    "Phrasal Verbs",
+                    "Colloquial Expressions"
+                ]
+            }
+        },
+        "Computer Knowledge": {
+            "Basic Computer Concepts": {
+                "Hardware Components": [
+                    "CPU",
+                    "Memory",
+                    "Input/Output Devices"
+                ],
+                "Software Concepts": [
+                    "Operating Systems",
+                    "Application Software",
+                    "Programming Languages"
+                ]
+            },
+            "Microsoft Office": {
+                "Word Processing": [
+                    "Document Creation",
+                    "Editing Tools",
+                    "Formatting Options"
+                ],
+                "Spreadsheet Analysis": [
+                    "Data Entry",
+                    "Formulas",
+                    "Charts and Graphs"
+                ]
+            },
+            "Typing Skills": {
+                "Keyboard Familiarity": [
+                    "Keyboard Layout",
+                    "Typing Speed",
+                    "Accuracy"
+                ],
+                "Document Preparation": [
+                    "Letter Writing",
+                    "Report Writing",
+                    "Resume Building"
+                ]
+            }
+        }
+    }
+}

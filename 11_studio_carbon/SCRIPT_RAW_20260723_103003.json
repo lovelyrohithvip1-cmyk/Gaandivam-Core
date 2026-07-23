@@ -1,0 +1,42 @@
+{
+    "video_title": "Unlocking Railway Technician Careers: Educational Qualifications",
+    "target_duration_minutes": "6",
+    "scenes": [
+        {
+            "scene_number": 1,
+            "visual_prompt_for_3D_engine": "Camera pans over a historical, steam-powered locomotive transitioning into a modern, high-speed train, symbolizing the evolution of the railway sector.",
+            "narration_script": "The journey to becoming a technician in the railway sector began in the early 19th century with the introduction of steam locomotives in India. Over the years, the role of a technician has evolved significantly, demanding a blend of theoretical knowledge and practical skills.",
+            "on_screen_text": null
+        },
+        {
+            "scene_number": 2,
+            "visual_prompt_for_3D_engine": "A 3D model of the Railway Recruitment Board (RRB) logo appears, with animated gears and cogs in the background, representing the recruitment process.",
+            "narration_script": "The Railway Recruitment Board (RRB) is at the forefront of identifying and recruiting talented individuals who can contribute to the efficient operation and maintenance of railway systems. The eligibility criteria, particularly the educational qualifications, serve as the foundation for this recruitment process.",
+            "on_screen_text": "Railway Recruitment Board (RRB)"
+        },
+        {
+            "scene_number": 3,
+            "visual_prompt_for_3D_engine": "A futuristic, animated railway control room with signal systems appears, highlighting the complexity of the role.",
+            "narration_script": "For the position of Technician Grade-I Signal, candidates require a strong educational background in engineering. This can be fulfilled by possessing an Engineering Diploma, an Engineering Degree, or a Relevant Technical Qualification.",
+            "on_screen_text": "Technician Grade-I Signal: Engineering Diploma, Engineering Degree, Relevant Technical Qualification"
+        },
+        {
+            "scene_number": 4,
+            "visual_prompt_for_3D_engine": "Animated diagrams of electrical, electronic, and telecommunications principles appear, illustrating the depth of knowledge required.",
+            "narration_script": "The emphasis on engineering disciplines underscores the complex nature of signal systems in railways, which require a deep understanding of electrical, electronic, and telecommunications principles.",
+            "on_screen_text": null
+        },
+        {
+            "scene_number": 5,
+            "visual_prompt_for_3D_engine": "A 3D animation of a vocational training environment, such as an ITI (Industrial Training Institute), appears, showing students learning practical skills.",
+            "narration_script": "In contrast, the eligibility criteria for Technician Grade-III focus on foundational skills that can be acquired through a 10th Pass certificate or an ITI certification in a Relevant Trade.",
+            "on_screen_text": "Technician Grade-III: 10th Pass, ITI in Relevant Trade"
+        },
+        {
+            "scene_number": 6,
+            "visual_prompt_for_3D_engine": "A fast-paced montage of various trades such as electrical, mechanical, or welding appears, highlighting the hands-on nature of the role.",
+            "narration_script": "This reflects the more hands-on, vocational nature of the role, which requires proficiency in specific trades. The ITI certification provides students with the practical skills necessary for employment in these trades, making them immediately productive in the railway workshop environment.",
+            "on_screen_text": null
+        }
+    ]
+}
