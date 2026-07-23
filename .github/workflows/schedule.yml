@@ -4,8 +4,11 @@ on:
   schedule:
     # Runs automatically at 3:00 AM UTC every single day
     - cron: '0 3 * * *'
-  # This line allows you to manually click a "Run" button on the GitHub website whenever you want
   workflow_dispatch: 
+
+# THIS IS THE UNBEATABLE SHIELD: It forces GitHub to grant write permissions
+permissions:
+  contents: write
 
 jobs:
   run-factory:
