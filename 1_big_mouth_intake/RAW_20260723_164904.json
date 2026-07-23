@@ -1,0 +1,41 @@
+{
+    "conducting_body": "IBPS",
+    "exam_name": "IBPS PO/MT-XVI",
+    "job_posts_covered": [
+        "Probationary Officers",
+        "Management Trainees",
+        "Specialist Officers"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "26-07-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Data Interpretation",
+            "Number Series",
+            "Quadratic Equations"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/maharashtra-government-jobs/",
+    "extraction_timestamp": "2026-07-23T16:49:04.175907Z"
+}

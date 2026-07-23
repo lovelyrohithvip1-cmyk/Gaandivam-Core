@@ -1,0 +1,47 @@
+{
+    "conducting_body": "Office of Chief Medical and Health Officer (CMHO), District Raipur, Chhattisgarh",
+    "exam_name": "CMHO Raipur NHM Recruitment 2026",
+    "job_posts_covered": [
+        "Nursing Officer",
+        "Community Health Officer",
+        "ANM",
+        "RMA",
+        "Laboratory Technician",
+        "MPW",
+        "Secretarial Assistant",
+        "Class-IV"
+    ],
+    "application_dates": {
+        "start_date": "28 July 2026",
+        "end_date": "31 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Document Verification",
+        "Written Examination",
+        "Skill Test",
+        "Merit"
+    ],
+    "detailed_syllabus": {
+        "Nursing": [
+            "ANM course",
+            "BSc Nursing",
+            "Post Basic BSc Nursing",
+            "GNM course"
+        ],
+        "Laboratory Technician": [
+            "D.M.L.T.",
+            "B.M.L.T.",
+            "Paramedical Course in Pathology"
+        ],
+        "Physiotherapist": [
+            "Bachelor's Degree in Physiotherapy (B.P.T.)"
+        ],
+        "Audiologist": [
+            "Bachelor of Audiology & Speech Language Pathology (BASLP)",
+            "B.Sc (Speech and Hearing)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/cmho-raipur-nhm-recruitment-2026-3059762",
+    "extraction_timestamp": "2026-07-23T16:50:07.106148Z"
+}
