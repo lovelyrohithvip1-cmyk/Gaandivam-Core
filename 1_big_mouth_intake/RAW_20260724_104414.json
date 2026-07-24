@@ -1,0 +1,39 @@
+{
+    "conducting_body": "Delhi Subordinate Services Selection Board (DSSSB)",
+    "exam_name": "DSSSB Recruitment 2026",
+    "job_posts_covered": [
+        "TGT Computer Science",
+        "Special Educator",
+        "IT Assistant",
+        "Data Processing Assistant",
+        "Junior Scientific Assistant",
+        "Domestic Science Teacher",
+        "Electrical Overseer",
+        "Lift Operator"
+    ],
+    "application_dates": {
+        "start_date": "16 June 2026",
+        "end_date": "15 July 2026"
+    },
+    "fee_structure": "₹100/- for General / OBC / EWS, Exempted for SC / ST / PwBD / Women",
+    "selection_stages": [
+        "One Tier Examination",
+        "Two Tier Examination",
+        "Skill Test / Typing Test / Aptitude Test",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Junior Scientific Assistant": [
+            "Various Disciplines"
+        ],
+        "TGT (Computer Science)": [
+            "Computer Science"
+        ],
+        "Special Educator (Primary)": [
+            "Special Education"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/dsssb-recruitment-03-2026/",
+    "extraction_timestamp": "2026-07-24T10:44:14.243717Z"
+}

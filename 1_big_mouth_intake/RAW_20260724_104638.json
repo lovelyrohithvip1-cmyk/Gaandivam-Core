@@ -1,0 +1,48 @@
+{
+    "conducting_body": "Indian Institute of Management (IIM) Sambalpur – Delhi Center",
+    "exam_name": "IIM Delhi Non Teaching Recruitment 2026",
+    "job_posts_covered": [
+        "Placement Officer",
+        "Administrative Officer (Academic)",
+        "Assistant Administrative Officer (Academic)",
+        "Office Assistant (Academic)",
+        "Office Assistant (Accounts)",
+        "IT Executive",
+        "Office Attendant"
+    ],
+    "application_dates": {
+        "start_date": "22 July 2026",
+        "end_date": "11 August 2026"
+    },
+    "fee_structure": "Rs 0/-",
+    "selection_stages": [
+        "Interview",
+        "Written Test (if required for shortlisting)",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Placement Officer": [
+            "Post Graduate Degree in Management with 55% marks and 8 years’ relevant experience"
+        ],
+        "Administrative Officer (Academic)": [
+            "PG Degree in Management with 55% marks and 8 years’ relevant experience"
+        ],
+        "Assistant Administrative Officer (Academic)": [
+            "PG Degree in Management with 55% marks and 7 years’ relevant experience"
+        ],
+        "Office Assistant (Academic)": [
+            "PG Degree in Management with 55% marks and 2 years’ experience"
+        ],
+        "Office Assistant (Accounts)": [
+            "PG Degree in Commerce/MBA (Finance)/CA (Cost) with 2 years’ experience"
+        ],
+        "IT Executive": [
+            "BE/B.Tech (CS/IT) or MCA with 55% marks and 2 years’ experience"
+        ],
+        "Office Attendant": [
+            "10th Pass with 2 years’ relevant experience and basic computer knowledge"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/iim-delhi-non-teaching-recruitment-2026/",
+    "extraction_timestamp": "2026-07-24T10:46:38.368477Z"
+}

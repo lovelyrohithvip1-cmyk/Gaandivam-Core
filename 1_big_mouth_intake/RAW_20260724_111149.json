@@ -1,0 +1,54 @@
+{
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "exam_name": "UPSC Exam Calendar 2027",
+    "job_posts_covered": [
+        "Civil Services",
+        "NDA",
+        "CDS",
+        "Engineering Services",
+        "CAPF",
+        "IFoS",
+        "CMS",
+        "IAS",
+        "IPS",
+        "IFS",
+        "Group A services"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination"
+    ],
+    "detailed_syllabus": {
+        "Civil Services": [
+            "topics not specified"
+        ],
+        "NDA & NA": [
+            "topics not specified"
+        ],
+        "CDS": [
+            "topics not specified"
+        ],
+        "Engineering Services": [
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Electrical Engineering",
+            "Electronics Engineering"
+        ],
+        "Combined Geo-Scientist": [
+            "Geology",
+            "Geophysics",
+            "Chemistry",
+            "Hydrogeology"
+        ],
+        "Indian Forest Service": [
+            "topics not specified"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/upsc-exam-calendar-2027/",
+    "extraction_timestamp": "2026-07-24T11:11:49.898355Z"
+}

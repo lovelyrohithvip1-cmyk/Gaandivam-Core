@@ -1,0 +1,39 @@
+{
+    "conducting_body": "Haryana Public Service Commission (HPSC), Haryana Staff Selection Commission (HSSC), Railway Recruitment Board (RRB), Delhi Subordinate Services Selection Board (DSSSB), Uttarakhand Subordinate Service Selection Commission (UKSSSC), Haryana Kaushal Rozgar Nigam (HKRN), Punjab Subordinate Services Selection Board (PSSSB), Indian Institute of Management (IIM) Delhi",
+    "exam_name": "HPSC Assistant District Attorney, HKRN Recruitment, HTET, DSSSB Dass Grade IV, RRB Group D, UKSSSC Assistant Accountant, HPCRA Assistant Staff Nurse, IIM Delhi Non Teaching, HSSC Group C, Punjab PSSSB Warder and Matron",
+    "job_posts_covered": [
+        "Assistant District Attorney",
+        "Various Posts",
+        "Teaching Posts",
+        "Dass Grade IV",
+        "Group D Posts",
+        "Assistant Accountant",
+        "Staff Nurse",
+        "Non Teaching Posts",
+        "Warder, AS & Matron",
+        "Warder and Matron"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Typing Test",
+        "Interview",
+        "PMT (Physical Measurement Test)"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning",
+            "Science",
+            "Hindi"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-07-24T10:52:38.232063Z"
+}

@@ -1,0 +1,23 @@
+{
+    "conducting_body": "Staff Selection Commission",
+    "exam_name": "SSC Phase XIV",
+    "job_posts_covered": [
+        "Various Posts"
+    ],
+    "application_dates": {
+        "start_date": "13 April 2026",
+        "end_date": "04 May 2026"
+    },
+    "fee_structure": "Rs. 100/- (Gen/ OBC/ EWS), Rs. 0/- (SC/ ST/ PWD)",
+    "selection_stages": [
+        "Written Exam",
+        "Skill Test (as per posts wise)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/ssc-phase-xiv-admit-card-2026/",
+    "extraction_timestamp": "2026-07-24T10:53:04.405794Z"
+}

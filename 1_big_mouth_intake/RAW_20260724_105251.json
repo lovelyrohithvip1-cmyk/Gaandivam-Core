@@ -1,0 +1,16 @@
+{
+    "conducting_body": null,
+    "exam_name": null,
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/htet-admit-card/",
+    "extraction_timestamp": "2026-07-24T10:52:51.089152Z"
+}
