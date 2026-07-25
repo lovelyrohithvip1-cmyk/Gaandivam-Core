@@ -1,0 +1,25 @@
+{
+    "exam_name": "IBPS PO Recruitment 2026",
+    "raw_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Banking Awareness",
+            "Economy"
+        ]
+    }
+}

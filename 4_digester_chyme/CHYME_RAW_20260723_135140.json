@@ -1,0 +1,154 @@
+{
+    "exam_name": "CUET, JEE, CAT, GMAT, NET",
+    "chyme_granular_syllabus": {
+        "Computer Science": {
+            "Artificial Intelligence": {
+                "Machine Learning Algorithms": [
+                    "Supervised Learning",
+                    "Unsupervised Learning",
+                    "Reinforcement Learning"
+                ],
+                "Natural Language Processing": [
+                    "Text Analysis",
+                    "Sentiment Analysis",
+                    "Language Translation"
+                ]
+            },
+            "Machine Learning": {
+                "Deep Learning": [
+                    "Neural Networks",
+                    "Convolutional Neural Networks",
+                    "Recurrent Neural Networks"
+                ],
+                "Model Evaluation": [
+                    "Accuracy Metrics",
+                    "Precision Metrics",
+                    "Recall Metrics"
+                ]
+            },
+            "Data Science": {
+                "Data Analysis": {
+                    "Data Visualization": [
+                        "Plotting",
+                        "Charting",
+                        "Graphing"
+                    ],
+                    "Statistical Modeling": [
+                        "Regression",
+                        "Hypothesis Testing",
+                        "Confidence Intervals"
+                    ]
+                },
+                "Data Mining": [
+                    "Clustering",
+                    "Decision Trees",
+                    "Association Rule Mining"
+                ]
+            },
+            "Cyber Security": {
+                "Network Security": [
+                    "Firewalls",
+                    "Intrusion Detection Systems",
+                    "Virtual Private Networks"
+                ],
+                "Cryptography": [
+                    "Encryption",
+                    "Decryption",
+                    "Hashing"
+                ]
+            }
+        },
+        "Management Studies": {
+            "BBA": {
+                "Business Administration": [
+                    "Marketing Management",
+                    "Financial Management",
+                    "Human Resource Management"
+                ],
+                "Business Ethics": [
+                    "Corporate Social Responsibility",
+                    "Sustainability",
+                    "Governance"
+                ]
+            },
+            "MBA": {
+                "Strategic Management": [
+                    "Competitive Strategy",
+                    "Cooperative Strategy",
+                    "Global Strategy"
+                ],
+                "Leadership": [
+                    "Leadership Styles",
+                    "Motivation",
+                    "Communication"
+                ]
+            }
+        },
+        "Law": {
+            "LLM": {
+                "Constitutional Law": [
+                    "Fundamental Rights",
+                    "Directive Principles",
+                    "Judicial Review"
+                ],
+                "Contract Law": [
+                    "Formation of Contracts",
+                    "Performance of Contracts",
+                    "Breach of Contracts"
+                ]
+            }
+        },
+        "Economics": {
+            "International Relations": {
+                "Globalization": [
+                    "Trade",
+                    "Investment",
+                    "Migration"
+                ],
+                "Geopolitics": [
+                    "International Institutions",
+                    "Global Governance",
+                    "Conflict Resolution"
+                ]
+            },
+            "Climate Change": {
+                "Environmental Economics": [
+                    "Climate Change Mitigation",
+                    "Climate Change Adaptation",
+                    "Sustainable Development"
+                ],
+                "Energy Economics": [
+                    "Renewable Energy",
+                    "Energy Efficiency",
+                    "Energy Policy"
+                ]
+            },
+            "Sustainable Development": {
+                "Economic Development": [
+                    "Poverty Reduction",
+                    "Income Inequality",
+                    "Human Development"
+                ],
+                "Social Development": [
+                    "Education",
+                    "Health",
+                    "Gender Equality"
+                ]
+            }
+        },
+        "Sociology": {
+            "Contemporary issues": {
+                "Social Inequality": [
+                    "Caste",
+                    "Class",
+                    "Gender"
+                ],
+                "Social Justice": [
+                    "Human Rights",
+                    "Social Movements",
+                    "Policy Interventions"
+                ]
+            }
+        }
+    }
+}

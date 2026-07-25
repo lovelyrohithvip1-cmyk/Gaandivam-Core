@@ -1,0 +1,29 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "UPSC Exam",
+    "job_posts_covered": [
+        "Principal",
+        "Vice Principal"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Mains",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "History",
+            "Geography",
+            "Polity",
+            "Economy",
+            "Science and Technology"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/",
+    "extraction_timestamp": "2026-07-25T09:58:17.560671Z"
+}

@@ -1,0 +1,72 @@
+{
+    "exam_name": "RRB NTPC UG Level",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Number Systems": {
+                "Decimal and Fractions": [
+                    "Place Value",
+                    "Rounding Numbers",
+                    "Comparing Decimals"
+                ],
+                "Percentages": [
+                    "Calculating Percentages",
+                    "Percentage Increase/Decrease"
+                ]
+            },
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations"
+                ],
+                "Graphs": [
+                    "Linear Graphs",
+                    "Quadratic Graphs"
+                ]
+            }
+        },
+        "Reasoning": {
+            "Logical Reasoning": {
+                "Syllogisms": [
+                    "Basic Syllogisms",
+                    "Complex Syllogisms"
+                ],
+                "Analogies": [
+                    "Verbal Analogies",
+                    "Non-Verbal Analogies"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Pattern Completion": [
+                    "Shape Patterns",
+                    "Number Patterns"
+                ],
+                "Series Completion": [
+                    "Number Series",
+                    "Letter Series"
+                ]
+            }
+        },
+        "General Awareness": {
+            "History": {
+                "Ancient History": [
+                    "Indus Valley Civilization",
+                    "Vedic Period"
+                ],
+                "Medieval History": [
+                    "Delhi Sultanate",
+                    "Mughal Empire"
+                ]
+            },
+            "Geography": {
+                "Physical Geography": [
+                    "Mountains",
+                    "Rivers"
+                ],
+                "Human Geography": [
+                    "Population",
+                    "Settlements"
+                ]
+            }
+        }
+    }
+}

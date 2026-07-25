@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Jammu & Kashmir Services Selection Board (JKSSB)",
+    "exam_name": "JKSSB Jail Warder Recruitment 2026",
+    "job_posts_covered": [
+        "Warder"
+    ],
+    "application_dates": {
+        "start_date": "27 July 2026",
+        "end_date": "25 August 2026"
+    },
+    "fee_structure": "₹700 for General/OBC/RBA/ALC-IB, ₹600 for SC/ST-1/ST-2/EWS",
+    "selection_stages": [
+        "Written Examination",
+        "Physical Standard Test (PST)",
+        "Physical Endurance Test (PET)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ],
+        "Mathematics": [
+            "Number System",
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Data Interpretation"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning",
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/jkssb-jail-warder-recruitment-2026/",
+    "extraction_timestamp": "2026-07-25T09:21:30.120500Z"
+}

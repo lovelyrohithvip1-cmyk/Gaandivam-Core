@@ -1,0 +1,26 @@
+{
+    "exam_name": "CUET, JEE, CAT, GMAT, NET",
+    "raw_syllabus": {
+        "Computer Science": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Cyber Security"
+        ],
+        "Management Studies": [
+            "BBA",
+            "MBA"
+        ],
+        "Law": [
+            "LLM"
+        ],
+        "Economics": [
+            "International Relations",
+            "Climate Change",
+            "Sustainable Development"
+        ],
+        "Sociology": [
+            "Contemporary issues"
+        ]
+    }
+}

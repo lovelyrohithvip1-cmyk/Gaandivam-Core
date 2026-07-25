@@ -1,0 +1,28 @@
+{
+    "exam_name": "Uttarakhand Teacher Eligibility Test (UKTET) 2026",
+    "educational_qualifications": [
+        "Primary Teacher",
+        "Upper Primary Teacher"
+    ],
+    "age_limits": "Not specified",
+    "salary_details": "Not specified",
+    "number_of_posts": "Not specified",
+    "medical_physical_fitness": "Not specified",
+    "quotas_and_gender_rules": "Not specified",
+    "application_fee": {
+        "General / OBC": {
+            "UTET-I or UTET-II": "₹600",
+            "Both Papers": "₹1000"
+        },
+        "SC / ST / PwD": {
+            "UTET-I or UTET-II": "₹300",
+            "Both Papers": "₹500"
+        }
+    },
+    "important_dates": {
+        "release": "Not specified",
+        "deadline": "03 August 2026",
+        "extensions": "Not specified"
+    },
+    "application_link": "Not specified"
+}

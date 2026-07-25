@@ -1,0 +1,23 @@
+{
+    "conducting_body": "HSSC",
+    "exam_name": "HSSC Group C 06/2026 Recruitment",
+    "job_posts_covered": [
+        "Warder",
+        "AS",
+        "Matron"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "PMT",
+        "Shortlisted Candidates List"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-07-25T09:32:16.244553Z"
+}

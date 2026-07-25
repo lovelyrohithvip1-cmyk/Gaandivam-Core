@@ -1,0 +1,43 @@
+{
+    "conducting_body": "IIT Madras",
+    "exam_name": "Graduate Aptitude Test in Engineering (GATE) 2027",
+    "job_posts_covered": [
+        "M.Tech./M.E. Admissions",
+        "Ph.D. Admissions",
+        "Scholarships & Assistantships",
+        "PSU Recruitment",
+        "Central Government Technical Posts",
+        "Research Fellowships"
+    ],
+    "application_dates": {
+        "start_date": "14 August 2026",
+        "end_date": "30 September 2026"
+    },
+    "fee_structure": "Female / SC / ST / PwD: ₹1,000 - ₹1,500, All Other Candidates: ₹2,000 - ₹2,500",
+    "selection_stages": [
+        "Computer Based Test (CBT)"
+    ],
+    "detailed_syllabus": {
+        "Aerospace Engineering": [],
+        "Civil Engineering": [],
+        "Mechanical Engineering": [],
+        "Electrical Engineering": [],
+        "Electronics & Communication Engineering": [],
+        "Computer Science & IT": [],
+        "Data Science & Artificial Intelligence": [],
+        "Chemical Engineering": [],
+        "Biotechnology": [],
+        "Physics": [],
+        "Mathematics": [],
+        "Statistics": [],
+        "Robotics & Automation": [],
+        "Humanities & Social Sciences": [],
+        "Engineering Sciences": [],
+        "Life Sciences": [],
+        "Geology & Geophysics": [],
+        "Geomatics Engineering": [],
+        "Environmental Science & Engineering": []
+    },
+    "data_source_url": "https://haryanajobs.in/gate-2027/",
+    "extraction_timestamp": "2026-07-25T09:41:55.602067Z"
+}

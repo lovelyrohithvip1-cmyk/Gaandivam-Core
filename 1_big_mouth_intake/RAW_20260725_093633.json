@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Various Government Bodies",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Group C & Group D Vacancies",
+        "Deputy Manager & Assistant Manager Posts",
+        "Principal & Vice Principal Posts",
+        "Warder, AS & Matron Posts",
+        "Police Posts",
+        "Bank CBO Posts",
+        "JBT Teacher Posts"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-07-25T09:36:33.978763Z"
+}
