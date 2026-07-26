@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "Non-Technical Popular Categories (NTPC) exam",
+    "job_posts_covered": [
+        "ISRO Assistant",
+        "JPA",
+        "UDC",
+        "Stenographer",
+        "Scouts & Guides Recruitment",
+        "Deputy Manager",
+        "Assistant Manager",
+        "Principal",
+        "Vice Principal",
+        "Warder",
+        "AS",
+        "Matron",
+        "CBO"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Stage I",
+        "Stage II"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-ntpc-previous-year-paper-hindi-eng-medium/",
+    "extraction_timestamp": "2026-07-26T10:27:48.094681Z"
+}

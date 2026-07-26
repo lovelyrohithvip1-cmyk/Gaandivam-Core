@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Railway Recruitment Boards (RRBs)",
+    "exam_name": "RRB JE Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineer (JE)",
+        "Depot Material Superintendent (DMS)",
+        "Chemical & Metallurgical Assistant (CMA)"
+    ],
+    "application_dates": {
+        "start_date": "14 August 2026",
+        "end_date": "13 September 2026"
+    },
+    "fee_structure": {
+        "General/OBC/EWS": "Rs 500/-",
+        "SC/ST/PwBD/Female": "Rs 250/-"
+    },
+    "selection_stages": [
+        "Computer Based Test (CBT-I)",
+        "Computer Based Test (CBT-II)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "Related Field (Degree level)"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-je-recruitment-2026/",
+    "extraction_timestamp": "2026-07-26T11:08:00.963871Z"
+}

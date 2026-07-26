@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "exam_name": "UPSC Principal & Vice Principal Recruitment 2026",
+    "job_posts_covered": [
+        "Principal",
+        "Vice Principal"
+    ],
+    "application_dates": {
+        "start_date": "25 July 2026",
+        "end_date": "14 August 2026"
+    },
+    "fee_structure": {
+        "General/OBC/EWS": "Rs 25/-",
+        "SC/ST/PwBD": "Rs 0/-",
+        "Female": "Rs 0/-"
+    },
+    "selection_stages": [
+        "Shortlisting of Applications",
+        "Recruitment Test",
+        "Interview",
+        "Document Verification",
+        "Medical Examination (if applicable)"
+    ],
+    "detailed_syllabus": {
+        "Principal": [],
+        "Vice Principal": []
+    },
+    "data_source_url": "https://haryanajobs.in/upsc-principal-vice-principal-recruitment-2026/",
+    "extraction_timestamp": "2026-07-26T11:02:36.444470Z"
+}

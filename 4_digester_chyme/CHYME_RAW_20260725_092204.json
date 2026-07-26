@@ -1,0 +1,57 @@
+{
+    "exam_name": "UPSC Principal & Vice Principal Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "General Awareness": {
+            "Current Events": {
+                "National News": [
+                    "Government Policies",
+                    "Economic Updates",
+                    "Social Reforms"
+                ],
+                "International News": [
+                    "Global Economy",
+                    "International Relations",
+                    "Environmental Issues"
+                ]
+            },
+            "Social and Cultural Heritage": {
+                "Indian Culture": [
+                    "Art and Architecture",
+                    "Music and Dance",
+                    "Literature and Poetry"
+                ],
+                "World Culture": [
+                    "Western Culture",
+                    "Eastern Culture",
+                    "African Culture"
+                ]
+            }
+        },
+        "Administration and Management": {
+            "Educational Administration": {
+                "School Management": [
+                    "Leadership Styles",
+                    "Decision Making",
+                    "Communication Skills"
+                ],
+                "Curriculum Development": [
+                    "Curriculum Design",
+                    "Course Planning",
+                    "Assessment Techniques"
+                ]
+            },
+            "Human Resource Management": {
+                "Staff Recruitment": [
+                    "Selection Process",
+                    "Interview Techniques",
+                    "Staff Induction"
+                ],
+                "Staff Development": [
+                    "Training Programs",
+                    "Performance Appraisal",
+                    "Career Development"
+                ]
+            }
+        }
+    }
+}

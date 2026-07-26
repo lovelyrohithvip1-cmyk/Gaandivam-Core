@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Union Bank of India",
+    "exam_name": "Union Bank SO Recruitment 2026",
+    "job_posts_covered": [
+        "Manager",
+        "Senior Manager",
+        "Chief Manager",
+        "Assistant General Manager",
+        "Deputy General Manager",
+        "General Banking Officers",
+        "Forex Officers",
+        "IT Officers",
+        "Law Officers",
+        "Chartered Accountants",
+        "Risk Officers",
+        "Engineers",
+        "Architects",
+        "Fire Officers",
+        "Specialist Officers"
+    ],
+    "application_dates": {
+        "start_date": "21 July 2026",
+        "end_date": "10 August 2026"
+    },
+    "fee_structure": {
+        "Gen/OBC/EWS": "Rs 850/-",
+        "SC/ST/Other": "Rs 175/-"
+    },
+    "selection_stages": [
+        "Shortlisting of Applications",
+        "Online Examination",
+        "Personal Interview",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/union-bank-so-recruitment-2026/",
+    "extraction_timestamp": "2026-07-26T11:06:25.718999Z"
+}

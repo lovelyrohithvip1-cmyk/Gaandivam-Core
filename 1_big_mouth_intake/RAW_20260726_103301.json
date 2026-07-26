@@ -1,0 +1,29 @@
+{
+    "conducting_body": "KVS & NVS",
+    "exam_name": "KVS and NVS Teaching and Non Teaching",
+    "job_posts_covered": [
+        "PGT",
+        "TGT",
+        "PRT",
+        "Principal",
+        "Junior Secretariat Assistant",
+        "Staff Nurse"
+    ],
+    "application_dates": {
+        "start_date": "14 November 2025",
+        "end_date": "11 December 2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Skill Test",
+        "Interview",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/kvs-and-nvs-teaching-and-non-teaching-result-2026/",
+    "extraction_timestamp": "2026-07-26T10:33:01.566413Z"
+}
