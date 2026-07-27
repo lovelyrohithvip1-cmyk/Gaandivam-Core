@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Railway Recruitment Cell (RRC), Northeast Frontier Railway (NFR)",
+    "exam_name": "RRC NFR Sports Quota Recruitment 2026-27",
+    "job_posts_covered": [
+        "Level-3",
+        "Level-2",
+        "Level-1"
+    ],
+    "application_dates": {
+        "start_date": "25 July 2026",
+        "end_date": "24 August 2026"
+    },
+    "fee_structure": "₹500 for General / OBC / EWS, ₹250 for SC / ST/ Other",
+    "selection_stages": [
+        "Sports Trial",
+        "Interview",
+        "Sports Achievement Assessment",
+        "Educational Qualification",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Sports": [
+            "Sports Trial",
+            "Sports Achievement"
+        ],
+        "Education": [
+            "12th Pass + Sports Certificate for Level-3 / Level-2",
+            "10th Pass + Sports Certificate for Level-1"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rrc-nfr-sports-quota-recruitment-2026/",
+    "extraction_timestamp": "2026-07-27T13:31:10.313951Z"
+}

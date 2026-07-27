@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "UP PCS",
+        "HKRN",
+        "IBPS Clerk",
+        "RRC NFR Sports Quota",
+        "JKSSB Jail Warder",
+        "ISRO Assistant, JPA, UDC & Stenographer",
+        "Haryana Anganwadi",
+        "HSSC JBT Teacher",
+        "RRC ER Scouts & Guides"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Notification",
+        "Apply Online",
+        "Admit Card",
+        "Answer Key",
+        "Result"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-07-27T13:39:41.683506Z"
+}

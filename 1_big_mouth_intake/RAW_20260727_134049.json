@@ -1,0 +1,42 @@
+{
+    "conducting_body": "Punjab National Bank (PNB)",
+    "exam_name": "PNB Bank LBO Recruitment 2026",
+    "job_posts_covered": [
+        "Local Bank Officer (LBO)"
+    ],
+    "application_dates": {
+        "start_date": "20 July 2026",
+        "end_date": "09 August 2026"
+    },
+    "fee_structure": {
+        "SC / ST / PwBD": "₹59 (Including GST)",
+        "General / OBC / EWS": "₹1,180 (Including GST)"
+    },
+    "selection_stages": [
+        "Online Written Test",
+        "Screening of Documents",
+        "Local Language Proficiency Test (LLPT)",
+        "Personal Interview",
+        "Final Merit List",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Reasoning & Computer Aptitude": [
+            "Not specified in detail"
+        ],
+        "Data Analysis & Interpretation": [
+            "Not specified in detail"
+        ],
+        "English Language": [
+            "Not specified in detail"
+        ],
+        "Quantitative Aptitude": [
+            "Not specified in detail"
+        ],
+        "General / Economy / Banking Awareness": [
+            "Not specified in detail"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/pnb-bank-lbo-recruitment-2026/",
+    "extraction_timestamp": "2026-07-27T13:40:49.316746Z"
+}

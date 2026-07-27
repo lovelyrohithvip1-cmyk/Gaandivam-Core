@@ -1,0 +1,27 @@
+{
+    "conducting_body": null,
+    "exam_name": null,
+    "job_posts_covered": [
+        "Rajasthan Safai Karmachari",
+        "UP PCS",
+        "HKRN",
+        "IBPS Clerk",
+        "RRC NFR Sports Quota",
+        "JKSSB Jail Warder",
+        "ISRO Assistant, JPA, UDC & Stenographer",
+        "Haryana Anganwadi",
+        "HSSC JBT Teacher",
+        "RRC ER Scouts & Guides"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": null,
+    "detailed_syllabus": {
+        "Subject": null
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-07-27T14:02:16.620807Z"
+}

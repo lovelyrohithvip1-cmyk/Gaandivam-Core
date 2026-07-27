@@ -1,0 +1,45 @@
+{
+    "conducting_body": "National Board of Examinations in Medical Sciences (NBEMS)",
+    "exam_name": "NBEMS Recruitment 2026",
+    "job_posts_covered": [
+        "Deputy Director (Medical)",
+        "Junior Programmer",
+        "Junior Accountant",
+        "Stenographer",
+        "Junior Assistant"
+    ],
+    "application_dates": {
+        "start_date": "07 July 2026",
+        "end_date": "31 July 2026"
+    },
+    "fee_structure": {
+        "General / OBC / EWS": "Rs 1500/-",
+        "SC / ST / PwBD": "Rs 0/-"
+    },
+    "selection_stages": [
+        "Written Examination",
+        "Skill Test / Stenography Test (for applicable posts)",
+        "Document Verification",
+        "Medical Examination",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Deputy Director (Medical)": [
+            "Recognized Postgraduate Medical Qualification"
+        ],
+        "Junior Programmer": [
+            "B.Tech / BE / BCA / DOEACC (B or C Level) / Degree in Computer Science or IT"
+        ],
+        "Junior Accountant": [
+            "Bachelor’s Degree with Mathematics/Statistics or Commerce Degree"
+        ],
+        "Stenographer": [
+            "12th Pass with Stenography Skill"
+        ],
+        "Junior Assistant": [
+            "12th Pass with Computer Knowledge"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/nbems-group-a-b-c-recruitment-2026/",
+    "extraction_timestamp": "2026-07-27T13:51:07.680898Z"
+}

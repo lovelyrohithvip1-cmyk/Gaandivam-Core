@@ -1,0 +1,56 @@
+{
+    "conducting_body": "Raman Research Institute (RRI), Bengaluru",
+    "exam_name": "RRI Scientific & Technical Recruitment 2026",
+    "job_posts_covered": [
+        "Engineer C",
+        "Engineer B",
+        "Engineering Assistant C",
+        "Tradesman A"
+    ],
+    "application_dates": {
+        "start_date": "01 July 2026",
+        "end_date": "31 July 2026"
+    },
+    "fee_structure": {
+        "UR / OBC / EWS": "₹250",
+        "SC / ST": "Nil",
+        "Women": "Nil",
+        "Divyaang (PwBD)": "Nil"
+    },
+    "selection_stages": [
+        "Objective Test",
+        "Subjective Test",
+        "Skill Test",
+        "Interview",
+        "Document Verification",
+        "Medical Fitness"
+    ],
+    "detailed_syllabus": {
+        "Electronics": [
+            "Relevant topics for Engineer C and Engineer B"
+        ],
+        "Mechanical": [
+            "Relevant topics for Engineer B and Engineering Assistant C"
+        ],
+        "Instrumentation": [
+            "Relevant topics for Engineer B"
+        ],
+        "IT": [
+            "Relevant topics for Engineering Assistant C"
+        ],
+        "Civil": [
+            "Relevant topics for Engineering Assistant C"
+        ],
+        "Electrical": [
+            "Relevant topics for Engineering Assistant C"
+        ],
+        "AC Mechanic": [
+            "Relevant topics for Tradesman A"
+        ],
+        "Fitter/Turner/Machinist": [
+            "Relevant topics for Tradesman A"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rri-scientific-technical-recruitment-2026/",
+    "extraction_timestamp": "2026-07-27T13:58:51.382692Z"
+}

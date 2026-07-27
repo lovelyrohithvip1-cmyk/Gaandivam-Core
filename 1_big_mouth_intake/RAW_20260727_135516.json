@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Various Government Bodies",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Rajasthan Safai Karmachari",
+        "UP PCS",
+        "HKRN",
+        "IBPS Clerk",
+        "RRC NFR Sports Quota",
+        "JKSSB Jail Warder",
+        "ISRO Assistant, JPA, UDC & Stenographer",
+        "Haryana Anganwadi",
+        "HSSC JBT Teacher",
+        "RRC ER Scouts & Guides"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-07-27T13:55:16.880073Z"
+}

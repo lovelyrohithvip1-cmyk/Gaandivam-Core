@@ -1,0 +1,25 @@
+{
+    "conducting_body": "Haryana Staff Selection Commission",
+    "exam_name": "Haryana Police Recruitment 2026",
+    "job_posts_covered": [
+        "Constable"
+    ],
+    "application_dates": {
+        "start_date": "11 January 2026",
+        "end_date": "31 January 2026"
+    },
+    "fee_structure": "Nil",
+    "selection_stages": [
+        "Physical Test (PST+PMT)",
+        "Written Exam",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Constable": [
+            "12th & CET Pass"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/haryana-police-admit-card-2026/",
+    "extraction_timestamp": "2026-07-27T14:06:12.591931Z"
+}

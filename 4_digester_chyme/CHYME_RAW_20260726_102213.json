@@ -1,0 +1,78 @@
+{
+    "exam_name": "Multiple Exams",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Midpoint Formula",
+                    "Distance Formula",
+                    "Slope Formula"
+                ],
+                "Angles and Planes": [
+                    "Types of Angles",
+                    "Properties of Angles",
+                    "Plane Geometry"
+                ]
+            }
+        },
+        "Science": {
+            "Biology": {
+                "Cell Structure": [
+                    "Cell Membrane",
+                    "Cytoplasm",
+                    "Nucleus"
+                ],
+                "Genetics": [
+                    "DNA Structure",
+                    "Genetic Code",
+                    "Inheritance Patterns"
+                ]
+            },
+            "Physics": {
+                "Mechanics": [
+                    "Kinematics",
+                    "Dynamics",
+                    "Energy and Work"
+                ],
+                "Thermodynamics": [
+                    "Laws of Thermodynamics",
+                    "Thermal Properties",
+                    "Heat Transfer"
+                ]
+            }
+        },
+        "Computer Science": {
+            "Programming": {
+                "Data Types": [
+                    "Variables",
+                    "Data Structures",
+                    "Operators"
+                ],
+                "Control Structures": [
+                    "Conditional Statements",
+                    "Loops",
+                    "Functions"
+                ]
+            },
+            "Algorithms": {
+                "Sorting": [
+                    "Bubble Sort",
+                    "Selection Sort",
+                    "Merge Sort"
+                ],
+                "Searching": [
+                    "Linear Search",
+                    "Binary Search",
+                    "Depth-First Search"
+                ]
+            }
+        }
+    }
+}
