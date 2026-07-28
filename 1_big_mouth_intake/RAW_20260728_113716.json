@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Motilal Nehru School of Sports (MNSS), Rai",
+    "exam_name": "MNSS Rai Recruitment 2026",
+    "job_posts_covered": [
+        "Clerk",
+        "Steno Typist"
+    ],
+    "application_dates": {
+        "start_date": "15 July 2026",
+        "end_date": "04 August 2026"
+    },
+    "fee_structure": "Rs 200/-",
+    "selection_stages": [
+        "Written Exam",
+        "Skill Test",
+        "Documents Verification",
+        "Medical Test"
+    ],
+    "detailed_syllabus": {
+        "Clerk": [
+            "Graduate level topics",
+            "Typing skills"
+        ],
+        "Steno Typist": [
+            "Graduate level topics",
+            "Typing skills",
+            "Stenography skills"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/mnss-rai-recruitment-2026/",
+    "extraction_timestamp": "2026-07-28T11:37:16.513689Z"
+}

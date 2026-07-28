@@ -1,0 +1,36 @@
+{
+    "conducting_body": "South Asian University (SAU), CBSE",
+    "exam_name": "CUET, JEE, CAT, GMAT, NET",
+    "job_posts_covered": [
+        "Various courses at SAU"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "2 June 2025 and 19 June 2025 for different modes"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "National level exams",
+        "Direct admission"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "Computer Science",
+            "Mathematics",
+            "Biotechnology",
+            "Management Studies",
+            "Law",
+            "Economics",
+            "Sociology",
+            "International Relations",
+            "Climate Change and Sustainable Development",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Cyber Security",
+            "Interdisciplinary Sciences"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/cbse-scholarship-hongkong-university/",
+    "extraction_timestamp": "2026-07-28T11:52:28.578838Z"
+}

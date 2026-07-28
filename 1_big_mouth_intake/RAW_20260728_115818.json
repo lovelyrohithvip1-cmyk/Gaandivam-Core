@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Punjab PSSSB Warder and Matron",
+        "ISRO Assistant, JPA, UDC & Stenographer",
+        "ISRO Scientist/Engineer",
+        "Rajasthan Safai Karmachari",
+        "UP PCS",
+        "HKRN",
+        "IBPS Clerk",
+        "RRC NFR Sports Quota",
+        "JKSSB Jail Warder",
+        "Haryana Anganwadi"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Physical Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Mathematics",
+            "English",
+            "Science",
+            "History",
+            "Geography"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-07-28T11:58:18.999115Z"
+}

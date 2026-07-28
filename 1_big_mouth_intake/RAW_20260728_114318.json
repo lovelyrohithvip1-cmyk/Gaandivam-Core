@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Railway Recruitment Cell (RRC), Central Railway",
+    "exam_name": "RRC Central Railway Sports Quota Recruitment 2026",
+    "job_posts_covered": [
+        "Group C",
+        "Level-1 Posts"
+    ],
+    "application_dates": {
+        "start_date": "15 July 2026 (10:00 AM)",
+        "end_date": "14 August 2026 (6:00 PM)"
+    },
+    "fee_structure": {
+        "General/OBC/EWS": "Rs 500/-",
+        "SC/ST/PwBD/Women": "Rs 250/-"
+    },
+    "selection_stages": [
+        "Verification of Sports Achievements",
+        "Sports Trails",
+        "Assessment of Educational Qualification",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Educational Qualification": [
+            "Graduate + Sports Certificate",
+            "12th Pass + Sports Certificate",
+            "10th Pass + Sports Certificate"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rrc-central-railway-sports-quota-recruitment-2026/",
+    "extraction_timestamp": "2026-07-28T11:43:18.180117Z"
+}
