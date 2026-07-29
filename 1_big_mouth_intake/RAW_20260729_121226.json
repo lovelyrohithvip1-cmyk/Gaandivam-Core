@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Indian Space Research Organisation (ISRO)",
+    "exam_name": "ISRO Assistant, JPA, UDC & Stenographer Recruitment 2026",
+    "job_posts_covered": [
+        "Assistant",
+        "Junior Personal Assistant (JPA)",
+        "Upper Division Clerk (UDC)",
+        "Stenographer"
+    ],
+    "application_dates": {
+        "start_date": "27 July 2026",
+        "end_date": "16 August 2026"
+    },
+    "fee_structure": "Rs 500 (All Category), Rs 400 (General/OBC/EWS, Refund), Rs 500 (Women/SC/ST/PwBD/Ex-Servicemen, Refund)",
+    "selection_stages": [
+        "Written Examination",
+        "Skill Test (for JPA/Stenographer where applicable)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Assistant/ UDC": [
+            "Graduation with minimum 60% Marks or CGPA 6.32/10",
+            "Computer Proficiency"
+        ],
+        "Junior Personal Assistant (JPA), Stenographer": [
+            "Graduation or Diploma in Commercial/Secretarial Practice with required experience",
+            "60 WPM English Stenography",
+            "Computer Proficiency"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/isro-recruitment-2026/",
+    "extraction_timestamp": "2026-07-29T12:12:26.506751Z"
+}

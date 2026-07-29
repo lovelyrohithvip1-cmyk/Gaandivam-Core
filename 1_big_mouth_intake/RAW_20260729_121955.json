@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Indian Red Cross Society, Haryana State Branch",
+    "exam_name": "Indian Red Cross Society Haryana Recruitment 2026",
+    "job_posts_covered": [
+        "Clerk",
+        "Senior Data Entry Operator",
+        "Account Clerk"
+    ],
+    "application_dates": {
+        "start_date": "22 July 2026",
+        "end_date": "05 August 2026"
+    },
+    "fee_structure": "₹500/- (Demand Draft)",
+    "selection_stages": [
+        "Screening of Applications",
+        "Typing Skill Assessment (if conducted)",
+        "Interview/Document Verification",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "General Awareness"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Hindi": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Computer Knowledge": [
+            "Basic Computer Concepts",
+            "Microsoft Office",
+            "Typing Skills"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/indian-red-cross-society-haryana-recruitment-2026/",
+    "extraction_timestamp": "2026-07-29T12:19:55.313661Z"
+}

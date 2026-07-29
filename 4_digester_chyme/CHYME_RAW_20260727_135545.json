@@ -1,0 +1,21 @@
+{
+    "exam_name": "RRC Central Railway Sports Quota Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Educational Qualification": {
+            "Eligibility Criteria": {
+                "Academic Requirements": [
+                    "Graduation Degree",
+                    "12th Standard Pass Certificate",
+                    "10th Standard Pass Certificate"
+                ]
+            },
+            "Sports Requirements": {
+                "Sports Certificate": [
+                    "Participation in National Level Sports",
+                    "Participation in International Level Sports",
+                    "Achievements in State Level Sports"
+                ]
+            }
+        }
+    }
+}

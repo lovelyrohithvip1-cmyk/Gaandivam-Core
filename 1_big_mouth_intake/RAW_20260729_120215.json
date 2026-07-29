@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Government Recruitment Exams",
+    "job_posts_covered": [
+        "Indian Air Force AFCAT",
+        "NVS Recruitment",
+        "ISRO Apprentice",
+        "BPCL Non-Management",
+        "SKAU Kurukshetra Non-Teaching",
+        "KVS Samvida Sathi",
+        "UPSSSC Excise Constable",
+        "Bank of Baroda Office Assistant",
+        "Punjab PSSSB Warder and Matron"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Mathematics",
+            "English",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-07-29T12:02:15.606031Z"
+}

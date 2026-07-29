@@ -1,0 +1,23 @@
+{
+    "conducting_body": "Rajasthan Staff Selection Board (RSSB)",
+    "exam_name": "Common Eligibility Test (Graduate Level) 2026",
+    "job_posts_covered": [
+        "Other Graduate Level Posts"
+    ],
+    "application_dates": {
+        "start_date": "04 July 2026",
+        "end_date": "02 August 2026"
+    },
+    "fee_structure": "₹600 for General/OBC (Creamy Layer), ₹400 for OBC (NCL)/MBC/EWS/SC/ST/PwBD (Rajasthan)",
+    "selection_stages": [
+        "Common Eligibility Test (Graduate Level)",
+        "Department-wise Main Examination (where applicable)",
+        "Document Verification",
+        "Medical Examination (if applicable)"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/rssb-cet-graduate-level-2026/",
+    "extraction_timestamp": "2026-07-29T11:53:53.303041Z"
+}
