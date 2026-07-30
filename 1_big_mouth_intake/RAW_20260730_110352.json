@@ -1,0 +1,78 @@
+{
+    "conducting_body": "Uttar Pradesh Public Service Commission (UPPSC)",
+    "exam_name": "Block Education Officer (BEO) exam",
+    "job_posts_covered": [
+        "Block Education Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge & Current Affairs": [
+            "History of India",
+            "General Science",
+            "Indian National Movement",
+            "Indian Agriculture, Commerce, and Trade",
+            "Indian Polity, Economy, and Culture",
+            "Population, Ecology, and Urbanization",
+            "World Geography and National Geography",
+            "Natural Resources of India",
+            "Current National and International Events",
+            "Specific Knowledge of Uttar Pradesh"
+        ],
+        "Indian Polity, Economy & Culture": [
+            "Constitution of India",
+            "Union and State Executive",
+            "Legislature: Lok Sabha and Rajya Sabha",
+            "Judiciary: Supreme Court and High Courts",
+            "Fundamental Rights and Duties",
+            "Directive Principles of State Policy",
+            "State Administration and Local Government",
+            "Electoral System",
+            "Economic Planning",
+            "Economic Reforms and Liberalization",
+            "Agriculture and Rural Development",
+            "Industry and Commerce",
+            "National Income and Economic Indicators",
+            "Budget and Fiscal Policy",
+            "Public Finance",
+            "Poverty and Unemployment",
+            "Ancient, Medieval, and Modern Indian History and Culture",
+            "Art and Architecture",
+            "Literature and Performing Arts",
+            "Religious and Philosophical Movements",
+            "Cultural Heritage and Festivals"
+        ],
+        "Indian History": [
+            "Indus Valley Civilization",
+            "Vedic Period",
+            "Mauryan Empire and Post-Mauryan Empires",
+            "Gupta Empire",
+            "Delhi Sultanate and Mughal Empire",
+            "Regional States and Vijayanagara Empire",
+            "British Expansion in India",
+            "Freedom Struggle and Social/Religious Reform Movements",
+            "Indian Independence Movement",
+            "Integration of Princely States",
+            "Constitutional Development",
+            "Nation Building and Social Changes"
+        ],
+        "General Hindi & Essay": [
+            "Unseen passage – reading, comprehension-based questions, and giving a suitable title",
+            "Letter writing (various formats)",
+            "Translation (English to Hindi and Hindi to English)",
+            "Grammar and vocabulary",
+            "Precis writing",
+            "Essay Writing"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/uppsc-beo-syllabus-and-exam-pattern-3059560",
+    "extraction_timestamp": "2026-07-30T11:03:52.202876Z"
+}

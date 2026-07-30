@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Himachal Pradesh Public Service Commission (HPPSC)",
+    "exam_name": "Subject Aptitude Test (SAT) - Descriptive",
+    "job_posts_covered": [
+        "Assistant Professor (College Cadre) - English"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Descriptive Subject Aptitude Test (SAT)"
+    ],
+    "detailed_syllabus": {
+        "English": [
+            "History of English Literature",
+            "Poetry from Chaucer to Pope",
+            "Shakespeare and his Contemporaries",
+            "Nineteenth Century Fiction",
+            "Romantic and Victorian Poetry",
+            "Modern Fiction",
+            "Growth and Structure of English Language, and Literary Criticism",
+            "Modern British and American Poetry",
+            "Introduction to Drama, Modern British and American Drama",
+            "World Fiction, Research Methods and Future of English",
+            "Contemporary Literary Theory",
+            "Indian Writing in English and Indian Writing in Translation"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/hppsc-assistant-professor-syllabus-and-exam-pattern-3060227",
+    "extraction_timestamp": "2026-07-30T11:12:09.366865Z"
+}

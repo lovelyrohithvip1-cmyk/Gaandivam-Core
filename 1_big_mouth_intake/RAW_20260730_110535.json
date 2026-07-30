@@ -1,0 +1,16 @@
+{
+    "conducting_body": null,
+    "exam_name": null,
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://www.freejobalert.com/contact-us/",
+    "extraction_timestamp": "2026-07-30T11:05:35.603685Z"
+}

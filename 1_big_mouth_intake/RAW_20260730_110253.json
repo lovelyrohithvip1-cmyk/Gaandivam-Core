@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Bihar Technical Service Commission (BTSC)",
+    "exam_name": "BTSC Recruitment 2026",
+    "job_posts_covered": [
+        "Technician (Bench Chemist)",
+        "Assistant Bacteriologist"
+    ],
+    "application_dates": {
+        "start_date": "24.07.2026",
+        "end_date": "23.08.2026"
+    },
+    "fee_structure": "₹100/-",
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Work Experience"
+    ],
+    "detailed_syllabus": {
+        "Technician (Bench Chemist)": [
+            "Pharmaceutical Chemistry",
+            "Pharmaceutical Analysis",
+            "Pharmacology",
+            "Pharmaceutics"
+        ],
+        "Assistant Bacteriologist": [
+            "Microbiology",
+            "Bacteriology",
+            "Virology",
+            "Immunology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/btsc-technician-assistant-bacteriologist-recruitment-2026-3060053",
+    "extraction_timestamp": "2026-07-30T11:02:53.459533Z"
+}

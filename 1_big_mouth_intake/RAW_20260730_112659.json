@@ -1,0 +1,33 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "UPSC Exam",
+    "job_posts_covered": [
+        "Agricultural Engineer",
+        "Assistant Industrial Adviser",
+        "Principal",
+        "Vice-Principal",
+        "Prosecutor",
+        "Specialist"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "14-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Agricultural Engineer": [
+            "Agriculture",
+            "Engineering"
+        ],
+        "Assistant Industrial Adviser": [
+            "Industrial Management",
+            "Advisory Skills"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:26:59.845780Z"
+}

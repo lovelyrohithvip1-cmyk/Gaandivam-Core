@@ -1,0 +1,43 @@
+{
+    "conducting_body": "UPSC, SSC, IBPS, SBI, LIC, RBI, IDBI Bank, IOB",
+    "exam_name": "CDS, NDA, Engineering Service Exam, Civil Service Exam, IES/ISS Exam, IFS Exam, CMS Exam, Clerk, PO/MT, Specialist Officers, Apprentice Development Officers, Assistant Administrative Officers",
+    "job_posts_covered": [
+        "Clerk",
+        "PO/MT",
+        "Specialist Officers",
+        "Apprentice Development Officers",
+        "Assistant Administrative Officers",
+        "Constable (GD)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Mains",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Calculus"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "General Knowledge": [
+            "History",
+            "Geography",
+            "Science",
+            "Current Affairs"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/selection-process/",
+    "extraction_timestamp": "2026-07-30T11:06:51.733646Z"
+}

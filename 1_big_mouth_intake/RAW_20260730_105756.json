@@ -1,0 +1,63 @@
+{
+    "conducting_body": "Chhattisgarh Vyavsayik Pariksha Mandal (CG Vyapam) / CGSSB",
+    "exam_name": "CG Assistant Teacher Recruitment Exam",
+    "job_posts_covered": [
+        "Sahayak Shikshak (Assistant Teacher)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Hindi": [
+            "Varn Vichar",
+            "Shabd Vichar",
+            "Shabd Rachna",
+            "Pad va Pad Bhed",
+            "Vakya Parichay",
+            "Rachna",
+            "Children’s Language Development Process",
+            "Children’s Language Ability and Its Development",
+            "Inclusive language classroom, multilingualism",
+            "Assessment"
+        ],
+        "English": [
+            "Comprehension",
+            "Pedagogy of Language Development"
+        ],
+        "Mathematics": [
+            "Introduction",
+            "Nature of Mathematics",
+            "Learning and Assessment in Mathematics",
+            "Content Topics"
+        ],
+        "Environmental Studies": [
+            "Understanding Environment",
+            "Children’s Understanding of Environment",
+            "Why Teach Environmental Studies",
+            "Pedagogy of Environmental Studies",
+            "Environmental Studies and Classroom Activities",
+            "Family Relations",
+            "Health and Safety",
+            "Ecosystem, Environmental Conservation and Management"
+        ],
+        "Child Development & Pedagogy": [
+            "Language acquisition in the classroom",
+            "Principles of language teaching",
+            "Role of listening and speaking before reading and writing",
+            "Phonics and phonemic awareness",
+            "Function of language and how children use it as a tool"
+        ],
+        "General Studies": [
+            "General Mental Ability",
+            "Computer Education",
+            "General Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/cg-assistant-teacher-syllabus-and-exam-pattern-3060321",
+    "extraction_timestamp": "2026-07-30T10:57:56.913200Z"
+}

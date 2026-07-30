@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Fluid Control Research Institute (FCRI), Ministry of Heavy Industries, Government of India",
+    "exam_name": "FCRI Recruitment 2026",
+    "job_posts_covered": [
+        "Research Engineer",
+        "Junior Research Engineer"
+    ],
+    "application_dates": {
+        "start_date": "24.07.2026",
+        "end_date": "24.08.2026"
+    },
+    "fee_structure": "₹1,180/- (₹1,000/- + 18% GST) for General / OBC / EWS",
+    "selection_stages": [
+        "Written Test (for Junior Research Engineer only)",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Mechanical Engineering": [
+            "Multiphase Flow",
+            "CFD / Thermal & Fluid Engineering",
+            "Valves / Thermal & Fluid Engineering",
+            "Fluid Flow Research"
+        ],
+        "Civil Engineering": [],
+        "Electrical Engineering": [],
+        "Instrumentation Engineering": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/fcri-research-engineer-and-junior-research-engineer-recruitment-2026-3060150",
+    "extraction_timestamp": "2026-07-30T11:13:51.367744Z"
+}

@@ -1,0 +1,67 @@
+{
+    "conducting_body": "Tamilnad Mercantile Bank Ltd (TMB)",
+    "exam_name": "TMB Specialist Officer (IT) Recruitment 2026",
+    "job_posts_covered": [
+        "Software Developer (Manager)",
+        "Data Scientist (Manager)",
+        "Statistician (Manager)",
+        "Software Developer (Assistant Manager)",
+        "CBS Support Engineers (Assistant Manager)",
+        "Software Engineer – Software Programmers (Assistant Manager)",
+        "Oracle HCM (Payroll & Integrations) (Assistant Manager)",
+        "Oracle HCM (Talent, Workflow & Experience) (Assistant Manager)"
+    ],
+    "application_dates": {
+        "start_date": "28 July 2026",
+        "end_date": "10 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Personal Interview (Direct / Video Conferencing)"
+    ],
+    "detailed_syllabus": {
+        "Software Developer (Manager)": [
+            "Java (J2EE)/Springboot",
+            "microservices",
+            "mobile app development (Native/Hybrid/Flutter)",
+            "cloud (AWS/GCP)"
+        ],
+        "Data Scientist (Manager)": [
+            "Python/R programming",
+            "data visualization tools (SAS, Tableau, Power BI)",
+            "predictive modelling"
+        ],
+        "Statistician (Manager)": [
+            "statistical modelling",
+            "R, SAS software"
+        ],
+        "Software Developer (Assistant Manager)": [
+            "Java (J2EE)/Springboot",
+            "Angular/NodeJS",
+            "microservices",
+            "Cloud (AWS/GCP)",
+            "Docker"
+        ],
+        "CBS Support Engineers (Assistant Manager)": [
+            "Finacle 10x CBS scripting/development/customization",
+            "Java, Unix Scripts, Finacle Scripting"
+        ],
+        "Software Engineer – Software Programmers (Assistant Manager)": [
+            "Full Stack Java (J2EE)/Springboot",
+            "Angular/NodeJS/JavaScript/JSP",
+            "microservices",
+            "Docker"
+        ],
+        "Oracle HCM – Payroll & Integrations (Assistant Manager)": [
+            "Oracle Fusion Payroll configuration",
+            "OIC, HDL, Fast Formulas",
+            "Oracle certifications"
+        ],
+        "Oracle HCM – Talent, Workflow & Experience (Assistant Manager)": [
+            "VBCS, BPM Worklist, OTBI",
+            "Oracle certifications"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/tmb-specialist-officer-recruitment-2026-3060903",
+    "extraction_timestamp": "2026-07-30T11:17:45.713029Z"
+}

@@ -1,0 +1,37 @@
+{
+    "conducting_body": "BPSSC",
+    "exam_name": "Bihar Police SI",
+    "job_posts_covered": [
+        "Sub-Inspector",
+        "Forest Range Officer",
+        "Company Commander"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "16-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/bihar-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:02:28.203593Z"
+}

@@ -1,0 +1,28 @@
+{
+    "conducting_body": "TSLPRB",
+    "exam_name": "Police Constable, SI, Deputy Jailor and More",
+    "job_posts_covered": [
+        "Police Constable",
+        "SI",
+        "Deputy Jailor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "30-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Aptitude"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/police-defence-jobs/",
+    "extraction_timestamp": "2026-07-30T11:25:17.282923Z"
+}

@@ -1,0 +1,36 @@
+{
+    "conducting_body": "West Bengal Staff Selection Commission (WBSSC)",
+    "exam_name": "WBSSC Group C and D Exam",
+    "job_posts_covered": [
+        "Group C",
+        "Group D"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ],
+        "English": [
+            "Grammar",
+            "Vocabulary",
+            "Comprehension"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/wb-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:16:49.747146Z"
+}

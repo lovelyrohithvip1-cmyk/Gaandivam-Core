@@ -1,0 +1,53 @@
+{
+    "conducting_body": "Sikkim Public Service Commission (SPSC)",
+    "exam_name": "SPSC Village Level Worker (VLW) Exam 2026",
+    "job_posts_covered": [
+        "Village Level Worker (VLW) under the Agriculture & Horticulture Departments"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "31-07-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Paper-I (General English and General Knowledge)",
+        "Paper-II (Agriculture and Horticulture)"
+    ],
+    "detailed_syllabus": {
+        "General English": [
+            "Grammar",
+            "Composition",
+            "Comprehension",
+            "Essay Writing",
+            "Precis Writing"
+        ],
+        "General Knowledge": [
+            "General awareness on current affairs",
+            "Current events of state and national importance",
+            "Important historical events of state and national importance"
+        ],
+        "Agriculture": [
+            "Agriculture: definition, introduction, importance and scope",
+            "Organic farming: definition, components, advantages and disadvantages, certification and scope of organic farming",
+            "Classification of crops; effect of different weather parameters on crop growth and development",
+            "Cultivation: types, tillage, tilth and its principles and characteristics; water requirement of crops, methods of irrigation; weeds and their control methods; cropping systems, crop rotation, relay cropping, mixed cropping, multi-storied cropping",
+            "Soil: types, physical properties and their importance, composition and decomposition; effect of organic matter on soil and soil fertility",
+            "Nutrients: essential plant nutrients and their function and deficiency symptoms in plants",
+            "Extension: definition, objectives, function, principle",
+            "Plant protection: classification of insect, pest and disease; insects, pests and diseases of cereals, pulses and oilseed crops and their management; Integrated Pest Management (IPM) and Integrated Disease Management (IDM)",
+            "Natural farming: definition, principles, crop management, production of bio inputs; farm machinery/mechanization"
+        ],
+        "Horticulture": [
+            "Horticulture: definition, importance, scope and its types",
+            "Classification of horticultural plants",
+            "Soil and climatic requirements of horticultural plants; raising and management of nursery",
+            "Propagation of plants: budding, grafting, layering; training and pruning; planning and layout of orchard; package and practices of cultivation of summer and winter vegetables, fruits and flowers",
+            "Post-harvest management of vegetables, flowers and fruits: pre-harvest factors, post-harvest factors, maturity index of vegetables and fruits",
+            "Processing of fruits and vegetables: preparation techniques of jam, jelly, marmalade, pickles and their methods of judging end point",
+            "Tools and implements used in horticulture garden",
+            "Plant breeding: principles of plant breeding, breeding of field and horticultural crops, commercial plant breeding, genetics, methods of plant breeding; plant biotechnology and tissue culture"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/spsc-village-level-worker-syllabus-3059769",
+    "extraction_timestamp": "2026-07-30T11:21:16.892068Z"
+}

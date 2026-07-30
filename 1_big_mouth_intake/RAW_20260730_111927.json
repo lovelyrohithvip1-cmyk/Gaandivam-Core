@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Punjab Subordinate Services Selection Board (PSSSB)",
+    "exam_name": "PSSSB Warder & Matron Recruitment 2026",
+    "job_posts_covered": [
+        "Warder",
+        "Matron"
+    ],
+    "application_dates": {
+        "start_date": "1 April 2026",
+        "end_date": "5 May 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Part-A": [
+            "General Knowledge",
+            "English",
+            "Mathematics"
+        ],
+        "Part-B": [
+            "Punjabi Language",
+            "General Science",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/psssb-jail-warder-provisional-answer-key-2026-3060598",
+    "extraction_timestamp": "2026-07-30T11:19:27.358918Z"
+}

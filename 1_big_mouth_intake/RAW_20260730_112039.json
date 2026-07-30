@@ -1,0 +1,27 @@
+{
+    "conducting_body": "UPPSC",
+    "exam_name": "UPTET",
+    "job_posts_covered": [
+        "Teaching Jobs"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/sarkarijob/",
+    "extraction_timestamp": "2026-07-30T11:20:39.261194Z"
+}

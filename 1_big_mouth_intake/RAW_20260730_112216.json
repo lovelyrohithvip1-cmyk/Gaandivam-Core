@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Armoured Vehicles Nigam Limited (AVNL)",
+    "exam_name": "AVNL Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Technician",
+        "Junior Manager",
+        "Assistant Manager",
+        "Deputy Manager",
+        "Senior Manager",
+        "Deputy General Manager",
+        "Additional General Manager",
+        "Consultant"
+    ],
+    "application_dates": {
+        "start_date": "11 July 2026",
+        "end_date": "31 July 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "NCVT/NAC",
+            "ITI",
+            "Diploma",
+            "B.E./B.Tech",
+            "MBA",
+            "CA",
+            "Company Secretary"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/avnl-executive-and-non-executive-recruitment-2026-apply-online-for-1213-posts-3055808",
+    "extraction_timestamp": "2026-07-30T11:22:16.745884Z"
+}

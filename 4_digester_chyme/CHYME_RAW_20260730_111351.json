@@ -1,0 +1,29 @@
+{
+    "exam_name": "FCRI Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Mechanical Engineering": {
+            "Thermal & Fluid Engineering": {
+                "Multiphase Flow": [
+                    "Flow Regimes",
+                    "Phase Distribution",
+                    "Interphase Transfer"
+                ],
+                "CFD / Thermal & Fluid Engineering": [
+                    "Computational Fluid Dynamics",
+                    "Heat Transfer",
+                    "Mass Transport"
+                ],
+                "Valves / Thermal & Fluid Engineering": [
+                    "Valve Design",
+                    "Valve Operation",
+                    "Valve Maintenance"
+                ],
+                "Fluid Flow Research": [
+                    "Experimental Techniques",
+                    "Numerical Modeling",
+                    "Flow Visualization"
+                ]
+            }
+        }
+    }
+}

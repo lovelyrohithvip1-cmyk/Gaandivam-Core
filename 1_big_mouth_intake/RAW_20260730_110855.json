@@ -1,0 +1,57 @@
+{
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "exam_name": "UPSC Recruitment 2026",
+    "job_posts_covered": [
+        "Agricultural Engineer",
+        "Medical Officer/Research Officer (Unani)",
+        "Scientist 'B'",
+        "Civilian Medical Officer",
+        "Specialist Grade III Assistant Professor",
+        "Assistant Industrial Adviser",
+        "Veterinary Assistant Surgeon"
+    ],
+    "application_dates": {
+        "start_date": "25 July 2026",
+        "end_date": "14 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Interview",
+        "Shortlisting"
+    ],
+    "detailed_syllabus": {
+        "Agricultural Engineer": [
+            "Agricultural Engineering",
+            "Mechanical Engineering",
+            "Testing/Evaluation of Agricultural Machinery"
+        ],
+        "Medical Officer/Research Officer (Unani)": [
+            "Unani Medicine",
+            "Indian Medicine Central Council Act, 1970"
+        ],
+        "Scientist 'B'": [
+            "Botany",
+            "Environmental Science",
+            "Geology",
+            "Physics",
+            "Zoology"
+        ],
+        "Civilian Medical Officer": [
+            "MBBS",
+            "Post-graduate medical qualification"
+        ],
+        "Specialist Grade III Assistant Professor": [
+            "Immuno-Haematology and Blood Transfusion",
+            "Surgical Oncology"
+        ],
+        "Assistant Industrial Adviser": [
+            "Mechanical/Electrical/Chemical/Metallurgical/Electronics & Communication Engineering"
+        ],
+        "Veterinary Assistant Surgeon": [
+            "Veterinary Science and Animal Husbandry",
+            "Veterinary Science"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/upsc-recruitment-2026-apply-online-for-41-agricultural-engineer-scientist-and-more-posts-3060202",
+    "extraction_timestamp": "2026-07-30T11:08:55.940213Z"
+}

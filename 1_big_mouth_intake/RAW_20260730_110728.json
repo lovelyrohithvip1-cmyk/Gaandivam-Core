@@ -1,0 +1,34 @@
+{
+    "conducting_body": "The Belagavi District Central Co-operative Bank Ltd. (BDCC Bank)",
+    "exam_name": "BDCC Bank Recruitment 2026",
+    "job_posts_covered": [
+        "Second Division Clerk",
+        "Gun Man",
+        "Peon"
+    ],
+    "application_dates": {
+        "start_date": "27.07.2026",
+        "end_date": "27.08.2026"
+    },
+    "fee_structure": "SC / ST / Category-1: Rs. 500, All other categories: Rs. 1000",
+    "selection_stages": [
+        "Written Examination",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Second Division Clerk": [
+            "Kannada Language",
+            "General English",
+            "General Knowledge",
+            "Co-operative Subject",
+            "Indian Constitution",
+            "Bank Work Procedures & Materials"
+        ],
+        "Peon & Gun Man": [
+            "Kannada Language",
+            "General Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/belagavi-dcc-bank-recruitment-2026-apply-online-for-104-sda-peon-and-gunman-posts-3060058",
+    "extraction_timestamp": "2026-07-30T11:07:28.885542Z"
+}

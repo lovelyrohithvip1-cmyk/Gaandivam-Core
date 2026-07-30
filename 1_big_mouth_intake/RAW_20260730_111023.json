@@ -1,0 +1,90 @@
+{
+    "conducting_body": "National Board of Examinations in Medical Sciences (NBEMS)",
+    "exam_name": "NEET PG 2026",
+    "job_posts_covered": [
+        "Postgraduate Medical Courses"
+    ],
+    "application_dates": {
+        "start_date": "July 1, 2026",
+        "end_date": "July 21, 2026"
+    },
+    "fee_structure": "General / OBC / EWS: ₹3,500, SC / ST / PwD: ₹2,500",
+    "selection_stages": [
+        "Written Examination",
+        "Counselling",
+        "Seat Allotment"
+    ],
+    "detailed_syllabus": {
+        "Anatomy": [
+            "Gross Anatomy",
+            "Microscopic Anatomy",
+            "Embryology",
+            "Histology",
+            "Neuroanatomy"
+        ],
+        "Biochemistry": [
+            "Biological Chemistry",
+            "Molecular Biology",
+            "Metabolic Pathways"
+        ],
+        "Biophysics": [
+            "Physical Chemistry",
+            "Biological Physics",
+            "Instrumentation"
+        ],
+        "Forensic Medicine": [
+            "Toxicology",
+            "Forensic Pathology",
+            "Medical Jurisprudence"
+        ],
+        "Medicine": [
+            "General Medicine",
+            "Cardiology",
+            "Neurology",
+            "Gastroenterology",
+            "Nephrology"
+        ],
+        "Obstetrics and Gynaecology": [
+            "Obstetrics",
+            "Gynaecology",
+            "Reproductive Endocrinology"
+        ],
+        "Paediatrics": [
+            "General Paediatrics",
+            "Neonatology",
+            "Paediatric Cardiology"
+        ],
+        "Pathology": [
+            "General Pathology",
+            "Haematology",
+            "Immunopathology"
+        ],
+        "Pharmacology": [
+            "General Pharmacology",
+            "Pharmacokinetics",
+            "Pharmacodynamics"
+        ],
+        "Physiology": [
+            "General Physiology",
+            "Neurophysiology",
+            "Cardiovascular Physiology"
+        ],
+        "Psychiatry": [
+            "General Psychiatry",
+            "Psychopathology",
+            "Psychotherapy"
+        ],
+        "Radiology": [
+            "General Radiology",
+            "Imaging Techniques",
+            "Radiation Safety"
+        ],
+        "Surgery": [
+            "General Surgery",
+            "Orthopaedic Surgery",
+            "Neurosurgery"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/neet-pg-2026-correction-window-open-check-editable-non-editable-fields-login-steps-3060258",
+    "extraction_timestamp": "2026-07-30T11:10:23.430646Z"
+}

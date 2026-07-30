@@ -1,0 +1,42 @@
+{
+    "conducting_body": "Directorate of Technical Education (DTE), Rajasthan, Jodhpur",
+    "exam_name": "Rajasthan ITI Admission",
+    "job_posts_covered": [
+        "Electrician",
+        "Fitter",
+        "COPA",
+        "Welder",
+        "Diesel Mechanic",
+        "Other NCVT/SCVT trades"
+    ],
+    "application_dates": {
+        "start_date": "15 July 2026",
+        "end_date": "30 July 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Merit list preparation based on qualifying exam marks",
+        "Document verification at allotted college"
+    ],
+    "detailed_syllabus": {
+        "ITI Courses": [
+            "Electrician",
+            "Fitter",
+            "Electronics Mechanic",
+            "Information & Communication Technology System Maintenance (ICTSM)",
+            "Wireman",
+            "Diesel Mechanic",
+            "Welder",
+            "Plumber",
+            "Motor Mechanic Vehicle (MMV)",
+            "Computer Operator and Programming Assistant (COPA)",
+            "Machinist",
+            "Painter General",
+            "Draughtsman Civil",
+            "Draughtsman Mechanical",
+            "Stenographer (Hindi/English)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rajasthan-iti-allotment-merit-list-2026-out-check-provisional-merit-list-3060871",
+    "extraction_timestamp": "2026-07-30T11:12:22.143305Z"
+}

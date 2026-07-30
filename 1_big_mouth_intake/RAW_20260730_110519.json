@@ -1,0 +1,91 @@
+{
+    "conducting_body": "Various Government Institutions",
+    "exam_name": "Sarkari Naukri 2026",
+    "job_posts_covered": [
+        "District Project Officer",
+        "Anganwadi Teacher",
+        "Research Associate I",
+        "Yoga/ Sports Teacher/ Instructor",
+        "Director",
+        "Nulia Civil Defence Volunteer",
+        "Junior Research Fellow",
+        "PGT, Clerk and More",
+        "Assistant Professor",
+        "Specialist Officer",
+        "Young Professional I",
+        "Teaching and Non Teaching",
+        "Management Trainee & Design Trainee",
+        "Project Assistant",
+        "Field Investigator",
+        "Yoga Instructor",
+        "Higher, Junior and Senior Management",
+        "Junior Clerk, Stenographer and More",
+        "Junior Lab / Field Helper",
+        "Registrar, Finance Officer and More Posts",
+        "Anganwadi Worker & Helper",
+        "Patwari",
+        "Stenographer and Assistant",
+        "Young Professional",
+        "Centre Research Fellow",
+        "Medical Attendant",
+        "Project Associate, Project Assistant",
+        "Project Assistant",
+        "Project Associate II",
+        "Junior Hindi Translator",
+        "Project Research Scientist I",
+        "Network Engineer",
+        "Police Constable, SI, Deputy Jailor and More",
+        "Project Technical Support III & Project Nurse III",
+        "Junior Research Fellow",
+        "Constable, Police Constable & More",
+        "Project Technical Support II and Project Nurse II",
+        "Customer Service Officer",
+        "Research Fellow",
+        "Guest Lecturer",
+        "Village Administrative Officer",
+        "Academic Associate",
+        "Medical Officer",
+        "Staff Nurse, Lab Technician and More",
+        "Junior Research Fellow",
+        "Palliative Care Doctor and Psychologist",
+        "Lab Helper"
+    ],
+    "application_dates": {
+        "start_date": "24-07-2026",
+        "end_date": "30-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Skill Test",
+        "Document Verification",
+        "Medical Test"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning",
+            "Verbal Reasoning"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Calculus"
+        ],
+        "General Knowledge": [
+            "History",
+            "Geography",
+            "Science",
+            "Technology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/sarkari-naukri/",
+    "extraction_timestamp": "2026-07-30T11:05:19.385393Z"
+}

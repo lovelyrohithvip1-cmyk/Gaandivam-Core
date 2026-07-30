@@ -1,0 +1,37 @@
+{
+    "conducting_body": "Himachal Pradesh Rajya Chayan Aayog (HPRCA), Hamirpur",
+    "exam_name": "HPRCA Recruitment Exams",
+    "job_posts_covered": [
+        "Geography Teacher",
+        "Physics Teacher",
+        "Biology Teacher",
+        "Scientific Assistant (Digital Forensics)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "OMR/CBT responses evaluation",
+        "Final scores/merit preparation",
+        "Result or merit list announcement",
+        "Document verification"
+    ],
+    "detailed_syllabus": {
+        "Geography": [
+            "Not specified"
+        ],
+        "Physics": [
+            "Not specified"
+        ],
+        "Biology": [
+            "Not specified"
+        ],
+        "Digital Forensics": [
+            "Not specified"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/hprca-teacher-and-scientific-assistant-final-answer-key-2026-3060386",
+    "extraction_timestamp": "2026-07-30T11:14:25.292195Z"
+}

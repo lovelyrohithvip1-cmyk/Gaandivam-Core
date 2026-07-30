@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Board of Secondary Education (BSE), Odisha",
+    "exam_name": "Odisha Teacher Eligibility Test (OTET) 2026",
+    "job_posts_covered": [
+        "Teacher"
+    ],
+    "application_dates": {
+        "start_date": "26 March 2026",
+        "end_date": "09 May 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Paper-I": [
+            "All Languages (for Classes I-V)"
+        ],
+        "Paper-II (Social Science)": [
+            "Social Science (for Classes VI-VIII)"
+        ],
+        "Paper-II (Math & Science)": [
+            "Mathematics & Science (for Classes VI-VIII)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/otet-answer-key-2026-3056744",
+    "extraction_timestamp": "2026-07-30T11:08:34.283823Z"
+}

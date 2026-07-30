@@ -1,0 +1,50 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "Civil Services Examination",
+    "job_posts_covered": [
+        "Junior Associate",
+        "Staff Nurse Unani",
+        "Head Constable (Ministerial)",
+        "GD Constable",
+        "Selection Posts Phase XIII",
+        "Tier I",
+        "LDCE",
+        "AWO TPO",
+        "Head Constable",
+        "CGL Tier 2",
+        "CGL",
+        "Stenographer Grade C and D",
+        "Hospital Assistant",
+        "Pharmacist",
+        "Junior Staff Nurse / Junior Male Nurse",
+        "Assistant Staff Nurse",
+        "Office Subordinate, Examiner and more",
+        "Lecturers",
+        "APSET",
+        "Assistant Inspector, Junior Lecturer, Agriculture Officer",
+        "Junior Assistant",
+        "Thanedar, Executive Officer and Various Posts",
+        "Agriculture Officer, Technical Assistant and Various Posts",
+        "TET"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Awareness",
+            "Quantitative Aptitude",
+            "Reasoning Ability",
+            "English Language"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/answer-key/",
+    "extraction_timestamp": "2026-07-30T11:15:11.666250Z"
+}

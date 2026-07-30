@@ -1,0 +1,36 @@
+{
+    "conducting_body": "National Testing Agency (NTA)",
+    "exam_name": "University Grants Commission-National Eligibility Test (UGC NET) June 2026",
+    "job_posts_covered": [
+        "Assistant Professor",
+        "Junior Research Fellowship"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": "Rs. 200 per question (non-refundable) for objection",
+    "selection_stages": [
+        "Written Exam",
+        "Objection Window"
+    ],
+    "detailed_syllabus": {
+        "Paper 1": [
+            "Teaching Aptitude",
+            "Research Aptitude",
+            "Comprehension",
+            "Communication",
+            "Mathematical Reasoning and Aptitude",
+            "Logical Reasoning",
+            "Data Interpretation",
+            "Information and Communication Technology",
+            "People and Environment",
+            "Higher Education System"
+        ],
+        "Paper 2": [
+            "Subject-specific questions"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ugc-net-answer-key-2026-june-download-subject-wise-pdf-ugcnet-nta-nic-in-3057051",
+    "extraction_timestamp": "2026-07-30T11:00:02.906837Z"
+}

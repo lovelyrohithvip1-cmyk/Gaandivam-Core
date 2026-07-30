@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Rajasthan University, Jaipur",
+    "exam_name": "Rajasthan University Exam 2026",
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [],
+    "detailed_syllabus": {
+        "B.V.A.": [
+            "Painting",
+            "Applied Arts",
+            "Sculpture"
+        ],
+        "B.P.A.": [
+            "Music",
+            "Dance",
+            "Tabla"
+        ],
+        "B.Des": [
+            "Communication Design",
+            "Fashion Design",
+            "Interior Design",
+            "Jewellery Design"
+        ],
+        "B.Music": [
+            "Instrumental Sitar",
+            "Vocal"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rajasthan-university-result-2026-out-check-bva-bpa-bdes-and-bmusic-results-3060108",
+    "extraction_timestamp": "2026-07-30T11:20:04.085345Z"
+}

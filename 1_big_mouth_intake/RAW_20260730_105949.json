@@ -1,0 +1,43 @@
+{
+    "conducting_body": "ISRO",
+    "exam_name": "ISRO Scientist/ Engineer",
+    "job_posts_covered": [
+        "Junior Engineer (JE)",
+        "Assistant Engineer (AE)",
+        "Executive Engineer",
+        "Graduate / Diploma trainee"
+    ],
+    "application_dates": {
+        "start_date": "29/07/2026",
+        "end_date": "17-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Civil": [
+            "Building Materials",
+            "Surveying",
+            "Transportation Engineering"
+        ],
+        "Mechanical": [
+            "Thermodynamics",
+            "Mechanics of Solids",
+            "Fluid Mechanics"
+        ],
+        "Electrical": [
+            "Electrical Circuits",
+            "Electromagnetic Fields",
+            "Control Systems"
+        ],
+        "Computer Science": [
+            "Data Structures",
+            "Algorithms",
+            "Computer Networks"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/engineering-jobs/",
+    "extraction_timestamp": "2026-07-30T10:59:49.776738Z"
+}

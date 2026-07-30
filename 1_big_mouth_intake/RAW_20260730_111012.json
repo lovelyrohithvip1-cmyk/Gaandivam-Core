@@ -1,0 +1,27 @@
+{
+    "conducting_body": "CGPSC",
+    "exam_name": "CG SET 2026",
+    "job_posts_covered": [
+        "Assistant Professor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "17-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Teaching Aptitude",
+            "English",
+            "Mathematics",
+            "Science",
+            "Social Science"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/chhattisgarh-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:10:12.281383Z"
+}

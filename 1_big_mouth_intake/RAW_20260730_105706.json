@@ -1,0 +1,27 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "CDS (I) Exam 2025",
+    "job_posts_covered": [
+        "Security Guard",
+        "Asst"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Mains"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Science"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/exam-pattern/",
+    "extraction_timestamp": "2026-07-30T10:57:06.409100Z"
+}

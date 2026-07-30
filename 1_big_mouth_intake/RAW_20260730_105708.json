@@ -1,0 +1,42 @@
+{
+    "conducting_body": "Government of India",
+    "exam_name": "Government Jobs Exam",
+    "job_posts_covered": [
+        "10TH",
+        "8TH",
+        "12TH",
+        "Diploma",
+        "ITI",
+        "B.Tech/B.E",
+        "B.com",
+        "MBA",
+        "MSW",
+        "B.sc",
+        "M.sc",
+        "BA",
+        "MA",
+        "Any Graduate",
+        "Any Post Graduate"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning",
+            "Science"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/jobs-by-education/",
+    "extraction_timestamp": "2026-07-30T10:57:08.927542Z"
+}

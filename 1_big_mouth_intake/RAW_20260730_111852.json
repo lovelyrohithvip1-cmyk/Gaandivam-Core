@@ -1,0 +1,50 @@
+{
+    "conducting_body": "IBPS, SBI, RBI, PNB, Central Bank of India, Union Bank of India, Punjab and Sind Bank, Bank of Baroda, NABARD",
+    "exam_name": "IBPS Clerk, SBI Clerk, RBI Grade B, PNB Specialist Officer, Bank of Baroda Peon",
+    "job_posts_covered": [
+        "Clerk",
+        "Specialist Officer",
+        "Peon",
+        "Apprentice",
+        "Junior Associate",
+        "Office Assistant",
+        "Security Manager",
+        "Local Bank Officer",
+        "Junior Engineer",
+        "Grade B Officer",
+        "Circle Based Officers"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/exam-results/",
+    "extraction_timestamp": "2026-07-30T11:18:52.387465Z"
+}

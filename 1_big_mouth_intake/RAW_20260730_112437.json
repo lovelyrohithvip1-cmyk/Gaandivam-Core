@@ -1,0 +1,33 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "NDA & NA (I) Exam 2020",
+    "job_posts_covered": [
+        "National Defence Academy",
+        "Naval Academy"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Maths": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "GAT": [
+            "English",
+            "General Knowledge",
+            "Science",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/previous-papers/",
+    "extraction_timestamp": "2026-07-30T11:24:37.334764Z"
+}

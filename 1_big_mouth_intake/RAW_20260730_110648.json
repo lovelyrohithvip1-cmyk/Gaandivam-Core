@@ -1,0 +1,24 @@
+{
+    "conducting_body": "AIIMS",
+    "exam_name": "NORCET 11",
+    "job_posts_covered": [
+        "Nursing Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "13-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Nursing": [
+            "Anatomy",
+            "Physiology",
+            "Pharmacology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/odisha-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:06:48.699398Z"
+}

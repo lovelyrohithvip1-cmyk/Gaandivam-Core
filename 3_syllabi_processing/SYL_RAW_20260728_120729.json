@@ -1,0 +1,24 @@
+{
+    "exam_name": "NEET PG 2026",
+    "raw_syllabus": {
+        "Subject": [
+            "Anatomy",
+            "Biochemistry",
+            "Pharmacology",
+            "Pathology",
+            "Microbiology",
+            "Forensic Medicine",
+            "General Medicine",
+            "Pediatrics",
+            "Dermatology",
+            "Psychiatry",
+            "Radio Diagnosis",
+            "General Surgery",
+            "Orthopedics",
+            "Ophthalmology",
+            "Otorhinolaryngology",
+            "Anesthesiology",
+            "Obstetrics and Gynecology"
+        ]
+    }
+}

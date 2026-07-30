@@ -1,0 +1,37 @@
+{
+    "conducting_body": "TSLPRB",
+    "exam_name": "TSLPRB Police Constable Exam",
+    "job_posts_covered": [
+        "Constable",
+        "Warder",
+        "SI"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "30-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/telangana-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:15:22.469577Z"
+}

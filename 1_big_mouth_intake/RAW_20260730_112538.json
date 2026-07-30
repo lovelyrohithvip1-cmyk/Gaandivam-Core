@@ -1,0 +1,31 @@
+{
+    "conducting_body": "NCTE, KVS, NVS, DSSSB, state education boards, central universities",
+    "exam_name": "Teaching and Faculty Jobs",
+    "job_posts_covered": [
+        "Primary Teachers (PRT)",
+        "Trained Graduate Teachers (TGT)",
+        "Post Graduate Teachers (PGT)",
+        "Assistant Professors",
+        "Lecturers",
+        "Principals"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Pedagogy",
+            "Subject-specific topics",
+            "General Knowledge",
+            "Current Affairs"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/teaching-faculty-jobs/",
+    "extraction_timestamp": "2026-07-30T11:25:38.597407Z"
+}

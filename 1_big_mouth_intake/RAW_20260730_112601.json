@@ -1,0 +1,36 @@
+{
+    "conducting_body": "Railway Recruitment Cell, Central Railway (RRC/CR)",
+    "exam_name": "Central Railway Sports Quota Recruitment 2026",
+    "job_posts_covered": [
+        "Group C (Level 5/4 and Level 3/2)",
+        "Level-1 (erstwhile Group 'D')"
+    ],
+    "application_dates": {
+        "start_date": "15/07/2026, 10:00 hrs",
+        "end_date": "14/08/2026, 18:00 hrs"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Trials",
+        "Further selection based on Trials performance"
+    ],
+    "detailed_syllabus": {
+        "Sports Achievement": [
+            "Athletics",
+            "Football",
+            "Kho-Kho",
+            "Volleyball",
+            "Boxing",
+            "Cycling Track",
+            "Handball",
+            "Wrestling (FS)",
+            "Weightlifting",
+            "Cricket",
+            "Hockey",
+            "Powerlifting",
+            "Wrestling (GR)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rrc-central-railway-sports-quota-recruitment-2026-apply-online-for-59-group-c-d-posts-3057882",
+    "extraction_timestamp": "2026-07-30T11:26:01.251812Z"
+}

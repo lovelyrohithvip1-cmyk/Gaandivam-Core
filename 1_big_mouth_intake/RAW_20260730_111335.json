@@ -1,0 +1,59 @@
+{
+    "conducting_body": "NMDC Steel Limited (NSL)",
+    "exam_name": "NMDC Steel Executive Trainee Recruitment 2026",
+    "job_posts_covered": [
+        "Executive Trainee (Ceramics)",
+        "Executive Trainee (Chemical)",
+        "Executive Trainee (Civil)",
+        "Executive Trainee (Computer & Information Technology)",
+        "Executive Trainee (Electrical)",
+        "Executive Trainee (Finance)",
+        "Executive Trainee (Human Resources)",
+        "Executive Trainee (Instrumentation)",
+        "Executive Trainee (Mechanical)",
+        "Executive Trainee (Metallurgy)"
+    ],
+    "application_dates": {
+        "start_date": "22.07.2026, 10:00 AM",
+        "end_date": "11.08.2026, 11:45 PM"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "GD & Interview"
+    ],
+    "detailed_syllabus": {
+        "Ceramics": [
+            "Degree in Ceramic Engineering"
+        ],
+        "Chemical": [
+            "Degree in Chemical Engineering"
+        ],
+        "Civil": [
+            "Degree in Civil Engineering"
+        ],
+        "Computer & Information Technology": [
+            "Degree in Engineering in Computer & Information Technology/Computer Science/Information Science, or M.C.A., or B.E./B.Tech. (Computer/CS/IT), or PG Diploma in Computer Application Programming/Computer Management/Systems Management (two years duration)"
+        ],
+        "Electrical": [
+            "Degree in Electrical & Electronics Engineering"
+        ],
+        "Finance": [
+            "(i) Graduation (ii) CA/ICWA or Engineering Graduate with MBA (Fin.)"
+        ],
+        "Human Resources": [
+            "i. Graduation ii. PG Degree/PG Diploma in Sociology/Social Work/Labour Welfare/Personnel Management/IR/IRPM/HR/HRM, or MBA (Personnel Management/HR/HRM), minimum two years duration"
+        ],
+        "Instrumentation": [
+            "Degree in Instrumentation Engineering/Electronics & Communication Engineering/Electrical Engineering/Electrical & Electronics Engineering"
+        ],
+        "Mechanical": [
+            "Degree in Mechanical Engineering"
+        ],
+        "Metallurgy": [
+            "Degree in Metallurgy Engineering"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/nmdc-steel-limited-executive-trainee-recruitment-2026-notification-apply-online-3059910",
+    "extraction_timestamp": "2026-07-30T11:13:35.827002Z"
+}

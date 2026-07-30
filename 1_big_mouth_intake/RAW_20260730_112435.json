@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Staff Selection Commission",
+    "exam_name": "SSC CGL",
+    "job_posts_covered": [
+        "Assistant Section Officer",
+        "Assistant",
+        "Inspector",
+        "Sub Inspector"
+    ],
+    "application_dates": {
+        "start_date": "September 1, 2024",
+        "end_date": "September 30, 2024"
+    },
+    "fee_structure": "Rs. 100 for General Category",
+    "selection_stages": [
+        "Tier 1 Exam",
+        "Tier 2 Exam",
+        "Tier 3 Exam",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Analogies",
+            "Syllogism",
+            "Number Series"
+        ],
+        "Quantitative Aptitude": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ],
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ]
+    },
+    "data_source_url": "https://www.google.com/preferences/source?q=https://www.freejobalert.com/",
+    "extraction_timestamp": "2026-07-30T11:24:35.113807Z"
+}

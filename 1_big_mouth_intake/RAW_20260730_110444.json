@@ -1,0 +1,48 @@
+{
+    "conducting_body": "Arunachal Pradesh Public Service Commission (APPSC)",
+    "exam_name": "APPSC FAO/TO & STO",
+    "job_posts_covered": [
+        "Finance and Accounts Officer/Treasury Officer (FAO/TO)",
+        "Sub-Treasury Officer (STO)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Recruitment Test (RT)"
+    ],
+    "detailed_syllabus": {
+        "Commercial Mathematics": [
+            "Percentage",
+            "Profit, Loss and Discount",
+            "Simple Interest (SI)",
+            "Compound Interest (CI)",
+            "Banker’s Discount and Bills of Exchange",
+            "Partnership and Division of Money",
+            "Ratio and Proportion",
+            "Time and Interest Applications",
+            "Probability",
+            "Linear Equations/Algebraic Word Problems",
+            "Time and Work",
+            "Basic Statistics"
+        ],
+        "Commerce": [
+            "Financial Accounting",
+            "Cost Accounting",
+            "Taxation",
+            "Auditing",
+            "Financial Management",
+            "Financial Markets and Institutions",
+            "Organisation Theory",
+            "Human Resource Management",
+            "Industrial Relations"
+        ],
+        "Economics": [],
+        "Mathematics": [],
+        "Statistics": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/appsc-fao-to-and-sto-syllabus-3059243",
+    "extraction_timestamp": "2026-07-30T11:04:44.018805Z"
+}

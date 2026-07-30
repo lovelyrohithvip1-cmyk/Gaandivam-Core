@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Northern Coalfields Limited (NCL), a subsidiary of Coal India Limited",
+    "exam_name": "NCL Mining Sirdar & Surveyor Recruitment 2026-27",
+    "job_posts_covered": [
+        "Mining Sirdar T&S Gr. C",
+        "Surveyor (Mining) T&S Gr. B"
+    ],
+    "application_dates": {
+        "start_date": "14-07-2026",
+        "end_date": "05-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer Based Test (CBT)"
+    ],
+    "detailed_syllabus": {
+        "Mining Sirdar": [
+            "Coal Mines Regulation 2017",
+            "Mining Engineering",
+            "Gas Testing",
+            "First Aid"
+        ],
+        "Surveyor": [
+            "Coal Mines Regulation 2017",
+            "Mine Surveying Engineering",
+            "Surveyors' Certificate of Competency (SCC)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ncl-mining-sirdar-surveyor-recruitment-2026-3057766",
+    "extraction_timestamp": "2026-07-30T11:03:38.376546Z"
+}

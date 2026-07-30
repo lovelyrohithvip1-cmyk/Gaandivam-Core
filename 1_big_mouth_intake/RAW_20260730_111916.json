@@ -1,0 +1,170 @@
+{
+    "conducting_body": "Himachal Pradesh Public Service Commission (HPPSC)",
+    "exam_name": "Subject Aptitude Test (SAT)",
+    "job_posts_covered": [
+        "Physiotherapist"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Human Anatomy": [
+            "General Anatomy",
+            "Musculoskeletal system",
+            "Upper and lower extremity",
+            "Spine and thorax",
+            "Head and neck",
+            "Nervous system",
+            "Sensory system",
+            "Cardiovascular system",
+            "Lymphatic system",
+            "Respiratory system",
+            "Digestive system",
+            "Urinary and Reproductive system",
+            "Endocrine system"
+        ],
+        "Human Physiology": [
+            "General Physiology",
+            "Blood",
+            "Cardiovascular system",
+            "Respiratory System",
+            "Nerve Muscle Physiology",
+            "Nervous, Digestive & Renal System",
+            "Endocrinology",
+            "Male & female reproductive system"
+        ],
+        "Pathology": [
+            "Introduction to Pathology",
+            "Cell injuries",
+            "Inflammation and Repair",
+            "Circulatory Disturbances",
+            "Growth Disturbances and Neoplasia",
+            "Hematology",
+            "Respiratory System",
+            "Cardiovascular Pathology",
+            "Hepato Biliary Pathology",
+            "Musculoskeletal System",
+            "Endocrine pathology",
+            "Neuropathology",
+            "Dermatopathology",
+            "Congenital Myopathy & myasthenia gravis"
+        ],
+        "Pharmacology": [
+            "General Pharmacology",
+            "Autonomic Nervous system",
+            "Cardiovascular Pharmacology",
+            "Neuropharmacology",
+            "Disorders of Movement",
+            "Inflammatory/Immune Diseases",
+            "Respiratory Pharmacology",
+            "Digestion and Metabolism",
+            "Geriatrics"
+        ],
+        "General Psychology": [
+            "Introduction to Psychology",
+            "Fields of application of Psychology",
+            "Influence of heredity and environment on the individual",
+            "Learning, Memory, Thinking",
+            "Motivation, Emotions, Attitudes",
+            "Intelligence, Personality"
+        ],
+        "Clinical Biochemistry": [
+            "Nutrition",
+            "Carbohydrates, Lipids, Amino Acids, Proteins",
+            "Study of hemoglobin and myoglobin with their functions",
+            "Enzymes",
+            "Biochemistry of connective tissue",
+            "Vitamins",
+            "Diabetes mellitus"
+        ],
+        "Biomechanics and Kinesiology": [
+            "Mechanics, Motion, Force, Friction, Gravity, Equilibrium",
+            "Levers, Pulleys, Elasticity, Springs",
+            "Muscular system",
+            "Action of muscle in moving bone",
+            "Direction of pull, angle of pull, functional classification",
+            "Coordination of muscular system",
+            "Joint structures and functions",
+            "Posture, Gait",
+            "Bio-Physics"
+        ],
+        "Medical Microbiology": [
+            "Introduction & History of Microbiology",
+            "Classification of microorganism",
+            "Bacteriology, Bacterial growth/Reproduction",
+            "Sterilization & disinfection",
+            "Modes of transmission of diseases",
+            "Bacterial, Viral and Fungal diseases",
+            "Immunity",
+            "AIDS"
+        ],
+        "Exercise Therapy": [
+            "Introduction to exercise therapy",
+            "Mechanical principle applied in human body",
+            "Disability models, Movements",
+            "Passive & active movements, Starting positions",
+            "Relaxation, Suspension, Balance",
+            "Neuromuscular coordination",
+            "Joint range measurement, Measurement of limb length, girth",
+            "Manual muscle testing",
+            "Mobility aids",
+            "Soft tissue manipulation"
+        ],
+        "Electro Therapy": [
+            "Basic components of electric current, Current electricity",
+            "Magnetism, theories of magnetism, properties of magnet",
+            "Electromagnetic induction, electromagnetic radiation, laws governing radiations",
+            "Electrical components, types of electric current, wave forms, current modulation",
+            "Safety issues while using electrical equipments",
+            "Muscle and nerve response to electrical stimulation",
+            "Pain, Low frequency currents",
+            "Electro diagnostic test",
+            "Interferential therapy"
+        ],
+        "Ethics in Physiotherapy": [
+            "History of physiotherapy",
+            "Ethical principles in health care and related to physiotherapy",
+            "Scope of practice",
+            "Enforcing standards in health profession",
+            "Professional ethics in research, education and patient care delivery",
+            "Informed consent issues",
+            "Medical ethics and economics in clinical decision-making",
+            "Rules of professional conduct, confidentiality and responsibility",
+            "Malpractice and negligence",
+            "Provision of services and advertising",
+            "Legal aspects, professionalism and values"
+        ],
+        "Orthopaedics": [
+            "Introduction to Orthopaedics",
+            "Injuries of muscle & tendons, bony & soft tissue injuries, fractures",
+            "Inflammation of bones & joints",
+            "Nutritional & metabolic diseases of bones",
+            "Spine deformities",
+            "Infections of musculoskeletal system",
+            "Congenital malformations",
+            "Developmental diseases of skeleton",
+            "Neuromuscular diseases",
+            "Upper & lower limbs, neuro-vascular diseases, amputations, bone tumors",
+            "Operations, orthopaedic splints and appliances",
+            "Tractions",
+            "Foot arches & their complications",
+            "Rehabilitation of patients"
+        ],
+        "Physiotherapy in Orthopaedic": [
+            "Traumatology",
+            "Physiotherapeutic intervention",
+            "Bone Tissue",
+            "Fracture and dislocations",
+            "Method of immobilization",
+            "Healing of fractures and factors affecting union",
+            "Specific fractures and their physiotherapy management"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/hppsc-physiotherapist-syllabus-and-exam-pattern-3059689",
+    "extraction_timestamp": "2026-07-30T11:19:16.872521Z"
+}

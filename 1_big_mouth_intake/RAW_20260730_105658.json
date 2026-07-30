@@ -1,0 +1,48 @@
+{
+    "conducting_body": "Various Government Institutions",
+    "exam_name": "Post Graduate Government Jobs Exam",
+    "job_posts_covered": [
+        "Staff Assistant",
+        "AM",
+        "Para Medical Posts",
+        "Junior Research Fellow",
+        "Field Investigator",
+        "Registrar",
+        "Finance Officer",
+        "Research Fellow",
+        "Academic Associate",
+        "Project Technical Support III",
+        "Project Research Scientist",
+        "Senior Resident",
+        "Young Professional",
+        "Administrative Officer",
+        "Accounts Assistant",
+        "Consultant",
+        "Project Scientist I",
+        "Project Assistant",
+        "Editorial Assistant",
+        "Guest Lecturer",
+        "Part Time Members"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Application",
+        "Interview",
+        "Merit List"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Reasoning",
+            "Aptitude",
+            "Domain-specific subjects"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/any-post-graduate-government-jobs/",
+    "extraction_timestamp": "2026-07-30T10:56:58.645300Z"
+}

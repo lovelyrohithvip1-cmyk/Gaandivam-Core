@@ -1,0 +1,25 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "RRB NTPC UG CBTST",
+    "job_posts_covered": [
+        "Undergraduate (UG) Level posts"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Computer Based Typing Skill Test (CBTST)",
+        "Document Verification (DV)",
+        "Medical Examination (ME)"
+    ],
+    "detailed_syllabus": {
+        "Typing Skill Test": [
+            "Typing skills"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rrb-ntpc-ug-cbtst-scorecard-2026-3060567",
+    "extraction_timestamp": "2026-07-30T10:58:07.273543Z"
+}

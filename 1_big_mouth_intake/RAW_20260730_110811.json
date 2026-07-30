@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Kerala PSC",
+    "exam_name": "Kerala PSC Exam",
+    "job_posts_covered": [
+        "Assistant Engineer",
+        "Clerk",
+        "Typist",
+        "Beat Forest Officer",
+        "Boat Lascar",
+        "Mechanic",
+        "Teacher"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Mathematics",
+            "English",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/kerala-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:08:11.238059Z"
+}

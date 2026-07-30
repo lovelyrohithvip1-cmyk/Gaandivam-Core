@@ -1,0 +1,54 @@
+{
+    "conducting_body": "Multiple Government Entities",
+    "exam_name": "Various Entrance Exams",
+    "job_posts_covered": [
+        "Banking and Finance Jobs",
+        "UPSC, SSC, PSCs",
+        "Police, Defence & Paramilitary",
+        "Railways (RRB/RRC)",
+        "Engineering & Technical Services",
+        "Teaching & Education",
+        "Medical & Health Department",
+        "State Government Vacancies"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Eligibility details verification",
+        "Application submission",
+        "Exam pattern and syllabus understanding",
+        "Official notification PDF verification"
+    ],
+    "detailed_syllabus": {
+        "JEE": [
+            "Physics",
+            "Chemistry",
+            "Mathematics"
+        ],
+        "NEET": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ],
+        "CET": [
+            "English",
+            "Mathematics",
+            "Science"
+        ],
+        "CTET": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "NTA Exams": [
+            "Subject-specific topics"
+        ]
+    },
+    "data_source_url": "https://play.google.com/store/apps/details?id=com.freejobalert",
+    "extraction_timestamp": "2026-07-30T11:01:06.475828Z"
+}

@@ -1,0 +1,37 @@
+{
+    "conducting_body": "UPPSC",
+    "exam_name": "Combined State / Upper Subordinate Services (PCS) Exam",
+    "job_posts_covered": [
+        "Combined State / Upper Subordinate Services (PCS) Exam"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "03-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Studies": [
+            "Indian History",
+            "Indian Polity",
+            "Geography",
+            "Economy",
+            "Science and Technology"
+        ],
+        "General Hindi": [
+            "Grammar",
+            "Vocabulary",
+            "Comprehension",
+            "Essay Writing"
+        ],
+        "Essay": [
+            "English",
+            "Hindi"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/up-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:17:10.657084Z"
+}

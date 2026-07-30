@@ -1,0 +1,38 @@
+{
+    "conducting_body": "Bhabha Atomic Research Centre (BARC), Department of Atomic Energy",
+    "exam_name": "BARC Recruitment 2026",
+    "job_posts_covered": [
+        "Scientific Assistant/C (Psychologist)",
+        "Scientific Assistant/B (Pathology)",
+        "Scientific Assistant/B (Radiography)",
+        "Scientific Assistant/B (Nuclear Medicine Technologist)"
+    ],
+    "application_dates": {
+        "start_date": "17.07.2026",
+        "end_date": "18.08.2026"
+    },
+    "fee_structure": "₹150 (exempted for SC/ST and Women candidates)",
+    "selection_stages": [
+        "Personal Interview",
+        "Screening test (if response is high)"
+    ],
+    "detailed_syllabus": {
+        "Psychology": [
+            "Clinical Psychology",
+            "Counselling Psychology"
+        ],
+        "Pathology": [
+            "Medical Lab Technology"
+        ],
+        "Radiography": [
+            "Radiography techniques"
+        ],
+        "Nuclear Medicine Technology": [
+            "Medical Radio-Isotope Techniques",
+            "Nuclear Medicine Technology",
+            "Fusion Imaging Technology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/barc-scientific-assistant-recruitment-2026-apply-online-for-06-posts-3059006",
+    "extraction_timestamp": "2026-07-30T11:06:59.078002Z"
+}

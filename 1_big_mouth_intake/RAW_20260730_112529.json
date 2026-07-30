@@ -1,0 +1,36 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB), Ministry of Railways",
+    "exam_name": "RRB Group D Recruitment 2026 (CEN 09/2025)",
+    "job_posts_covered": [
+        "Assistant (Track Machine)",
+        "Assistant (Bridge)",
+        "Track Maintainer (Group IV)",
+        "Assistant (P-Way)",
+        "Assistant (TRD)",
+        "Assistant Loco Shed (Electrical)",
+        "Assistant Operations (Electrical)",
+        "Assistant (TL & AC)",
+        "Assistant (C & W)",
+        "Pointsman B",
+        "Assistant (S & T)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer-Based Test (CBT)",
+        "Physical Efficiency Test (PET)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "General Science": [],
+        "Mathematics": [],
+        "General Intelligence and Reasoning": [],
+        "General Awareness and Current Affairs": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rrb-group-d-city-intimation-slip-2026-3060111",
+    "extraction_timestamp": "2026-07-30T11:25:29.113499Z"
+}

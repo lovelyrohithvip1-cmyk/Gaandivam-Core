@@ -1,0 +1,30 @@
+{
+    "exam_name": "SBI PO Recruitment 2026",
+    "raw_syllabus": {
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Data Interpretation",
+            "Number Series",
+            "Quadratic Equations"
+        ],
+        "Reasoning Ability": [
+            "Logical Reasoning",
+            "Data Sufficiency",
+            "Puzzles"
+        ],
+        "Data Analysis & Interpretation": [
+            "Caselets",
+            "Tables",
+            "Graphs"
+        ],
+        "General Awareness / Economy / Banking Knowledge": [
+            "Current Affairs",
+            "Banking Awareness",
+            "Economic News"
+        ]
+    }
+}

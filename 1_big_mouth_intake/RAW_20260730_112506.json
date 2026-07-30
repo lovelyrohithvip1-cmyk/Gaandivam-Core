@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Mumbai University",
+    "exam_name": "Mumbai University Exam Result 2026",
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [],
+    "detailed_syllabus": {
+        "Bachelor of Engineering": [
+            "Electronics and Biomedical Engineering",
+            "Electrical Engineering - Electronic and Power",
+            "Electrical and Computer Engineering",
+            "Data Engineering",
+            "Computer Science and Engineering - Data Science",
+            "CSE - IOT and Cyber Security Including Blockchain Technology",
+            "Computer Science and Engineering",
+            "Computer Science and Design",
+            "Civil Engineering and Planning",
+            "Civil and Infrastructure Engineering",
+            "Chemical Engineering",
+            "Automation and Robotics",
+            "Artificial Intelligence and Machine Learning"
+        ],
+        "Master of Commerce": [
+            "Banking and Finance"
+        ],
+        "Master of Library & Information Sciences": [
+            "Library & Information Science"
+        ],
+        "Master of Arts": [
+            "Eurasian Studies",
+            "Philosophy"
+        ],
+        "M.E. Mechanical Engineering": [
+            "Machine Design"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mumbai-university-exam-result-2026-out-check-be-me-ma-mcom-and-mlis-results-online-3060869",
+    "extraction_timestamp": "2026-07-30T11:25:06.678073Z"
+}

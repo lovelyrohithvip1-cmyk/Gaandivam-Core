@@ -1,0 +1,27 @@
+{
+    "conducting_body": "Indian Air Force (IAF)",
+    "exam_name": "AFCAT (Air Force Common Admission Test)",
+    "job_posts_covered": [
+        "Flying Branch",
+        "Ground Duty Staff (Technical & Non-Technical)",
+        "NCC Special Entry"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Test",
+        "AFSB Test",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "General Awareness": null,
+        "English": null,
+        "Numerical Ability": null,
+        "Reasoning and Military Aptitude Test": null
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/afcat-2-exam-city-intimation-slip-2026-3060811",
+    "extraction_timestamp": "2026-07-30T10:54:59.139131Z"
+}

@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Mazagon Dock Shipbuilders Limited (MDL), Apprentice Training School",
+    "exam_name": "MDL Trade Apprentice Batch 2026",
+    "job_posts_covered": [
+        "Trade Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Written Examination (MCQ)"
+    ],
+    "detailed_syllabus": {
+        "Group A (Non-ITI)": [
+            "English & General Knowledge - SSC Maharashtra State Board Level",
+            "Physics - SSC Maharashtra State Board Level",
+            "Chemistry - SSC Maharashtra State Board Level",
+            "Mathematics - SSC Maharashtra State Board Level"
+        ],
+        "Group B1 (ITI Passed)": [
+            "English & General Knowledge - SSC Maharashtra State Board Level",
+            "Trade Theory - as per the prescribed Maharashtra ITI syllabus of the respective trade",
+            "Workshop Calculation & Science - as per the prescribed Maharashtra ITI syllabus of the respective trade",
+            "Engineering Drawing - as per the syllabus of the respective trade"
+        ],
+        "Group B2 (ITI Passed)": [
+            "English & General Knowledge - 8th Standard of 10+2 system",
+            "Trade Theory - as per the prescribed Maharashtra ITI syllabus of the respective trade",
+            "Workshop Calculation & Science - as per the prescribed Maharashtra ITI syllabus of the respective trade",
+            "Engineering Drawing - as per the syllabus of the respective trade"
+        ],
+        "Group C (Non-ITI)": [
+            "English & General Knowledge - 8th Standard of 10+2 system, Maharashtra State Board Level",
+            "Physics - 8th Standard of 10+2 system",
+            "Chemistry - 8th Standard of 10+2 system",
+            "Mathematics - 8th Standard of 10+2 system"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mdl-trade-apprentice-syllabus-3060084",
+    "extraction_timestamp": "2026-07-30T11:22:49.830489Z"
+}

@@ -1,0 +1,59 @@
+{
+    "conducting_body": "Staff Selection Commission",
+    "exam_name": "CHSL",
+    "job_posts_covered": [
+        "Lower Divisional Clerk (LDC)/ Junior Secretariat Assistant (JSA)",
+        "Postal Assistant (PA)/ Sorting Assistant (SA)",
+        "Data Entry Operator (DEO)",
+        "Data Entry Operator, Grade 'A'"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "30 Jul 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Tier 1: Computer-Based Examination",
+        "Tier 2: Descriptive Paper",
+        "Tier 3: Skill Test/ Typing Test"
+    ],
+    "detailed_syllabus": {
+        "English Language": [
+            "Reading Comprehension",
+            "Fill in the Blanks",
+            "Spellings",
+            "Phrases and Idioms",
+            "Error Spotting",
+            "Synonyms and Antonyms"
+        ],
+        "General Intelligence": [
+            "Reasoning",
+            "Analogy",
+            "Figure Classification",
+            "Pattern Completion",
+            "Number Series",
+            "Coding-Decoding"
+        ],
+        "Quantitative Aptitude": [
+            "Simplification",
+            "Interest",
+            "Percentage",
+            "Ratio and Proportion",
+            "Average",
+            "Time and Work",
+            "Time and Distance",
+            "Mixture Problems",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "History",
+            "Culture",
+            "Geography",
+            "Economic Scene",
+            "General Polity",
+            "Scientific Research"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/last-date-reminder/",
+    "extraction_timestamp": "2026-07-30T10:56:55.953804Z"
+}

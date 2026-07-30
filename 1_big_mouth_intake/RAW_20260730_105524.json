@@ -1,0 +1,60 @@
+{
+    "conducting_body": "Assam Public Service Commission (APSC)",
+    "exam_name": "Screening Test",
+    "job_posts_covered": [
+        "Assistant Geologist",
+        "Chemist",
+        "Drilling Engineer",
+        "Assistant Mining Engineer",
+        "Geophysicist"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Screening Test"
+    ],
+    "detailed_syllabus": {
+        "General Studies": [
+            "Constitution and Political System of India",
+            "Current events of National and International Importance",
+            "Indian Economy and Planning Process of India",
+            "Geography of India, Assam and World",
+            "Role of Science and Technology in India",
+            "Culture and History of Assam, India and World",
+            "Indian National Movement with special reference to Assam"
+        ],
+        "Geology": [
+            "Structural Geology and Seismology",
+            "Mineralogy, Crystal Chemistry and Thermodynamics in Geology",
+            "Geoinformatics, Geomorphology and Quaternary Geology",
+            "Hydrogeology, Climatology and Oceanography",
+            "Igneous and Metamorphic Petrology",
+            "Geochemistry, Isotope Geology and Engineering Geology",
+            "Economic Geology",
+            "Sedimentology, and Surveying and Mapping",
+            "Stratigraphy and Geodynamics",
+            "Palaeontology and Fuel Geology",
+            "Fluvial System and Environmental Geology"
+        ],
+        "Chemistry": [
+            "Inorganic Chemistry",
+            "Modern Methods of Analysis",
+            "Physical Chemistry",
+            "Experiments on Conductometric Titrations"
+        ],
+        "Mechanical Engineering": [
+            "Not specified in the official notification"
+        ],
+        "Mining and Geology": [
+            "Not specified in the official notification"
+        ],
+        "Geophysics": [
+            "Not specified in the official notification"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/apsc-assistant-geologist-and-other-post-syllabus-3059193",
+    "extraction_timestamp": "2026-07-30T10:55:24.112304Z"
+}

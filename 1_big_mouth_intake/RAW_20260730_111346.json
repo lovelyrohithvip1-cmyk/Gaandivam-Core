@@ -1,0 +1,38 @@
+{
+    "conducting_body": "UPPSC",
+    "exam_name": "Combined State / Upper Subordinate Services (PCS) Exam",
+    "job_posts_covered": [
+        "Civil Judge (Junior Division)",
+        "Additional District Judge",
+        "High Court Judge",
+        "Law Officer",
+        "Legal Officer",
+        "Assistant Prosecution Officer",
+        "Legal Consultant",
+        "Assistant Public Prosecutor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "2026-08-03"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Mains Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Law": [
+            "Constitutional Law",
+            "Contract Law",
+            "Criminal Law",
+            "Family Law",
+            "Property Law",
+            "Company Law",
+            "Environmental Law",
+            "Human Rights Law"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/law-jobs/",
+    "extraction_timestamp": "2026-07-30T11:13:46.456608Z"
+}

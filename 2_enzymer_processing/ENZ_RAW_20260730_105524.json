@@ -1,0 +1,20 @@
+{
+    "exam_name": "Screening Test",
+    "educational_qualifications": [
+        "Bachelor's degree in Geology or allied subjects",
+        "M.Sc. in Geology or allied subjects",
+        "B.E./B.Tech. in relevant disciplines"
+    ],
+    "age_limits": "Not specified",
+    "salary_details": "Not specified",
+    "number_of_posts": "Not specified",
+    "medical_physical_fitness": "Not specified",
+    "quotas_and_gender_rules": "Not specified",
+    "application_fee": "Not specified",
+    "important_dates": {
+        "release": "Not specified",
+        "deadline": "Not specified",
+        "extensions": "Not specified"
+    },
+    "application_link": "Not specified"
+}

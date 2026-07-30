@@ -1,0 +1,29 @@
+{
+    "conducting_body": "Andaman and Nicobar Administration",
+    "exam_name": "Depot Clerk, Storekeeper and More",
+    "job_posts_covered": [
+        "Depot Clerk",
+        "Storekeeper"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "30-07-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/state-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:18:43.409683Z"
+}

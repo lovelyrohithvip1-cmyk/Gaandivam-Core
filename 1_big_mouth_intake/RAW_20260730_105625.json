@@ -1,0 +1,73 @@
+{
+    "conducting_body": "Indian Navy",
+    "exam_name": "Indian Navy SSC Officer Recruitment 2026",
+    "job_posts_covered": [
+        "Executive Branch (GS(X)/Hydro Cadre)",
+        "Pilot",
+        "Naval Air Operations Officer (Observers)",
+        "Air Traffic Controller (ATC)",
+        "Logistics",
+        "Naval Armament Inspectorate Cadre (NAIC)",
+        "Education",
+        "Engineering Branch (General Service – GS)",
+        "Submarine Tech Engineering",
+        "Electrical Branch (General Service – GS)",
+        "Submarine Tech Electrical",
+        "Naval Constructor"
+    ],
+    "application_dates": {
+        "start_date": "25 June 2026",
+        "end_date": "03 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Training at Indian Naval Academy (INA), Ezhimala, Kerala"
+    ],
+    "detailed_syllabus": {
+        "Executive Branch (GS(X)/Hydro Cadre)": [
+            "BE/B.Tech in any discipline with minimum 60% marks"
+        ],
+        "Pilot": [
+            "BE/B.Tech in any discipline with minimum 60% marks",
+            "60% aggregate in Class X and XII",
+            "minimum 60% marks in English in Class X or Class XII"
+        ],
+        "Naval Air Operations Officer (Observers)": [
+            "BE/B.Tech in any discipline with minimum 60% marks",
+            "60% aggregate in Class X and XII",
+            "minimum 60% marks in English in Class X or Class XII"
+        ],
+        "Air Traffic Controller (ATC)": [
+            "Same as Pilot / Observers entry"
+        ],
+        "Logistics": [
+            "BE/B.Tech in any discipline with First Class",
+            "MBA with First Class",
+            "B.Sc/B.Com/B.Sc (IT) with First Class along with PG Diploma in Finance/Logistics/Supply Chain Management/Material Management",
+            "MCA/M.Sc (IT) with First Class"
+        ],
+        "Naval Armament Inspectorate Cadre (NAIC)": [
+            "BE/B.Tech with minimum 60% marks in streams including Mechanical, Aeronautical, Electrical & Electronics, Electronics, Micro Electronics, Industrial Production, Instrumentation & Control, Electronics & Communication, Industrial Engineering, Aero Space, Control Engineering, Information Technology, Production, Instrumentation, Applied Electronics & Instrumentation, Electronics & Tele Communication, Computer Science, Computer Engineering, Computer Application, Metallurgy, Metallurgical, Chemical, Material Science",
+            "Post Graduate degree in Electronics/Physics"
+        ],
+        "Education": [
+            "MSc/MA in Maths/Operational Research/Physics/Applied Physics/Meteorology/Oceanography/Atmospheric Sciences",
+            "MA (History) with min 55%",
+            "BE/B.Tech in Mechanical/Production/Electrical/Electronics/Communication/Electronics and Instrumentation",
+            "ME/M.Tech in Electronics/Communication/Controls/Radar/Microwave/Optical Fibre Communication/Digital Signal Processing/VLSI etc.",
+            "ME/M.Tech in Thermal/Production/Machine Design/Mechatronics/Meteorology/Oceanography/Atmospheric Sciences (with Physics and Maths at graduation)"
+        ],
+        "Engineering Branch (GS)": [
+            "BE/B.Tech with minimum 60% marks in Marine Engineering, Instrumentation Engineering, Production Engineering, Industrial Engineering & Management, Aero Space Engineering, Automobiles Engineering, Control Engineering, Instrumentation & Control, Metallurgy Engineering, Mechatronics Engineering, Aeronautical Engineering, Mechanical/Mechanical with Automation"
+        ],
+        "Submarine Tech Engineering": [
+            "Same as Engineering Branch (GS)"
+        ],
+        "Electrical Branch (GS)": [
+            "BE/B.Tech with minimum 60% marks in Electrical Engineering, Electronics Engineering, Electrical & Electronics, Electronics & Tele Communication, Applied Electronics & Instrumentation, Instrumentation & Control"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/indian-navy-ssc-officer-recruitment-2026-notification-out-apply-online-for-257-posts-3055149",
+    "extraction_timestamp": "2026-07-30T10:56:25.430726Z"
+}

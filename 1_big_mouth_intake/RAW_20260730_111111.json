@@ -1,0 +1,46 @@
+{
+    "conducting_body": "Union Bank of India",
+    "exam_name": "Union Bank Recruitment Project 2026–27",
+    "job_posts_covered": [
+        "General Banking Officers",
+        "Specialist Officers"
+    ],
+    "application_dates": {
+        "start_date": "21.07.2026",
+        "end_date": "10.08.2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Banking": [
+            "Financial Crimes",
+            "Anti Money Laundering",
+            "Fraud Investigation",
+            "Project Management",
+            "Taxation",
+            "Ind AS",
+            "Capital Planning",
+            "Investor Relations",
+            "Disaster Management",
+            "Operational Risk",
+            "BCP"
+        ],
+        "Specialized Segment": [
+            "IT",
+            "Forex",
+            "Chartered Accountancy",
+            "Risk Management",
+            "Law",
+            "Architecture",
+            "Engineering",
+            "Fire Safety",
+            "Printing",
+            "Vendor Management"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/union-bank-of-india-so-recruitment-2026-apply-online-for-395-specialist-officers-general-banking-officers-and-officers-posts-3059262",
+    "extraction_timestamp": "2026-07-30T11:11:11.200651Z"
+}

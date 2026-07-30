@@ -1,0 +1,62 @@
+{
+    "conducting_body": "BEML Limited (A Govt of India Undertaking)",
+    "exam_name": "BEML Executive Recruitment 2026",
+    "job_posts_covered": [
+        "Head FPI&IC - Executive Director (Gr X) or Chief General Manager (Gr IX)",
+        "Chief General Manager (Gr IX) - Head Armoured Business",
+        "Chief General Manager (Gr IX) - Head Engine R&D",
+        "General Manager (Gr VIII) - Construction Equipment Business",
+        "Deputy General Manager (Gr VII) - Engine Assembly",
+        "Deputy General Manager (Gr VII) - Production Planning (Rolling Stock)",
+        "Deputy General Manager (Gr VII) - Marketing & Bid Management",
+        "Assistant General Manager (Gr VI) - Project/Contract Management",
+        "Assistant General Manager (Gr VI) - Testing & Commissioning",
+        "Assistant General Manager (Gr VI) - Material Management",
+        "Senior Manager (Gr V) - R&D FEA/CAE",
+        "Manager (Gr IV) - Aerospace (R&D)-Electrical",
+        "Manager (Gr IV) - R&D HVAC System",
+        "Manager (Gr IV) - Car Body Structure (HSR Project)",
+        "Assistant Manager (Gr III) - T&C Rolling Stock",
+        "Assistant Manager (Gr III) - R&D TCMS, Propulsion System",
+        "Assistant Manager (Gr III) - R&D Maritime",
+        "Assistant Manager (Gr III) - Raj Bhasha (Official Language)",
+        "Engineer (Gr II) - Tooling",
+        "Engineer (Gr II) - Rolling Stock (Doors, Mechanical Engineer)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "01.08.2026, 18:00 Hrs"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting",
+        "Assessment",
+        "Pre-employment Medical Examination",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Mechanical Engineering": [
+            "Design",
+            "Thermal Engineering",
+            "Automobile Engineering",
+            "Tool Engineering",
+            "Tool Design",
+            "Rail Vehicle Technology"
+        ],
+        "Electrical Engineering": [
+            "Electrical Engineering",
+            "Electronics Engineering",
+            "HVAC System",
+            "FEA tools",
+            "CAE"
+        ],
+        "Other Subjects": [
+            "Hindi",
+            "Hindi Translation",
+            "Naval Architecture",
+            "Ocean Engineering"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/beml-executive-recruitment-2026-apply-online-for-23-engineer-assistant-manager-and-more-posts-3057401",
+    "extraction_timestamp": "2026-07-30T11:01:40.833625Z"
+}

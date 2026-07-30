@@ -1,0 +1,35 @@
+{
+    "conducting_body": "NTA",
+    "exam_name": "JEE (Main)",
+    "job_posts_covered": [
+        "Engineering"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Exam",
+        "Counselling"
+    ],
+    "detailed_syllabus": {
+        "Physics": [
+            "Mechanics",
+            "Thermodynamics",
+            "Electromagnetism"
+        ],
+        "Chemistry": [
+            "Inorganic Chemistry",
+            "Organic Chemistry",
+            "Physical Chemistry"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Calculus",
+            "Geometry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/education/",
+    "extraction_timestamp": "2026-07-30T11:15:53.411637Z"
+}

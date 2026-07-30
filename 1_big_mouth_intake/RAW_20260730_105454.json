@@ -1,0 +1,69 @@
+{
+    "conducting_body": "Airports Authority of India (AAI)",
+    "exam_name": "AAI Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Graduate Apprentice - Engineering (Civil)",
+        "Diploma Apprentice - Engineering (Civil)",
+        "Graduate Apprentice - Engineering (Electrical)",
+        "Diploma Apprentice - Engineering (Electrical)",
+        "Trade Apprentice (ITI) - Engineering (Electrical)",
+        "Graduate Apprentice - Electronics and Communication",
+        "Diploma Apprentice - Electronics and Tele Communication",
+        "Trade Apprentice (ITI) - Electronics & Mechanics",
+        "Graduate Apprentice - IT",
+        "Graduate Apprentice - Technical",
+        "Diploma Apprentice - Technical",
+        "Trade Apprentice (ITI) - Computer Operator and Programming Assistant (COPA)"
+    ],
+    "application_dates": {
+        "start_date": "21-07-2026",
+        "end_date": "24-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Provisional selection based on percentage of marks",
+        "Interview",
+        "Document verification",
+        "Medical Fitness Certificate"
+    ],
+    "detailed_syllabus": {
+        "Graduate Apprentice - Engineering (Civil)": [
+            "Relevant engineering subjects"
+        ],
+        "Diploma Apprentice - Engineering (Civil)": [
+            "Relevant engineering subjects"
+        ],
+        "Graduate Apprentice - Engineering (Electrical)": [
+            "Relevant engineering subjects"
+        ],
+        "Diploma Apprentice - Engineering (Electrical)": [
+            "Relevant engineering subjects"
+        ],
+        "Trade Apprentice (ITI) - Engineering (Electrical)": [
+            "Relevant trade subjects"
+        ],
+        "Graduate Apprentice - Electronics and Communication": [
+            "Relevant engineering subjects"
+        ],
+        "Diploma Apprentice - Electronics and Tele Communication": [
+            "Relevant engineering subjects"
+        ],
+        "Trade Apprentice (ITI) - Electronics & Mechanics": [
+            "Relevant trade subjects"
+        ],
+        "Graduate Apprentice - IT": [
+            "Relevant IT subjects"
+        ],
+        "Graduate Apprentice - Technical": [
+            "Relevant technical subjects"
+        ],
+        "Diploma Apprentice - Technical": [
+            "Relevant technical subjects"
+        ],
+        "Trade Apprentice (ITI) - Computer Operator and Programming Assistant (COPA)": [
+            "Relevant trade subjects"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/aai-nscbi-airport-apprentice-recruitment-2026-apply-online-for-38-posts-3060594",
+    "extraction_timestamp": "2026-07-30T10:54:54.239806Z"
+}

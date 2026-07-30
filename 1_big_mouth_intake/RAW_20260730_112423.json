@@ -1,0 +1,39 @@
+{
+    "conducting_body": "Central Warehousing Corporation (CWC)",
+    "exam_name": "CWC Young Professional Recruitment 2026",
+    "job_posts_covered": [
+        "Young Professional (Learning & Development)",
+        "Young Professional (PCS Marketing)",
+        "Young Professional (Marketing & Business Development) - Hyderabad",
+        "Young Professional (Marketing & Business Development) - Jaipur"
+    ],
+    "application_dates": {
+        "start_date": "09.07.2026",
+        "end_date": "05.08.2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Shortlisting",
+        "Interview/Selection"
+    ],
+    "detailed_syllabus": {
+        "Learning & Development": [
+            "Training Needs Analysis (TNA)",
+            "Annual Training and Capacity Building Plan",
+            "Leadership development programs"
+        ],
+        "PCS Marketing": [
+            "Pest control techniques and services",
+            "Market surveys and competitor analysis",
+            "Digital and offline marketing initiatives"
+        ],
+        "Marketing & Business Development": [
+            "Market research",
+            "Stakeholder identification",
+            "Trends and competitor analysis"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/cwc-young-professional-recruitment-2026-3057392",
+    "extraction_timestamp": "2026-07-30T11:24:23.448257Z"
+}

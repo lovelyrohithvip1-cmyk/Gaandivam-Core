@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Uttar Pradesh Shiksha Seva Chayan Ayog (UPESSC)",
+    "exam_name": "UP TGT (Trained Graduate Teacher) Exam 2026",
+    "job_posts_covered": [
+        "Trained Graduate Teacher (TGT) posts across 14 subjects"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination",
+        "Screening Result (1.5x candidates for document verification)",
+        "Final Result"
+    ],
+    "detailed_syllabus": {
+        "Hindi": null,
+        "Maths (Ganit)": null,
+        "Science (Vigyan)": null,
+        "Social Science (Samajik Vigyan)": null,
+        "Urdu": null,
+        "Physical Education (Sharirik Shiksha)": null,
+        "Agriculture (Krishi)": null,
+        "Music Vocal (Sangeet Gayan)": null,
+        "Music Instrumental (Sangeet Vadan)": null,
+        "Biology (Jeev Vigyan)": null,
+        "Home Science (Grih Vigyan)": null,
+        "Sanskrit": null,
+        "Commerce (Vanijya)": null,
+        "Art (Kala)": null
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/up-tgt-result-2026-3060664",
+    "extraction_timestamp": "2026-07-30T11:15:32.963189Z"
+}

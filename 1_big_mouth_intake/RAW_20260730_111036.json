@@ -1,0 +1,38 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "RRB ALP CBT 2",
+    "job_posts_covered": [
+        "Assistant Loco Pilot (ALP)"
+    ],
+    "application_dates": {
+        "start_date": "12 April 2025",
+        "end_date": "19 May 2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "CBT 1",
+        "CBT 2",
+        "CBAT (Computer Based Aptitude Test)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "various topics"
+        ],
+        "General Intelligence & Reasoning": [
+            "various topics"
+        ],
+        "Basic Science & Engineering": [
+            "various topics"
+        ],
+        "General Awareness & Current Affairs": [
+            "various topics"
+        ],
+        "Trade-specific questions": [
+            "relevant to ALP qualification"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rrb-alp-cbt-2-admit-card-2026-3060288",
+    "extraction_timestamp": "2026-07-30T11:10:36.860777Z"
+}

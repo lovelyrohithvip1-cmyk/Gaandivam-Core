@@ -1,0 +1,54 @@
+{
+    "conducting_body": "Various Government Organizations",
+    "exam_name": "B.Com Government Jobs Exam",
+    "job_posts_covered": [
+        "Accountant",
+        "Apprentice",
+        "Assistant Manager",
+        "Deputy Manager",
+        "Sub Inspector",
+        "Office Assistant",
+        "Project Coordinator",
+        "Executive Assistant",
+        "Data Analyst"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Skill Test"
+    ],
+    "detailed_syllabus": {
+        "Accountancy": [
+            "Financial Accounting",
+            "Cost Accounting",
+            "Management Accounting"
+        ],
+        "Business Law": [
+            "Indian Contract Act",
+            "Companies Act",
+            "Consumer Protection Act"
+        ],
+        "Economics": [
+            "Microeconomics",
+            "Macroeconomics",
+            "International Trade"
+        ],
+        "Quantitative Aptitude": [
+            "Numerical Ability",
+            "Data Interpretation",
+            "Reasoning Ability"
+        ],
+        "English Language": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:23:00.569817Z"
+}

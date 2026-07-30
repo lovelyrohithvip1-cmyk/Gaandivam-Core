@@ -1,0 +1,29 @@
+{
+    "conducting_body": "APPSC",
+    "exam_name": "APPSC Exam",
+    "job_posts_covered": [
+        "Forest Range Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "Aptitude": [
+            "Reasoning",
+            "Mathematics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/ap-government-jobs/",
+    "extraction_timestamp": "2026-07-30T11:24:32.850828Z"
+}
