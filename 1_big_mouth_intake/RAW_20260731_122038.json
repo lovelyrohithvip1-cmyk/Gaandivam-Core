@@ -1,0 +1,81 @@
+{
+    "conducting_body": "Uttarakhand Board of School Education (UBSE)",
+    "exam_name": "Uttarakhand Teacher Eligibility Test (UTET-I & II) 2026",
+    "job_posts_covered": [
+        "Primary Teacher",
+        "Upper Primary Teacher"
+    ],
+    "application_dates": {
+        "start_date": "14 July 2026",
+        "end_date": "03 August 2026"
+    },
+    "fee_structure": {
+        "General / OBC": {
+            "UTET-I or UTET-II": "₹600",
+            "Both Papers": "₹1000"
+        },
+        "SC / ST / PwD": {
+            "UTET-I or UTET-II": "₹300",
+            "Both Papers": "₹500"
+        }
+    },
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "UTET-I (Primary Level)": {
+            "Child Development & Pedagogy": [
+                "Child Development",
+                "Pedagogy"
+            ],
+            "Language-I": [
+                "Comprehension",
+                "Language Skills"
+            ],
+            "Language-II": [
+                "Comprehension",
+                "Language Skills"
+            ],
+            "Mathematics": [
+                "Number System",
+                "Algebra",
+                "Geometry",
+                "Measurement"
+            ],
+            "Environmental Studies": [
+                "Family and Friends",
+                "Food",
+                "Shelter",
+                "Water",
+                "Travel",
+                "Plant Life"
+            ]
+        },
+        "UTET-II (Upper Primary Level)": {
+            "Child Development & Pedagogy": [
+                "Child Development",
+                "Pedagogy"
+            ],
+            "Language-I": [
+                "Comprehension",
+                "Language Skills"
+            ],
+            "Language-II": [
+                "Comprehension",
+                "Language Skills"
+            ],
+            "Mathematics & Science": [
+                "Mathematics",
+                "Science"
+            ],
+            "Social Studies": [
+                "History",
+                "Geography",
+                "Civics",
+                "Economics"
+            ]
+        }
+    },
+    "data_source_url": "https://haryanajobs.in/uktet-2026-notification/",
+    "extraction_timestamp": "2026-07-31T12:20:38.637763Z"
+}

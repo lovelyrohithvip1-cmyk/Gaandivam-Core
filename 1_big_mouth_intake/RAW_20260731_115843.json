@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Chandigarh Administration",
+    "exam_name": "Chandigarh Administration Clerk & Typist",
+    "job_posts_covered": [
+        "Clerk",
+        "Steno – Typist"
+    ],
+    "application_dates": {
+        "start_date": "06 April 2026",
+        "end_date": "26 April 2026"
+    },
+    "fee_structure": {
+        "Gen/ OBC/ EWS": "Rs. 1000/-",
+        "SC/ ST/ PWD": "Rs. 500/-"
+    },
+    "selection_stages": [
+        "Written Exam",
+        "Skill Test",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Clerk": [
+            "Graduate + Typing"
+        ],
+        "Steno – Typist": [
+            "Graduate + Typing + Stenography Skills"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/chandigarh-administration-clerk-typist-admit-card-2026/",
+    "extraction_timestamp": "2026-07-31T11:58:43.774732Z"
+}

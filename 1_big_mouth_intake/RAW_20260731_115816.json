@@ -1,0 +1,66 @@
+{
+    "conducting_body": "Defence Services Staff College (DSSC)",
+    "exam_name": "DSSC Recruitment 2026",
+    "job_posts_covered": [
+        "Lower Division Clerk",
+        "Civilian Motor Driver",
+        "Multi Tasking Staff",
+        "Stenographer Grade-II",
+        "Supervisor (Networking)",
+        "Network Administrator",
+        "Hardware Administrator",
+        "Lineman",
+        "Boat Builder",
+        "Technical Attendant"
+    ],
+    "application_dates": {
+        "start_date": "23 May 2026",
+        "end_date": "12 June 2026"
+    },
+    "fee_structure": "Rs. 100/-",
+    "selection_stages": [
+        "Written Exam",
+        "Skill/Trade Test",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Lower Division Clerk": [
+            "Typing Knowledge"
+        ],
+        "Civilian Motor Driver": [
+            "Valid Driving License",
+            "02 Years Exp."
+        ],
+        "Multi Tasking Staff": [
+            "10th Pass"
+        ],
+        "Stenographer Grade-II": [
+            "Stenography Skills"
+        ],
+        "Supervisor (Networking)": [
+            "Diploma/Degree in Related Field"
+        ],
+        "Network Administrator": [
+            "Technical Qualification",
+            "02 Years Exp."
+        ],
+        "Hardware Administrator": [
+            "Technical Qualification",
+            "02 Years Exp."
+        ],
+        "Lineman": [
+            "ITI/Relevant Trade",
+            "02 Years Exp."
+        ],
+        "Boat Builder": [
+            "Relevant Experience"
+        ],
+        "Technical Attendant": [
+            "Relevant Trade Qualification",
+            "01 Years Exp."
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/dssc-recruitment-2026/",
+    "extraction_timestamp": "2026-07-31T11:58:16.834992Z"
+}

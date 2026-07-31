@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Various Government Bodies",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Ambala Court Clerk",
+        "Prime Minister PM Internship",
+        "UP Police Constable",
+        "HSSC CET",
+        "SSB CT to SI (Non-GD)",
+        "Delhi Police",
+        "Indian Air Force AFCAT",
+        "NVS Hostel Superintendent",
+        "ISRO Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "PET",
+        "PST"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-07-31T12:22:46.424467Z"
+}

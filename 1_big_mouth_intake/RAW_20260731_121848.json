@@ -1,0 +1,48 @@
+{
+    "conducting_body": "Indian Air Force",
+    "exam_name": "Agniveervayu Intake 02/2027 Recruitment 2026",
+    "job_posts_covered": [
+        "Agniveervayu (Science Subjects)",
+        "Agniveervayu (Other Than Science Subjects)",
+        "Airmen Group ‘Y’ Medical Assistant (10+2)",
+        "Airmen Group ‘Y’ Medical Assistant (Pharmacist)"
+    ],
+    "application_dates": {
+        "start_date": "06 July 2026",
+        "end_date": "26 July 2026"
+    },
+    "fee_structure": "₹550 + 18% GST",
+    "selection_stages": [
+        "Phase-I Online Examination",
+        "Physical Fitness Test (PFT)",
+        "Adaptability Test-I",
+        "Adaptability Test-II",
+        "Medical Examination",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Science Subjects": [
+            "Mathematics",
+            "Physics",
+            "English"
+        ],
+        "Other Than Science Subjects": [
+            "Any stream with minimum 50% marks in aggregate and 50% marks in English"
+        ],
+        "Medical Assistant (10+2)": [
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "English"
+        ],
+        "Medical Assistant (Pharmacist)": [
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "English",
+            "Diploma / B.Pharmacy / B.Sc Pharmacy"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/indian-air-force-agniveervayu-intake-02-2027/",
+    "extraction_timestamp": "2026-07-31T12:18:48.313491Z"
+}

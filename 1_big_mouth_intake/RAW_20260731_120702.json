@@ -1,0 +1,38 @@
+{
+    "conducting_body": "Delhi Subordinate Services Selection Board (DSSSB)",
+    "exam_name": "DSSSB Recruitment Exam 2025",
+    "job_posts_covered": [
+        "DSSSB Post Code 46/25",
+        "Ambala Court Clerk",
+        "Prime Minister PM Internship Scheme",
+        "UP Police Constable",
+        "HSSC CET",
+        "SSB CT to SI (Non-GD)",
+        "Delhi Police",
+        "Indian Air Force AFCAT",
+        "NVS Hostel Superintendent",
+        "ISRO Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "PET",
+        "PST"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Mathematics",
+            "English",
+            "Hindi"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/dsssb-exam-schedule-2025/",
+    "extraction_timestamp": "2026-07-31T12:07:02.707984Z"
+}

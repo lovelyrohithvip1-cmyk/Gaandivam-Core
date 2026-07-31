@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Staff Selection Commission (SSC)",
+    "exam_name": "SSC GD Constable Examination 2026",
+    "job_posts_covered": [
+        "Constable (GD) in various Central Armed Police Forces (CAPFs)",
+        "Constable (GD) in SSF",
+        "Constable (GD) in Assam Rifles",
+        "Constable (GD) in other paramilitary organizations"
+    ],
+    "application_dates": {
+        "start_date": "01 December 2025",
+        "end_date": "31 December 2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer-Based Examination (CBT)",
+        "Physical Efficiency Test (PET)",
+        "Physical Standard Test (PST)",
+        "Document Verification",
+        "Medical Examination",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Subject": null
+    },
+    "data_source_url": "https://haryanajobs.in/ssc-gd-result-2026/",
+    "extraction_timestamp": "2026-07-31T11:57:02.544439Z"
+}

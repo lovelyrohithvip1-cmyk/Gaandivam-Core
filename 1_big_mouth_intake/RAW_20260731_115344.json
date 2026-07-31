@@ -1,0 +1,29 @@
+{
+    "conducting_body": "Bank of India (BOI)",
+    "exam_name": "Bank of India Credit Officer Recruitment 2026",
+    "job_posts_covered": [
+        "Credit Officer (GBO Stream) - MMGS-II",
+        "Credit Officer (GBO Stream) - MMGS-III",
+        "Credit Officer (GBO Stream) - SMGS-IV"
+    ],
+    "application_dates": {
+        "start_date": "30 June 2026",
+        "end_date": "20 July 2026"
+    },
+    "fee_structure": {
+        "SC / ST / PwBD": "₹175/-",
+        "General / OBC / EWS & Others": "₹850/-"
+    },
+    "selection_stages": [
+        "Scrutiny of Applications",
+        "Online Examination",
+        "Personal Interview",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/bank-of-india-credit-officer-recruitment-2026/",
+    "extraction_timestamp": "2026-07-31T11:53:44.073426Z"
+}

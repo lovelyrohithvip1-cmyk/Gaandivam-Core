@@ -1,0 +1,29 @@
+{
+    "conducting_body": "HSSC",
+    "exam_name": "HSSC CET 2025",
+    "job_posts_covered": [
+        "Ambala Court Clerk",
+        "UP Police Constable",
+        "SSB CT to SI (Non-GD)",
+        "Delhi Police",
+        "Indian Air Force AFCAT",
+        "NVS Hostel Superintendent",
+        "ISRO Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "PET",
+        "PST"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-07-31T12:22:56.426687Z"
+}

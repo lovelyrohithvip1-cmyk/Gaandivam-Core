@@ -1,0 +1,48 @@
+{
+    "conducting_body": "Institute of Banking Personnel Selection (IBPS)",
+    "exam_name": "IBPS PO Recruitment 2026",
+    "job_posts_covered": [
+        "Probationary Officers (PO)",
+        "Management Trainees (MT)"
+    ],
+    "application_dates": {
+        "start_date": "01 July 2026",
+        "end_date": "26 July 2026"
+    },
+    "fee_structure": {
+        "General / OBC / EWS": "Rs 850/-",
+        "SC / ST / PwBD": "Rs 175/-"
+    },
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Personality Test",
+        "Interview",
+        "Document Verification",
+        "Medical Examination (if applicable)"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Banking Awareness",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/ibps-po-mt-recruitment-2026/",
+    "extraction_timestamp": "2026-07-31T12:17:05.099497Z"
+}

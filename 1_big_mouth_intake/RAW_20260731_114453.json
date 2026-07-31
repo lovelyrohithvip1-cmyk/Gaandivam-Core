@@ -1,0 +1,30 @@
+{
+    "conducting_body": "HSSC",
+    "exam_name": "HSSC CET 2025",
+    "job_posts_covered": [
+        "Clerk",
+        "Constable",
+        "Hostel Superintendent",
+        "Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "PET",
+        "PST"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Mathematics"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-07-31T11:44:53.267197Z"
+}
