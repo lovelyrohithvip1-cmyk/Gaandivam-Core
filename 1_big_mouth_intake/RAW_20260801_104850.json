@@ -1,0 +1,29 @@
+{
+    "conducting_body": "Board of School Education Haryana (HBSE)",
+    "exam_name": "10th & 12th Board Exams 2026",
+    "job_posts_covered": [
+        "Haryana Hartron Junior Programmer",
+        "IAF Agniveervayu Non-Combatant",
+        "IBPS Clerk",
+        "ISRO Scientist/Engineer",
+        "ISRO Assistant, JPA, UDC & Stenographer",
+        "ISRO Apprentice",
+        "ISRO NRSC",
+        "SINP",
+        "UPSSSC PET"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Rechecking",
+        "Re-Evaluation"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/hbse-haryana-board/",
+    "extraction_timestamp": "2026-08-01T10:48:50.028888Z"
+}

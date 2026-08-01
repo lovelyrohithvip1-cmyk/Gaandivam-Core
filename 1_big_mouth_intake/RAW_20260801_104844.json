@@ -1,0 +1,25 @@
+{
+    "conducting_body": "Skill Development & Industrial Training Department Haryana",
+    "exam_name": "Haryana ITI Admission 2026",
+    "job_posts_covered": [
+        "Technical and Vocational Trades"
+    ],
+    "application_dates": {
+        "start_date": "02 June 2026",
+        "end_date": "15 June 2026"
+    },
+    "fee_structure": "Rs. 100/- (General/OBC Male), Rs.50/- (SC/ST Male), Rs. 500/- (Male) and Rs. 250/- (Female) for Re-Allocation or Second Counselling",
+    "selection_stages": [
+        "Merit List",
+        "Counseling",
+        "Seat Allotment"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "Technical Trades",
+            "Vocational Trades"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/haryana-iti-admission-2026/",
+    "extraction_timestamp": "2026-08-01T10:48:44.533888Z"
+}

@@ -1,0 +1,36 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Government Recruitment Exams",
+    "job_posts_covered": [
+        "HTET",
+        "SSC Phase XIV",
+        "HP TET",
+        "UPTET",
+        "AIIMS CRE-5 Recruitment",
+        "UPSC CMSE",
+        "SSC CGL",
+        "CTET",
+        "SINP Recruitment",
+        "ISRO Scientist/Engineer Recruitment",
+        "ISRO Assistant, JPA, UDC & Stenographer Recruitment",
+        "ISRO Apprentice Recruitment",
+        "ISRO NRSC Recruitment",
+        "Haryana Hartron Junior Programmer Recruitment",
+        "IAF Agniveervayu Non-Combatant Recruitment",
+        "IBPS Clerk Recruitment",
+        "Ambala Court Clerk Recruitment"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-08-01T10:18:55.485111Z"
+}

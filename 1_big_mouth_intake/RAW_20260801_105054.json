@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Hindustan Petroleum Corporation Limited (HPCL)",
+    "exam_name": "HPCL Junior Executive Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Executive (Chemical)",
+        "Junior Executive (Fire & Safety)"
+    ],
+    "application_dates": {
+        "start_date": "01 July 2026",
+        "end_date": "20 July 2026"
+    },
+    "fee_structure": {
+        "General / OBC / EWS": "Rs 1180/-",
+        "SC / ST / PwBD": "Rs 0/-"
+    },
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Group Task / Group Discussion (if applicable)",
+        "Personal Interview",
+        "Physical Test (as per post recruitment)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Junior Executive (Chemical)": [
+            "Related Field"
+        ],
+        "Junior Executive (Fire & Safety)": [
+            "Any Science Graduate + Diploma in Fire & Safety + HMV"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/hpcl-junior-executive-recruitment-2026/",
+    "extraction_timestamp": "2026-08-01T10:50:54.432777Z"
+}

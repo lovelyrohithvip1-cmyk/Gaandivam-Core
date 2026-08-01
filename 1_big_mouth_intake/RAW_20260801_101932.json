@@ -1,0 +1,45 @@
+{
+    "conducting_body": "Indian Space Research Organisation (ISRO)",
+    "exam_name": "ISRO Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Graduate Apprentice",
+        "Technician Apprentice",
+        "Commercial Practice Apprentice"
+    ],
+    "application_dates": {
+        "start_date": "29 July 2026",
+        "end_date": "28 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting based on academic percentage in the qualifying examination",
+        "Document Verification",
+        "Final panel prepared based on academic scores"
+    ],
+    "detailed_syllabus": {
+        "Graduate Apprentices": [
+            "Computer Science Engineering",
+            "Electronics & Communication Engineering",
+            "Mechanical Engineering",
+            "Chemical Engineering",
+            "Industrial Engineering & Management",
+            "Automobile Engineering",
+            "Aeronautical Engineering",
+            "Aerospace Engineering"
+        ],
+        "Technician Apprentices": [
+            "Computer Science Engineering",
+            "Electronics Engineering",
+            "Mechanical Engineering",
+            "Electrical Engineering",
+            "Civil Engineering",
+            "Instrumentation Technology",
+            "Automobile Engineering"
+        ],
+        "Commercial Practice Apprentice": [
+            "Diploma in Commercial Practice"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/isro-apprentice-recruitment-2026/",
+    "extraction_timestamp": "2026-08-01T10:19:32.923655Z"
+}

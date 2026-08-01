@@ -1,0 +1,35 @@
+{
+    "conducting_body": "National Testing Agency (NTA)",
+    "exam_name": "NEET UG 2026",
+    "job_posts_covered": [
+        "Medical Officer",
+        "Doctor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Offline Exam"
+    ],
+    "detailed_syllabus": {
+        "Physics": [
+            "Mechanics",
+            "Electromagnetism",
+            "Thermodynamics"
+        ],
+        "Chemistry": [
+            "Organic Chemistry",
+            "Inorganic Chemistry",
+            "Physical Chemistry"
+        ],
+        "Biology": [
+            "Botany",
+            "Zoology",
+            "Biotechnology"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/neet-ug-admit-card-2026/",
+    "extraction_timestamp": "2026-08-01T10:31:47.495199Z"
+}

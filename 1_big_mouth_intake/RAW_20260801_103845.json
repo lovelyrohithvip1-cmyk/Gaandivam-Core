@@ -1,0 +1,27 @@
+{
+    "conducting_body": "Haryana State Electronics Development Corporation Limited (HARTRON)",
+    "exam_name": "Haryana Hartron Junior Programmer Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Programmer"
+    ],
+    "application_dates": {
+        "start_date": "30 July 2026",
+        "end_date": "09 August 2026"
+    },
+    "fee_structure": "₹300 + GST (General), ₹150 + GST (Female), ₹75 + GST (Haryana SC/BC/EWS/ESM), Nil (Haryana PwD)",
+    "selection_stages": [
+        "Domain Knowledge Test",
+        "Document Verification",
+        "One-Month Training",
+        "Practical Test",
+        "Merit List"
+    ],
+    "detailed_syllabus": {
+        "Computer Science": [
+            "MVC (Model-View-Controller)",
+            "Post-specific topics"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/haryana-hartron-junior-programmer-recruitment-2026/",
+    "extraction_timestamp": "2026-08-01T10:38:45.657985Z"
+}

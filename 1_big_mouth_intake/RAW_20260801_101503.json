@@ -1,0 +1,23 @@
+{
+    "conducting_body": "Haryana Staff Selection Commission (HSSC)",
+    "exam_name": "Haryana HSSC 03/2023 Group C",
+    "job_posts_covered": [
+        "Various Group C posts under Haryana Government departments"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Mains Exam"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text, but syllabus for mains exam is available on the official website"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/hssc-cet-result/",
+    "extraction_timestamp": "2026-08-01T10:15:03.683869Z"
+}

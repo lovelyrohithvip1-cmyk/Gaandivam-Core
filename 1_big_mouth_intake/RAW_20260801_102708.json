@@ -1,0 +1,22 @@
+{
+    "conducting_body": "Haryana Staff Selection Commission (HSSC)",
+    "exam_name": "HSSC CET",
+    "job_posts_covered": [
+        "Group C posts",
+        "Group D posts"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Common Eligibility Test",
+        "Next stage of recruitment"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/hssc-cet-detailed-result/",
+    "extraction_timestamp": "2026-08-01T10:27:08.153412Z"
+}

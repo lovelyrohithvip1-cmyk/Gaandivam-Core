@@ -1,0 +1,448 @@
+{
+    "exam_name": "NEET PG 2026",
+    "chyme_granular_syllabus": {
+        "Anatomy": {
+            "General Anatomy": {
+                "Introduction to Anatomy": [
+                    "Branches of Anatomy",
+                    "Importance of Anatomy",
+                    "Anatomical Terminology"
+                ],
+                "Osteology": [
+                    "Bones of Upper Limb",
+                    "Bones of Lower Limb",
+                    "Bones of Skull"
+                ]
+            },
+            "Systemic Anatomy": {
+                "Nervous System": [
+                    "Central Nervous System",
+                    "Peripheral Nervous System",
+                    "Autonomic Nervous System"
+                ],
+                "Circulatory System": [
+                    "Heart",
+                    "Arteries",
+                    "Veins"
+                ]
+            }
+        },
+        "Biochemistry": {
+            "Biological Molecules": {
+                "Carbohydrates": [
+                    "Monosaccharides",
+                    "Disaccharides",
+                    "Polysaccharides"
+                ],
+                "Proteins": [
+                    "Amino Acids",
+                    "Peptide Bond",
+                    "Protein Structure"
+                ]
+            },
+            "Metabolic Pathways": {
+                "Glycolysis": [
+                    "Glucose Breakdown",
+                    "Pyruvate Formation",
+                    "Energy Yield"
+                ],
+                "Citric Acid Cycle": [
+                    "Acetyl-CoA Formation",
+                    "Cycle Reactions",
+                    "Energy Yield"
+                ]
+            }
+        },
+        "Pharmacology": {
+            "General Pharmacology": {
+                "Introduction to Pharmacology": [
+                    "Definition of Pharmacology",
+                    "Branches of Pharmacology",
+                    "Pharmacological Effects"
+                ],
+                "Pharmacokinetics": [
+                    "Absorption",
+                    "Distribution",
+                    "Metabolism",
+                    "Excretion"
+                ]
+            },
+            "Systemic Pharmacology": {
+                "Autonomic Pharmacology": [
+                    "Adrenergic Receptors",
+                    "Cholinergic Receptors",
+                    "Autonomic Nervous System"
+                ],
+                "Cardiovascular Pharmacology": [
+                    "Antihypertensive Drugs",
+                    "Antiarrhythmic Drugs",
+                    "Anticoagulant Drugs"
+                ]
+            }
+        },
+        "Pathology": {
+            "General Pathology": {
+                "Introduction to Pathology": [
+                    "Definition of Pathology",
+                    "Branches of Pathology",
+                    "Pathological Processes"
+                ],
+                "Inflammation": [
+                    "Types of Inflammation",
+                    "Inflammatory Mediators",
+                    "Healing Process"
+                ]
+            },
+            "Systemic Pathology": {
+                "Respiratory Pathology": [
+                    "Lung Diseases",
+                    "Pleural Diseases",
+                    "Mediastinal Diseases"
+                ],
+                "Gastrointestinal Pathology": [
+                    "Esophageal Diseases",
+                    "Gastric Diseases",
+                    "Intestinal Diseases"
+                ]
+            }
+        },
+        "Microbiology": {
+            "Bacteriology": {
+                "Introduction to Bacteriology": [
+                    "Definition of Bacteriology",
+                    "Branches of Bacteriology",
+                    "Bacterial Classification"
+                ],
+                "Bacterial Infections": [
+                    "Types of Bacterial Infections",
+                    "Bacterial Toxins",
+                    "Antibiotic Resistance"
+                ]
+            },
+            "Virology": {
+                "Introduction to Virology": [
+                    "Definition of Virology",
+                    "Branches of Virology",
+                    "Viral Classification"
+                ],
+                "Viral Infections": [
+                    "Types of Viral Infections",
+                    "Viral Replication",
+                    "Antiviral Therapy"
+                ]
+            }
+        },
+        "Forensic Medicine": {
+            "Introduction to Forensic Medicine": {
+                "Definition of Forensic Medicine": [
+                    "History of Forensic Medicine",
+                    "Branches of Forensic Medicine",
+                    "Forensic Medicine Applications"
+                ],
+                "Forensic Pathology": [
+                    "Autopsy",
+                    "Postmortem Changes",
+                    "Forensic Pathology Techniques"
+                ]
+            },
+            "Toxicology": {
+                "Introduction to Toxicology": [
+                    "Definition of Toxicology",
+                    "Branches of Toxicology",
+                    "Toxicology Applications"
+                ],
+                "Poisoning": [
+                    "Types of Poisoning",
+                    "Toxic Agents",
+                    "Toxicity Management"
+                ]
+            }
+        },
+        "General Medicine": {
+            "Cardiology": {
+                "Introduction to Cardiology": [
+                    "Definition of Cardiology",
+                    "Branches of Cardiology",
+                    "Cardiology Applications"
+                ],
+                "Cardiovascular Diseases": [
+                    "Hypertension",
+                    "Coronary Artery Disease",
+                    "Heart Failure"
+                ]
+            },
+            "Neurology": {
+                "Introduction to Neurology": [
+                    "Definition of Neurology",
+                    "Branches of Neurology",
+                    "Neurology Applications"
+                ],
+                "Neurological Disorders": [
+                    "Stroke",
+                    "Epilepsy",
+                    "Parkinson's Disease"
+                ]
+            }
+        },
+        "Pediatrics": {
+            "Introduction to Pediatrics": {
+                "Definition of Pediatrics": [
+                    "History of Pediatrics",
+                    "Branches of Pediatrics",
+                    "Pediatrics Applications"
+                ],
+                "Pediatric Examination": [
+                    "Growth and Development",
+                    "Pediatric History Taking",
+                    "Pediatric Physical Examination"
+                ]
+            },
+            "Pediatric Diseases": {
+                "Infectious Diseases": [
+                    "Respiratory Tract Infections",
+                    "Gastrointestinal Infections",
+                    "Urinary Tract Infections"
+                ],
+                "Non-Infectious Diseases": [
+                    "Allergic Diseases",
+                    "Endocrine Disorders",
+                    "Neurological Disorders"
+                ]
+            }
+        },
+        "Dermatology": {
+            "Introduction to Dermatology": {
+                "Definition of Dermatology": [
+                    "History of Dermatology",
+                    "Branches of Dermatology",
+                    "Dermatology Applications"
+                ],
+                "Skin Structure and Function": [
+                    "Epidermis",
+                    "Dermis",
+                    "Hypodermis"
+                ]
+            },
+            "Skin Diseases": {
+                "Inflammatory Diseases": [
+                    "Eczema",
+                    "Psoriasis",
+                    "Acne"
+                ],
+                "Infectious Diseases": [
+                    "Bacterial Infections",
+                    "Viral Infections",
+                    "Fungal Infections"
+                ]
+            }
+        },
+        "Psychiatry": {
+            "Introduction to Psychiatry": {
+                "Definition of Psychiatry": [
+                    "History of Psychiatry",
+                    "Branches of Psychiatry",
+                    "Psychiatry Applications"
+                ],
+                "Mental Health": [
+                    "Mental Health Definition",
+                    "Mental Health Importance",
+                    "Mental Health Promotion"
+                ]
+            },
+            "Psychiatric Disorders": {
+                "Mood Disorders": [
+                    "Depression",
+                    "Bipolar Disorder",
+                    "Anxiety Disorders"
+                ],
+                "Psychotic Disorders": [
+                    "Schizophrenia",
+                    "Schizoaffective Disorder",
+                    "Brief Psychotic Disorder"
+                ]
+            }
+        },
+        "Radio Diagnosis": {
+            "Introduction to Radio Diagnosis": {
+                "Definition of Radio Diagnosis": [
+                    "History of Radio Diagnosis",
+                    "Branches of Radio Diagnosis",
+                    "Radio Diagnosis Applications"
+                ],
+                "Imaging Modalities": [
+                    "X-ray",
+                    "Computed Tomography (CT)",
+                    "Magnetic Resonance Imaging (MRI)"
+                ]
+            },
+            "Imaging Techniques": {
+                "Radiography": [
+                    "Plain Radiography",
+                    "Contrast Radiography",
+                    "Fluoroscopy"
+                ],
+                "Ultrasound": [
+                    "Basic Principles",
+                    "Ultrasound Modes",
+                    "Ultrasound Applications"
+                ]
+            }
+        },
+        "General Surgery": {
+            "Introduction to General Surgery": {
+                "Definition of General Surgery": [
+                    "History of General Surgery",
+                    "Branches of General Surgery",
+                    "General Surgery Applications"
+                ],
+                "Surgical Principles": [
+                    "Surgical Anatomy",
+                    "Surgical Physiology",
+                    "Surgical Pathophysiology"
+                ]
+            },
+            "Surgical Specialties": {
+                "Gastrointestinal Surgery": [
+                    "Esophageal Surgery",
+                    "Gastric Surgery",
+                    "Intestinal Surgery"
+                ],
+                "Hepatobiliary Surgery": [
+                    "Liver Surgery",
+                    "Biliary Surgery",
+                    "Pancreatic Surgery"
+                ]
+            }
+        },
+        "Orthopedics": {
+            "Introduction to Orthopedics": {
+                "Definition of Orthopedics": [
+                    "History of Orthopedics",
+                    "Branches of Orthopedics",
+                    "Orthopedics Applications"
+                ],
+                "Musculoskeletal System": [
+                    "Bones",
+                    "Joints",
+                    "Muscles"
+                ]
+            },
+            "Orthopedic Disorders": {
+                "Bone Disorders": [
+                    "Osteoporosis",
+                    "Osteopenia",
+                    "Bone Tumors"
+                ],
+                "Joint Disorders": [
+                    "Arthritis",
+                    "Tendinitis",
+                    "Bursitis"
+                ]
+            }
+        },
+        "Ophthalmology": {
+            "Introduction to Ophthalmology": {
+                "Definition of Ophthalmology": [
+                    "History of Ophthalmology",
+                    "Branches of Ophthalmology",
+                    "Ophthalmology Applications"
+                ],
+                "Eye Structure and Function": [
+                    "Cornea",
+                    "Iris",
+                    "Lens"
+                ]
+            },
+            "Eye Diseases": {
+                "Corneal Diseases": [
+                    "Corneal Ulcer",
+                    "Corneal Edema",
+                    "Corneal Transplantation"
+                ],
+                "Retinal Diseases": [
+                    "Retinal Detachment",
+                    "Diabetic Retinopathy",
+                    "Age-related Macular Degeneration"
+                ]
+            }
+        },
+        "Otorhinolaryngology": {
+            "Introduction to Otorhinolaryngology": {
+                "Definition of Otorhinolaryngology": [
+                    "History of Otorhinolaryngology",
+                    "Branches of Otorhinolaryngology",
+                    "Otorhinolaryngology Applications"
+                ],
+                "Ear Structure and Function": [
+                    "External Ear",
+                    "Middle Ear",
+                    "Inner Ear"
+                ]
+            },
+            "Ear, Nose, and Throat Diseases": {
+                "Ear Diseases": [
+                    "Hearing Loss",
+                    "Tinnitus",
+                    "Vertigo"
+                ],
+                "Nose and Throat Diseases": [
+                    "Sinusitis",
+                    "Tonsillitis",
+                    "Laryngitis"
+                ]
+            }
+        },
+        "Anesthesiology": {
+            "Introduction to Anesthesiology": {
+                "Definition of Anesthesiology": [
+                    "History of Anesthesiology",
+                    "Branches of Anesthesiology",
+                    "Anesthesiology Applications"
+                ],
+                "Anesthesia Principles": [
+                    "Anesthesia Types",
+                    "Anesthesia Techniques",
+                    "Anesthesia Monitoring"
+                ]
+            },
+            "Anesthesia Specialties": {
+                "General Anesthesia": [
+                    "Induction",
+                    "Maintenance",
+                    "Recovery"
+                ],
+                "Regional Anesthesia": [
+                    "Local Anesthesia",
+                    "Regional Anesthesia Techniques",
+                    "Anesthesia Complications"
+                ]
+            }
+        },
+        "Obstetrics and Gynecology": {
+            "Introduction to Obstetrics and Gynecology": {
+                "Definition of Obstetrics and Gynecology": [
+                    "History of Obstetrics and Gynecology",
+                    "Branches of Obstetrics and Gynecology",
+                    "Obstetrics and Gynecology Applications"
+                ],
+                "Female Reproductive System": [
+                    "Ovaries",
+                    "Fallopian Tubes",
+                    "Uterus"
+                ]
+            },
+            "Obstetric and Gynecologic Disorders": {
+                "Pregnancy Complications": [
+                    "Hypertension",
+                    "Diabetes",
+                    "Infections"
+                ],
+                "Gynecologic Diseases": [
+                    "Endometriosis",
+                    "Uterine Fibroids",
+                    "Ovarian Cysts"
+                ]
+            }
+        }
+    }
+}
