@@ -1,0 +1,71 @@
+{
+    "conducting_body": "Indian Air Force",
+    "exam_name": "Agniveervayu",
+    "job_posts_covered": [
+        "Agniveervayu",
+        "Research Scientist",
+        "Project Associate",
+        "Tenure Based DBW",
+        "Junior Research Fellow",
+        "Management Trainee",
+        "Design Trainee",
+        "Lower Division Clerk",
+        "Officer",
+        "Manager",
+        "Junior Executive",
+        "SSC Officer",
+        "Finance Officer",
+        "Deputy Manager",
+        "SSC (Non-Tech), Women",
+        "JAG Entry Scheme 125th Course",
+        "Teaching and Non Teaching",
+        "TGT and Nursing Assistant",
+        "Junior Research Fellow",
+        "SSC (Tech)-68 Men",
+        "SSCW(T) - 68",
+        "68th Short Service Commission (Tech) Entry",
+        "Soldier",
+        "Junior Clerk",
+        "Assistant Engineer",
+        "Elephant Kavadiga",
+        "Paid Internship",
+        "Apprentice",
+        "Higher, Junior and Senior Management"
+    ],
+    "application_dates": {
+        "start_date": "01/08/2026",
+        "end_date": "07-09-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Calculus"
+        ],
+        "Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning",
+            "Verbal Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/police-defence-jobs/",
+    "extraction_timestamp": "2026-08-02T10:46:23.570458Z"
+}

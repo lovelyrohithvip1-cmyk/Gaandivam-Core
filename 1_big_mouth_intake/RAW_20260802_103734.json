@@ -1,0 +1,91 @@
+{
+    "conducting_body": "All India Institute of Medical Sciences (AIIMS), Mangalagiri, Andhra Pradesh",
+    "exam_name": "AIIMS Mangalagiri Senior Resident Recruitment 2026",
+    "job_posts_covered": [
+        "Senior Resident",
+        "Senior Demonstrator"
+    ],
+    "application_dates": {
+        "start_date": "22 July 2026",
+        "end_date": "5 August 2026"
+    },
+    "fee_structure": {
+        "General/EWS/OBC": "Rs. 1,500/-",
+        "SC/ST": "Rs. 1,000/-",
+        "PwBD": "No fee"
+    },
+    "selection_stages": [
+        "Interview",
+        "Screening test based on MCQs (if the number of applied candidates is high)"
+    ],
+    "detailed_syllabus": {
+        "Anaesthesiology": [
+            "MD/DNB in Anaesthesiology"
+        ],
+        "Anatomy": [
+            "MD/DNB in Anatomy",
+            "M.Sc/M.Biotech in the subject concerned with Ph.D. in the subject concerned/allied subject"
+        ],
+        "Biochemistry": [
+            "MD/DNB in Biochemistry",
+            "M.Sc/M.Biotech in the subject concerned with Ph.D. in the subject concerned/allied subject"
+        ],
+        "Cardiothoracic Surgery": [
+            "MS/DNB in General Surgery",
+            "M.Ch./DNB (CTVS)"
+        ],
+        "Community & Family Medicine": [
+            "MD/DNB in Community Medicine"
+        ],
+        "ENT": [
+            "MS in E.N.T.",
+            "MCh (Head & Neck Surgery)"
+        ],
+        "Forensic Medicine & Toxicology": [
+            "MD/DNB in Forensic Medicine"
+        ],
+        "General Surgery": [
+            "MS/DNB in General Surgery"
+        ],
+        "Medical Gastroenterology": [
+            "MD/DNB in Medicine",
+            "DM/DNB in Gastroenterology"
+        ],
+        "Microbiology": [
+            "MD/DNB in Microbiology"
+        ],
+        "Obstetrics & Gynaecology": [
+            "MD/MS/DNB in Obstetrics & Gynaecology"
+        ],
+        "Orthopaedics": [
+            "MS/DNB in Orthopaedics"
+        ],
+        "Pathology": [
+            "MD/DNB in Pathology"
+        ],
+        "Pharmacology": [
+            "MD/DNB in Pharmacology",
+            "DM (Clinical Pharmacology)",
+            "M.Sc/M.Biotech in the subject concerned with Ph.D. in the subject concerned/allied subject (for Non-Medical Candidates)"
+        ],
+        "Physical Medicine & Rehabilitation": [
+            "MD/DNB in Physical Medicine & Rehabilitation"
+        ],
+        "Psychiatry": [
+            "MD/DNB in Psychiatry"
+        ],
+        "Radiation Oncology": [
+            "MD/DNB in Radiotherapy/Radiation Oncology"
+        ],
+        "Radiodiagnosis": [
+            "MD/DNB in Radiodiagnosis"
+        ],
+        "Trauma & Emergency": [
+            "MD/DNB in Medicine/Emergency Medicine/Geriatric Medicine/Anesthesiology/Pulmonary Medicine",
+            "MS in Surgery",
+            "M.Ch/DNB (Trauma Surgery)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/aiims-mangalagiri-senior-resident-recruitment-2026-3060229",
+    "extraction_timestamp": "2026-08-02T10:37:34.807334Z"
+}

@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Uttarakhand Government",
+    "exam_name": "UTET",
+    "job_posts_covered": [
+        "Research Assistant",
+        "Project Scientist I",
+        "Research Associate",
+        "Junior Research Fellow",
+        "Technical Support III",
+        "Law Researcher",
+        "Group A & B Posts",
+        "Teaching Personnel",
+        "Accountant Cadre",
+        "Tax & Revenue Inspector",
+        "Teacher Eligibility Test",
+        "Senior Resident",
+        "Project Assistant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning",
+            "Science",
+            "Hindi"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/uttarakhand-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:38:45.462422Z"
+}

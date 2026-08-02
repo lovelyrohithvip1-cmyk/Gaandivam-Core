@@ -1,0 +1,77 @@
+{
+    "conducting_body": "Maharashtra Public Service Commission",
+    "exam_name": "Maharashtra Talathi",
+    "job_posts_covered": [
+        "Talathi"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Marathi": [
+            "Synonyms",
+            "Antonyms",
+            "Tense and types of tense",
+            "Types of words, Noun",
+            "Pronoun",
+            "Verb",
+            "Adjective",
+            "Adverb",
+            "Vibhakti (case/declension)",
+            "Sandhi and types of Sandhi, idioms (म्हणी)",
+            "Meaning and use of phrases (वाक्प्रचार)",
+            "One word substitution for a group of words"
+        ],
+        "English": [
+            "Vocabulary",
+            "Synonyms & Antonyms",
+            "Proverbs",
+            "Tense & Kinds of Tense",
+            "Question Tag",
+            "Use of Proper Form of Verb",
+            "Spot the Error",
+            "Verbal Comprehension Passage",
+            "Spelling",
+            "Sentence Structure",
+            "One Word Substitution",
+            "Phrases"
+        ],
+        "General Knowledge": [
+            "Work of social reformers in Maharashtra",
+            "Information about India’s neighbouring countries",
+            "Current affairs",
+            "Maharashtra history and geography",
+            "Indian polity",
+            "General science"
+        ],
+        "Arithmetic / Mathematics": [
+            "Addition",
+            "Subtraction",
+            "Multiplication",
+            "Division",
+            "Time-Work-Speed related examples",
+            "Average",
+            "Currency",
+            "Units of measurement",
+            "Clock"
+        ],
+        "Reasoning / General Intelligence": [
+            "Number series",
+            "Letter series",
+            "Identifying the odd word/number",
+            "Analogy - Numbers",
+            "Letters",
+            "Figures",
+            "Conclusion from statements",
+            "Venn diagrams"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/maharashtra-talathi-syllabus-3060312",
+    "extraction_timestamp": "2026-08-02T10:47:59.186353Z"
+}

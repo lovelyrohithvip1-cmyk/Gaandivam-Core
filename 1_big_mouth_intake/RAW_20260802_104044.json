@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL)",
+    "exam_name": "RVUNL Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "Junior Assistant",
+        "Technician",
+        "Accountant"
+    ],
+    "application_dates": {
+        "start_date": "5 August 2026",
+        "end_date": "25 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Junior Engineer": [
+            "Relevant discipline topics"
+        ],
+        "Junior Accountant": [
+            "Accounting and finance topics"
+        ],
+        "Technician": [
+            "Relevant trade topics"
+        ],
+        "Assistant Posts": [
+            "General knowledge and aptitude topics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rvunl-recruitment-2026-apply-online-for-2005-junior-engineer-junior-accountant-and-more-posts-3055345",
+    "extraction_timestamp": "2026-08-02T10:40:44.120538Z"
+}

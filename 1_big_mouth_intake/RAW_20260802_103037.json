@@ -1,0 +1,24 @@
+{
+    "conducting_body": "Delhi Subordinate Services Selection Board (DSSSB)",
+    "exam_name": "DSSSB PGT Maths",
+    "job_posts_covered": [
+        "Post Graduate Teacher (PGT) Maths - Male",
+        "Post Graduate Teacher (PGT) Maths - Female"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "14.02.2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Tier-I Online Written Exam",
+        "E-Dossier Submission"
+    ],
+    "detailed_syllabus": {
+        "Maths": [
+            "Domain-specific subject paper"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/dsssb-pgt-maths-result-2026-3061115",
+    "extraction_timestamp": "2026-08-02T10:30:37.388223Z"
+}

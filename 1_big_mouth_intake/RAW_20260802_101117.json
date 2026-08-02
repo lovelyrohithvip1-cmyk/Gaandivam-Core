@@ -1,0 +1,23 @@
+{
+    "conducting_body": "MPSC",
+    "exam_name": "MPSC Assistant Professor Exam",
+    "job_posts_covered": [
+        "Assistant Professor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Concerned Discipline"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/maharashtra-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:11:17.106812Z"
+}

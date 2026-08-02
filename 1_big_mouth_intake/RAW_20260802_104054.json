@@ -1,0 +1,27 @@
+{
+    "conducting_body": "OPSC",
+    "exam_name": "OPSC Veterinary Assistant Surgeon Exam",
+    "job_posts_covered": [
+        "Veterinary Assistant Surgeon"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "24 Aug 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Veterinary Science": [
+            "Animal Nutrition",
+            "Animal Breeding and Genetics",
+            "Veterinary Medicine",
+            "Surgery and Radiology",
+            "Animal Husbandry and Dairy Science"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/odisha-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:40:54.512989Z"
+}

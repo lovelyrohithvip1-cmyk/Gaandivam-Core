@@ -1,0 +1,54 @@
+{
+    "conducting_body": "Railway Recruitment Boards (RRBs), Ministry of Railways",
+    "exam_name": "RRB JE Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineer (JE)",
+        "Depot Material Superintendent (DMS)",
+        "Chemical & Metallurgical Assistant (CMA)"
+    ],
+    "application_dates": {
+        "start_date": "14-08-2026",
+        "end_date": "13-09-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Number systems",
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Analytical geometry",
+            "Differential equations",
+            "Calculus"
+        ],
+        "General Intelligence and Reasoning": [
+            "Analogies",
+            "Syllogism",
+            "Statement and conclusions",
+            "Coding-decoding",
+            "Puzzles",
+            "Data sufficiency"
+        ],
+        "General Awareness": [
+            "Current events",
+            "Science and technology",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ],
+        "General Science": [
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "Environment"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rrb-je-recruitment-2026-apply-online-for-4098-junior-engineer-posts-3059556",
+    "extraction_timestamp": "2026-08-02T10:43:07.157658Z"
+}

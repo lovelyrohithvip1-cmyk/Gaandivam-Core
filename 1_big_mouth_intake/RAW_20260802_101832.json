@@ -1,0 +1,50 @@
+{
+    "conducting_body": "Kerala Public Service Commission (Kerala PSC)",
+    "exam_name": "Kerala PSC Recruitment 2026",
+    "job_posts_covered": [
+        "Assistant Professor",
+        "Assistant Engineer",
+        "Teacher",
+        "Technical Assistant",
+        "Clerk",
+        "Police Constable",
+        "Forest Watcher",
+        "Electrician",
+        "Junior Clerk",
+        "Store Keeper",
+        "Computer Assistant",
+        "Agricultural Assistant",
+        "Braillist",
+        "Deputy Manager",
+        "Draftsman",
+        "Junior Instructor",
+        "Architectural Assistant"
+    ],
+    "application_dates": {
+        "start_date": "31 July 2026",
+        "end_date": "02 September 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Physical Standards",
+        "Medical Certificate"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ],
+        "Technical Subjects": [
+            "Subject-specific topics",
+            "Technical skills",
+            "Professional knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/kerala-psc-recruitment-2026-apply-online-for-40-junior-clerk-assistant-engineer-and-more-posts-3061111",
+    "extraction_timestamp": "2026-08-02T10:18:32.378072Z"
+}

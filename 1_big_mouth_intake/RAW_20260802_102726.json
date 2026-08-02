@@ -1,0 +1,53 @@
+{
+    "conducting_body": "RRB, RVUNL, TNSTC, NLC India, KEA, Hartron, GSSSB, ISRO URSC, MPYPIL, AAI",
+    "exam_name": "RRB JE, RVUNL JE, TNSTC Apprentice, NLC India Apprentice, KEA Land Surveyor, Hartron Junior Programmer, GSSSB Supervisor Instructor, ISRO URSC Apprentice, MPYPIL Higher, Junior and Senior Management Posts, AAI Manager, Junior Executive",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "Technician",
+        "Management Trainee",
+        "Assistant Executive Engineer",
+        "Project Research Scientist-III",
+        "Junior Research Fellow",
+        "Research Scientist",
+        "Project Associate",
+        "Assistant Manager",
+        "Academic Associate",
+        "Non Teaching Positions",
+        "Engineering Officer",
+        "Clerk",
+        "Project Technical Support III",
+        "Senior Project Associate",
+        "Project Assistant",
+        "Project Engineer",
+        "Junior Accountant",
+        "Deputy Manager",
+        "Engineer",
+        "Paid Internship"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Technical Subjects": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronics and Communication Engineering",
+            "Mechanical Engineering",
+            "Civil Engineering"
+        ],
+        "Aptitude": [
+            "Reasoning",
+            "Quantitative Aptitude",
+            "English Language"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:27:26.094544Z"
+}

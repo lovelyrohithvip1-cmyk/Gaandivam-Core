@@ -1,0 +1,43 @@
+{
+    "conducting_body": "APPSC",
+    "exam_name": "APPSC Exam Calendar 2026",
+    "job_posts_covered": [
+        "Law Clerk",
+        "Ad hoc Faculty",
+        "Theatre Assistant",
+        "GDA/MNO/FNO",
+        "Apprentice Trainee",
+        "Project Associate II",
+        "Senior Resident",
+        "Staff Assistant",
+        "AM",
+        "Junior Research Fellow",
+        "Project Research Scientist",
+        "Project Technical Support",
+        "Executive",
+        "Para Medical & Non-Para Medical",
+        "Faculty",
+        "Senior Accounts Officer",
+        "Staff Nurse",
+        "Fire Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Aptitude",
+            "English",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/ap-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:18:10.498534Z"
+}

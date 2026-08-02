@@ -1,0 +1,36 @@
+{
+    "conducting_body": "Thane Municipal Corporation (TMC), Public Health Department",
+    "exam_name": "TMC GNM & MPW Recruitment 2026",
+    "job_posts_covered": [
+        "GNM (Female)",
+        "GNM (Male)",
+        "Multi-Purpose Worker (MPW) - Male"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "07/08/2026, up to 2:00 PM"
+    },
+    "fee_structure": {
+        "Open Category": "₹750/-",
+        "Reserved Category": "₹500/-"
+    },
+    "selection_stages": [
+        "Marks obtained in the qualifying exam",
+        "Additional educational qualification",
+        "Relevant work experience",
+        "Document verification"
+    ],
+    "detailed_syllabus": {
+        "GNM (Female)": [
+            "BSc Nursing/GNM Course with MNC (Nursing Council) Registration"
+        ],
+        "GNM (Male)": [
+            "BSc Nursing/GNM Course with MNC Registration"
+        ],
+        "MPW (Male)": [
+            "12th Pass in Science + Paramedical Basic Training Course OR Sanitary Inspector Course"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/thane-municipal-corporation-recruitment-2026-apply-online-for-61-staff-nurse-mpw-posts-3060997",
+    "extraction_timestamp": "2026-08-02T10:13:48.626435Z"
+}

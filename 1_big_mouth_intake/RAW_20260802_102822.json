@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Karnataka Examinations Authority (KEA)",
+    "exam_name": "NEET UG 2026",
+    "job_posts_covered": [
+        "MBBS",
+        "BDS",
+        "AYUSH (Ayurveda, Unani, Homoeopathy)"
+    ],
+    "application_dates": {
+        "start_date": "July 2026",
+        "end_date": "30 July 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Document verification",
+        "Publication of the seat matrix",
+        "Web option/choice entry",
+        "Mock seat allotment",
+        "Round 1 seat allotment",
+        "Reporting to the allotted college"
+    ],
+    "detailed_syllabus": {
+        "Biology": [
+            "Higher marks in Biology"
+        ],
+        "Chemistry": [
+            "Higher marks in Chemistry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/kea-karnataka-ugneet-2026-nbe-score-list-out-download-score-list-state-rank-and-roll-number-linking-deadline-3061155",
+    "extraction_timestamp": "2026-08-02T10:28:22.647880Z"
+}

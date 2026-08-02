@@ -1,0 +1,98 @@
+{
+    "conducting_body": "UPSSSC",
+    "exam_name": "Preliminary Eligibility Test (PET) - 2026",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "Technician",
+        "Research Associate",
+        "Junior Resident",
+        "Assistant Manager",
+        "LDC",
+        "Security Guard",
+        "Project Associate",
+        "Senior PAT",
+        "Sr. Dy. Traffic Manager",
+        "Sr. Dy. Chief Accounts Officer",
+        "Management Trainee",
+        "Divisional Cadre",
+        "Post Doctoral Researcher",
+        "Principal Project Associate",
+        "Assistant Executive Engineer",
+        "Project Nurse",
+        "Senior Research Fellow",
+        "Project Research Scientist",
+        "Clinical Embryologist",
+        "Draftsman",
+        "Works Supervisor",
+        "Agniveervayu",
+        "Junior Research Fellow",
+        "Research Scientist",
+        "Project Associate",
+        "Gazetted Probationers",
+        "Customer Service Associate",
+        "Clerk",
+        "Assistant Professor",
+        "Junior Clerk",
+        "Assistant Engineer",
+        "Anganwadi Teacher",
+        "Junior Resident",
+        "Tenure Based DBW",
+        "Director",
+        "Project Technical Support",
+        "Project Scientist",
+        "Guest Lecturer",
+        "Physical Training Instructor",
+        "Assistant Engineer",
+        "Project Associate",
+        "Anganwadi Worker",
+        "Helper",
+        "Young Professional",
+        "Hostel Superintendent",
+        "Cooking Helper",
+        "Nursing",
+        "Pharmacy Officer",
+        "Research Associate",
+        "Assistant Manager",
+        "Academic Associate",
+        "Early Childhood Facilitator"
+    ],
+    "application_dates": {
+        "start_date": "01-08-2026",
+        "end_date": "15-09-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Skill Test",
+        "Document Verification",
+        "Medical Exam"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning",
+            "Logical Reasoning"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "General Knowledge": [
+            "History",
+            "Geography",
+            "Science",
+            "Technology",
+            "Current Affairs"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/sarkari-naukri/",
+    "extraction_timestamp": "2026-08-02T10:43:50.654069Z"
+}

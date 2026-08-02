@@ -1,0 +1,50 @@
+{
+    "conducting_body": "National Institutes of Technology (NITs) – Rotating (NIT Tiruchirappalli for 2026)",
+    "exam_name": "NIT MCA Common Entrance Test (NIMCET)",
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online (Computer-Based Test)"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Set Theory and Logic",
+            "Probability and Statistics",
+            "Algebra",
+            "Coordinate Geometry",
+            "Calculus",
+            "Trigonometry"
+        ],
+        "Analytical Ability & Logical Reasoning": [
+            "Verbal & Non-verbal Reasoning",
+            "Deductive/inductive reasoning",
+            "blood relations",
+            "direction sense",
+            "coding-decoding",
+            "seating arrangements",
+            "puzzles",
+            "input-output",
+            "syllogisms",
+            "alphanumeric series",
+            "mirror images"
+        ],
+        "Computer Awareness": [
+            "Computer Basics",
+            "Data Representation",
+            "Hardware & Software",
+            "Internet & Email"
+        ],
+        "General English": [
+            "Reading comprehension of passages",
+            "Vocabulary",
+            "Grammar",
+            "Technical writing accuracy"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/nimcet-syllabus-3042119",
+    "extraction_timestamp": "2026-08-02T10:14:50.012249Z"
+}

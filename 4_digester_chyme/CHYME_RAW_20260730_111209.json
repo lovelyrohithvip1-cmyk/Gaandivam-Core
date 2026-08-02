@@ -1,0 +1,151 @@
+{
+    "exam_name": "Subject Aptitude Test (SAT) - Descriptive",
+    "chyme_granular_syllabus": {
+        "English": {
+            "History of English Literature": {
+                "Old English and Middle English": [
+                    "Influence of Christianity on English Literature",
+                    "Development of English Language",
+                    "Notable Works of Old English and Middle English"
+                ],
+                "Renaissance and Restoration": [
+                    "Influence of Renaissance on English Literature",
+                    "Development of English Drama",
+                    "Notable Works of Renaissance and Restoration"
+                ]
+            },
+            "Poetry from Chaucer to Pope": {
+                "Medieval Poetry": [
+                    "Chaucer's Canterbury Tales",
+                    "Influence of Medieval Period on English Poetry",
+                    "Notable Medieval Poets"
+                ],
+                "Metaphysical Poetry": [
+                    "John Donne and his Contemporaries",
+                    "Influence of Metaphysical Poetry on English Literature",
+                    "Notable Metaphysical Poets"
+                ]
+            },
+            "Shakespeare and his Contemporaries": {
+                "Shakespeare's Plays": [
+                    "Tragedies",
+                    "Comedies",
+                    "Histories"
+                ],
+                "Shakespeare's Contemporaries": [
+                    "Christopher Marlowe",
+                    "Ben Jonson",
+                    "Other Notable Contemporaries"
+                ]
+            },
+            "Nineteenth Century Fiction": {
+                "Romantic Novel": [
+                    "Jane Austen",
+                    "Mary Shelley",
+                    "Other Notable Romantic Novelists"
+                ],
+                "Victorian Novel": [
+                    "Charles Dickens",
+                    "The Brontë Sisters",
+                    "Other Notable Victorian Novelists"
+                ]
+            },
+            "Romantic and Victorian Poetry": {
+                "Romantic Poetry": [
+                    "William Wordsworth",
+                    "Samuel Taylor Coleridge",
+                    "Other Notable Romantic Poets"
+                ],
+                "Victorian Poetry": [
+                    "Alfred, Lord Tennyson",
+                    "Robert Browning",
+                    "Other Notable Victorian Poets"
+                ]
+            },
+            "Modern Fiction": {
+                "Modernist Novel": [
+                    "James Joyce",
+                    "Virginia Woolf",
+                    "Other Notable Modernist Novelists"
+                ],
+                "Postmodernist Novel": [
+                    "Samuel Beckett",
+                    "Thomas Pynchon",
+                    "Other Notable Postmodernist Novelists"
+                ]
+            },
+            "Growth and Structure of English Language, and Literary Criticism": {
+                "Linguistics": [
+                    "Phonetics",
+                    "Phonology",
+                    "Morphology"
+                ],
+                "Literary Criticism": [
+                    "Formalism",
+                    "Structuralism",
+                    "Poststructuralism"
+                ]
+            },
+            "Modern British and American Poetry": {
+                "Confessional Poetry": [
+                    "Sylvia Plath",
+                    "Robert Lowell",
+                    "Other Notable Confessional Poets"
+                ],
+                "Beat Poetry": [
+                    "Allen Ginsberg",
+                    "Jack Kerouac",
+                    "Other Notable Beat Poets"
+                ]
+            },
+            "Introduction to Drama, Modern British and American Drama": {
+                "Modern British Drama": [
+                    "Harold Pinter",
+                    "Tom Stoppard",
+                    "Other Notable Modern British Playwrights"
+                ],
+                "Modern American Drama": [
+                    "Tennessee Williams",
+                    "Arthur Miller",
+                    "Other Notable Modern American Playwrights"
+                ]
+            },
+            "World Fiction, Research Methods and Future of English": {
+                "Postcolonial Literature": [
+                    "Salman Rushdie",
+                    "Arundhati Roy",
+                    "Other Notable Postcolonial Writers"
+                ],
+                "Research Methods": [
+                    "Qualitative Research",
+                    "Quantitative Research",
+                    "Mixed Methods Research"
+                ]
+            },
+            "Contemporary Literary Theory": {
+                "Poststructuralism": [
+                    "Jacques Derrida",
+                    "Michel Foucault",
+                    "Other Notable Poststructuralist Theorists"
+                ],
+                "Feminist Literary Theory": [
+                    "Simone de Beauvoir",
+                    "Julia Kristeva",
+                    "Other Notable Feminist Theorists"
+                ]
+            },
+            "Indian Writing in English and Indian Writing in Translation": {
+                "Indian English Novel": [
+                    "R.K. Narayan",
+                    "Salman Rushdie",
+                    "Other Notable Indian English Novelists"
+                ],
+                "Indian Literature in Translation": [
+                    "Rabindranath Tagore",
+                    "Premchand",
+                    "Other Notable Indian Writers in Translation"
+                ]
+            }
+        }
+    }
+}

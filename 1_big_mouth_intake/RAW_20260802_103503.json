@@ -1,0 +1,67 @@
+{
+    "conducting_body": "NLC India Limited (NLCIL)",
+    "exam_name": "NLC India Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Trade (ITI) Apprentice",
+        "Non-Engineering Graduate Apprentice",
+        "Engineering Graduate Apprentice",
+        "Technician (Diploma) Apprentice"
+    ],
+    "application_dates": {
+        "start_date": "29 July 2026, 10:00 AM",
+        "end_date": "11 August 2026, 5:00 PM"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Merit Based on Qualifying Examination Marks"
+    ],
+    "detailed_syllabus": {
+        "Trade (ITI)": [
+            "Fitter",
+            "Turner",
+            "Mechanic (Motor Vehicle)",
+            "Electrician",
+            "Wireman",
+            "Mechanic (Diesel)",
+            "Stenographer",
+            "Welder",
+            "COPA (Computer Operator and Programming Assistant)",
+            "Refrigeration and Air Conditioning Mechanic"
+        ],
+        "Non-Engineering Graduate": [
+            "Commerce",
+            "Computer Science",
+            "Computer Application",
+            "Business Administration",
+            "Geology",
+            "Chemistry",
+            "Microbiology",
+            "Nursing",
+            "Pharmacist (Allopathy)",
+            "Pharmacist (Ayurveda)"
+        ],
+        "Engineering Graduate": [
+            "Mechanical Engineering",
+            "Electrical & Electronics Engineering",
+            "Civil Engineering",
+            "Instrumentation Engineering",
+            "Chemical Engineering",
+            "Mining Engineering",
+            "Computer Science and Engineering",
+            "Information Technology",
+            "Electronics & Communication Engineering"
+        ],
+        "Technician (Diploma)": [
+            "Mechanical Engineering",
+            "Electrical & Electronics Engineering",
+            "Civil Engineering",
+            "Instrumentation Engineering",
+            "Mining Engineering",
+            "Computer Science and Engineering",
+            "Electronics & Communication Engineering",
+            "Pharmacist"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/nlc-india-apprentice-recruitment-2026-apply-online-for-1235-posts-3060734",
+    "extraction_timestamp": "2026-08-02T10:35:03.188697Z"
+}

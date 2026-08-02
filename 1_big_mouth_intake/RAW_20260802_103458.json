@@ -1,0 +1,27 @@
+{
+    "conducting_body": "UPPSC",
+    "exam_name": "Combined State / Upper Subordinate Services (PCS) Exam",
+    "job_posts_covered": [
+        "Agricultural Engineer",
+        "Assistant Industrial Adviser"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "03 Aug 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Mains Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Studies",
+            "Aptitude",
+            "English"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/up-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:34:58.561066Z"
+}

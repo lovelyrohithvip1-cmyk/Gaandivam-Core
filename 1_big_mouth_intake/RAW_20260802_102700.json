@@ -1,0 +1,36 @@
+{
+    "conducting_body": "Hindustan Aeronautics Limited (HAL)",
+    "exam_name": "HAL Executive Recruitment 2026",
+    "job_posts_covered": [
+        "Finance Officer",
+        "Dy. Manager (Finance)",
+        "Manager (Design) – Mechanical",
+        "Manager (Design) – Electrical",
+        "Manager (Design) – Electronics"
+    ],
+    "application_dates": {
+        "start_date": "22 July 2026 (1400 hrs)",
+        "end_date": "12 August 2026 (till 1400 hrs)"
+    },
+    "fee_structure": "₹500/- (inclusive of GST); Nil for SC/ST/PwBD",
+    "selection_stages": [
+        "Shortlisting based on eligibility criteria",
+        "Personal Interview"
+    ],
+    "detailed_syllabus": {
+        "Finance": [
+            "CA/ICWA from ICAI/ICMAI"
+        ],
+        "Design (Mechanical)": [
+            "Mechanical / Mechanical & Industrial Engg / Mechanical & Production Engg / Mechatronics Engg / Mechanical & Automation Engg"
+        ],
+        "Design (Electrical)": [
+            "Electrical / Electrical & Electronics / Electrical & Instrumentation / Electrical, Instrumentation and Control Engg / Electrical & Power Engg"
+        ],
+        "Design (Electronics)": [
+            "Electronics / Electronics & Communication / Electronics & Tele Communications / Electronics Engineering (VLSI Design & Technology) / Electronics and Control Systems / Electronics & Communication (Communication System Engg)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/hal-recruitment-2026-apply-online-for-30-finance-officer-deputy-manager-and-more-posts-3059616",
+    "extraction_timestamp": "2026-08-02T10:27:00.701652Z"
+}

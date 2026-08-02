@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Haryana Government",
+    "exam_name": "HTET",
+    "job_posts_covered": [
+        "Junior Programmer",
+        "Primary Teacher",
+        "Engineering Associate",
+        "Constable",
+        "Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "PST",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/haryana-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:21:59.892804Z"
+}

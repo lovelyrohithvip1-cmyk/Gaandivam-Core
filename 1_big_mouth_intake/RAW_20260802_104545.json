@@ -1,0 +1,41 @@
+{
+    "conducting_body": "TSLPRB",
+    "exam_name": "TSLPRB Constable, Police Constable & More Posts Exam 2026",
+    "job_posts_covered": [
+        "Constable",
+        "Police Constable",
+        "SI",
+        "Deputy Jailor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "30 Aug 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/telangana-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:45:45.853754Z"
+}

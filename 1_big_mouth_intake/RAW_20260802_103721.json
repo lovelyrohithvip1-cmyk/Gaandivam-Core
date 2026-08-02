@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "exam_name": "UPSC Principal and Vice-Principal Recruitment 2026",
+    "job_posts_covered": [
+        "Principal",
+        "Vice Principal"
+    ],
+    "application_dates": {
+        "start_date": "25 July 2026",
+        "end_date": "14 August 2026"
+    },
+    "fee_structure": "Rs. 25/- (exempted for Female/SC/ST/PwBD)",
+    "selection_stages": [
+        "Combined Recruitment Test (CRT)",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "contemporary social issues",
+            "economic issues",
+            "cultural issues"
+        ],
+        "Language Skills": [
+            "Hindi",
+            "English"
+        ],
+        "Reasoning and Quantitative Aptitude": [],
+        "Educational Policies": [
+            "educational measurement",
+            "evaluation"
+        ],
+        "Management and Administration": [
+            "Financial administration",
+            "Office Procedure"
+        ],
+        "Pedagogy in Education": [],
+        "Digital Literacy": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/upsc-principal-vice-principal-recruitment-2026-3059573",
+    "extraction_timestamp": "2026-08-02T10:37:21.647321Z"
+}

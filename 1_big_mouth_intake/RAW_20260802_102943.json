@@ -1,0 +1,27 @@
+{
+    "conducting_body": null,
+    "exam_name": null,
+    "job_posts_covered": [
+        "Banking",
+        "SSC",
+        "Railways",
+        "UPSC",
+        "Defence",
+        "Teaching",
+        "State PSC",
+        "Police",
+        "PSU",
+        "Govt Engineering"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": null,
+    "detailed_syllabus": {
+        "Subject": null
+    },
+    "data_source_url": "https://user.freejobalert.com/register",
+    "extraction_timestamp": "2026-08-02T10:29:43.526132Z"
+}

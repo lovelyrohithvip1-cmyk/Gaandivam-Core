@@ -1,0 +1,44 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "Civil Services Examination (CSE)",
+    "job_posts_covered": [
+        "Administrative Officer",
+        "Assistant",
+        "Assistant Manager Grade A",
+        "Clerk",
+        "Constable",
+        "Engineering Services",
+        "Head Constable Ministerial",
+        "Head Constable AWO/TPO",
+        "IES/ ISS",
+        "Junior Engineer",
+        "NDA & NA",
+        "Officer Scale I",
+        "Paramedical",
+        "PO",
+        "Police Constable",
+        "Stenographer Grade C and D"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Mains",
+        "Online Exam",
+        "Cutoff Marks",
+        "Final Result"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Quantitative Aptitude",
+            "English Language"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/cutoff-marks/",
+    "extraction_timestamp": "2026-08-02T10:32:08.906659Z"
+}

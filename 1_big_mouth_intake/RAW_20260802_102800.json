@@ -1,0 +1,22 @@
+{
+    "conducting_body": "Punjab Public Service Commission (PPSC)",
+    "exam_name": "PPSC ARO and RO Exam",
+    "job_posts_covered": [
+        "Assistant Research Officer (Group-A)",
+        "Research Officer (Group-A)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ppsc-aro-and-ro-result-2026-3061129",
+    "extraction_timestamp": "2026-08-02T10:28:00.374335Z"
+}

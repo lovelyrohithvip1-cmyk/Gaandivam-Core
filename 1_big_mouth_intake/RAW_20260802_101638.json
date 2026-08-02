@@ -1,0 +1,54 @@
+{
+    "conducting_body": "National Remote Sensing Centre (NRSC), ISRO, Department of Space, Government of India",
+    "exam_name": "ISRO NRSC Recruitment 2026",
+    "job_posts_covered": [
+        "Research Scientist",
+        "Project Associate-I",
+        "Project Associate-II",
+        "Project Scientist-B",
+        "Project Scientist-I",
+        "Junior Research Fellow (JRF)"
+    ],
+    "application_dates": {
+        "start_date": "01.08.2026 (10:00 hrs)",
+        "end_date": "21.08.2026 (17:00 hrs)"
+    },
+    "fee_structure": "₹250 per application (non-refundable for General/OBC; refundable for Women, SC/ST/PwBD and Ex-Servicemen candidates, subject to conditions)",
+    "selection_stages": [
+        "Screening of applications",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Research Scientist": [
+            "Water Resources/Hydrology/Irrigation Water Management",
+            "Remote Sensing & GIS/Geoinformatics/Spatial Information Technology",
+            "Geology/Applied Geology",
+            "Computer Science & Engineering/Information Technology",
+            "Data Science & Analytics/Computer Vision/Artificial Intelligence/Machine Learning"
+        ],
+        "Project Associate-I": [
+            "Computer Science & Engineering/Information Technology"
+        ],
+        "Project Associate-II": [
+            "Computer Science & Engineering/IT",
+            "Geoinformatics/Remote Sensing & GIS"
+        ],
+        "Project Scientist-B": [
+            "Geology/Applied Geology",
+            "Remote Sensing & GIS/Geoinformatics/Geospatial Technology/Spatial Information Technology",
+            "Computer Science & Engineering/Information Technology",
+            "Remote Sensing/GIS/Geoinformatics/Geomatics/Geospatial Technology/Environmental Sciences/Agriculture"
+        ],
+        "Project Scientist-I": [
+            "Computer Science & Engineering/Information Technology"
+        ],
+        "Junior Research Fellow (JRF)": [
+            "Physics/Atmospheric Science/Meteorology/Earth System Science/Climate Science/Geophysics/Remote Sensing & GIS/Geoinformatics",
+            "Physics/Oceanography/Ocean Science/Marine Science/Earth System Science/Geophysics/Remote Sensing & GIS/Geoinformatics/Applied Geophysics",
+            "Agrometeorology",
+            "Remote Sensing & GIS"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/isro-nrsc-recruitment-2026-apply-online-for-48-research-scientist-project-associate-and-more-posts-3061137",
+    "extraction_timestamp": "2026-08-02T10:16:38.287052Z"
+}

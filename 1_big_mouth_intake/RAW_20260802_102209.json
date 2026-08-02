@@ -1,0 +1,24 @@
+{
+    "conducting_body": "MPESB",
+    "exam_name": "MP ITI Training Officer Exam",
+    "job_posts_covered": [
+        "ITI Training Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Aptitude",
+            "Technical Subject"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/mp-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:22:09.060069Z"
+}

@@ -1,0 +1,61 @@
+{
+    "conducting_body": "IBPS, SBI, RBI, PNB, Punjab and Sind Bank, Central Bank of India, Canara Bank, Telangana Grameena Bank, Bank of Maharashtra, BOB, NABARD",
+    "exam_name": "Bank Exams, SSC, UPSC, Railway RRB, Banking IBPS/SBI, State PSC, Police, Defence",
+    "job_posts_covered": [
+        "Apprentice",
+        "Clerk",
+        "Peon",
+        "Circle-Based Officer",
+        "Specialist Officer",
+        "Young Professionals",
+        "LBO",
+        "Non CSG Various Post",
+        "Officer Grade B",
+        "Junior Engineer",
+        "Security Manager",
+        "Officer Grade-B (DEPR)",
+        "CBO",
+        "Grade B",
+        "Office Attendant",
+        "Local Bank Officer",
+        "Junior Associate",
+        "Assistant",
+        "Officer JMGS-I, MMGS-II & MMGS-III",
+        "Faculty",
+        "Office Assistant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Merit List",
+        "Cut-off marks"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Logical Reasoning",
+            "Data Interpretation"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Number System",
+            "Algebra",
+            "Geometry",
+            "Data Analysis"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/exam-results/",
+    "extraction_timestamp": "2026-08-02T10:16:15.727789Z"
+}

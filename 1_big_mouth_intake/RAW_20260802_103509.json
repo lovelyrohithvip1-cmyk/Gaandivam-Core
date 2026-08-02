@@ -1,0 +1,27 @@
+{
+    "conducting_body": "WBSSC",
+    "exam_name": "WBSSC Group C and D Exam",
+    "job_posts_covered": [
+        "Group C",
+        "Group D"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/wb-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:35:09.991673Z"
+}

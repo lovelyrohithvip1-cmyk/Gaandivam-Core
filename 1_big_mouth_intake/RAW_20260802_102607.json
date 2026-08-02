@@ -1,0 +1,57 @@
+{
+    "conducting_body": "APSC",
+    "exam_name": "APSC CCE",
+    "job_posts_covered": [
+        "Staff Nurse",
+        "Assistant Engineer",
+        "Nursing Officer",
+        "Act Apprentice",
+        "Assistant Professor",
+        "Project Scientist",
+        "Senior Research Fellow",
+        "Lab Attendant",
+        "Project Engineer",
+        "Junior Research Fellow",
+        "Project Scientist I",
+        "Part Time Members",
+        "Sportspersons",
+        "Driver",
+        "Stenographer",
+        "Office Assistant",
+        "Contractual Chemist",
+        "Contractual Data Assistant",
+        "Contractual Warden",
+        "Non-Teaching",
+        "Pharmacist",
+        "Paramedical Hospital Technician",
+        "Contractual Electrician",
+        "Gaon Pradhan",
+        "Retainer Doctor",
+        "Junior Manager",
+        "Counsellor",
+        "Security Guard",
+        "Geophysicist",
+        "Associate"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "PET",
+        "PST",
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning",
+            "Science"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/assam-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:26:07.483955Z"
+}

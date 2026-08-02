@@ -1,0 +1,135 @@
+{
+    "exam_name": "ANM(R) & GNM 2026 Entrance Examination",
+    "chyme_granular_syllabus": {
+        "Physics": {
+            "Mechanics": {
+                "Kinematics": [
+                    "Motion in One Dimension",
+                    "Motion in Two Dimensions",
+                    "Relative Motion"
+                ],
+                "Dynamics": [
+                    "Force and Newton's Laws",
+                    "Friction",
+                    "Energy and Work"
+                ]
+            },
+            "Thermodynamics": {
+                "Thermal Properties of Matter": [
+                    "Temperature and Heat",
+                    "Thermal Expansion",
+                    "Specific Heat Capacity"
+                ],
+                "Laws of Thermodynamics": [
+                    "Zeroth Law of Thermodynamics",
+                    "First Law of Thermodynamics",
+                    "Second Law of Thermodynamics"
+                ]
+            }
+        },
+        "Chemistry": {
+            "Inorganic Chemistry": {
+                "Atomic Structure": [
+                    "Bohr's Model",
+                    "Electron Configuration",
+                    "Periodic Table"
+                ],
+                "Chemical Bonding": [
+                    "Ionic Bonding",
+                    "Covalent Bonding",
+                    "Hydrogen Bonding"
+                ]
+            },
+            "Organic Chemistry": {
+                "Hydrocarbons": [
+                    "Alkanes",
+                    "Alkenes",
+                    "Alkynes"
+                ],
+                "Functional Groups": [
+                    "Alcohols",
+                    "Ethers",
+                    "Aldehydes and Ketones"
+                ]
+            }
+        },
+        "Biology": {
+            "Cell Biology": {
+                "Cell Structure": [
+                    "Cell Membrane",
+                    "Cytoplasm",
+                    "Nucleus"
+                ],
+                "Cell Division": [
+                    "Mitosis",
+                    "Meiosis",
+                    "Cytokinesis"
+                ]
+            },
+            "Genetics": {
+                "Mendelian Genetics": [
+                    "Laws of Inheritance",
+                    "Genotype and Phenotype",
+                    "Dominance and Recessiveness"
+                ],
+                "Molecular Genetics": [
+                    "DNA Structure",
+                    "Gene Expression",
+                    "Genetic Mutations"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Algebra": {
+                "Equations and Inequalities": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Functions": [
+                    "Domain and Range",
+                    "Even and Odd Functions",
+                    "Composite Functions"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Coordinate Geometry",
+                    "Distance Formula",
+                    "Midpoint Formula"
+                ],
+                "Circles and Ellipses": [
+                    "Properties of Circles",
+                    "Properties of Ellipses",
+                    "Equations of Circles and Ellipses"
+                ]
+            }
+        },
+        "English": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Comprehension": {
+                "Reading Strategies": [
+                    "Skimming",
+                    "Scanning",
+                    "Close Reading"
+                ],
+                "Vocabulary Building": [
+                    "Context Clues",
+                    "Prefixes and Suffixes",
+                    "Word Roots"
+                ]
+            }
+        }
+    }
+}

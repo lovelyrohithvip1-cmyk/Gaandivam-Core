@@ -1,0 +1,57 @@
+{
+    "conducting_body": "Various Government Institutions",
+    "exam_name": "ITI NCVT Based Govt Job Vacancies",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "Technician",
+        "LDC",
+        "Security Guard",
+        "Divisional Cadre",
+        "Project Nurse",
+        "Senior Research Fellow",
+        "Draftsman",
+        "Works Supervisor",
+        "Junior Clerk",
+        "Assistant Engineer",
+        "Apprentice",
+        "Clerk",
+        "Engineering Officer",
+        "Higher Management",
+        "Junior Management",
+        "Senior Management",
+        "Police Constable",
+        "SI",
+        "Deputy Jailor",
+        "Lab Attendant",
+        "Project Engineer",
+        "Graduate Apprentice",
+        "Diploma Apprentice",
+        "ITI Apprentice",
+        "Aadhaar Supervisor",
+        "Aadhaar Operator",
+        "Sports Person",
+        "Non-Teaching",
+        "Project Technical Support"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Written Exam",
+        "Interview",
+        "Merit List"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Aptitude",
+            "Technical Skills",
+            "English Language"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:15:13.164079Z"
+}

@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Saha Institute of Nuclear Physics (SINP)",
+    "exam_name": "SINP Recruitment 2026",
+    "job_posts_covered": [
+        "Scientist 'C'",
+        "Scientific Assistant 'B'",
+        "Technician 'B'",
+        "Assistant Administrative Officer-I",
+        "Lower Division Clerk",
+        "Security Guard A",
+        "Work Assistant 'A'",
+        "Halwai-cum-Cook"
+    ],
+    "application_dates": {
+        "start_date": "31.07.2026",
+        "end_date": "15.09.2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Submission of PDF Application through Email",
+        "Receipt of Hard Copy (Proper Channel / Deputation candidates only)"
+    ],
+    "detailed_syllabus": {
+        "Scientific Category": [
+            "M.Sc in Physics/Applied Physics",
+            "M.Sc in Physics/Optics/Photonics",
+            "M.Sc in Physics/Electronics"
+        ],
+        "Technical Category": [
+            "Diploma in Computer Software Technology",
+            "Diploma in Electronics and Instrumentation Engineering",
+            "Diploma in Electrical Engineering / Electrical Power System",
+            "Diploma in Mechanical Engineering / Air-Conditioning and Refrigeration Engineering / HVAC Engineering"
+        ],
+        "Administrative & Auxiliary Category": [
+            "Graduation",
+            "HSC/SSC pass + ITI (min. 1 year) in relevant trade"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/sinp-recruitment-2026-apply-online-for-62-ldc-security-guard-and-more-posts-3061177",
+    "extraction_timestamp": "2026-08-02T10:19:18.585819Z"
+}

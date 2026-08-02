@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Staff Selection Commission, IBPS, SBI, Railway Recruitment Board",
+    "exam_name": "SSC CGL, IBPS PO, SBI PO, RRB NTPC, SSC CHSL, IBPS Clerk, SBI Clerk",
+    "job_posts_covered": [
+        "Graduate Level",
+        "Probationary Officer",
+        "Clerical Cadre",
+        "Non-Technical Popular Categories",
+        "Junior Associate"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam"
+    ],
+    "detailed_syllabus": {
+        "Quantitative Aptitude": [
+            "Numerical Ability",
+            "Data Interpretation"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://slate.freejobalert.com/mock-test/",
+    "extraction_timestamp": "2026-08-02T10:45:15.128874Z"
+}

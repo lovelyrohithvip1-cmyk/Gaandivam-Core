@@ -1,0 +1,24 @@
+{
+    "conducting_body": "Institute of Banking Personnel Selection (IBPS)",
+    "exam_name": "IBPS RRB Clerk",
+    "job_posts_covered": [
+        "Customer Service Associate (CSA) / Clerk"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Document Verification",
+        "Submission of Required Certificates",
+        "Medical Examination (if applicable)",
+        "Joining Formalities",
+        "Induction/Training Process"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ibps-rrb-clerk-reserve-list-2026-3061074",
+    "extraction_timestamp": "2026-08-02T10:43:04.523343Z"
+}

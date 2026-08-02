@@ -1,0 +1,61 @@
+{
+    "conducting_body": "UKSSSC, RVUNL, UPSSSC, TNSTC, IOCL, NLC India, and others",
+    "exam_name": "Various Government Job Exams",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "Junior Accountant",
+        "Auditor",
+        "Assistant Accountant",
+        "Apprentice",
+        "Accountant",
+        "Manager",
+        "Assistant Manager",
+        "Senior Project Assistant",
+        "Project Attendant",
+        "Graduate and Technician Apprentice Trainee",
+        "Administrative Officer",
+        "Accounts Officer",
+        "Account Assistant",
+        "Clinical Psychologist",
+        "Assistant Manager",
+        "Deputy Manager",
+        "Sub Inspector",
+        "JRF",
+        "Office Assistant",
+        "DEO",
+        "Clerk",
+        "Executive Assistant",
+        "Assistant",
+        "Assistant Professor",
+        "Data Analyst",
+        "Primary Education Officer",
+        "District Manager"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Skill Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Awareness",
+            "Quantitative Aptitude",
+            "Reasoning Ability",
+            "English Language",
+            "General Knowledge",
+            "Accountancy",
+            "Business Mathematics",
+            "Business Economics",
+            "Business Law",
+            "Business Organization and Management"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/bcom-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:20:04.701469Z"
+}

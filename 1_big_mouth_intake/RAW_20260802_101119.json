@@ -1,0 +1,44 @@
+{
+    "conducting_body": "Master Control Facility (MCF), Hassan - ISRO, Department of Space",
+    "exam_name": "ISRO MCF Hassan GAT & TAT Recruitment 2026",
+    "job_posts_covered": [
+        "Graduate Apprentice Trainee (GAT)",
+        "Technician Apprentice Trainee (TAT)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "3 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Screening of applications",
+        "Preparation of merit panel based on academic scores",
+        "Induction of apprentices based on merit panel",
+        "Document verification"
+    ],
+    "detailed_syllabus": {
+        "Graduate Apprentice Trainee (GAT) - B.E./B.Tech Stream": [
+            "Mechanical Engineering",
+            "Electrical & Electronics Engineering",
+            "Electronics & Communication Engineering",
+            "Computer Science & Engineering",
+            "Civil Engineering"
+        ],
+        "Graduate Apprentice Trainee (GAT) - B.Sc./Library Science": [
+            "Library Science"
+        ],
+        "Graduate Apprentice Trainee (GAT) - General Stream": [
+            "B.A / B.Com / B.Sc (General Stream)"
+        ],
+        "Technician Apprentice Trainee (TAT) - Diploma": [
+            "Mechanical Engineering",
+            "Electrical & Electronics Engineering",
+            "Electronics & Communication Engineering",
+            "Civil Engineering",
+            "Library Science",
+            "Commercial Practice"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/isro-mcf-hassan-gat-and-tat-recruitment-2026-apply-online-for-45-graduate-and-technician-apprentice-trainee-posts-3060403",
+    "extraction_timestamp": "2026-08-02T10:11:19.647954Z"
+}

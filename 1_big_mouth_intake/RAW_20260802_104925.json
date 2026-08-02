@@ -1,0 +1,37 @@
+{
+    "conducting_body": "Tamil Nadu State Transport Corporation",
+    "exam_name": "TNSTC Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Graduate Apprentice (Engineering)",
+        "Technician (Diploma) Apprentice",
+        "Graduate Apprentice (Non-Engineering)"
+    ],
+    "application_dates": {
+        "start_date": "28.07.2026",
+        "end_date": "28.08.2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting based on marks percentage",
+        "Certificate Verification"
+    ],
+    "detailed_syllabus": {
+        "Graduate Apprentice (Engineering)": [
+            "Mechanical/Automobile",
+            "Civil",
+            "Electrical & Electronics",
+            "CSE/IT"
+        ],
+        "Technician (Diploma) Apprentice": [
+            "Mechanical/Automobile",
+            "Civil",
+            "Electrical & Electronics",
+            "CSE/IT"
+        ],
+        "Graduate Apprentice (Non-Engineering)": [
+            "Arts/Science/Commerce/Humanities"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/tnstc-apprentice-recruitment-2026-apply-online-for-1518-graduate-and-diploma-apprentice-posts-3060678",
+    "extraction_timestamp": "2026-08-02T10:49:25.633545Z"
+}

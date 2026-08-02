@@ -1,0 +1,46 @@
+{
+    "conducting_body": "State Forest Departments and Recruitment Boards",
+    "exam_name": "Forest Department Recruitment Exam",
+    "job_posts_covered": [
+        "Forest Guard",
+        "Forester",
+        "Beat Officer",
+        "Range Forest Officer (RFO)",
+        "Assistant Conservator of Forests (ACF)",
+        "Indian Forest Service (IFS) Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination",
+        "Physical Standard Test (PST)",
+        "Physical Efficiency Test (PET)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Affairs",
+            "General Science",
+            "State-specific General Knowledge"
+        ],
+        "General Science": [
+            "Physics basics",
+            "Chemistry basics",
+            "Biology basics"
+        ],
+        "Basic Mathematics": [
+            "Numerical Ability"
+        ],
+        "Reasoning & Mental Ability": [],
+        "Forestry Science": [
+            "Environmental laws",
+            "Wildlife protection acts"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/forest-department-jobs/",
+    "extraction_timestamp": "2026-08-02T10:48:45.535025Z"
+}

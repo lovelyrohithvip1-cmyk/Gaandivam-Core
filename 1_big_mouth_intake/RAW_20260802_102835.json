@@ -1,0 +1,52 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB), Railway Recruitment Cell (RRC), UPSC",
+    "exam_name": "Railway Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "Technician",
+        "Section Controller",
+        "Scouts & Guides Quota",
+        "Sports Quota",
+        "Act Apprentice",
+        "Manager",
+        "General Manager",
+        "Supervisor",
+        "Case Worker",
+        "Assistant Manager",
+        "Deputy General Manager"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Exam",
+        "Interview",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ],
+        "General Awareness": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/railway-jobs/",
+    "extraction_timestamp": "2026-08-02T10:28:35.285296Z"
+}

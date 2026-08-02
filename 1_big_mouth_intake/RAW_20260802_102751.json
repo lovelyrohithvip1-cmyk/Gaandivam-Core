@@ -1,0 +1,35 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "UPSC Exam",
+    "job_posts_covered": [
+        "Research Associate",
+        "Assistant Professor",
+        "Junior Research Fellow",
+        "Senior Resident",
+        "Junior Resident",
+        "Nursing Officer",
+        "Manager",
+        "Junior Executive"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Mains",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Science",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/delhi-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:27:51.361179Z"
+}

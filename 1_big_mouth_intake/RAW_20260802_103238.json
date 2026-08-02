@@ -1,0 +1,27 @@
+{
+    "conducting_body": "Jammu and Kashmir Services Selection Board (JKSSB)",
+    "exam_name": "JKSSB Recruitment 2026",
+    "job_posts_covered": [
+        "Draftsman (Civil)",
+        "Works Supervisor"
+    ],
+    "application_dates": {
+        "start_date": "01.08.2026",
+        "end_date": "30.08.2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written/OMR objective-type examination"
+    ],
+    "detailed_syllabus": {
+        "Draftsman (Civil)": [
+            "Two-Year Draftsman Training Course"
+        ],
+        "Works Supervisor": [
+            "Matriculation Examination",
+            "ITI Certificate in Building Construction or Carpentry Trade"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/jkssb-recruitment-2026-357-draftsman-works-supervisor-posts-3057021",
+    "extraction_timestamp": "2026-08-02T10:32:38.598856Z"
+}

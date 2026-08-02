@@ -1,0 +1,45 @@
+{
+    "conducting_body": "IBPS",
+    "exam_name": "CRP CSA-XVI",
+    "job_posts_covered": [
+        "Customer Service Associate",
+        "Clerk"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "21-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Syllogism",
+            "Blood Relations",
+            "Direction Sense",
+            "Coding-Decoding"
+        ],
+        "English Language": [
+            "Reading Comprehension",
+            "Fill in the Blanks",
+            "Error Detection",
+            "Sentence Improvement"
+        ],
+        "Quantitative Aptitude": [
+            "Data Interpretation",
+            "Number Series",
+            "Quadratic Equations",
+            "Approximation"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge",
+            "Banking Awareness"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/latest-notifications/",
+    "extraction_timestamp": "2026-08-02T10:25:46.264654Z"
+}

@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Rajasthan Subordinate and Ministerial Services Selection Board (RSMSSB)",
+    "exam_name": "Rajasthan RSSB CET Graduation Level 2026",
+    "job_posts_covered": [
+        "Safai Karmachari",
+        "Junior Engineer",
+        "Junior Accountant",
+        "Stenographer",
+        "Anganwadi Worker",
+        "Helper",
+        "Apprentices"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "28 Sep 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "General Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/rajasthan-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:37:08.129686Z"
+}

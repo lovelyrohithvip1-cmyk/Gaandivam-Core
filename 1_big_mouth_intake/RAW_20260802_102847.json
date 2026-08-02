@@ -1,0 +1,74 @@
+{
+    "conducting_body": "Rourkela Steel Plant (RSP), SAIL - Learning & Development Department",
+    "exam_name": "RSP Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Trade Apprentice (ITI)",
+        "Diploma Apprentice",
+        "Graduate/Degree Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "26 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online registration",
+        "Walk-in selection process"
+    ],
+    "detailed_syllabus": {
+        "Trade Apprentice": [
+            "AOCP",
+            "COPA",
+            "Diesel Mechanic",
+            "Electrician",
+            "Fitter",
+            "Tool & Die Maker",
+            "Electronics Mechanic",
+            "Instrument Mechanic",
+            "LACP",
+            "Machinist",
+            "Mechanic Motor Vehicle",
+            "Mechanic Refrigeration and AC",
+            "Turner",
+            "Welder",
+            "ICTSM",
+            "Central AC Plant Mechanic",
+            "Technician Mechatronics",
+            "Manufacturing Process Control & Automation"
+        ],
+        "Diploma & Degree (Graduate/Technician) Apprentice - Engineering Disciplines": [
+            "Ceramic Technology",
+            "Chemical",
+            "Civil",
+            "Computer Science",
+            "EEE",
+            "Electrical",
+            "Mechanical/Mechatronics",
+            "Metallurgy",
+            "Electronics & Telecommunication",
+            "Information Technology",
+            "Automobile",
+            "Electronics & Communication",
+            "Electronics & Instrumentation",
+            "Production"
+        ],
+        "Diploma & Degree Apprentice - General, Nursing & Paramedical Disciplines": [
+            "Bachelor in Arts (BA)",
+            "Bachelor in Science (B.Sc)",
+            "Bachelor of Commerce (B.Com)",
+            "Bachelor of Computer Application (BCA)",
+            "Bachelor of Business Administration (BBA)",
+            "B.Sc Nursing",
+            "Data Entry Operator (PGDCA)",
+            "Diploma in Nursing (GNM)",
+            "Diploma in Physiotherapy (DP)",
+            "Diploma in Medical Lab Technology (DMLT)",
+            "Diploma in Radiological Technology (DRT)",
+            "Diploma in X-ray Technology (DXT)",
+            "Diploma in Operation Theatre Technology (DOTT)",
+            "Diploma in Pharmacy (D.Pharma)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/sail-rsp-apprentice-recruitment-2026-apply-online-for-1110-posts-3059166",
+    "extraction_timestamp": "2026-08-02T10:28:47.242480Z"
+}

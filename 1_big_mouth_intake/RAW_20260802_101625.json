@@ -1,0 +1,26 @@
+{
+    "conducting_body": "Andhra Pradesh High Court",
+    "exam_name": "Law Clerk",
+    "job_posts_covered": [
+        "Law Clerk"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "04-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Law": [
+            "Constitutional Law",
+            "Contract Law",
+            "Criminal Law",
+            "Family Law"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/state-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:16:25.422156Z"
+}

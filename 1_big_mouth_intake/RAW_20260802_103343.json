@@ -1,0 +1,51 @@
+{
+    "conducting_body": "Airports Authority of India (AAI)",
+    "exam_name": "AAI Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Graduate Apprentice - Engineering (Civil)",
+        "Diploma Apprentice - Engineering (Civil)",
+        "Graduate Apprentice - Engineering (Electrical)",
+        "Diploma Apprentice - Engineering (Electrical)",
+        "Trade Apprentice (ITI) - Engineering (Electrical)",
+        "Graduate Apprentice - Electronics and Communication",
+        "Diploma Apprentice - Electronics and Tele Communication",
+        "Trade Apprentice (ITI) - Electronics & Mechanics",
+        "Graduate Apprentice - IT",
+        "Graduate Apprentice - Technical",
+        "Diploma Apprentice - Technical",
+        "Trade Apprentice (ITI) - Computer Operator and Programming Assistant (COPA)"
+    ],
+    "application_dates": {
+        "start_date": "21-07-2026",
+        "end_date": "24-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Provisional selection based on percentage of marks",
+        "Interview",
+        "Document verification",
+        "Medical Fitness Certificate"
+    ],
+    "detailed_syllabus": {
+        "Graduate Apprentice": [
+            "Engineering (Civil)",
+            "Engineering (Electrical)",
+            "Electronics and Communication",
+            "IT",
+            "Technical"
+        ],
+        "Diploma Apprentice": [
+            "Engineering (Civil)",
+            "Engineering (Electrical)",
+            "Electronics and Tele Communication",
+            "Technical"
+        ],
+        "ITI Trade Apprentice": [
+            "Engineering (Electrical)",
+            "Electronics & Mechanics",
+            "Computer Operator and Programming Assistant (COPA)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/aai-nscbi-airport-apprentice-recruitment-2026-apply-online-for-38-posts-3060594",
+    "extraction_timestamp": "2026-08-02T10:33:43.693038Z"
+}

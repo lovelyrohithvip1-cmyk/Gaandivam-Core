@@ -1,0 +1,47 @@
+{
+    "conducting_body": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC), Lucknow",
+    "exam_name": "Vidhi Vigyan Prayogshala (Sanyukt Sanvarg) Main Examination (PET0AT0P0-2025)/16",
+    "job_posts_covered": [
+        "Scientific Assistant",
+        "Lab Assistant (Prayogshala Sahayak)"
+    ],
+    "application_dates": {
+        "start_date": "27 July 2026",
+        "end_date": "17 August 2026"
+    },
+    "fee_structure": "Rs. 25.00 (Online Processing Fee)",
+    "selection_stages": [
+        "Written (Main) Examination based on shortlisting from normalized PET-2025 score"
+    ],
+    "detailed_syllabus": {
+        "Biology Domain": [
+            "Biological Science",
+            "Forensic Science",
+            "Biotechnology",
+            "Bio Chemistry",
+            "Genetics",
+            "Cell Biology",
+            "Microbiology"
+        ],
+        "Physical Science Domain": [
+            "Physical Science",
+            "Forensic Science",
+            "Nuclear Science",
+            "Instrumentation",
+            "Electronics",
+            "Instrumentation/Electrical & Electronics Engineering",
+            "Civil and Mechanical Engineering"
+        ],
+        "Chemistry Domain": [
+            "Chemistry",
+            "Forensic Science",
+            "Bio Chemistry"
+        ],
+        "Computer Science Domain": [
+            "Computer Science",
+            "A level diploma from NIELIT"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/upsssc-fsl-recruitment-2026-3060250",
+    "extraction_timestamp": "2026-08-02T10:35:20.741088Z"
+}

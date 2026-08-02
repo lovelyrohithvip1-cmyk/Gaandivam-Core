@@ -1,0 +1,55 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "RRB Group D (Level-1) Recruitment Exam 2025-26",
+    "job_posts_covered": [
+        "Pointsman-B",
+        "Track Maintainer Grade IV",
+        "Assistant (S&T)",
+        "Assistant (C&W)",
+        "Assistant TRD",
+        "Assistant Operations (Electrical)",
+        "Assistant (Track Machine)",
+        "Assistant (Bridge)",
+        "Assistant TL & AC",
+        "Assistant P-Way",
+        "Assistant Loco Shed (Electrical)"
+    ],
+    "application_dates": {
+        "start_date": "31 January 2026",
+        "end_date": "09 March 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer Based Test (CBT-I)",
+        "Physical Efficiency Test (PET)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "General Awareness": [
+            "Current Events",
+            "General Knowledge"
+        ],
+        "Mathematics": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "General Intelligence and Reasoning": [
+            "Analogies",
+            "Syllogism",
+            "Coding-Decoding",
+            "Puzzles",
+            "Data Interpretation"
+        ],
+        "General Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rrb-group-d-admit-card-2026-out-3061149",
+    "extraction_timestamp": "2026-08-02T10:46:43.676956Z"
+}

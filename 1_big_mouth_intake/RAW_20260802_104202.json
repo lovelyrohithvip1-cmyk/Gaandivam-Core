@@ -1,0 +1,45 @@
+{
+    "conducting_body": "IBPS",
+    "exam_name": "IBPS PO and Clerk Exam",
+    "job_posts_covered": [
+        "Probationary Officer (PO)",
+        "Clerk",
+        "Specialist Officer (SO)",
+        "Management Trainee",
+        "Apprentice"
+    ],
+    "application_dates": {
+        "start_date": "July-August",
+        "end_date": "varies by exam"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Banking Awareness",
+            "Economy"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/bank-jobs/",
+    "extraction_timestamp": "2026-08-02T10:42:02.791900Z"
+}

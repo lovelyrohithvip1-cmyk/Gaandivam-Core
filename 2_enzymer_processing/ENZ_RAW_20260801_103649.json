@@ -1,0 +1,25 @@
+{
+    "exam_name": "Nursing Officer Recruitment Common Eligibility Test (NORCET) 11",
+    "educational_qualifications": [
+        "B.Sc. (Hons.) Nursing",
+        "B.Sc. Nursing",
+        "Post Basic B.Sc. Nursing",
+        "Diploma in General Nursing Midwifery (GNM)"
+    ],
+    "age_limits": "Not specified",
+    "salary_details": "Not specified",
+    "number_of_posts": "Not specified",
+    "medical_physical_fitness": "Required, with a medical examination stage",
+    "quotas_and_gender_rules": "Not specified",
+    "application_fee": {
+        "General / OBC": "₹3,000",
+        "EWS / SC / ST": "₹2,400",
+        "Persons with Disabilities (PwD)": "Exempted"
+    },
+    "important_dates": {
+        "release": "24 July 2026",
+        "deadline": "13 August 2026 (5:00 PM)",
+        "extensions": "Not specified"
+    },
+    "application_link": "Not specified"
+}

@@ -1,0 +1,32 @@
+{
+    "exam_name": "Government Jobs Exam",
+    "educational_qualifications": [
+        "10TH",
+        "8TH",
+        "12TH",
+        "Diploma",
+        "ITI",
+        "B.Tech/B.E",
+        "B.com",
+        "MBA",
+        "MSW",
+        "B.sc",
+        "M.sc",
+        "BA",
+        "MA",
+        "Any Graduate",
+        "Any Post Graduate"
+    ],
+    "age_limits": "Not specified",
+    "salary_details": "Not specified",
+    "number_of_posts": "Not specified",
+    "medical_physical_fitness": "Not specified",
+    "quotas_and_gender_rules": "Not specified",
+    "application_fee": "Not specified",
+    "important_dates": {
+        "release": "Not specified",
+        "deadline": "Not specified",
+        "extensions": "Not specified"
+    },
+    "application_link": "Not specified"
+}

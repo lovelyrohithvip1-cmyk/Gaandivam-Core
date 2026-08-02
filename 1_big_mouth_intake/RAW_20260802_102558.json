@@ -1,0 +1,79 @@
+{
+    "conducting_body": "All India Institute of Medical Sciences Delhi",
+    "exam_name": "AIIMS Paramedical",
+    "job_posts_covered": [
+        "Paramedical"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer-Based Test (CBT)"
+    ],
+    "detailed_syllabus": {
+        "Physics": [
+            "Physical world and measurement",
+            "Kinematics",
+            "Laws of Motion",
+            "Work, Energy and Power",
+            "Motion of System of Particles",
+            "Gravitation",
+            "Thermodynamics",
+            "Oscillations and Waves",
+            "Electrostatics",
+            "Current Electricity",
+            "Magnetic Effects of Current and Magnetism",
+            "Electromagnetic Induction",
+            "Alternating Current",
+            "Electromagnetic Waves",
+            "Optics",
+            "Dual Nature of Matter",
+            "Atoms and Nuclei",
+            "Electronic Devices"
+        ],
+        "Chemistry": [
+            "Some Basic Concepts of Chemistry",
+            "Structure of Atom",
+            "Classification of Elements",
+            "Chemical Bonding",
+            "States of Matter",
+            "Thermodynamics",
+            "Equilibrium",
+            "Redox Reactions",
+            "Hydrogen",
+            "The s-Block Element",
+            "Basic Organic Chemistry",
+            "Solid State",
+            "Solutions",
+            "Electrochemistry",
+            "Chemical Kinetics",
+            "Surface Chemistry",
+            "The p-Block, d- and f-Block Elements",
+            "Coordination Compounds",
+            "Haloalkanes and Haloarenes",
+            "Alcohols, Phenols",
+            "Aldehydes, Ketones",
+            "Carboxylic Acids",
+            "Amines",
+            "Biomolecules",
+            "Polymers",
+            "Chemistry in Everyday Life"
+        ],
+        "Biology": [
+            "Diversity of Living Organisms",
+            "Structural Organisation in Animals and Plants",
+            "Cell Structure and Function",
+            "Plant Physiology",
+            "Human Physiology",
+            "Reproduction",
+            "Genetics and Evolution",
+            "Biology and Human Welfare",
+            "Biotechnology",
+            "Ecology and Environment"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/aiims-paramedical-syllabus-2025-3007694",
+    "extraction_timestamp": "2026-08-02T10:25:58.136343Z"
+}

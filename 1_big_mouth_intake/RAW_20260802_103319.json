@@ -1,0 +1,27 @@
+{
+    "conducting_body": "Kerala PSC",
+    "exam_name": "Kerala PSC Various Posts",
+    "job_posts_covered": [
+        "Junior Clerk",
+        "Assistant Engineer",
+        "Clerk-Typist"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "02 Sep 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Mathematics",
+            "English"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/kerala-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:33:19.572659Z"
+}

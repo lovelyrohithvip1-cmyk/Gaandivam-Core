@@ -1,0 +1,29 @@
+{
+    "conducting_body": "Punjab Subordinate Services Selection Board (PSSSB)",
+    "exam_name": "Assistant District Attorney (ADA) Exam",
+    "job_posts_covered": [
+        "Assistant District Attorney"
+    ],
+    "application_dates": {
+        "start_date": "24 April 2026",
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination"
+    ],
+    "detailed_syllabus": {
+        "Law": [
+            "Indian Penal Code (IPC) / Bharatiya Nyaya Sanhita (BNS)",
+            "Code of Criminal Procedure (CrPC) / Bharatiya Nagarik Suraksha Sanhita (BNSS)",
+            "Indian Evidence Act / Bharatiya Sakshya Adhiniyam (BSA)",
+            "Information Technology (IT) Act",
+            "Punjab Excise Act",
+            "Prevention of Corruption Act",
+            "Prevention of Damage to Public Property Act",
+            "Legal Glossary and General Legal Terms"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/psssb-ada-admit-card-2026-3060777",
+    "extraction_timestamp": "2026-08-02T10:15:02.485460Z"
+}

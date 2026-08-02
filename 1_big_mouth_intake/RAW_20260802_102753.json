@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Union Bank of India",
+    "exam_name": "Union Bank Recruitment Project 2026–27",
+    "job_posts_covered": [
+        "Manager",
+        "Senior Manager",
+        "Chief Manager",
+        "Assistant General Manager",
+        "Deputy General Manager"
+    ],
+    "application_dates": {
+        "start_date": "21.07.2026",
+        "end_date": "10.08.2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Banking": [
+            "Financial Management",
+            "Accounting",
+            "Marketing",
+            "Human Resource Management",
+            "Operations Management"
+        ],
+        "Specialized Segment": [
+            "IT",
+            "Forex",
+            "Chartered Accountancy",
+            "Risk Management",
+            "Law",
+            "Architecture",
+            "Engineering",
+            "Fire Safety",
+            "Printing",
+            "Vendor Management"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/union-bank-of-india-so-recruitment-2026-apply-online-for-395-specialist-officers-general-banking-officers-and-officers-posts-3059262",
+    "extraction_timestamp": "2026-08-02T10:27:53.819349Z"
+}

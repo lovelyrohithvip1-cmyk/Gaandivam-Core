@@ -1,0 +1,36 @@
+{
+    "conducting_body": "SJVN Limited",
+    "exam_name": "SJVN Executive Recruitment 2026",
+    "job_posts_covered": [
+        "Chief General Manager",
+        "Deputy Manager",
+        "Engineer"
+    ],
+    "application_dates": {
+        "start_date": "05 August 2026",
+        "end_date": "26 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Shortlisting",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Electrical": [
+            "Electrical & Electronics Engineering"
+        ],
+        "Mechanical": [
+            "Mechanical Engineering"
+        ],
+        "C&I": [
+            "Electrical & Electronics/Instrumentation & Control/Electronics & Instrumentation Engineering"
+        ],
+        "Chemical": [
+            "Chemical Engineering",
+            "M.Sc (Chemistry)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/sjvn-recruitment-2026-apply-online-for-21-engineer-deputy-manager-and-more-posts-3060958",
+    "extraction_timestamp": "2026-08-02T10:39:51.943950Z"
+}

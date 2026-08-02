@@ -1,0 +1,35 @@
+{
+    "conducting_body": "IBPS",
+    "exam_name": "IBPS Clerk",
+    "job_posts_covered": [
+        "Clerk"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Mains Exam"
+    ],
+    "detailed_syllabus": {
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Numerical Ability": [
+            "Number Series",
+            "Data Interpretation",
+            "Quadratic Equations"
+        ],
+        "Reasoning Ability": [
+            "Logical Reasoning",
+            "Data Sufficiency",
+            "Puzzles"
+        ]
+    },
+    "data_source_url": "https://sarkariresult.freejobalert.com/",
+    "extraction_timestamp": "2026-08-02T10:43:35.178772Z"
+}

@@ -1,0 +1,39 @@
+{
+    "conducting_body": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC), Lucknow",
+    "exam_name": "Mukhya Pariksha (Main Examination), Pra.A.P-2025/06",
+    "job_posts_covered": [
+        "Assistant Statistical Officer (ASO)",
+        "Assistant Research Officer, Statistics (ARO)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Mukhya Pariksha (Main Exam)"
+    ],
+    "detailed_syllabus": {
+        "Statistics": [
+            "Fundamentals",
+            "Classification & Tabulation",
+            "Measures of Central Tendency & Dispersion",
+            "Correlation & Regression",
+            "Probability"
+        ],
+        "Indian Economy": [
+            "National Income",
+            "Index Numbers",
+            "Money & Banking"
+        ],
+        "Computer Knowledge": [],
+        "Uttar Pradesh General Knowledge": [
+            "Geography",
+            "History",
+            "Culture",
+            "Government Schemes"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/upsssc-aso-answer-key-2026-3060570",
+    "extraction_timestamp": "2026-08-02T10:18:42.865134Z"
+}

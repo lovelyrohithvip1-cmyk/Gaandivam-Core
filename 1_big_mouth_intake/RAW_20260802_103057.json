@@ -1,0 +1,44 @@
+{
+    "conducting_body": "UP Subordinate Services Selection Commission",
+    "exam_name": "Preliminary Eligibility Test (PET) - 2026",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "Technician",
+        "Research Associate-1",
+        "Junior Resident",
+        "Assistant Manager",
+        "LDC",
+        "Security Guard",
+        "Project Associate",
+        "Senior PAT",
+        "Sr. Dy. Traffic Manager",
+        "Sr. Dy. Chief Accounts Officer",
+        "Management Trainee",
+        "Divisional Cadre",
+        "Post Doctoral Researcher",
+        "Principal Project Associate",
+        "Assistant Executive Engineer",
+        "Project Nurse",
+        "Senior Research Fellow"
+    ],
+    "application_dates": {
+        "start_date": "01 August 2026",
+        "end_date": "01 September 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "English",
+            "Mathematics",
+            "Science"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/",
+    "extraction_timestamp": "2026-08-02T10:30:57.125207Z"
+}

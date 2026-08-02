@@ -1,0 +1,73 @@
+{
+    "conducting_body": "TNPSC",
+    "exam_name": "TNPSC CTSE Diploma/ITI",
+    "job_posts_covered": [
+        "Customer Service Associate / Clerk",
+        "Specialist Officer",
+        "Apprentice",
+        "Executive",
+        "Non-Executive",
+        "Manager",
+        "Junior Executive",
+        "Stipendiary Trainee/Technician",
+        "Doctoral Researcher",
+        "Guest Lecturer",
+        "Young Professional",
+        "Project Scientist",
+        "Project Associate",
+        "Junior Research Fellow",
+        "Project Assistant",
+        "Watchman",
+        "Block Coordinator",
+        "Administrative Officer",
+        "Accounts Assistant",
+        "Senior Project Associate",
+        "Apprentice Trainee",
+        "Counsellor",
+        "Assistant Cum Data Entry Operator",
+        "Account Assistant",
+        "Clinical Psychologist",
+        "Health Inspector",
+        "ANM",
+        "Driver",
+        "Supervisor",
+        "Case Worker",
+        "Project Consultant",
+        "General Manager",
+        "CRS Project Fellow",
+        "Non-Executive",
+        "Apprentice",
+        "Project Associate",
+        "Consultant Credit Analyst",
+        "Counsellor/Psychologist",
+        "MPHW",
+        "Medical Officer",
+        "Junior Engineer",
+        "Assistant",
+        "Executive",
+        "Secondary Grade Teacher/ Graduate Teacher",
+        "Junior Research Fellow/ Project Associate I",
+        "Protection Officer"
+    ],
+    "application_dates": {
+        "start_date": "27 Jul 2026",
+        "end_date": "21 Aug 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Reasoning",
+            "English",
+            "Mathematics",
+            "General Knowledge",
+            "Current Affairs"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/tn-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:21:48.645818Z"
+}

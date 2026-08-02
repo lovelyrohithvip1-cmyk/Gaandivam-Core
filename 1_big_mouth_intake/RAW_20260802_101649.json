@@ -1,0 +1,48 @@
+{
+    "conducting_body": "Defence Research and Development Organisation (DRDO), Ministry of Defence, Government of India",
+    "exam_name": "DRDO SSPL Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "ITI Apprentice",
+        "Diploma Apprentice",
+        "Graduate Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "21 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Verification of credentials"
+    ],
+    "detailed_syllabus": {
+        "ITI Apprentice": [
+            "Fitter",
+            "Electronics Mechanic",
+            "Electrician",
+            "Computer Operator and Programming Assistant (COPA)",
+            "Machinist",
+            "Carpenter"
+        ],
+        "Diploma Apprentice": [
+            "Electrical",
+            "Mechanical",
+            "Electronics",
+            "Instrumentation",
+            "Computer Science"
+        ],
+        "Graduate Apprentice": [
+            "Physics",
+            "Chemistry",
+            "Maths",
+            "Computer Science",
+            "Electronics",
+            "Mechanical",
+            "Electrical",
+            "Communication Engineering",
+            "VLSI",
+            "Chemical Engineering"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/drdo-sspl-apprentice-recruitment-2026-apply-offline-for-41-posts-3060942",
+    "extraction_timestamp": "2026-08-02T10:16:49.777854Z"
+}

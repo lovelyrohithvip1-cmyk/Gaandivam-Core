@@ -1,0 +1,67 @@
+{
+    "conducting_body": "IREL (India) Limited",
+    "exam_name": "IREL Executive Recruitment 2026",
+    "job_posts_covered": [
+        "Assistant Manager",
+        "Deputy Manager",
+        "Chief Manager",
+        "Manager",
+        "Senior Manager",
+        "Deputy General Manager",
+        "General Manager"
+    ],
+    "application_dates": {
+        "start_date": "20/07/2026",
+        "end_date": "10/08/2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting",
+        "Personal Interview",
+        "Psychometric Test",
+        "Group Exercise"
+    ],
+    "detailed_syllabus": {
+        "Mechanical": [
+            "Mechanical Engineering topics"
+        ],
+        "Electrical": [
+            "Electrical Engineering topics"
+        ],
+        "Chemical": [
+            "Chemical Engineering topics"
+        ],
+        "Mineral": [
+            "Mineral Engineering topics"
+        ],
+        "Mining": [
+            "Mining Engineering topics"
+        ],
+        "Commercial/Purchase": [
+            "Commercial and Purchase management topics"
+        ],
+        "Industrial Safety": [
+            "Industrial Safety topics"
+        ],
+        "Instrumentation": [
+            "Instrumentation Engineering topics"
+        ],
+        "IT": [
+            "Information Technology topics"
+        ],
+        "Geology": [
+            "Geology topics"
+        ],
+        "Legal": [
+            "Law and Legal topics"
+        ],
+        "Security": [
+            "Security management topics"
+        ],
+        "Medical": [
+            "Medical topics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/irel-india-executive-recruitment-2026-3059410",
+    "extraction_timestamp": "2026-08-02T10:45:34.378476Z"
+}

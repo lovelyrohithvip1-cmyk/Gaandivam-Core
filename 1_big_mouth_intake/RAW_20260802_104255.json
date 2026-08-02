@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Various Government Bodies",
+    "exam_name": "12th Pass Govt Jobs 2026",
+    "job_posts_covered": [
+        "Police Constable",
+        "Act Apprentice",
+        "Anganwadi Worker & Helper",
+        "Higher, Junior and Senior Management Posts",
+        "Aadhaar Supervisor/Operator",
+        "Teaching and Non Teaching",
+        "Staff Nurse, MPW",
+        "Early Childhood Facilitator",
+        "Village Administrative Officer",
+        "Customer Service Officer",
+        "Lab Attendant, Project Engineer",
+        "Block Anchor and Senior CRP",
+        "Peon"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Mathematics",
+            "English",
+            "Reasoning",
+            "Science"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/12th-pass-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:42:55.659086Z"
+}

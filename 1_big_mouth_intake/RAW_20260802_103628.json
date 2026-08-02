@@ -1,0 +1,26 @@
+{
+    "conducting_body": "BPSSC",
+    "exam_name": "BPSSC ASI Technical Exam",
+    "job_posts_covered": [
+        "ASI Technical"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Mathematics",
+            "Science",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/bihar-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:36:28.326790Z"
+}

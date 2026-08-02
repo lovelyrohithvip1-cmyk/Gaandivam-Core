@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Indian Army",
+    "exam_name": "NCC Special Entry Scheme 125th Course",
+    "job_posts_covered": [
+        "Short Service Commission (Non-Tech) for Men",
+        "Wards of Battle Casualties of Army Personnel"
+    ],
+    "application_dates": {
+        "start_date": "20 July 2026, 1500 hrs",
+        "end_date": "20 August 2026, 1500 hrs"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting of Applications",
+        "SSB Centre & Date Selection",
+        "SSB Interview",
+        "Medical Examination",
+        "Merit List"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/indian-army-officer-recruitment-2026-apply-online-3057822",
+    "extraction_timestamp": "2026-08-02T10:38:56.225889Z"
+}

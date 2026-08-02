@@ -1,0 +1,36 @@
+{
+    "conducting_body": "Bharat Petroleum Corporation Limited (BPCL)",
+    "exam_name": "BPCL Non-Management Recruitment 2026",
+    "job_posts_covered": [
+        "Process Technician (Chemical)",
+        "Process Operator/Operator (Chemical)",
+        "Technician/Operator (Mechanical)",
+        "Technician (Electrical)"
+    ],
+    "application_dates": {
+        "start_date": "29.07.2026",
+        "end_date": "13.08.2026"
+    },
+    "fee_structure": "₹590/- (₹500/- plus 18% GST, i.e., ₹90/-) for General, EWS, and OBC (NCL) candidates",
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Skill/Proficiency Test (SPT)",
+        "Pre-Employment Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Domain Knowledge": [
+            "Chemical Engineering",
+            "Chemical Technology",
+            "Mechanical Engineering",
+            "Electrical Engg./Electrical & Electronics Engg./Electrical Power System/Electrical Engg. (Industrial Control)"
+        ],
+        "General Aptitude": [
+            "English Language",
+            "Quantitative Aptitude",
+            "Logical Reasoning",
+            "General Awareness & Current Affairs"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/bpcl-non-management-recruitment-2026-apply-online-for-154-technician-and-operator-posts-3060670",
+    "extraction_timestamp": "2026-08-02T10:39:29.039671Z"
+}

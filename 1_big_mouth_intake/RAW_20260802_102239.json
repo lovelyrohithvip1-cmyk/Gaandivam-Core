@@ -1,0 +1,41 @@
+{
+    "conducting_body": "UPSSSC",
+    "exam_name": "Preliminary Eligibility Test (PET) - 2026",
+    "job_posts_covered": [
+        "Junior Resident",
+        "Research Associate-1",
+        "Junior Engineer",
+        "Technician",
+        "Assistant Manager"
+    ],
+    "application_dates": {
+        "start_date": "01-Aug-2026",
+        "end_date": "01-Sep-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning",
+            "Data Interpretation"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/8th-pass-government-jobs/",
+    "extraction_timestamp": "2026-08-02T10:22:39.689488Z"
+}

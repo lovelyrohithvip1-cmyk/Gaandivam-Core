@@ -1,0 +1,59 @@
+{
+    "conducting_body": "Konkan Railway Corporation Limited (KRCL)",
+    "exam_name": "KRCL Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineer (Civil)",
+        "Track Maintainer",
+        "Senior Section Engineer (S&T)",
+        "ESTM-III",
+        "Section Controller",
+        "Station Master",
+        "Goods Train Manager",
+        "Assistant Loco Pilot",
+        "Junior Engineer (Mechanical)",
+        "Technician-III (Mechanical)",
+        "Commercial Supervisor"
+    ],
+    "application_dates": {
+        "start_date": "Last week of August 2026 (tentative)",
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer Based Test (CBT)"
+    ],
+    "detailed_syllabus": {
+        "Junior Engineer (Civil)": [
+            "Civil Engineering"
+        ],
+        "Track Maintainer": [
+            "10th pass from a recognised board"
+        ],
+        "Senior Section Engineer (S&T)": [
+            "Electrical/Electronics/IT/Communication Engineering/Computer Science & Engineering"
+        ],
+        "ESTM-III": [
+            "Electrician/Electronics Mechanic/Wireman"
+        ],
+        "Section Controller / Station Master / Goods Train Manager": [
+            "Graduation in any discipline from a recognised University"
+        ],
+        "Assistant Loco Pilot": [
+            "Matriculation/SSLC + ITI (NCVT/SCVT) in specified electrical/mechanical trades"
+        ],
+        "Senior Section Engineer (Mechanical)": [
+            "Mechanical/Electrical/Electronics/Manufacturing/Mechatronics/Industrial/Machining/Instrumentation & Control/Tools & Die Making/Automobile/Production Engineering"
+        ],
+        "Junior Engineer (Mechanical)": [
+            "Mechanical-stream disciplines"
+        ],
+        "Technician-III (Mechanical)": [
+            "Fitter/Mechanic Diesel/Welder/Electrician/Electronics Mechanic and related trades"
+        ],
+        "Commercial Supervisor": [
+            "Graduation in any discipline"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/konkan-railway-recruitment-2026-apply-online-for-201-junior-engineer-technician-and-more-posts-3061184",
+    "extraction_timestamp": "2026-08-02T10:20:49.994553Z"
+}

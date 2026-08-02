@@ -1,0 +1,25 @@
+{
+    "conducting_body": "UT Administration of Dadra and Nagar Haveli and Daman and Diu",
+    "exam_name": "Guest Lecturer Recruitment",
+    "job_posts_covered": [
+        "Guest Lecturer",
+        "Post Graduate Teacher"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "06-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Application",
+        "Selection"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Any Post Graduate",
+            "M.Phil/Ph.D"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/teaching-faculty-jobs/",
+    "extraction_timestamp": "2026-08-02T10:11:55.624169Z"
+}
