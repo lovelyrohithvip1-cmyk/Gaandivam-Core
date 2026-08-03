@@ -1,0 +1,38 @@
+{
+    "conducting_body": "Staff Selection Commission",
+    "exam_name": "SSC MTS 2025",
+    "job_posts_covered": [
+        "Multi-Tasking Staff"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Efficiency Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Problem Solving",
+            "Analytical Reasoning",
+            "Space Visualization"
+        ],
+        "Numerical Ability": [
+            "Number Systems",
+            "Computation of Whole Numbers",
+            "Decimals and Fractions"
+        ],
+        "General Awareness": [
+            "History",
+            "Culture",
+            "Geography",
+            "Economic Scene",
+            "General Polity"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-03T14:19:58.387581Z"
+}

@@ -1,0 +1,28 @@
+{
+    "conducting_body": "National Board of Examinations in Medical Sciences (NBEMS)",
+    "exam_name": "NEET PG 2026",
+    "job_posts_covered": [
+        "MD/MS/PG Diploma Admissions"
+    ],
+    "application_dates": {
+        "start_date": "01 July 2026",
+        "end_date": "21 July 2026"
+    },
+    "fee_structure": {
+        "Gen/ OBC/EWS": "Rs 3500/-",
+        "SC/ST/Other": "Rs 2500/-"
+    },
+    "selection_stages": [
+        "Computer-Based Examination (CBT)",
+        "Merit List",
+        "Counselling Process",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/neet-pg-2026/",
+    "extraction_timestamp": "2026-08-03T13:32:35.452068Z"
+}

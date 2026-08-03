@@ -1,0 +1,37 @@
+{
+    "conducting_body": "Bharat Petroleum Corporation Limited (BPCL)",
+    "exam_name": "BPCL Non-Management Recruitment 2026",
+    "job_posts_covered": [
+        "Process Technician",
+        "Process Operator",
+        "Mechanical Technician",
+        "Electrical Technician"
+    ],
+    "application_dates": {
+        "start_date": "29 July 2026",
+        "end_date": "13 August 2026"
+    },
+    "fee_structure": "₹590/- (₹500 + GST) for General / EWS / OBC (NCL), Nil for SC / ST / PwBD / Ex-Servicemen",
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Skill/Proficiency Test (Qualifying)",
+        "Document Verification",
+        "Pre-Employment Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Domain Knowledge": [
+            "Chemical Engineering/Chemical Technology",
+            "Mechanical Engineering",
+            "Electrical/Electrical & Electronics Engineering"
+        ],
+        "English, Quantitative Aptitude, Logical Reasoning, General Awareness & Current Affairs": [
+            "English",
+            "Quantitative Aptitude",
+            "Logical Reasoning",
+            "General Awareness",
+            "Current Affairs"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/bpcl-non-management-recruitment-2026-a/",
+    "extraction_timestamp": "2026-08-03T13:48:53.299154Z"
+}

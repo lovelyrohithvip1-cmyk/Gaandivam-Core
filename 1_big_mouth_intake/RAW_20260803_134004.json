@@ -1,0 +1,57 @@
+{
+    "conducting_body": "UPSC/UKPSC/HPSC/HSSC/IBPS/ISRO/AAI/RRC/RRB/UKSSSC/ITAT/SPMCIL/IGDTUW/SKAU/ISRO/NRSC/HPCRA/Income Tax Department",
+    "exam_name": "UP PCS/UKTET/UPSSSC PET/IBPS Clerk/ISRO Scientist/Engineer/AAI Manager & Junior Executive/RRB JE/GATE",
+    "job_posts_covered": [
+        "District Manager",
+        "Tax & Revenue Inspector",
+        "Mining Sirdar",
+        "Police Constable",
+        "Junior Programmer",
+        "Bihar Police Sub-Inspector",
+        "Bank LBO",
+        "Non Teaching",
+        "Executive Assistant",
+        "Apprentice",
+        "Principal & Vice Principal",
+        "Section Controller",
+        "Assistant Accountant",
+        "Scientist/Engineer",
+        "Teaching",
+        "Assistant Staff Nurse",
+        "Canteen Attendant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "28.09.26"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Physical Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "Quantitative Aptitude": [
+            "Number System",
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ],
+        "English Language": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/active-govt-jobs/",
+    "extraction_timestamp": "2026-08-03T13:40:04.237078Z"
+}

@@ -1,0 +1,24 @@
+{
+    "conducting_body": "Indian Space Research Organisation (ISRO)",
+    "exam_name": "ISRO Scientist/Engineer Recruitment 2026",
+    "job_posts_covered": [
+        "Scientist/Engineer ‘SC’"
+    ],
+    "application_dates": {
+        "start_date": "28 July 2026",
+        "end_date": "17 August 2026"
+    },
+    "fee_structure": "₹250 for General/OBC/EWS, Nil for Women, SC/ST, PwBD, Ex-Servicemen",
+    "selection_stages": [
+        "Shortlisting based on GATE 2025/2026 Score",
+        "Personal Interview",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Relevant engineering discipline as prescribed in the notification"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/isro-scientist-engineer-recruitment-2026/",
+    "extraction_timestamp": "2026-08-03T14:09:36.745212Z"
+}

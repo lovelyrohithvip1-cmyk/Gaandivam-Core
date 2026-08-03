@@ -1,0 +1,20 @@
+{
+    "exam_name": "Multiple Exams",
+    "educational_qualifications": [
+        "Degree",
+        "Diploma",
+        "Post Graduation"
+    ],
+    "age_limits": "18-40 years",
+    "salary_details": "Varies as per post",
+    "number_of_posts": "Various",
+    "medical_physical_fitness": "Required for some posts",
+    "quotas_and_gender_rules": "As per government rules",
+    "application_fee": "Not specified",
+    "important_dates": {
+        "release": "Not specified",
+        "deadline": "Not specified",
+        "extensions": "Not specified"
+    },
+    "application_link": "https://haryanajobs.in/active-govt-jobs/"
+}

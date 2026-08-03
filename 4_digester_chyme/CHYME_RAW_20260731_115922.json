@@ -1,0 +1,117 @@
+{
+    "exam_name": "NCL Mining Sirdar Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Mining Sirdar": {
+            "Mining Methods": {
+                "Surface Mining": [
+                    "Open Pit Mining",
+                    "Strip Mining",
+                    "Quarrying"
+                ],
+                "Underground Mining": [
+                    "Room and Pillar Mining",
+                    "Longwall Mining",
+                    "Sublevel Caving"
+                ]
+            },
+            "Mine Ventilation": {
+                "Natural Ventilation": [
+                    "Air Flow",
+                    "Pressure",
+                    "Velocity"
+                ],
+                "Mechanical Ventilation": [
+                    "Fans",
+                    "Ventilation Shafts",
+                    "Regulators"
+                ]
+            },
+            "Mine Safety": {
+                "Hazard Identification": [
+                    "Risk Assessment",
+                    "Hazard Control",
+                    "Emergency Response"
+                ],
+                "Personal Protective Equipment": [
+                    "Respirators",
+                    "Hard Hats",
+                    "Safety Glasses"
+                ]
+            },
+            "First Aid": {
+                "Basic Life Support": [
+                    "CPR",
+                    "Bleeding Control",
+                    "Burn Care"
+                ],
+                "Medical Emergencies": [
+                    "Cardiac Arrest",
+                    "Stroke",
+                    "Poisoning"
+                ]
+            },
+            "Gas Testing": {
+                "Gas Detection": [
+                    "Types of Gases",
+                    "Detection Methods",
+                    "Alarm Systems"
+                ],
+                "Gas Monitoring": [
+                    "Sampling",
+                    "Analysis",
+                    "Interpretation"
+                ]
+            }
+        },
+        "Surveyor (Mining)": {
+            "Mine Surveying": {
+                "Surveying Principles": [
+                    "Measurements",
+                    "Calculations",
+                    "Mapping"
+                ],
+                "Surveying Methods": [
+                    "Theodolite",
+                    "Leveling",
+                    "Taping"
+                ]
+            },
+            "Surveying Methods": {
+                "Geodetic Surveying": [
+                    "GPS",
+                    "GLONASS",
+                    "GALILEO"
+                ],
+                "Photogrammetry": [
+                    "Aerial Photography",
+                    "Image Processing",
+                    "3D Modeling"
+                ]
+            },
+            "Mapping": {
+                "Map Types": [
+                    "Topographic",
+                    "Geologic",
+                    "Hydrologic"
+                ],
+                "Map Scales": [
+                    "Large Scale",
+                    "Small Scale",
+                    "Indexed"
+                ]
+            },
+            "Geology": {
+                "Geologic Principles": [
+                    "Rock Types",
+                    "Structural Geology",
+                    "Stratigraphy"
+                ],
+                "Geologic Hazards": [
+                    "Earthquakes",
+                    "Landslides",
+                    "Floods"
+                ]
+            }
+        }
+    }
+}
