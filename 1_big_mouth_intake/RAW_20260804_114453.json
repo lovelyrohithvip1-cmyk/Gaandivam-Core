@@ -1,0 +1,50 @@
+{
+    "conducting_body": "UPSC/State Commissions",
+    "exam_name": "UPSSSC PET 2026",
+    "job_posts_covered": [
+        "Female Supervisor",
+        "Patwari",
+        "Non-Teaching",
+        "Sub-Inspector",
+        "Junior Executive",
+        "Manager",
+        "Constable",
+        "Apprentice",
+        "Scientist/Engineer",
+        "Assistant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "15.09.26"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Physical Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning"
+        ],
+        "Quantitative Aptitude": [
+            "Number System",
+            "Algebra",
+            "Geometry"
+        ],
+        "English Language": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "History",
+            "Geography"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/active-govt-jobs/",
+    "extraction_timestamp": "2026-08-04T11:44:53.793422Z"
+}

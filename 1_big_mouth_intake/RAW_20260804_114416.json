@@ -1,0 +1,32 @@
+{
+    "conducting_body": "National Testing Agency (NTA)",
+    "exam_name": "All India Sainik School Entrance Examination (AISSEE)- 2025",
+    "job_posts_covered": [
+        "Sainik School Admission"
+    ],
+    "application_dates": {
+        "start_date": "24 December 2024",
+        "end_date": "23 January 2025"
+    },
+    "fee_structure": "General/ OBC (NCL): Rs. 800/-, SC/ ST: Rs. 650/-",
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Class 6th": [
+            "Mathematics",
+            "General Knowledge",
+            "Language",
+            "Intelligence"
+        ],
+        "Class 9th": [
+            "Mathematics",
+            "General Science",
+            "English",
+            "General Knowledge",
+            "Intelligence"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/aissee-sainik-school-admission/",
+    "extraction_timestamp": "2026-08-04T11:44:16.115298Z"
+}

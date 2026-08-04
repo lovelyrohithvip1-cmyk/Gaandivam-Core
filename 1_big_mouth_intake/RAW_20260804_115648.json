@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Haryana WCD Female Supervisor",
+        "MPESB Patwari",
+        "SVPUAT Non-Teaching",
+        "CAPF ITBP",
+        "SSC MTS",
+        "DSSSB Various Post",
+        "AAI Manager & Junior Executive",
+        "HSSC Group C",
+        "Haryana Police",
+        "Income Tax Department Canteen Attendant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Admit Card Release"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-08-04T11:56:48.407870Z"
+}

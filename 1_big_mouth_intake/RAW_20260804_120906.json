@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Central Council for Research in Siddha (CCRS)",
+    "exam_name": "CCRS Recruitment 2026",
+    "job_posts_covered": [
+        "Social Worker",
+        "Upper Division Clerk (UDC)",
+        "Lower Division Clerk (LDC)"
+    ],
+    "application_dates": {
+        "start_date": "11 July 2026",
+        "end_date": "09 September 2026"
+    },
+    "fee_structure": "₹300/- for General / OBC / EWS, Exempted for SC / ST / PwBD",
+    "selection_stages": [
+        "Shortlisting of candidates",
+        "Written Examination",
+        "Skill (Typing) Test for LDC posts",
+        "Personal Interview",
+        "Document Verification",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Social Worker": [
+            "Degree + Diploma in Social Work with 1 year experience OR PG Degree in Sociology"
+        ],
+        "Upper Division Clerk (UDC)": [
+            "Graduation with 3 years experience in correspondence work in Govt./PSU/Autonomous Bodies"
+        ],
+        "Lower Division Clerk (LDC)": [
+            "12th Pass with typing speed of 35 WPM English or 30 WPM Hindi/Tamil"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/ccrs-recruitment-2026/",
+    "extraction_timestamp": "2026-08-04T12:09:06.338479Z"
+}

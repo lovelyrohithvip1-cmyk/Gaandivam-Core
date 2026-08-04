@@ -1,0 +1,24 @@
+{
+    "conducting_body": "Railway Recruitment Cell (RRC), North Central Railway",
+    "exam_name": "RRC NCR Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Apprentice"
+    ],
+    "application_dates": {
+        "start_date": "08 July 2026",
+        "end_date": "07 August 2026"
+    },
+    "fee_structure": "₹100/- for UR/OBC/EWS, Nil for SC/ST, Female, and PwBD candidates",
+    "selection_stages": [
+        "Merit-based Shortlisting",
+        "Document Verification (DV)",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "10th Class": [
+            "ITI in relevant trade"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rrc-ncr-apprentice-recruitment-2026/",
+    "extraction_timestamp": "2026-08-04T11:50:13.051582Z"
+}

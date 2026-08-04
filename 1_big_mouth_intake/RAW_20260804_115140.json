@@ -1,0 +1,33 @@
+{
+    "conducting_body": "HSSC",
+    "exam_name": "HSSC Group C 06/2026 Recruitment 2026",
+    "job_posts_covered": [
+        "Female Supervisor",
+        "Patwari",
+        "Non-Teaching",
+        "ITBP",
+        "MTS",
+        "Manager",
+        "Junior Executive",
+        "Canteen Attendant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Awareness",
+            "Reasoning",
+            "Quantitative Aptitude",
+            "English"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-04T11:51:40.844255Z"
+}

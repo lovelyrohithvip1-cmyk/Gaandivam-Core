@@ -1,0 +1,23 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "RRB Group D",
+    "job_posts_covered": [
+        "Level-1 posts"
+    ],
+    "application_dates": {
+        "start_date": "23 January 2025",
+        "end_date": "01 March 2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "CBT",
+        "PET",
+        "Document Verification",
+        "Medical Test"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-group-d-admit-card/",
+    "extraction_timestamp": "2026-08-04T11:55:55.133379Z"
+}

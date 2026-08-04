@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Saha Institute of Nuclear Physics (SINP), Department of Atomic Energy (DAE), Government of India",
+    "exam_name": "SINP Recruitment 2026",
+    "job_posts_covered": [
+        "Scientist C",
+        "Scientific Assistant B",
+        "Technician B",
+        "Lower Division Clerk (LDC)",
+        "Security Guard",
+        "Work Assistant A",
+        "Halwai-cum-Cook",
+        "Assistant Administrative Officer-I"
+    ],
+    "application_dates": {
+        "start_date": "31 July 2026 (06:00 PM)",
+        "end_date": "15 September 2026 (03:00 PM)"
+    },
+    "fee_structure": "₹500/- for Scientist C & Scientific Assistant B, ₹300/- for All Other Posts, Exempted for PwBD/ SC/ST/Female",
+    "selection_stages": [
+        "Written Test",
+        "Interview",
+        "Trade Test",
+        "Typing Skill Test",
+        "Physical Fitness Test",
+        "MCQ Based Written Test",
+        "Cooking Skill Test",
+        "APAR Assessment"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Relevant Discipline for Scientist C",
+            "Relevant Engineering/Technology for Scientific Assistant B",
+            "ITI Syllabus for Technician B",
+            "Graduate Level Syllabus for Lower Division Clerk",
+            "10th Pass Level Syllabus for Security Guard A, Work Assistant A, Halwai-cum-Cook"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/sinp-recruitment-2026/",
+    "extraction_timestamp": "2026-08-04T11:42:10.740424Z"
+}

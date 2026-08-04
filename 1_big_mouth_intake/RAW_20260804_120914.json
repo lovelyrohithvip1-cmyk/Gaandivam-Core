@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Haryana Govt.",
+    "exam_name": "Haryana Govt. Jobs Exam",
+    "job_posts_covered": [
+        "Haryana WCD Female Supervisor",
+        "MPESB Patwari",
+        "SVPUAT Non-Teaching",
+        "CAPF ITBP",
+        "SSC MTS",
+        "DSSSB Various Post Code",
+        "AAI Manager & Junior Executive",
+        "HSSC Group C",
+        "Haryana Police",
+        "Income Tax Department Canteen Attendant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Admit Card Release"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Mathematics",
+            "English"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-08-04T12:09:14.841975Z"
+}
