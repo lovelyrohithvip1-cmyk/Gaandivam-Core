@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "RRB ALP",
+        "Punjab Police",
+        "Delhi Fire Department",
+        "NTPC Deputy Manager",
+        "Haryana Vidyut Prasaran Nigam Limited (HVPNL)",
+        "Delhi CSU",
+        "AAI Manager & Junior Executive",
+        "Haryana ITI Apprentice",
+        "NPCC",
+        "Indian Army CSBO Grade-II Group C"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "CBT-II",
+        "Online Registration",
+        "Apply Online"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-05T11:32:28.400088Z"
+}

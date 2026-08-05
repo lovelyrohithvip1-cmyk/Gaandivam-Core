@@ -1,0 +1,56 @@
+{
+    "conducting_body": "UPSC, HPSC, UKPSC, etc.",
+    "exam_name": "UPSSSC PET 2026, RRB JE Recruitment 2026, GATE 2027, etc.",
+    "job_posts_covered": [
+        "District Manager",
+        "Tax & Revenue Inspector",
+        "Mining Sirdar",
+        "Police Constable",
+        "Junior Programmer",
+        "Bihar Police Sub-Inspector",
+        "Non-Teaching",
+        "Assistant",
+        "Army SSC Tech",
+        "Apprentice",
+        "Bank LBO",
+        "Principal & Vice Principal",
+        "Section Controller",
+        "Assistant Accountant",
+        "Scientist/Engineer",
+        "Deputy Manager",
+        "Clerk",
+        "Teaching",
+        "Patwari",
+        "Deputy Manager",
+        "Jail Warder",
+        "Assistant Staff Nurse",
+        "Canteen Attendant",
+        "Female Supervisor",
+        "Manager & Junior Executive",
+        "ITBP",
+        "JE",
+        "Safai Karmachari"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "28.09.26"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "CBT",
+        "Interview",
+        "Physical Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Awareness",
+            "Reasoning",
+            "Quantitative Aptitude",
+            "English Language",
+            "Technical Subjects"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/active-govt-jobs/",
+    "extraction_timestamp": "2026-08-05T11:55:20.480864Z"
+}

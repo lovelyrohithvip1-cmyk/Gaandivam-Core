@@ -1,0 +1,38 @@
+{
+    "conducting_body": "National Remote Sensing Centre (NRSC), Indian Space Research Organisation (ISRO)",
+    "exam_name": "ISRO NRSC Recruitment 2026",
+    "job_posts_covered": [
+        "Research Scientist (RS)",
+        "Project Scientist",
+        "Project Associate",
+        "Junior Research Fellow (JRF)"
+    ],
+    "application_dates": {
+        "start_date": "01 August 2026 (10:00 AM)",
+        "end_date": "21 August 2026 (05:00 PM)"
+    },
+    "fee_structure": "₹250/- (Refunded for Women, SC/ST, PwBD, Ex-Servicemen)",
+    "selection_stages": [
+        "Shortlisting of Applications",
+        "Interview",
+        "Document Verification",
+        "Medical Fitness",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Research Scientist": [
+            "M.E./M.Tech / M.Sc. in Relevant Discipline"
+        ],
+        "Project Associate": [
+            "B.E./B.Tech in Relevant Discipline"
+        ],
+        "Project Scientist": [
+            "B.E./B.Tech / M.Sc. / M.Tech in Relevant Discipline"
+        ],
+        "Junior Research Fellow": [
+            "Master’s Degree with Valid NET/GATE or Equivalent"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/isro-nrsc-recruitment-2026/",
+    "extraction_timestamp": "2026-08-05T11:54:48.059194Z"
+}

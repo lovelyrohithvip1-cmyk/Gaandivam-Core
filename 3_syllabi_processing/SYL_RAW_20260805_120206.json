@@ -1,0 +1,20 @@
+{
+    "exam_name": "NGEL Recruitment 2026",
+    "raw_syllabus": {
+        "Assistant Engineer – RE": [
+            "Electrical",
+            "Mechanical",
+            "Electronics",
+            "Electrical & Electronics",
+            "Instrumentation Engineering"
+        ],
+        "Deputy General Manager – RE": [
+            "Electrical",
+            "Electrical & Electronics",
+            "Electronics",
+            "Control & Instrumentation",
+            "Civil",
+            "Mechanical"
+        ]
+    }
+}

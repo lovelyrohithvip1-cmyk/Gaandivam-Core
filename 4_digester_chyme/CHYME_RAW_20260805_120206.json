@@ -1,0 +1,187 @@
+{
+    "exam_name": "NGEL Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Electrical": {
+            "Circuits": {
+                "AC Circuits": [
+                    "Kirchhoff's Laws",
+                    "Thevenin's Theorem",
+                    "Norton's Theorem"
+                ],
+                "DC Circuits": [
+                    "Ohm's Law",
+                    "Series Circuits",
+                    "Parallel Circuits"
+                ]
+            },
+            "Electromagnetism": {
+                "Electromagnetic Induction": [
+                    "Faraday's Law",
+                    "Lenz's Law",
+                    "Inductance"
+                ],
+                "Electromagnetic Waves": [
+                    "Wave Propagation",
+                    "Wave Types",
+                    "Electromagnetic Spectrum"
+                ]
+            }
+        },
+        "Mechanical": {
+            "Thermodynamics": {
+                "Laws of Thermodynamics": [
+                    "Zeroth Law",
+                    "First Law",
+                    "Second Law"
+                ],
+                "Thermodynamic Cycles": [
+                    "Carnot Cycle",
+                    "Rankine Cycle",
+                    "Refrigeration Cycle"
+                ]
+            },
+            "Mechanics of Solids": {
+                "Stress and Strain": [
+                    "Tensile Stress",
+                    "Compressive Stress",
+                    "Shear Stress"
+                ],
+                "Beam Deflection": [
+                    "Bending Moment",
+                    "Shear Force",
+                    "Deflection Equations"
+                ]
+            }
+        },
+        "Electronics": {
+            "Digital Electronics": {
+                "Logic Gates": [
+                    "AND Gate",
+                    "OR Gate",
+                    "NOT Gate"
+                ],
+                "Counters and Registers": [
+                    "Binary Counters",
+                    "Decimal Counters",
+                    "Shift Registers"
+                ]
+            },
+            "Analog Electronics": {
+                "Amplifiers": [
+                    "Operational Amplifiers",
+                    "Transistor Amplifiers",
+                    "Feedback Amplifiers"
+                ],
+                "Oscillators": [
+                    "RC Oscillators",
+                    "LC Oscillators",
+                    "Crystal Oscillators"
+                ]
+            }
+        },
+        "Electrical & Electronics": {
+            "Control Systems": {
+                "Control System Components": [
+                    "Sensors",
+                    "Actuators",
+                    "Controllers"
+                ],
+                "Control System Types": [
+                    "Open-Loop Systems",
+                    "Closed-Loop Systems",
+                    "Feedback Systems"
+                ]
+            },
+            "Power Systems": {
+                "Power Generation": [
+                    "Thermal Power Plants",
+                    "Hydro Power Plants",
+                    "Nuclear Power Plants"
+                ],
+                "Power Transmission": [
+                    "Transmission Lines",
+                    "Transformers",
+                    "Switchgear"
+                ]
+            }
+        },
+        "Instrumentation Engineering": {
+            "Measurement Systems": {
+                "Sensors and Transducers": [
+                    "Temperature Sensors",
+                    "Pressure Sensors",
+                    "Flow Sensors"
+                ],
+                "Measurement Techniques": [
+                    "Analog Measurement",
+                    "Digital Measurement",
+                    "Calibration"
+                ]
+            },
+            "Control Valves": {
+                "Valve Types": [
+                    "Globe Valves",
+                    "Butterfly Valves",
+                    "Ball Valves"
+                ],
+                "Valve Actuators": [
+                    "Pneumatic Actuators",
+                    "Hydraulic Actuators",
+                    "Electric Actuators"
+                ]
+            }
+        },
+        "Control & Instrumentation": {
+            "Process Control": {
+                "Control Strategies": [
+                    "PID Control",
+                    "Feedforward Control",
+                    "Feedback Control"
+                ],
+                "Control Algorithms": [
+                    "On-Off Control",
+                    "Proportional Control",
+                    "Integral Control"
+                ]
+            },
+            "Instrumentation Systems": {
+                "Data Acquisition Systems": [
+                    "Analog-to-Digital Conversion",
+                    "Digital-to-Analog Conversion",
+                    "Signal Conditioning"
+                ],
+                "SCADA Systems": [
+                    "Supervisory Control",
+                    "Data Acquisition",
+                    "Human-Machine Interface"
+                ]
+            }
+        },
+        "Civil": {
+            "Structural Analysis": {
+                "Load Calculations": [
+                    "Dead Load",
+                    "Live Load",
+                    "Wind Load"
+                ],
+                "Structural Systems": [
+                    "Beams",
+                    "Columns",
+                    "Frames"
+                ]
+            },
+            "Construction Materials": {
+                "Concrete": [
+                    "Concrete Mix Design",
+                    "Concrete Properties",
+                    "Concrete Testing"
+                ],
+                "Steel": [
+                    "Steel Properties",
+                    "Steel Fabrication",
+                    "Steel Construction"
+                ]
+            }
+        }
+    }
+}

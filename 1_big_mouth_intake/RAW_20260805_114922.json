@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Various Government Bodies",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Haryana Vidyut Prasaran Nigam Limited (HVPNL) Recruitment",
+        "Delhi CSU Vacancy",
+        "AAI Manager & Junior Executive Recruitment",
+        "Haryana ITI Apprentice Recruitment",
+        "NPCC Recruitment",
+        "Indian Army CSBO Grade-II Group C Recruitment"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Admit Card Release"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-08-05T11:49:22.258621Z"
+}

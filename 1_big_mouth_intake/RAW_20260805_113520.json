@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Rajasthan Rajya Vidyut Utpadan Nigam Limited (RVUNL) & Power Companies",
+    "exam_name": "RVUNL Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineer-I (Electrical)",
+        "Junior Engineer-I (Mechanical)",
+        "Junior Engineer-I (Civil)",
+        "Junior Accountant",
+        "Junior Assistant / Commercial Assistant-II"
+    ],
+    "application_dates": {
+        "start_date": "05 August 2026",
+        "end_date": "25 August 2026"
+    },
+    "fee_structure": {
+        "General": "Rs 1000/-",
+        "SC / ST / PwBD/ Other": "Rs 500/-"
+    },
+    "selection_stages": [
+        "Written Examination",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Junior Engineer-I (Electrical)": [
+            "Degree in Electrical Engineering"
+        ],
+        "Junior Engineer-I (Mechanical)": [
+            "Degree in Mechanical Engineering"
+        ],
+        "Junior Engineer-I (Civil)": [
+            "Degree in Civil Engineering"
+        ],
+        "Junior Accountant": [
+            "Graduation / Relevant Qualification"
+        ],
+        "Junior Assistant / Commercial Assistant-II": [
+            "12th Pass + Computer Course"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rvunl-recruitment-2026-notification/",
+    "extraction_timestamp": "2026-08-05T11:35:20.569881Z"
+}

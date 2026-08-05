@@ -1,0 +1,25 @@
+{
+    "conducting_body": "Delhi Police",
+    "exam_name": "Delhi Police Recruitment Exam 2026",
+    "job_posts_covered": [
+        "Constable",
+        "Head Constable",
+        "Driver"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination",
+        "PET/PMT",
+        "Skill Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/delhi-police-result-2026/",
+    "extraction_timestamp": "2026-08-05T11:35:12.754381Z"
+}

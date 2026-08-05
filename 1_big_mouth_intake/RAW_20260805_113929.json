@@ -1,0 +1,23 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "RRB Section Controller Recruitment 2026",
+    "job_posts_covered": [
+        "Section Controller"
+    ],
+    "application_dates": {
+        "start_date": "15 July 2026",
+        "end_date": "14 August 2026"
+    },
+    "fee_structure": "General / OBC / EWS: Rs 500/-, SC / ST / Female: Rs 250/-",
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Skill/Aptitude Test (if required)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-section-controller-recruitment-2026/",
+    "extraction_timestamp": "2026-08-05T11:39:29.314133Z"
+}
