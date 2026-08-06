@@ -1,0 +1,33 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "Civil Services Examination",
+    "job_posts_covered": [
+        "Junior Associate",
+        "Staff Nurse Unani",
+        "Assistant Director, Veterinary Assistant Surgeon"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Tier I",
+        "Tier 2",
+        "Final"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/answer-key/",
+    "extraction_timestamp": "2026-08-06T12:19:24.633859Z"
+}

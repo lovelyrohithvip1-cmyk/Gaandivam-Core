@@ -1,0 +1,52 @@
+{
+    "conducting_body": "Chhattisgarh Staff Selection Board",
+    "exam_name": "Chhattisgarh State Eligibility Test (CG SET) 2026",
+    "job_posts_covered": [
+        "Assistant Professor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Paper 1": [
+            "Teaching & Research Aptitude"
+        ],
+        "Paper 2": [
+            "Hindi",
+            "English",
+            "Political Science",
+            "Economics",
+            "Sociology",
+            "History",
+            "Geography",
+            "Physical Sciences",
+            "Mathematical Sciences",
+            "Chemical Sciences",
+            "Commerce",
+            "Law",
+            "Sanskrit",
+            "Psychology",
+            "Library and Information Science",
+            "Physical Education",
+            "Home Science",
+            "Earth, Atmospheric, Ocean and Planetary Sciences",
+            "Anthropology",
+            "Music",
+            "Performing Arts - Dance, Drama, Theatre",
+            "Fine Art & Sculpture / Visual Arts",
+            "Yoga",
+            "Public Administration",
+            "Defence and Strategic Studies",
+            "Philosophy",
+            "Management",
+            "Mass Communication & Journalism"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/cg-set-syllabus-and-exam-pattern-3060194",
+    "extraction_timestamp": "2026-08-06T12:20:19.866937Z"
+}

@@ -1,0 +1,53 @@
+{
+    "conducting_body": "Rajasthan Government",
+    "exam_name": "RPSC 2nd Grade Teacher",
+    "job_posts_covered": [
+        "Para Legal Volunteer",
+        "Administrative Officer",
+        "Field Officer",
+        "Specialist",
+        "Senior Resident",
+        "Project Technical Support-III",
+        "Project Research Scientist I",
+        "Junior Engineer",
+        "Junior Accountant",
+        "Stenographer",
+        "Programmer Assistant",
+        "Controller of Examination",
+        "Research Scientist",
+        "Project Associate",
+        "Project Technical Support III",
+        "Project Nurse III",
+        "Safai Karmachari",
+        "TGT",
+        "Lab Assistant",
+        "Supervisor/ Operator",
+        "Medical Officers",
+        "Specialist Doctors",
+        "Physiotherapist",
+        "Stenographer",
+        "Anganwadi Worker",
+        "Helper"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Mathematics",
+            "Science",
+            "English",
+            "Hindi",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/rajasthan-government-jobs/",
+    "extraction_timestamp": "2026-08-06T11:45:03.640946Z"
+}

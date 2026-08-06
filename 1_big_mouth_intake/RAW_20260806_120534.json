@@ -1,0 +1,29 @@
+{
+    "conducting_body": "Samagra Shiksha DNH DD",
+    "exam_name": "TGT, PGT Recruitment Exam",
+    "job_posts_covered": [
+        "TGT",
+        "PGT"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "10-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Science",
+            "Social Studies"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/teaching-faculty-jobs/",
+    "extraction_timestamp": "2026-08-06T12:05:34.876404Z"
+}

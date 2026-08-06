@@ -1,0 +1,36 @@
+{
+    "conducting_body": "Arunachal Pradesh Public Service Commission (APPSC)",
+    "exam_name": "Common Combined Examination Scheme for Direct Recruitment to Group-A & Group-B, Technical posts (Gazetted, Non-Ministerial/Technical) Rules, 2026",
+    "job_posts_covered": [
+        "Agriculture Development Officer",
+        "Horticulture Development Officer",
+        "Veterinary Officer",
+        "Assistant Director"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Recruitment Test/Preliminary Examination",
+        "Written Examination",
+        "Viva Voce"
+    ],
+    "detailed_syllabus": {
+        "General English": [
+            "Fundamental language skills",
+            "Grammar rules",
+            "Vocabulary skills",
+            "Reading and comprehension"
+        ],
+        "General Studies": [
+            "Current affairs and recent developments",
+            "Day-to-day pragmatic observations and matters of importance",
+            "Science and technology",
+            "General awareness related to International, National, and North-East India affairs"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/appsc-group-a-and-b-syllabus-and-exam-pattern-3061008",
+    "extraction_timestamp": "2026-08-06T12:25:19.497648Z"
+}

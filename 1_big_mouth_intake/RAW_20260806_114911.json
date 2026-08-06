@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Various Government Institutions",
+    "exam_name": "None",
+    "job_posts_covered": [
+        "DEO",
+        "Clerk",
+        "Peon",
+        "Project Administrative Assistant",
+        "Assistant Professor",
+        "Chief Financial Officer",
+        "Junior Research Fellow",
+        "Supporting Staff",
+        "Warden",
+        "Head Cook",
+        "Project Associate-I",
+        "Junior Laboratory Technical Officer",
+        "Pharmacist Officer",
+        "Nursing Officer",
+        "Apprentice Trainee",
+        "Academic Resource Person",
+        "Cook",
+        "Technical Officer",
+        "Physics Faculty"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Application",
+        "Selection"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "Not Applicable"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/",
+    "extraction_timestamp": "2026-08-06T11:49:11.756892Z"
+}

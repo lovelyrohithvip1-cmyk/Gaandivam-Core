@@ -1,0 +1,37 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "UPSC Exam",
+    "job_posts_covered": [
+        "Deputy Manager",
+        "Assistant Manager",
+        "SSC (Tech)-68 Men",
+        "Manager",
+        "Junior Executive",
+        "Nursing Officer",
+        "Local Bank Officer",
+        "Assistant Professor",
+        "Project Technical Support II",
+        "Senior Project Associate",
+        "Digital Media Expert",
+        "Financial Adviser",
+        "Multi Tasking Staff"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Form",
+        "PET",
+        "PST",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not Mentioned"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/delhi-government-jobs/",
+    "extraction_timestamp": "2026-08-06T11:49:21.814602Z"
+}

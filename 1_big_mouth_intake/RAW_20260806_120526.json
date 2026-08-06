@@ -1,0 +1,52 @@
+{
+    "conducting_body": "Chittaranjan Locomotive Works (CLW), Indian Railways",
+    "exam_name": "CLW Sports Quota Recruitment 2026",
+    "job_posts_covered": [
+        "Level-1",
+        "Level-2",
+        "Level-5/4"
+    ],
+    "application_dates": {
+        "start_date": "21-07-2026",
+        "end_date": "20-08-2026"
+    },
+    "fee_structure": "Rs. 250/- (exempted categories) / Rs. 500/- (others)",
+    "selection_stages": [
+        "Sports Trial",
+        "Assessment of Sports Achievements",
+        "Educational Qualification"
+    ],
+    "detailed_syllabus": {
+        "Archery": [
+            "Recurve",
+            "Compound"
+        ],
+        "Badminton": [
+            "Singles"
+        ],
+        "Basketball": [
+            "Power Forward",
+            "All Rounder",
+            "Point Guard"
+        ],
+        "Football": [
+            "Striker/Forward",
+            "Stopper/Defender",
+            "Side Back/Defender"
+        ],
+        "Golf": [],
+        "Gymnastics": [
+            "All Round Apparatus"
+        ],
+        "Shooting": [
+            "100 Mtr. Air Rifle",
+            "50 Mtr. Prone",
+            "50 Mtr."
+        ],
+        "Swimming": [
+            "Free Style"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/clw-sports-quota-recruitment-2026-apply-offline-for-25-posts-3061375",
+    "extraction_timestamp": "2026-08-06T12:05:26.010327Z"
+}

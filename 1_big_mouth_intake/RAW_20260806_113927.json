@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Central Seat Allocation Board (CSAB)",
+    "exam_name": "CSAB 2026",
+    "job_posts_covered": [
+        "NITs",
+        "IIITs",
+        "GFTIs"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": "₹35,000 for General, GEN-EWS, and OBC-NCL candidates, and ₹16,000 for SC, ST, and PwD candidates",
+    "selection_stages": [
+        "Online Registration",
+        "Choice Filling",
+        "Seat Allotment",
+        "Online Reporting",
+        "Physical Reporting"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Algebra",
+            "Calculus",
+            "Geometry"
+        ],
+        "Physics": [
+            "Mechanics",
+            "Electromagnetism",
+            "Thermodynamics"
+        ],
+        "Chemistry": [
+            "Inorganic Chemistry",
+            "Organic Chemistry",
+            "Physical Chemistry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/csab-2026-round-1-seat-allotment-result-check-allotment-3061791",
+    "extraction_timestamp": "2026-08-06T11:39:27.919229Z"
+}

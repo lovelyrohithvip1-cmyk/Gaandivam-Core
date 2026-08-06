@@ -1,0 +1,29 @@
+{
+    "conducting_body": "MPESB",
+    "exam_name": "MPESB Patwari Exam",
+    "job_posts_covered": [
+        "Patwari"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "18 Aug 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/mp-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:02:05.910462Z"
+}

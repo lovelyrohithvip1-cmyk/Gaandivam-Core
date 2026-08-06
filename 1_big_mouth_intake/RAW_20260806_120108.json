@@ -1,0 +1,28 @@
+{
+    "conducting_body": "National Testing Agency",
+    "exam_name": "GATE",
+    "job_posts_covered": [
+        "Engineering Jobs"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Engineering Mathematics": [
+            "Linear Algebra",
+            "Calculus",
+            "Differential Equations"
+        ],
+        "General Aptitude": [
+            "Verbal Ability",
+            "Numerical Ability"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/education/",
+    "extraction_timestamp": "2026-08-06T12:01:08.694688Z"
+}

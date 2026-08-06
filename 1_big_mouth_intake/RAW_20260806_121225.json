@@ -1,0 +1,56 @@
+{
+    "conducting_body": "Railway Recruitment Boards (RRBs)",
+    "exam_name": "RRB Ministerial & Isolated Categories Examination 2026 (CEN 08/2025)",
+    "job_posts_covered": [
+        "Junior Translator (Hindi)",
+        "Staff and Welfare Inspector",
+        "Chief Law Assistant",
+        "Lab Assistant Grade III (Chemist & Metallurgist)",
+        "Senior Publicity Inspector",
+        "Publicity Prosecutor",
+        "Scientific Assistant/Training"
+    ],
+    "application_dates": {
+        "start_date": "30 December 2025",
+        "end_date": "29 January 2026"
+    },
+    "fee_structure": "Rs. 50 per question challenged (plus applicable bank charges) for objection fee",
+    "selection_stages": [
+        "Computer-Based Test (CBT)",
+        "Objection Window"
+    ],
+    "detailed_syllabus": {
+        "Junior Translator (Hindi)": [
+            "Hindi",
+            "English"
+        ],
+        "Staff and Welfare Inspector": [
+            "Labour Laws"
+        ],
+        "Chief Law Assistant": [
+            "Law"
+        ],
+        "Lab Assistant Grade III (Chemist & Metallurgist)": [
+            "Physics",
+            "Chemistry",
+            "Laboratory Technology"
+        ],
+        "Senior Publicity Inspector": [
+            "Public Relations",
+            "Advertising",
+            "Journalism",
+            "Mass Communication"
+        ],
+        "Publicity Prosecutor": [
+            "Public Relations",
+            "Advertising",
+            "Journalism",
+            "Mass Communication"
+        ],
+        "Scientific Assistant/Training": [
+            "Psychology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rrb-ministerial-and-isolated-categories-answer-key-2026-3061130",
+    "extraction_timestamp": "2026-08-06T12:12:25.979686Z"
+}

@@ -1,0 +1,60 @@
+{
+    "conducting_body": "Punjab Government",
+    "exam_name": "Punjab Government Jobs Exam",
+    "job_posts_covered": [
+        "Contractual & Part Time Faculty",
+        "Research Assistant",
+        "Medical Officer, Driver and More",
+        "SSC (Tech)-68 Men",
+        "Local Bank Officer",
+        "Clerk",
+        "Junior Lab/ Field Helper",
+        "Junior Engineer & Foreman Electrical",
+        "Research Associate I and Young Professional I",
+        "Teaching Faculty, Senior Resident",
+        "Faculty",
+        "Physical Training Instructor",
+        "Cooking Helper",
+        "Research Associate and Junior Research Fellow",
+        "Junior Lab / Field Helper",
+        "Palliative Care Doctor and Psychologist",
+        "Lab Helper",
+        "Research Scientist",
+        "Deputy Manager"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Data Interpretation"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/punjab-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:10:43.412293Z"
+}

@@ -1,0 +1,34 @@
+{
+    "conducting_body": "UPSC, SSC, IBPS, SBI, LIC, RBI, IDBI Bank, IOB",
+    "exam_name": "UPSC - CDS Exam, UPSC - NDA Exam, IBPS - PO/MT, SBI - Clerk, LIC - Apprentice Development Officers",
+    "job_posts_covered": [
+        "Apprentice Development Officers",
+        "Assistant Administrative Officers",
+        "Clerk",
+        "PO/MT",
+        "Specialist Officers",
+        "Assistant Managers",
+        "Executives",
+        "Direct Sales Executives"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Mains",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Reasoning",
+            "English",
+            "Quantitative Aptitude",
+            "General Awareness"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/selection-process/",
+    "extraction_timestamp": "2026-08-06T11:42:16.052055Z"
+}

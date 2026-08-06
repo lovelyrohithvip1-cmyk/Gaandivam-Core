@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Karnataka Examinations Authority (KEA)",
+    "exam_name": "Karnataka PGCET 2026",
+    "job_posts_covered": [
+        "MBA",
+        "MCA",
+        "M.Tech",
+        "M.E.",
+        "M.Arch"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online counselling registration",
+        "Document verification",
+        "Option entry / choice filling of colleges and courses",
+        "Seat allotment based on rank, category, preferences and availability",
+        "Payment of counselling / admission fees",
+        "Reporting to the allotted college with original documents"
+    ],
+    "detailed_syllabus": {
+        "MBA": null,
+        "MCA": null,
+        "M.Tech": null,
+        "M.E.": null,
+        "M.Arch": null
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/karnataka-pgcet-result-2026-check-result-online-3061655",
+    "extraction_timestamp": "2026-08-06T12:05:47.884213Z"
+}

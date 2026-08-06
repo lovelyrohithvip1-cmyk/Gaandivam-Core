@@ -1,0 +1,45 @@
+{
+    "conducting_body": "Indian Space Research Organisation (ISRO), Department of Space",
+    "exam_name": "ISRO Scientist/Engineer Recruitment 2026",
+    "job_posts_covered": [
+        "Scientist/Engineer 'SC' (Electronics)",
+        "Scientist/Engineer 'SC' (Mechanical)",
+        "Scientist/Engineer 'SC' (Computer Science)",
+        "Scientist/Engineer 'SC' (Civil)",
+        "Scientist/Engineer 'SC' (Electrical)",
+        "Scientist/Engineer 'SC' (Refrigeration & Air Conditioning)",
+        "Scientist/Engineer 'SC' (Architecture)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "17-08-2026"
+    },
+    "fee_structure": "₹250 per application",
+    "selection_stages": [
+        "Valid GATE score"
+    ],
+    "detailed_syllabus": {
+        "Electronics": [
+            "Electronics & Communication Engineering"
+        ],
+        "Mechanical": [
+            "Mechanical Engineering",
+            "Refrigeration & Air Conditioning"
+        ],
+        "Computer Science": [
+            "Computer Science Engineering"
+        ],
+        "Civil": [
+            "Civil Engineering"
+        ],
+        "Electrical": [
+            "Electrical Engineering",
+            "Electrical and Electronics Engineering"
+        ],
+        "Architecture": [
+            "Architecture"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/isro-scientist-engineer-recruitment-2026-notification-out-apply-online-for-92-posts-3060552",
+    "extraction_timestamp": "2026-08-06T12:16:37.479855Z"
+}

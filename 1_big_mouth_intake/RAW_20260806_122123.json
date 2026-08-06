@@ -1,0 +1,46 @@
+{
+    "conducting_body": "Jammu and Kashmir Services Selection Board (JKSSB)",
+    "exam_name": "JKSSB Recruitment 2026",
+    "job_posts_covered": [
+        "Horticulture Technician Grade-IV",
+        "Senior Canning Attendant",
+        "Health Educator",
+        "Sanitary Inspector",
+        "Junior Pharmacist",
+        "Para Medical Assistant",
+        "Junior Theatre Technician",
+        "Junior Ophthalmic Technician",
+        "Junior Lab Technician",
+        "Junior Staff Nurse",
+        "FMPHW",
+        "MMPHW",
+        "Junior Laboratory Assistant",
+        "Supervisor"
+    ],
+    "application_dates": {
+        "start_date": "10 September 2026",
+        "end_date": "9 October 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Examination"
+    ],
+    "detailed_syllabus": {
+        "Agriculture Production Department": [
+            "Fruit Preservation",
+            "Basic Horticulture training"
+        ],
+        "Health and Medical Education Department": [
+            "Health Education",
+            "Sanitation",
+            "Pharmacy",
+            "Medical Assistance",
+            "Theatre Techniques",
+            "Ophthalmic Techniques",
+            "Lab Techniques"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/jkssb-recruitment-2026-apply-online-for-518-horticulture-technician-junior-staff-nurse-and-more-posts-3061465",
+    "extraction_timestamp": "2026-08-06T12:21:23.417626Z"
+}

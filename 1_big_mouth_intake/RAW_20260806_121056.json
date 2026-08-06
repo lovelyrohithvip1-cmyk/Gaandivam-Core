@@ -1,0 +1,38 @@
+{
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "exam_name": "Combined Medical Services Examination (CMS) 2026",
+    "job_posts_covered": [
+        "Medical Officer (General Duty Medical Officer Sub-Cadre), Central Health Service",
+        "Assistant Divisional Medical Officer (ADMO), Railways",
+        "General Duty Medical Officer Grade II, NDMC",
+        "General Duty Medical Officer, various Delhi Municipal Council posts"
+    ],
+    "application_dates": {
+        "start_date": "11 March 2026",
+        "end_date": "31 March 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination",
+        "Personality Test"
+    ],
+    "detailed_syllabus": {
+        "General Medicine": [
+            "Various topics related to General Medicine"
+        ],
+        "Paediatrics": [
+            "Various topics related to Paediatrics"
+        ],
+        "Surgery": [
+            "Various topics related to Surgery"
+        ],
+        "Gynaecology & Obstetrics": [
+            "Various topics related to Gynaecology & Obstetrics"
+        ],
+        "Preventive & Social Medicine": [
+            "Various topics related to Preventive & Social Medicine"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/upsc-cms-answer-key-2026-3061668",
+    "extraction_timestamp": "2026-08-06T12:10:56.564432Z"
+}

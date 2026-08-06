@@ -1,0 +1,17 @@
+{
+    "exam_name": "Manager, Technical Manager and More",
+    "raw_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English": [
+            "Grammar",
+            "Comprehension"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra"
+        ]
+    }
+}

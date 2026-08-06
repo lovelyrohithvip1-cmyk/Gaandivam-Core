@@ -1,0 +1,39 @@
+{
+    "conducting_body": "Gujarat Government",
+    "exam_name": "GPSC Exam",
+    "job_posts_covered": [
+        "Deputy Section Officer",
+        "Deputy Mamlatdar",
+        "Horticulture Assistant",
+        "Multi Purpose Health Supervisor",
+        "Junior Pharmacist",
+        "Administrative and Civil Service",
+        "Vidyut Sahayak (Junior Assistant)",
+        "LRD/Constable & PSI"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Main Written Exam"
+    ],
+    "detailed_syllabus": {
+        "General Studies": [
+            "History",
+            "Geography",
+            "Polity",
+            "Economy",
+            "Science and Technology"
+        ],
+        "Aptitude": [
+            "Reasoning",
+            "Quantitative Ability",
+            "English Language"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/gujarat-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:14:38.662242Z"
+}

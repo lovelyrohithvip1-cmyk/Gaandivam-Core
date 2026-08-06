@@ -1,0 +1,107 @@
+{
+    "conducting_body": "ECHS Ambala Cantt",
+    "exam_name": "ECHS Ambala Cantt Recruitment 2026",
+    "job_posts_covered": [
+        "Medical Officer",
+        "Dental Officer",
+        "Medical Specialist",
+        "Gynaecologist",
+        "Radiologist",
+        "Dental A/T/H",
+        "Nursing Assistant",
+        "Pharmacist",
+        "Physiotherapist",
+        "Laboratory Technician",
+        "Laboratory Assistant",
+        "Radiographer",
+        "IT Technician",
+        "Driver",
+        "Clerk",
+        "Data Entry Operator",
+        "Receptionist",
+        "Peon",
+        "Chowkidar",
+        "Safaiwala"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "11 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Offline Application",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Medical Officer": [
+            "MBBS",
+            "Medicine/Surgery"
+        ],
+        "Dental Officer": [
+            "BDS"
+        ],
+        "Medical Specialist": [
+            "MD/MS",
+            "DNB"
+        ],
+        "Gynaecologist": [
+            "PG degree"
+        ],
+        "Radiologist": [
+            "PG Degree",
+            "DMC registration"
+        ],
+        "Dental A/T/H": [
+            "Diploma in Dental A/T/H"
+        ],
+        "Nursing Assistant": [
+            "GNM Diploma"
+        ],
+        "Pharmacist": [
+            "B.Pharmacy",
+            "Diploma in Pharmacy"
+        ],
+        "Physiotherapist": [
+            "Diploma/Class-1 Physiotherapist course"
+        ],
+        "Laboratory Technician": [
+            "B.Sc (Medical Lab Technology)",
+            "DMLT"
+        ],
+        "Laboratory Assistant": [
+            "DMLT"
+        ],
+        "Radiographer": [
+            "Diploma/Class-1 Radiographer course"
+        ],
+        "IT Technician": [
+            "Diploma/Certificate in IT"
+        ],
+        "Driver": [
+            "Class 8th",
+            "Civil driving licence"
+        ],
+        "Clerk": [
+            "Graduate",
+            "Computer qualified"
+        ],
+        "Data Entry Operator": [
+            "Graduate",
+            "Computer qualified"
+        ],
+        "Receptionist": [
+            "Qualification not specified"
+        ],
+        "Peon": [
+            "Class 8th"
+        ],
+        "Chowkidar": [
+            "Class 8th"
+        ],
+        "Safaiwala": [
+            "Literate"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/echs-ambala-recruitment-2026-apply-offline-for-100-medical-officer-pharmacist-and-more-posts-3061734",
+    "extraction_timestamp": "2026-08-06T11:52:07.226082Z"
+}

@@ -1,0 +1,52 @@
+{
+    "conducting_body": "IBPS, SBI, RBI, NIACL, UIIC, NABARD, LIC, SSC, UPSC",
+    "exam_name": "CRP RRB XIII, Clerk 2023, Specialist Officer, CRP PO/MT-XIII, Circle Based Officer, Apprentice, Officer Grade B, Assistant, Administrative Officer, CGL, CHSL, JHT, Jr Translator, SHT, SI, Constable, IES/ ISS, Engineering Services Exam, CMS, NDA & NA, Civil Services, Combined Geo-Scientist Exam, ESE, CAPF, CDS, Indian Forest Services Exam",
+    "job_posts_covered": [
+        "Officer Scale I, II & III",
+        "Clerk",
+        "Specialist Officer",
+        "PO/MT",
+        "Circle Based Officer",
+        "Apprentice",
+        "Officer Grade B",
+        "Assistant",
+        "Administrative Officer",
+        "Constable",
+        "Head Constable",
+        "Junior Translator",
+        "Sub Inspector"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/written-marks/",
+    "extraction_timestamp": "2026-08-06T12:24:16.961425Z"
+}

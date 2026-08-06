@@ -1,0 +1,38 @@
+{
+    "conducting_body": "SSC",
+    "exam_name": "SSC Junior Engineer",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "Head Constable",
+        "GD",
+        "CHSL",
+        "MTS",
+        "Stenographer",
+        "CGL Tier 2"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "PET",
+        "PST",
+        "Tier 1",
+        "Tier 2"
+    ],
+    "detailed_syllabus": {
+        "Junior Engineer": [
+            "General Intelligence",
+            "General Awareness",
+            "General Engineering"
+        ],
+        "Head Constable": [
+            "Reasoning",
+            "General Knowledge",
+            "Numerical Ability"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/admit-card/",
+    "extraction_timestamp": "2026-08-06T12:19:19.210938Z"
+}

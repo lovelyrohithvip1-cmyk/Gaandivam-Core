@@ -1,0 +1,35 @@
+{
+    "conducting_body": "BPSSC",
+    "exam_name": "BPSSC Sub-Inspector Exam",
+    "job_posts_covered": [
+        "Sub-Inspector"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/bihar-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:12:04.361746Z"
+}

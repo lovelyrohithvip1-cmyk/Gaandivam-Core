@@ -1,0 +1,46 @@
+{
+    "conducting_body": "TNPSC",
+    "exam_name": "CTSE Diploma/ITI",
+    "job_posts_covered": [
+        "Deputy Manager",
+        "Pilot",
+        "JAG Entry Scheme 125th Course",
+        "Junior Faculty and Academic Support Staff",
+        "Apprentice",
+        "Customer Service Officer",
+        "Manager, Technical Manager and More",
+        "Junior Engineer",
+        "Customer Service Associate / Clerk",
+        "Manager, Junior Executive",
+        "Tourism Monitors",
+        "Research Associate, Research Assistant and More",
+        "Junior Faculty and Lab Assistant",
+        "Guest Faculty",
+        "Executive Finance, Executive Finance Trainee",
+        "PGT, TGT, Laboratory Assistant and More",
+        "Consultant",
+        "Medical Officer",
+        "Post Doctoral Researcher"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Skill Test"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning",
+            "Technical Subjects"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/tn-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:11:49.678160Z"
+}

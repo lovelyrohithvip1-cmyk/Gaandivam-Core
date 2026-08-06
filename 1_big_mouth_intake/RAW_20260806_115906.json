@@ -1,0 +1,50 @@
+{
+    "conducting_body": "Indira Gandhi Delhi Technical University for Women (IGDTUW), Delhi",
+    "exam_name": "IGDTUW Faculty Recruitment 2026",
+    "job_posts_covered": [
+        "Professor",
+        "Associate Professor",
+        "Assistant Professor"
+    ],
+    "application_dates": {
+        "start_date": "22 July 2026",
+        "end_date": "21 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Submission of Hard Copy of Application"
+    ],
+    "detailed_syllabus": {
+        "Architecture and Planning": [
+            "B.Arch",
+            "M.Arch",
+            "M.Plan"
+        ],
+        "Applied Sciences & Humanities": [
+            "Master's Degree in relevant subject"
+        ],
+        "Computer Science & Engineering": [
+            "B.E./B.Tech./B.S.",
+            "M.E./M.Tech./M.S.",
+            "Ph.D."
+        ],
+        "Electronics & Communication Engineering": [
+            "B.E./B.Tech./B.S.",
+            "M.E./M.Tech./M.S.",
+            "Ph.D."
+        ],
+        "Information Technology": [
+            "B.E./B.Tech./B.S.",
+            "M.E./M.Tech./M.S.",
+            "Ph.D."
+        ],
+        "Mechanical & Automation Engineering": [
+            "B.E./B.Tech./B.S.",
+            "M.E./M.Tech./M.S.",
+            "Ph.D."
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/igdtuw-faculty-recruitment-2026-3061310",
+    "extraction_timestamp": "2026-08-06T11:59:06.715223Z"
+}

@@ -1,0 +1,42 @@
+{
+    "conducting_body": "MPSC",
+    "exam_name": "Talathi Exam",
+    "job_posts_covered": [
+        "Talathi"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "10 Aug 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Marathi": [
+            "Grammar",
+            "Comprehension",
+            "Vocabulary"
+        ],
+        "English": [
+            "Grammar",
+            "Comprehension",
+            "Vocabulary"
+        ],
+        "General Knowledge": [
+            "History",
+            "Geography",
+            "Science",
+            "Current Affairs"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/maharashtra-government-jobs/",
+    "extraction_timestamp": "2026-08-06T11:52:13.544902Z"
+}

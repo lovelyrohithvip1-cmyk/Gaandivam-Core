@@ -1,0 +1,51 @@
+{
+    "conducting_body": "Haryana Government",
+    "exam_name": "HTET",
+    "job_posts_covered": [
+        "Junior Programmer",
+        "Apprentice",
+        "Primary Teacher",
+        "Engineering Associate",
+        "Clerk",
+        "Staff Nurse",
+        "Advisor",
+        "Manager",
+        "Assistant Manager",
+        "Legal Advisor",
+        "Medical Physicist cum Radiation Safety Officer",
+        "Radiation Therapy Technologist",
+        "Research Assistant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ],
+        "General Knowledge": [
+            "History",
+            "Geography",
+            "Science"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/haryana-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:17:36.926698Z"
+}

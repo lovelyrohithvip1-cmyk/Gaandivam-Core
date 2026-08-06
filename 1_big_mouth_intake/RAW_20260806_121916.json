@@ -1,0 +1,33 @@
+{
+    "conducting_body": "HPPSC",
+    "exam_name": "HP Police Constable Exam",
+    "job_posts_covered": [
+        "Police Constable"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "06 Aug 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "Reasoning": [
+            "Logical Reasoning",
+            "Analytical Reasoning"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/hp-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:19:16.071356Z"
+}

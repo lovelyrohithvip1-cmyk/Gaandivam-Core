@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Directorate of Education, U.T. Administration of Dadra & Nagar Haveli and Daman & Diu",
+    "exam_name": "Samagra Shiksha DNH DD TGT PGT Recruitment 2026",
+    "job_posts_covered": [
+        "Trained Graduate Teacher (TGT)",
+        "Post Graduate Teacher (PGT)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Walk-in Interview",
+        "Document Verification",
+        "Final Selection"
+    ],
+    "detailed_syllabus": {
+        "TGT": [
+            "English",
+            "Hindi",
+            "Gujarati",
+            "Social Science"
+        ],
+        "PGT": [
+            "English",
+            "Hindi",
+            "Chemistry",
+            "Maths",
+            "Biology",
+            "Commerce",
+            "History",
+            "Marathi",
+            "Secretarial Practice",
+            "Psychology",
+            "Political Science",
+            "Economics",
+            "Physics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/samagra-shiksha-dnh-dd-recruitment-2026-walk-in-for-37-tgt-pgt-posts-3061390",
+    "extraction_timestamp": "2026-08-06T12:24:06.294777Z"
+}

@@ -1,0 +1,37 @@
+{
+    "conducting_body": "IBPS",
+    "exam_name": "CRP PO/MT-XIV",
+    "job_posts_covered": [
+        "Probationary Officer",
+        "Management Trainee"
+    ],
+    "application_dates": {
+        "start_date": "01/08/2024",
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Number Series",
+            "Data Interpretation",
+            "Quadratic Equations"
+        ],
+        "Reasoning Ability": [
+            "Logical Reasoning",
+            "Data Sufficiency",
+            "Puzzles"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/eligibility/",
+    "extraction_timestamp": "2026-08-06T11:38:05.992038Z"
+}

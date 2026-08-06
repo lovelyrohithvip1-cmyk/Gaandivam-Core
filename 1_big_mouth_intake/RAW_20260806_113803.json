@@ -1,0 +1,31 @@
+{
+    "conducting_body": "UPSSSC",
+    "exam_name": "UPSSSC AGTA Exam",
+    "job_posts_covered": [
+        "AGTA",
+        "Cane Supervisor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Agriculture": [
+            "Agricultural Practices",
+            "Crop Production",
+            "Soil Science"
+        ],
+        "General Knowledge": [
+            "Current Events",
+            "Indian History",
+            "Geography"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/up-government-jobs/",
+    "extraction_timestamp": "2026-08-06T11:38:03.176172Z"
+}

@@ -1,0 +1,54 @@
+{
+    "conducting_body": "National Insurance Company Limited (NICL)",
+    "exam_name": "NICL Assistant Recruitment 2026",
+    "job_posts_covered": [
+        "Assistant (Class III cadre)"
+    ],
+    "application_dates": {
+        "start_date": "18 July 2026",
+        "end_date": "7 August 2026"
+    },
+    "fee_structure": "Rs. 850/- (including intimation charges) for all other candidates, Nil for SC/ST/PwBD/Ex-Servicemen",
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Regional Language Test"
+    ],
+    "detailed_syllabus": {
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Reasoning Ability": [
+            "Logical Reasoning",
+            "Data Interpretation",
+            "Analytical Reasoning"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Data Interpretation"
+        ],
+        "Numerical Ability": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "Current Events",
+            "General Knowledge",
+            "Static Awareness"
+        ],
+        "Computer Knowledge": [
+            "Computer Basics",
+            "Networking",
+            "Database Management",
+            "Operating Systems"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/nicl-assistant-recruitment-2026-apply-online-for-500-posts-3058949",
+    "extraction_timestamp": "2026-08-06T11:49:32.154255Z"
+}

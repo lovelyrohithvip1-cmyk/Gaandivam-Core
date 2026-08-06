@@ -1,0 +1,62 @@
+{
+    "conducting_body": "Uttar Pradesh Public Service Commission (UPPSC)",
+    "exam_name": "UPPSC Recruitment 2026",
+    "job_posts_covered": [
+        "Architectural Assistant",
+        "Estate Manager",
+        "Microbiologist",
+        "Manager (System)",
+        "Senior Programmer",
+        "Programmer Grade-2",
+        "Computer Operator Grade-B"
+    ],
+    "application_dates": {
+        "start_date": "03 August 2026",
+        "end_date": "03 September 2026"
+    },
+    "fee_structure": "₹225 for Unreserved / EWS / OBC, ₹105 for SC / ST, ₹25 for Persons with Disabilities (PwD), ₹105 for Ex-Servicemen",
+    "selection_stages": [
+        "Written Examination",
+        "Other prescribed stages"
+    ],
+    "detailed_syllabus": {
+        "Architectural Assistant": [
+            "Knowledge of Hindi in Devanagari script",
+            "Diploma/Certificate in Architecture",
+            "Three-year full-time Architectural Assistantship course",
+            "Architectural planning"
+        ],
+        "Estate Manager": [
+            "Bachelor's Degree",
+            "MBA or PG Diploma in Management",
+            "Knowledge of Hindi written in Devanagari script"
+        ],
+        "Microbiologist": [
+            "Post Graduate Degree in Microbiology",
+            "Three years of experience in microbiological testing of food"
+        ],
+        "Manager (System)": [
+            "Bachelor's Degree",
+            "Diploma in Computer Application"
+        ],
+        "Senior Programmer": [
+            "Bachelor's Degree",
+            "Diploma in Computer Application"
+        ],
+        "Programmer Grade-2": [
+            "Bachelor's Degree",
+            "Post Graduate Diploma in Computer Science",
+            "A-Level Certificate from DOEACC",
+            "Software development",
+            "Database systems",
+            "Networking",
+            "Office automation"
+        ],
+        "Computer Operator Grade-B": [
+            "Bachelor's Degree",
+            "Diploma in Computer Application"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/uppsc-recruitment-2026-apply-online-for-47-computer-operator-microbiologist-and-more-posts-3061316",
+    "extraction_timestamp": "2026-08-06T12:11:58.728134Z"
+}

@@ -1,0 +1,36 @@
+{
+    "conducting_body": "Directorate of Horticulture, Karnataka",
+    "exam_name": "KEA Assistant Horticulture Officer Exam",
+    "job_posts_covered": [
+        "Assistant Horticulture Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Fruit Science": [
+            "Fundamentals of Horticulture",
+            "Plant Propagation and Nursery Management",
+            "Production Technology of Tropical and Subtropical Fruit Crops",
+            "Production Technology of Temperate and Dryland Fruit Crops",
+            "Protected Cultivation and Precision Horticulture",
+            "Fruit Crop Improvement and Biotechnology"
+        ],
+        "Vegetable Science": [],
+        "Floriculture and Landscape Architecture": [],
+        "Plantation/Spices/Medicinal and Aromatic Crops": [],
+        "Post-Harvest Technology": [],
+        "Crop Improvement": [],
+        "Crop Protection": [],
+        "Soil Science": [],
+        "Agricultural Engineering": [],
+        "Social and Allied Sciences": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/kea-assistant-horticulture-officer-syllabus-3061818",
+    "extraction_timestamp": "2026-08-06T11:57:00.374551Z"
+}

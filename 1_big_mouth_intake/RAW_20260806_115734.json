@@ -1,0 +1,46 @@
+{
+    "conducting_body": "Karnataka Public Service Commission (KPSC)",
+    "exam_name": "KPSC KAS Gazetted Probationers Exam 2026",
+    "job_posts_covered": [
+        "Gazetted Probationers"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Personality Test (Interview)"
+    ],
+    "detailed_syllabus": {
+        "Prelims Paper I": [
+            "Current events of national and international importance",
+            "History of India",
+            "World Geography and Geography of India",
+            "Indian polity and economy"
+        ],
+        "Prelims Paper II": [
+            "Current events of State importance",
+            "Contemporary developments in science and technology",
+            "General issues on health, environmental ecology, biodiversity and climate change",
+            "Comprehension",
+            "Logical reasoning and analytical ability",
+            "Decision making and problem solving",
+            "Basic numeracy",
+            "Data interpretation"
+        ],
+        "Mains": [
+            "Kannada",
+            "English",
+            "Essay",
+            "General Studies 1",
+            "General Studies 2",
+            "General Studies 3",
+            "General Studies 4"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/kpsc-kas-syllabus-and-exam-pattern-3061256",
+    "extraction_timestamp": "2026-08-06T11:57:34.986112Z"
+}

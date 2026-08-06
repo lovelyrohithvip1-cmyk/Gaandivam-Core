@@ -1,0 +1,68 @@
+{
+    "conducting_body": "All India Institute of Medical Sciences (AIIMS)",
+    "exam_name": "AIIMS BSc Nursing Entrance Exam 2025",
+    "job_posts_covered": [
+        "BSc (H) Nursing",
+        "BSc Nursing (Post-Basic)",
+        "BSc Paramedical courses"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Physics": [
+            "Current Electricity",
+            "Electromagnetic Induction",
+            "Electronic Devices",
+            "Alternating Current",
+            "Atoms and Nuclei",
+            "Communication Systems",
+            "Electromagnetic Waves",
+            "Optics",
+            "Dual Nature of Matter",
+            "Electrostatics",
+            "Magnetic Effect of Current & Magnetism"
+        ],
+        "Chemistry": [
+            "Solid State",
+            "Biomolecules",
+            "Chemistry in Everyday Life",
+            "General Principles & Processes of Isolation of Elements",
+            "Solutions",
+            "Chemical Kinetics",
+            "Electrochemistry",
+            "Polymers",
+            "P-Block Elements",
+            "Surface Chemistry",
+            "D & F-Block Elements",
+            "Organic Compounds containing Nitrogen",
+            "Alcohols, Phenol & Ester",
+            "Coordination Compounds",
+            "Ketones and Carboxylic Acids"
+        ],
+        "Biology": [
+            "Difference between Prokaryotic & Eukaryotic Cells",
+            "Cell Theory",
+            "Structural Organization of Cells",
+            "Mendel’s Laws of Inheritance",
+            "Classification: Binomial and Nominal Nomenclature",
+            "Five Kingdom Classification",
+            "Role of Plants in Human Welfare",
+            "Mineral Nutrition: Essential Elements and their Functions"
+        ],
+        "General Knowledge": [
+            "General Policy & Scientific Research",
+            "Current Affairs",
+            "History",
+            "Geography",
+            "Culture"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/aiims-bsc-nursing-syllabus-2025-3007699",
+    "extraction_timestamp": "2026-08-06T11:45:19.162656Z"
+}

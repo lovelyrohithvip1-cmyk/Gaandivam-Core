@@ -1,0 +1,49 @@
+{
+    "conducting_body": "Madhya Pradesh Employees Selection Board (MPESB)",
+    "exam_name": "Group-2 Sub-Group-4 Combined Recruitment Examination 2026",
+    "job_posts_covered": [
+        "Patwari"
+    ],
+    "application_dates": {
+        "start_date": "4 August 2026",
+        "end_date": "18 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer-Based Exam",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ],
+        "Computer Knowledge": [
+            "Computer Basics",
+            "Operating System",
+            "Microsoft Office",
+            "Internet"
+        ],
+        "Hindi": [
+            "Grammar",
+            "Comprehension",
+            "Writing Skills"
+        ],
+        "English": [
+            "Grammar",
+            "Comprehension",
+            "Writing Skills"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mpesb-patwari-recruitment-2026-apply-online-for-200-posts-3061379",
+    "extraction_timestamp": "2026-08-06T11:50:24.601593Z"
+}

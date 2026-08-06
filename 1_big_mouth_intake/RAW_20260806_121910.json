@@ -1,0 +1,44 @@
+{
+    "conducting_body": "Various Government Bodies",
+    "exam_name": "Sarkari Job Exams",
+    "job_posts_covered": [
+        "Rural Horticulture Extension Officer",
+        "Bench Clerk Grade II",
+        "Junior Research Fellow",
+        "Project Research Engineer",
+        "Assistant Professor",
+        "Project Attendant",
+        "Project Assistant",
+        "Project Scientist",
+        "DEO",
+        "Clerk",
+        "Peon",
+        "Project Administrative Assistant",
+        "Chief Financial Officer",
+        "Research Assistant",
+        "Supporting Staff",
+        "Warden",
+        "Head Cook",
+        "Project Associate-I"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Merit List"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Aptitude",
+            "English",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/sarkarijob/",
+    "extraction_timestamp": "2026-08-06T12:19:10.454532Z"
+}

@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Medical Counselling Committee (MCC)",
+    "exam_name": "NEET UG Counselling 2026",
+    "job_posts_covered": [
+        "MBBS",
+        "BDS",
+        "B.Sc Nursing"
+    ],
+    "application_dates": {
+        "start_date": "August 5, 2026",
+        "end_date": "August 12, 2026"
+    },
+    "fee_structure": "Registration fee: ₹1,000 (UR/EWS), ₹500 (SC/ST/OBC/PwD); Security Deposit: ₹10,000 (UR/EWS), ₹5,000 (SC/ST/OBC/PwD) for AIQ/Central Universities; ₹2,00,000 for Deemed Universities",
+    "selection_stages": [
+        "Registration",
+        "Choice filling",
+        "Choice locking",
+        "Seat allotment"
+    ],
+    "detailed_syllabus": {
+        "Physics": [
+            "No specific topics mentioned"
+        ],
+        "Chemistry": [
+            "No specific topics mentioned"
+        ],
+        "Biology": [
+            "No specific topics mentioned"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mcc-neet-ug-counselling-2026-out-check-round-1-registration-3061760",
+    "extraction_timestamp": "2026-08-06T11:39:40.294418Z"
+}

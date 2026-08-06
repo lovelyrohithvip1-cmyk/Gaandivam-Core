@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Oil and Natural Gas Corporation Ltd. (ONGC)",
+    "exam_name": "ONGC Medical Officer Recruitment 2026",
+    "job_posts_covered": [
+        "Medical Officer – Occupational Health",
+        "Specialist",
+        "Medical Officer – Homeopathy"
+    ],
+    "application_dates": {
+        "start_date": "05 August 2026",
+        "end_date": "18 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Qualification Weightage",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Medical Officer – Occupational Health": [
+            "MBBS"
+        ],
+        "Specialist": [
+            "MD/MS in respective stream",
+            "DNB or PG Diploma in respective stream"
+        ],
+        "Medical Officer – Homeopathy": [
+            "BHMS"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ongc-medical-officer-recruitment-2026-apply-online-for-24-posts-3061516",
+    "extraction_timestamp": "2026-08-06T12:07:05.083467Z"
+}

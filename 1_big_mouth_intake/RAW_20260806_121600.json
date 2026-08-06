@@ -1,0 +1,27 @@
+{
+    "conducting_body": "Education Recruitment Directorate, Punjab (ERD Punjab)",
+    "exam_name": "ERD Punjab PTI Recruitment 2026",
+    "job_posts_covered": [
+        "Physical Training Instructor (PTI), Primary Cadre"
+    ],
+    "application_dates": {
+        "start_date": "01-08-2026",
+        "end_date": "31-08-2026"
+    },
+    "fee_structure": {
+        "General and other categories": "Rs. 2000/-",
+        "Reserved category (SC/BC)": "Rs. 1000/-"
+    },
+    "selection_stages": [
+        "Written Test",
+        "Physical Eligibility Test (PET)"
+    ],
+    "detailed_syllabus": {
+        "Physical Education": [
+            "D.P.Ed/C.P.Ed or equivalent",
+            "Punjabi language test"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/punjab-pti-recruitment-2026-apply-online-for-2000-primary-cadre-posts-3061033",
+    "extraction_timestamp": "2026-08-06T12:16:00.165279Z"
+}

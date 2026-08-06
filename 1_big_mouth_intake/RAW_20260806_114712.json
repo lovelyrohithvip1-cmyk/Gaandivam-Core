@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Gujarat Subordinate Service Selection Board (GSSSB)",
+    "exam_name": "GSSSB Multi Purpose Health Supervisor Recruitment 2026",
+    "job_posts_covered": [
+        "Multi Purpose Health Supervisor (MPHS), Class-3"
+    ],
+    "application_dates": {
+        "start_date": "01-08-2026",
+        "end_date": "15-08-2026"
+    },
+    "fee_structure": {
+        "Unreserved": "Rs. 500",
+        "Reserved categories": "Rs. 400"
+    },
+    "selection_stages": [
+        "Single-stage objective MCQ-based competitive exam (CBRT/OMR)"
+    ],
+    "detailed_syllabus": {
+        "Reasoning & Data Interpretation": [
+            "Coding-Decoding",
+            "Blood Relation",
+            "Problems on Age and Height",
+            "Direction Knowledge",
+            "Clock and Calendar",
+            "Venn Diagram",
+            "Rank and Position",
+            "Arithmetic Progression",
+            "Logical Sequence of Words",
+            "Missing Character",
+            "Analogy",
+            "Visual Reasoning",
+            "Probability"
+        ],
+        "Quantitative Aptitude": [],
+        "Constitution of India, Current Affairs, Gujarati & English Comprehension": [],
+        "Technical Qualification (MPHS subject) and its application": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/gsssb-multi-purpose-health-supervisor-recruitment-2026-3061271",
+    "extraction_timestamp": "2026-08-06T11:47:12.597199Z"
+}

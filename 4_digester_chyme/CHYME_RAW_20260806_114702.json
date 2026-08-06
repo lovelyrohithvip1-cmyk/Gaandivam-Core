@@ -1,0 +1,82 @@
+{
+    "exam_name": "Manager, Technical Manager and More",
+    "chyme_granular_syllabus": {
+        "Reasoning": {
+            "Verbal Reasoning": {
+                "Verbal Ability": [
+                    "Reading Comprehension",
+                    "Fill in the Blanks",
+                    "Para Jumbles"
+                ],
+                "Logical Reasoning": [
+                    "Syllogisms",
+                    "Statement and Assumption",
+                    "Cause and Effect"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Visual Reasoning": [
+                    "Image Series",
+                    "Mirror Images",
+                    "Paper Folding"
+                ],
+                "Spatial Reasoning": [
+                    "Cubes and Cuboids",
+                    "Direction Sense",
+                    "Distance and Speed"
+                ]
+            }
+        },
+        "English": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Active and Passive Voice",
+                    "Direct and Indirect Speech"
+                ]
+            },
+            "Comprehension": {
+                "Reading Strategies": [
+                    "Skimming",
+                    "Scanning",
+                    "Inference"
+                ],
+                "Vocabulary Building": [
+                    "Word Roots",
+                    "Prefixes and Suffixes",
+                    "Synonyms and Antonyms"
+                ]
+            }
+        },
+        "Quantitative Aptitude": {
+            "Number Systems": {
+                "Number Theory": [
+                    "Divisibility Rules",
+                    "Prime Numbers",
+                    "LCM and HCF"
+                ],
+                "Decimal and Fraction Operations": [
+                    "Addition and Subtraction",
+                    "Multiplication and Division"
+                ]
+            },
+            "Algebra": {
+                "Equations and Inequalities": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Linear Inequalities"
+                ],
+                "Graphs and Functions": [
+                    "Types of Functions",
+                    "Graphical Representation",
+                    "Function Operations"
+                ]
+            }
+        }
+    }
+}

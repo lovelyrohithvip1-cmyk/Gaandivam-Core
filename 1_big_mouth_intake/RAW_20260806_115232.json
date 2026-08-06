@@ -1,0 +1,38 @@
+{
+    "conducting_body": "Central Selection Board of Constable (CSBC)",
+    "exam_name": "Bihar Police Driver Constable DET",
+    "job_posts_covered": [
+        "Driver Constable"
+    ],
+    "application_dates": {
+        "start_date": "21 July 2025",
+        "end_date": "20 August 2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination",
+        "Physical Efficiency Test (PET)",
+        "Driving Efficiency Test (DET)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Driving Efficiency Test (DET)": [
+            "Actual driving skill assessment"
+        ],
+        "Physical Efficiency Test (PET) for Male Candidates": [
+            "1.6 KM running in 7 minutes",
+            "High Jump: Minimum 3 feet 6 inches",
+            "Long Jump: Minimum 10 feet",
+            "Shot Put (16 lbs.): Minimum 14 feet"
+        ],
+        "Physical Efficiency Test (PET) for Female Candidates": [
+            "1 KM running in 7 minutes",
+            "High Jump: Minimum 2 feet 6 inches",
+            "Long Jump: Minimum 7 feet",
+            "Shot Put (12 lbs.): Minimum 8 feet"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/csbc-bihar-police-driver-det-admit-card-2026-3061133",
+    "extraction_timestamp": "2026-08-06T11:52:32.977358Z"
+}

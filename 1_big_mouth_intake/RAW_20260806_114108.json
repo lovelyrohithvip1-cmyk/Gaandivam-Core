@@ -1,0 +1,37 @@
+{
+    "conducting_body": "SJVN Limited (A Joint Venture of Govt. of India & Govt. of Himachal Pradesh)",
+    "exam_name": "SJVN Limited Recruitment 2026",
+    "job_posts_covered": [
+        "Chief General Manager",
+        "Deputy Manager",
+        "Engineer"
+    ],
+    "application_dates": {
+        "start_date": "05/08/2026",
+        "end_date": "26/08/2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Shortlisting",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Electrical": [
+            "Electrical & Electronics Engineering"
+        ],
+        "Mechanical": [
+            "Mechanical Engineering"
+        ],
+        "C&I": [
+            "Instrumentation & Control",
+            "Electronics & Instrumentation Engineering"
+        ],
+        "Chemical": [
+            "Chemical Engineering",
+            "M.Sc (Chemistry)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/sjvn-recruitment-2026-apply-online-for-21-engineer-deputy-manager-and-more-posts-3060958",
+    "extraction_timestamp": "2026-08-06T11:41:08.296791Z"
+}

@@ -1,0 +1,62 @@
+{
+    "conducting_body": "IBPS",
+    "exam_name": "Clerk",
+    "job_posts_covered": [
+        "Specialist Officer",
+        "LBO",
+        "Apprentice",
+        "Peon",
+        "Circle-Based Officer",
+        "Young Professionals",
+        "Non CSG Various Post",
+        "Officer Grade B",
+        "Junior Engineer",
+        "Security Manager",
+        "Officer Grade-B (DEPR)",
+        "CBO",
+        "Grade B",
+        "Office Attendant",
+        "Local Bank Officer",
+        "Junior Associate",
+        "Assistant",
+        "Officer JMGS-I, MMGS-II & MMGS-III",
+        "Grade B Officer",
+        "Faculty",
+        "Office Assistant",
+        "Circle Based Officers",
+        "Clerk"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Mains",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/exam-results/",
+    "extraction_timestamp": "2026-08-06T12:06:29.651288Z"
+}

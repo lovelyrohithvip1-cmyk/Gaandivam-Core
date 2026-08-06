@@ -1,0 +1,39 @@
+{
+    "conducting_body": "RailTel Corporation of India Limited",
+    "exam_name": "RailTel Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Graduate Engineer Apprentice",
+        "Diploma Engineer Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "27.08.2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Merit list preparation",
+        "Shortlisting based on merit list",
+        "Interview (if required)",
+        "Medical fitness test"
+    ],
+    "detailed_syllabus": {
+        "Graduate Engineer Apprentice": [
+            "Electronics & Telecommunication",
+            "Telecommunication",
+            "Computer Science & Engineering/Information Technology",
+            "Electrical Engineering",
+            "Electronics Engineering",
+            "Electronics & Instrumentation"
+        ],
+        "Diploma Engineer Apprentice": [
+            "Electronics & Telecommunication",
+            "Telecommunication",
+            "Computer Science & Engineering/Information Technology",
+            "Electrical Engineering",
+            "Electronics Engineering",
+            "Electronics & Instrumentation"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/railtel-apprentice-recruitment-2026-apply-online-for-40-posts-3060952",
+    "extraction_timestamp": "2026-08-06T11:52:00.746341Z"
+}

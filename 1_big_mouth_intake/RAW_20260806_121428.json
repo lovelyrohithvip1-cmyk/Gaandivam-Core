@@ -1,0 +1,36 @@
+{
+    "conducting_body": "IBPS",
+    "exam_name": "IBPS Clerk Exam",
+    "job_posts_covered": [
+        "Customer Service Associate",
+        "Clerk"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "21 Aug 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam"
+    ],
+    "detailed_syllabus": {
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Numerical Ability": [
+            "Number Series",
+            "Data Interpretation",
+            "Quantitative Aptitude"
+        ],
+        "Reasoning Ability": [
+            "Logical Reasoning",
+            "Data Sufficiency",
+            "Puzzle"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/wb-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:14:28.580096Z"
+}

@@ -1,0 +1,32 @@
+{
+    "conducting_body": "UKPSC",
+    "exam_name": "UTET",
+    "job_posts_covered": [
+        "Lecturer",
+        "Patwari",
+        "Accounts Cadre",
+        "Tax and Revenue Inspector",
+        "Professor",
+        "Associate Professor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning",
+            "Teaching Aptitude"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/uttarakhand-government-jobs/",
+    "extraction_timestamp": "2026-08-06T11:46:41.922648Z"
+}

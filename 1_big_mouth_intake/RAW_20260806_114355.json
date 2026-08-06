@@ -1,0 +1,91 @@
+{
+    "conducting_body": "Rashtriya Chemicals and Fertilizers Limited (RCF Ltd), a Government of India Navratna company",
+    "exam_name": "RCF Management Trainee Recruitment 2026",
+    "job_posts_covered": [
+        "Management Trainee (Chemical)",
+        "Management Trainee (Boiler)",
+        "Management Trainee (Mechanical)",
+        "Management Trainee (Electrical)",
+        "Management Trainee (Instrumentation)",
+        "Management Trainee (Materials)",
+        "Management Trainee (Civil)",
+        "Management Trainee (Fire)",
+        "Management Trainee (CC Lab)",
+        "Management Trainee (Industrial Engineering)",
+        "Management Trainee (Information Technology)",
+        "Management Trainee (Rajbhasha)",
+        "Management Trainee (Finance)",
+        "Management Trainee (Marketing)"
+    ],
+    "application_dates": {
+        "start_date": "08 August 2026, 8:00 am",
+        "end_date": "24 August 2026, 5:00 pm"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Test",
+        "Personal Interview"
+    ],
+    "detailed_syllabus": {
+        "Chemical": [
+            "Chemical Engineering",
+            "Chemical Technology",
+            "Petrochemical Engineering",
+            "Petrochemical Technology"
+        ],
+        "Boiler": [
+            "Chemical",
+            "Petrochemical",
+            "Mechanical",
+            "Instrumentation",
+            "Electrical"
+        ],
+        "Mechanical": [
+            "Mechanical Engineering"
+        ],
+        "Electrical": [
+            "Electrical Engineering",
+            "Electrical and Power Engineering",
+            "Electrical Power Engineering"
+        ],
+        "Instrumentation": [
+            "Instrumentation Engineering",
+            "Instrumentation Technology",
+            "Instrumentation and Control Engineering"
+        ],
+        "Materials": [
+            "Chemical",
+            "Petrochemical",
+            "Chemical Technology",
+            "Mechanical",
+            "Electrical",
+            "Electrical and Power",
+            "Instrumentation",
+            "Instrumentation Technology",
+            "Instrumentation and Control Engineering"
+        ],
+        "Civil": [
+            "Civil Engineering",
+            "Civil and Infrastructure Engineering",
+            "Construction Engineering",
+            "Construction Technology and Management"
+        ],
+        "Fire": [
+            "Fire",
+            "Fire & Safety"
+        ],
+        "CC Lab": [
+            "Chemistry",
+            "Chemical Engineering",
+            "Petrochemical Engineering",
+            "Chemical"
+        ],
+        "Industrial Engineering": null,
+        "Information Technology": null,
+        "Rajbhasha": null,
+        "Finance": null,
+        "Marketing": null
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rcfl-management-trainee-recruitment-2026-apply-online-for-94-posts-3061029",
+    "extraction_timestamp": "2026-08-06T11:43:55.649839Z"
+}

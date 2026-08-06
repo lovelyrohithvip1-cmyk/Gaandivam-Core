@@ -1,0 +1,27 @@
+{
+    "conducting_body": "Staff Selection Commission (SSC)",
+    "exam_name": "Junior Engineer (Civil, Mechanical, Electrical) Examination 2025",
+    "job_posts_covered": [
+        "Junior Engineer (JE)"
+    ],
+    "application_dates": {
+        "start_date": "30 June 2025",
+        "end_date": "21 July 2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Paper-I written exam",
+        "Paper-II written exam",
+        "document verification",
+        "medical examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Civil",
+            "Mechanical",
+            "Electrical"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ssc-je-final-result-2026-3061232",
+    "extraction_timestamp": "2026-08-06T11:45:58.497948Z"
+}

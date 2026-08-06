@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Bank of Baroda",
+    "exam_name": "Manager, Technical Manager and More",
+    "job_posts_covered": [
+        "Manager",
+        "Technical Manager"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "26-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English": [
+            "Grammar",
+            "Comprehension"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/latest-notifications/",
+    "extraction_timestamp": "2026-08-06T11:47:02.356922Z"
+}

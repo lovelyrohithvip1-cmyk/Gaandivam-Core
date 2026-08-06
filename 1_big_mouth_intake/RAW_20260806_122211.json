@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "SSC",
+        "Railway",
+        "UPSC"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Eligibility Calculation",
+        "Rank Prediction",
+        "Cut Off Calculation"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "Mathematics",
+            "Science",
+            "English"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/tools/",
+    "extraction_timestamp": "2026-08-06T12:22:11.225732Z"
+}

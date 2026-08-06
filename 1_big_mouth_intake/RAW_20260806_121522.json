@@ -1,0 +1,69 @@
+{
+    "conducting_body": "Lalit Narayan Mithila University (LNMU), Darbhanga",
+    "exam_name": "Bihar Combined Entrance Test (CET) B.Ed",
+    "job_posts_covered": [
+        "B.Ed",
+        "Shiksha Shastri"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "General English Comprehension": [
+            "Fill in the Blanks",
+            "Antonyms/ Synonyms",
+            "Idioms & Phrases",
+            "Spelling Error",
+            "One word Substitution"
+        ],
+        "General Hindi": [
+            "Conjunctions /Compounds",
+            "Prefixes and Suffixes",
+            "Rhymes/ Rhymes/ Rhetoric",
+            "Idioms and Proverbs/ Sayings",
+            "One Word for Many Words",
+            "Prose",
+            "Filling in the Blanks",
+            "Grammar",
+            "Paya Ryavachi",
+            "Antonyms"
+        ],
+        "Logical and Analytical Reasoning": [
+            "Syllogism Statement and Arguments",
+            "Statement and Assumptions",
+            "Statement and and Courses of Action",
+            "Statement and Conclusions",
+            "Deriving Conclusion",
+            "Assertion and Reason",
+            "Punch lines",
+            "Situation Reaction Tests",
+            "Cause and Effect",
+            "Analytical Reasoning"
+        ],
+        "General Awareness": [
+            "History",
+            "Geography",
+            "Polity",
+            "Question related to social Issue",
+            "General Science",
+            "Five-year plan",
+            "Current Affairs",
+            "Other Miscellaneous question"
+        ],
+        "Teaching - Learning Environment in Schools": [
+            "Management of Physical Resources in School - Need and Effects",
+            "Students Related Issues; Teacher Students relationship, Motivation, discipline, leadership etc",
+            "Teaching and Learning process; Ideal teacher, Effective teaching, handling of students, classroom communication etc.",
+            "Curricular and extra curricular activities such as Debate, Sports, Cultural activities etc.",
+            "Management of Human Resources in School - Principal, Teachers and Non-teaching staffs etc.",
+            "Physical Environment: Elements of Positive Learning Environment."
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/bihar-cet-bed-syllabus-2025-out-3006476",
+    "extraction_timestamp": "2026-08-06T12:15:22.814088Z"
+}

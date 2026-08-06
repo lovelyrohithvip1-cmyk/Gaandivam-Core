@@ -1,0 +1,64 @@
+{
+    "conducting_body": "District Health Society (DHS), Godda, Jharkhand",
+    "exam_name": "DHS Godda Recruitment 2026",
+    "job_posts_covered": [
+        "Staff Nurse",
+        "ANM",
+        "Pharmacist",
+        "Lab Technician",
+        "Counsellors",
+        "Epidemiologist"
+    ],
+    "application_dates": {
+        "start_date": "06.08.2026",
+        "end_date": "30.08.2026"
+    },
+    "fee_structure": "₹400 (General/BC/EBC/EWS); ₹200 (SC/ST)",
+    "selection_stages": [
+        "Academic marks",
+        "Written Test/Skill Test"
+    ],
+    "detailed_syllabus": {
+        "Staff Nurse": [
+            "General Nursing and Midwifery (GNM) training"
+        ],
+        "OT Technician": [
+            "Diploma/certificate course in Operation Theatre Technician"
+        ],
+        "Oxygen Operator": [
+            "Diploma in Engineering or equivalent technical certification (Mechanical/Electrical)"
+        ],
+        "GNM": [
+            "10+2/Intermediate with 3 years' General Nursing and Midwifery (GNM) training"
+        ],
+        "Block Data Manager": [
+            "Graduation with a 1-year diploma/PG Diploma in Computer Application"
+        ],
+        "Ophthalmic Assistant": [
+            "Two-year Diploma in Optometry"
+        ],
+        "Pharmacist": [
+            "Diploma in Pharmacy from a recognized institute"
+        ],
+        "Senior Tuberculosis Laboratory Supervisor": [
+            "Graduate + Diploma in Medical Laboratory Technology"
+        ],
+        "Radiographer / X-Ray Technician": [
+            "10+2/intermediate + Diploma in X-Ray Technology/Radiology"
+        ],
+        "District PPM Coordinator": [
+            "Post Graduate + 1 year experience in communication/ACSM/public-private partnership/health projects"
+        ],
+        "Malaria Technical Supervisor": [
+            "Graduate, preferably in Biology stream"
+        ],
+        "Tuberculosis Health Visitor": [
+            "Graduate, OR Intermediate (10+2) in Science"
+        ],
+        "Hospital Attendant / Sanitary Attendant": [
+            "Essential qualification not specified"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/dhs-godda-recruitment-2026-apply-online-for-64-staff-nurse-anm-and-more-posts-3061781",
+    "extraction_timestamp": "2026-08-06T12:26:16.567287Z"
+}

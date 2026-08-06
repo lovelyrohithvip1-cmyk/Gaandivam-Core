@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Board of School Education, Haryana (BSEH)",
+    "exam_name": "Haryana Teacher Eligibility Test (HTET) 2026",
+    "job_posts_covered": [
+        "PRT",
+        "TGT",
+        "PGT"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": "Rs 100 per objection",
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/haryana-htet-final-answer-key-2026-3061670",
+    "extraction_timestamp": "2026-08-06T11:51:36.650807Z"
+}

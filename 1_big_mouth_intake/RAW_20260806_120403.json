@@ -1,0 +1,42 @@
+{
+    "conducting_body": "Odisha Sub-ordinate Staff Selection Commission (OSSSC)",
+    "exam_name": "OSSSC Pharmacist",
+    "job_posts_covered": [
+        "Pharmacist"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Diploma in Pharmacy": [
+            "Pharmaceutics I",
+            "Pharmaceutics II",
+            "Pharmacology and Toxicology",
+            "Biochemistry and Clinical Pathology",
+            "Pharmaceutical Jurisprudence",
+            "Pharmacognosy",
+            "Health Education and Community Pharmacy",
+            "Hospital and Clinical Pharmacy",
+            "Human Anatomy and Physiology",
+            "Pharmaceutical Chemistry I",
+            "Pharmaceutical Chemistry II",
+            "Drug Store Business Management"
+        ],
+        "Practical Skills": [],
+        "Arithmetic": [
+            "Mathematical Logic",
+            "Linear Programming Problems (LPP)",
+            "Indefinite Integration",
+            "Definite Integration and its applications"
+        ],
+        "English": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/osssc-pharmacist-syllabus-and-exam-pattern-3060388",
+    "extraction_timestamp": "2026-08-06T12:04:03.770090Z"
+}

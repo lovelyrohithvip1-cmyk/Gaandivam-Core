@@ -1,0 +1,111 @@
+{
+    "conducting_body": "Telangana State Level Police Recruitment Board (TSLPRB)",
+    "exam_name": "Telangana Police Constable Recruitment 2026",
+    "job_posts_covered": [
+        "Police Constable"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Written Test",
+        "Physical Measurement Test (PMT) & Physical Efficiency Test (PET)",
+        "Final Written Examination",
+        "Personal Interview",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "English": [
+            "Short essay",
+            "Comprehension",
+            "Letter writing",
+            "Paragraph writing",
+            "Report writing",
+            "Translation from English to Telugu"
+        ],
+        "Arithmetic Ability": [
+            "Simple Interest and Compound Interest",
+            "Ratio and Proportion",
+            "Averages",
+            "Problems on Ages",
+            "Problems on Trains",
+            "Pipes and Cisterns",
+            "Percentages",
+            "Profit and Loss",
+            "Time and Work",
+            "LCM and HCF",
+            "Time, Speed and Distance",
+            "Partnership",
+            "Mensuration",
+            "Number System",
+            "Geometry",
+            "Progressions",
+            "Sets",
+            "Algebra",
+            "Heights and Distances"
+        ],
+        "Reasoning / Mental Ability": [
+            "Data Interpretation",
+            "Clocks",
+            "Calendars",
+            "Letter Series, Coding and Decoding",
+            "Number Series and Puzzle Test",
+            "Dice",
+            "Seating Arrangement",
+            "Similarities and Differences",
+            "Spatial Visualization",
+            "Spatial Orientation",
+            "Problem Solving Analysis",
+            "Judgmental Decision Making",
+            "Visual Memory"
+        ],
+        "General Science": [
+            "General Science in Everyday Life (Physics, Chemistry, Biology)",
+            "Environmental Aspects and Disaster Management"
+        ],
+        "Current Affairs": [
+            "National and International Relations",
+            "Countries and Capitals",
+            "Important Days",
+            "Sports",
+            "Awards",
+            "Defence",
+            "Meetings and Summits",
+            "Books and Authors",
+            "Static GK"
+        ],
+        "History of India and National Movement": [
+            "History of Ancient India",
+            "History of Modern India",
+            "Social, economic, cultural, and political aspects of India",
+            "Indian culture and Indian National Movement"
+        ],
+        "Indian Polity and Economy": [
+            "Political system of the country",
+            "Rural development",
+            "Poverty, planning, and economic reforms in India"
+        ],
+        "Principles of Geography and Indian Geography": [
+            "Indian geography, including physical, human, and economic aspects"
+        ],
+        "Contents on the State of Telangana": [
+            "Geography and history of Telangana",
+            "Social and cultural history of Telangana",
+            "Government of Telangana policies and schemes",
+            "Telangana Movement and State Formation",
+            "Telangana Idea and Early Phase of the Movement (1948-1970)",
+            "Assimilation Phase (1971-1990)",
+            "Formation of Telangana State (1991-2014)"
+        ],
+        "Personality Test": [
+            "Ethics",
+            "Sensitivity to gender and weaker sections",
+            "Social awareness",
+            "Emotional intelligence"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/telangana-police-constable-syllabus-and-exam-pattern-3060891",
+    "extraction_timestamp": "2026-08-06T11:52:10.782765Z"
+}

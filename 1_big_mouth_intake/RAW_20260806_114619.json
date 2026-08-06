@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Nalanda University",
+    "exam_name": "Nalanda University Non-Teaching Recruitment 2026",
+    "job_posts_covered": [
+        "Librarian",
+        "Deputy Librarian",
+        "Assistant Registrar",
+        "Assistant Engineer (Electrical)",
+        "Senior Assistant",
+        "Library Assistant",
+        "Assistant"
+    ],
+    "application_dates": {
+        "start_date": "03 August 2026",
+        "end_date": "21 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Shortlisting",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Library Science": [
+            "Information Science",
+            "Documentation Science",
+            "Integration of ICT in library",
+            "Innovative library services"
+        ],
+        "Administration": [
+            "Establishment",
+            "Academic",
+            "Finance & Accounts",
+            "General Supervision/Management"
+        ],
+        "Electrical Engineering": [
+            "Electrical Engineering principles",
+            "Junior Engineer or similar capacity experience"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/nalanda-university-non-teaching-recruitment-2026-3061358",
+    "extraction_timestamp": "2026-08-06T11:46:19.057648Z"
+}

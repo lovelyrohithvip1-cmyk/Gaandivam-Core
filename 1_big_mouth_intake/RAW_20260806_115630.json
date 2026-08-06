@@ -1,0 +1,26 @@
+{
+    "conducting_body": "Kerala Pareeksha Bhavan (Government of Kerala)",
+    "exam_name": "Kerala Teacher Eligibility Test (K-TET)",
+    "job_posts_covered": [
+        "Teacher"
+    ],
+    "application_dates": {
+        "start_date": "26 February 2026",
+        "end_date": "21 March 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ktet-hall-ticket-2026-out-download-hall-ticket-3061449",
+    "extraction_timestamp": "2026-08-06T11:56:30.625978Z"
+}

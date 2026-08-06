@@ -1,0 +1,68 @@
+{
+    "conducting_body": "Institute of Banking Personnel Selection (IBPS)",
+    "exam_name": "IBPS Clerk",
+    "job_posts_covered": [
+        "Clerk"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Language Proficiency Test (LPT)"
+    ],
+    "detailed_syllabus": {
+        "Reasoning Ability": [
+            "Seating Arrangement & Puzzles",
+            "Syllogism",
+            "Coding-Decoding",
+            "Blood Relations",
+            "Direction Sense",
+            "Inequalities",
+            "Alphanumeric Series, Order & Ranking",
+            "Input-Output",
+            "Data Sufficiency",
+            "Statement & Conclusions, Statement & Assumptions, Statement & Arguments",
+            "Series Test, Odd Figure Out, Analogy, Classification",
+            "Assertion and Reasoning, Decision Making"
+        ],
+        "English Language": [
+            "Vocabulary: Synonyms, Antonyms, Homonyms, Word Formation, Spelling",
+            "Grammar: Spotting Errors, Sentence Improvement/Correction, Phrases and Idioms, Active/Passive Voice, Direct and Indirect Speech",
+            "Reading & Comprehension: Reading Comprehension, Cloze Test, Para Jumbles, Fill in the Blanks, Passage Completion, Theme Detection, Deriving Conclusions"
+        ],
+        "Quantitative/Numerical Ability": [
+            "Simplification/Approximation",
+            "Number Series",
+            "Data Interpretation (Tables, Bar Graphs, Line Charts, Pie Charts)",
+            "Quadratic Equations",
+            "Data Sufficiency",
+            "Ratio and Proportion, Percentages, Averages",
+            "Profit, Loss and Discount",
+            "Simple and Compound Interest",
+            "Time, Speed and Distance; Time and Work",
+            "Mensuration, Mixture and Allegation, Partnership",
+            "Permutation, Combination and Probability"
+        ],
+        "Computer Aptitude": [
+            "Basics of Computer Hardware and Software",
+            "Windows Operating System Basics",
+            "Internet Terms, Services and Networking",
+            "MS Office Basics (MS Word, MS Excel, MS PowerPoint)",
+            "Database Basics",
+            "History of Computers",
+            "Basics of Hacking, Security Tools and Viruses"
+        ],
+        "General/Financial Awareness": [
+            "Current Affairs: National and international news of the last 6 months, Union Budget and Economic Survey highlights, Government Schemes and Policies",
+            "Banking & Financial Awareness: Overview of the Indian financial system, history of Indian banking, recent RBI monetary and credit policies, banking terms and abbreviations",
+            "Regulatory & International Bodies: RBI, SEBI, IRDAI, FSDC and international organisations such as IMF, World Bank, ADB, UN",
+            "Static GK: Important Days, Books and Authors, Awards, Headquarters, Appointments"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ibps-clerk-syllabus-3060469",
+    "extraction_timestamp": "2026-08-06T11:42:09.179480Z"
+}

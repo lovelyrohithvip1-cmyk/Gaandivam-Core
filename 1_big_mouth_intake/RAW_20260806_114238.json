@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Northeast Frontier Railway (NFR)",
+    "exam_name": "NFR Sports Quota Recruitment 2026-27",
+    "job_posts_covered": [
+        "Level-1",
+        "Level-2",
+        "Level-3 (7th CPC Pay Matrix)"
+    ],
+    "application_dates": {
+        "start_date": "25 July 2026",
+        "end_date": "24 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Sports Trial",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Sports": [
+            "Archery",
+            "Athletics",
+            "Badminton",
+            "Basketball",
+            "Boxing",
+            "Cricket",
+            "Table Tennis",
+            "Volleyball",
+            "Weightlifting"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/northeast-frontier-railway-sports-quota-recruitment-2026-3060215",
+    "extraction_timestamp": "2026-08-06T11:42:38.946324Z"
+}

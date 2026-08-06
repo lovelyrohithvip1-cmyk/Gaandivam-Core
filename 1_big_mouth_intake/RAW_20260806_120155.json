@@ -1,0 +1,22 @@
+{
+    "conducting_body": "Pondicherry University",
+    "exam_name": "B.A. Semester Exam",
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [],
+    "detailed_syllabus": {
+        "B.A. Bengali": [
+            "BABN1",
+            "BABN2"
+        ],
+        "B.A. Sociology": [
+            "BASO2"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/pondicherry-university-ba-result-2026-out-check-babn1-babn2-baso2-semester-results-3061788",
+    "extraction_timestamp": "2026-08-06T12:01:55.766511Z"
+}

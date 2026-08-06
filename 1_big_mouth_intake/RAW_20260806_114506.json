@@ -1,0 +1,26 @@
+{
+    "conducting_body": "Indian Air Force (IAF)",
+    "exam_name": "Air Force Common Admission Test (AFCAT) 02/2026",
+    "job_posts_covered": [
+        "Flying Branch",
+        "Ground Duty – Technical",
+        "Ground Duty – Non-Technical"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "21 June 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam (CBT)",
+        "AFSB interview"
+    ],
+    "detailed_syllabus": {
+        "General Awareness": null,
+        "English": null,
+        "Numerical Ability": null,
+        "Reasoning & Military Aptitude": null
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/afcat-2-admit-card-2026-3061378",
+    "extraction_timestamp": "2026-08-06T11:45:06.162054Z"
+}

@@ -1,0 +1,93 @@
+{
+    "conducting_body": "West Bengal Health Recruitment Board (WBHRB)",
+    "exam_name": "WBHRB Staff Nurse Exam",
+    "job_posts_covered": [
+        "Staff Nurse, Grade II"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting based on academic merit and experience",
+        "Written exam (conducted when application volume is high)",
+        "Personal Interview",
+        "Document Verification",
+        "Medical Fitness Test"
+    ],
+    "detailed_syllabus": {
+        "Nursing": [
+            "Nursing Management",
+            "Community Health Nursing",
+            "Health Education & Community Pharmacy",
+            "Biochemistry",
+            "Medical-Surgical Nursing",
+            "Microbiology",
+            "Mental Health",
+            "Psychology",
+            "Environmental Hygiene",
+            "Drug Store Management",
+            "Computers in Nursing",
+            "Human Anatomy & Physiology",
+            "Midwifery & Gynaecological Nursing",
+            "Hospital & Clinical Pharmacy",
+            "Fundamentals of Nursing",
+            "Basic Information of the Nursing Subject",
+            "Toxicology",
+            "Pharmaceutical Chemistry"
+        ],
+        "General English": [
+            "Fill in the Blanks",
+            "Joining Sentences",
+            "Vocabulary",
+            "Sentence Improvement",
+            "Idioms and Phrases",
+            "Antonyms & Synonyms",
+            "Error Correction and Spotting Errors",
+            "Passage and Para Completion",
+            "Basic English Grammar",
+            "Sentence Completion",
+            "Prepositions",
+            "Active Voice and Passive Voice",
+            "Substitutions",
+            "Sentence Arrangement"
+        ],
+        "General Awareness": [
+            "Indian History",
+            "Indian Parliament and Civics",
+            "Indian Rivers, Lakes, and Seas",
+            "Latest Sports Updates",
+            "Indian Tourism and Famous Places",
+            "Indian Artists and Famous Authors & Books",
+            "National and International News Updates",
+            "Countries and Capitals",
+            "Indian Current Affairs and Politics",
+            "General Science",
+            "Famous Days and Dates",
+            "Inventions and Discoveries",
+            "Indian Environmental Issues",
+            "Latest General Knowledge"
+        ],
+        "General Aptitude Test": [
+            "Height and Distance",
+            "Simple Interest",
+            "Races and Games",
+            "Time and Distance",
+            "H.C.F and L.C.M",
+            "Stocks and Shares",
+            "Ratio and Proportion",
+            "Time and Work",
+            "Problems on Ages",
+            "Partnership",
+            "Probability",
+            "Number System",
+            "Square Root and Cube Root",
+            "Simplification",
+            "Chain Rule",
+            "Volume and Surface Area"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/wbhrb-staff-nurse-syllabus-and-exam-pattern-3059575",
+    "extraction_timestamp": "2026-08-06T11:50:56.102522Z"
+}

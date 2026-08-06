@@ -1,0 +1,28 @@
+{
+    "conducting_body": "NTPC Limited",
+    "exam_name": "NTPC Deputy Manager Recruitment 2026",
+    "job_posts_covered": [
+        "Deputy Manager (Electrical)",
+        "Deputy Manager (Mechanical)",
+        "Deputy Manager (C&I)"
+    ],
+    "application_dates": {
+        "start_date": "12 August 2026",
+        "end_date": "26 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting criteria",
+        "Written examination (if applicable)",
+        "Interview process",
+        "Document verification",
+        "Final selection procedure"
+    ],
+    "detailed_syllabus": {
+        "Electrical": null,
+        "Mechanical": null,
+        "C&I (Control & Instrumentation)": null
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ntpc-deputy-manager-recruitment-2026-apply-online-for-135-posts-3061626",
+    "extraction_timestamp": "2026-08-06T11:43:15.910686Z"
+}

@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Indian Army",
+    "exam_name": "SSC (Tech)-68 Men",
+    "job_posts_covered": [
+        "SSC (Tech)-68 Men"
+    ],
+    "application_dates": {
+        "start_date": "06-08-2026",
+        "end_date": "07-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Calculus"
+        ],
+        "Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:09:45.579503Z"
+}

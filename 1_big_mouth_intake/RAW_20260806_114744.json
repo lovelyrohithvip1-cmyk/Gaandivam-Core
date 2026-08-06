@@ -1,0 +1,65 @@
+{
+    "conducting_body": "Panjab University",
+    "exam_name": "Panjab University Management Entrance Test (PU MET)",
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Affairs",
+            "Static GK",
+            "Famous Personalities",
+            "Important happenings around the World",
+            "Geography",
+            "Science",
+            "Awards and winners",
+            "Economy",
+            "Government and Politics",
+            "History",
+            "Business"
+        ],
+        "English Comprehension": [
+            "Grammar",
+            "Reading Comprehension",
+            "Vocabulary",
+            "Idioms and Phrases",
+            "Contextual usage",
+            "Para Completion and inference",
+            "Antonyms and Synonyms",
+            "Sentence correction"
+        ],
+        "Logical Reasoning": [
+            "Blood Relations",
+            "Puzzles",
+            "Direction Sense",
+            "Coding-Decoding",
+            "Arrangements",
+            "Series",
+            "Clocks and Calendars"
+        ],
+        "Quantitative Ability": [
+            "Percentages and their applications",
+            "Numbers and its applications",
+            "Geometry and its Applications",
+            "Ratio and its applications",
+            "Time-Speed-Distance",
+            "HCF & LCM",
+            "Algebra"
+        ],
+        "Data Interpretation": [
+            "Bar Graph",
+            "Line Graphs",
+            "Data Sufficiency",
+            "Pie Chart",
+            "Caselets"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/pu-met-syllabus-2025-out-3006312",
+    "extraction_timestamp": "2026-08-06T11:47:44.177108Z"
+}

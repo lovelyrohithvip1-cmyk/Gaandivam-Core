@@ -1,0 +1,59 @@
+{
+    "conducting_body": "Bank of Baroda",
+    "exam_name": "BoB Professionals Recruitment 2026",
+    "job_posts_covered": [
+        "Manager – Digital Product",
+        "Senior Manager – Digital Product",
+        "Product Manager – Digital Lending",
+        "Technical Officer – Civil Engineer",
+        "Technical Manager – Civil Engineer",
+        "Technical Senior Manager – Civil Engineer",
+        "Technical Officer – Electrical Engineer",
+        "Technical Manager – Electrical Engineer",
+        "Technical Senior Manager – Electrical Engineer",
+        "Manager – Information Security",
+        "Senior Manager – Information Security",
+        "Manager – Security",
+        "Chief Manager – Data Scientist",
+        "Senior Manager – Data Scientist",
+        "Senior Manager – Data Profiling",
+        "Senior Manager – DQ Analyst",
+        "Senior Manager – BI and Dashboard Development",
+        "Manager – Taxation",
+        "Manager – Accounts",
+        "Senior Manager – Taxation",
+        "Senior Manager – Accounts",
+        "Chief Manager – Investor Relations"
+    ],
+    "application_dates": {
+        "start_date": "06.08.2026",
+        "end_date": "26.08.2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Application scrutiny",
+        "Online test (if conducted)",
+        "Psychometric test/Interview"
+    ],
+    "detailed_syllabus": {
+        "Digital Product": [
+            "Project management of digital/IT products"
+        ],
+        "Information Security": [
+            "IT/Information Security",
+            "Cyber Security"
+        ],
+        "Civil Engineering": [
+            "Execution/monitoring of civil work, construction and maintenance"
+        ],
+        "Electrical Engineering": [
+            "Execution/monitoring of electrical work and maintenance"
+        ],
+        "Security": [
+            "Commissioned Service in Army/Navy/Air Force",
+            "Police officer"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/bank-of-baroda-recruitment-2026-apply-online-for-206-manager-technical-manager-and-more-posts-3061669",
+    "extraction_timestamp": "2026-08-06T12:12:51.877319Z"
+}

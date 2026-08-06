@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Rajasthan Rajya Vidyut Utpadan Nigam Ltd. (RVUN) and other 4 State Power Companies of Rajasthan",
+    "exam_name": "RVUNL JE Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineer-I (Electrical/Mechanical/Civil)",
+        "Junior Accountant",
+        "Junior Assistant/Commercial Assistant-II"
+    ],
+    "application_dates": {
+        "start_date": "05-08-2026, 10:00 AM",
+        "end_date": "25-08-2026, 12:00 Midnight"
+    },
+    "fee_structure": "Rs.1,000/- (UR); Rs.500/- (SC/ST/BC/MBC/EWS/PWBD/Saharias)",
+    "selection_stages": [
+        "Computer-Based Test",
+        "Type Writing Test (for Junior Assistant/Commercial Assistant-II only)"
+    ],
+    "detailed_syllabus": {
+        "Junior Engineer-I (Electrical)": [
+            "Electrical/Electrical & Electronics/Electrical, Instrumentation & Control/Power Systems & High Voltage/Power Electronics/Power Engineering"
+        ],
+        "Junior Engineer-I (Mechanical)": [
+            "Mechanical/Production/Industrial Engineering/Production & Industrial/Thermal/Mechanical & Automation/Power Engineering"
+        ],
+        "Junior Engineer-I (Civil)": [
+            "Structural/Civil Construction/Civil Engineering"
+        ],
+        "Junior Accountant": [
+            "Commerce or Business Administration",
+            "Cost Accountancy",
+            "Chartered Accountancy",
+            "MBA or equivalent",
+            "M.Com",
+            "Computer qualification"
+        ],
+        "Junior Assistant/Commercial Assistant-II": [
+            "Senior Secondary Examination (12th)",
+            "Computer qualification"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rvunl-recruitment-2026-apply-online-for-2005-junior-engineer-junior-accountant-and-more-posts-3055345",
+    "extraction_timestamp": "2026-08-06T12:09:35.352784Z"
+}

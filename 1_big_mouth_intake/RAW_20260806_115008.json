@@ -1,0 +1,89 @@
+{
+    "conducting_body": "Chhattisgarh Vyavsayik Pariksha Mandal (CG Vyapam) / CGSSB",
+    "exam_name": "CG Assistant Teacher Recruitment Exam",
+    "job_posts_covered": [
+        "Sahayak Shikshak (Assistant Teacher)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Hindi": [
+            "Varn Vichar",
+            "Shabd Vichar",
+            "Shabd Rachna",
+            "Pad va Pad Bhed",
+            "Vakya Parichay",
+            "Rachna",
+            "Children’s Language Development Process",
+            "Children’s Language Ability and Its Development",
+            "Inclusive language classroom, multilingualism",
+            "Assessment"
+        ],
+        "English": [
+            "Comprehension",
+            "Pedagogy of Language Development",
+            "Language acquisition in the classroom",
+            "Principles of language teaching",
+            "Role of listening and speaking before reading and writing",
+            "Phonics and phonemic awareness",
+            "Function of language and how children use it as a tool",
+            "Critical perspective on the role of grammar in learning a language for communicating ideas verbally and in written form",
+            "Challenges of teaching language in a diverse classroom, language difficulties, errors and disorders",
+            "Language skills",
+            "Evaluating language comprehension and proficiency: speaking, listening, reading and writing",
+            "Making as well as use of low-cost teaching learning materials",
+            "Textbook - unit themes and learning objectives",
+            "Emphasis on holistic play-based pedagogy",
+            "Safe and appropriate use of digital content",
+            "Multimedia materials, multilingual resource of the classroom",
+            "Assessment",
+            "Remedial teaching: individual differences and learner needs"
+        ],
+        "Mathematics": [
+            "Introduction",
+            "Nature of Mathematics",
+            "Learning and Assessment in Mathematics",
+            "Decimal system",
+            "Numbers - whole, odd-even, prime and composite, triangular numbers, coprime numbers",
+            "Fractions - comparison of fractions, related rules, converting decimal fractions to simple fractions",
+            "Simplification of expressions, use of BODMAS",
+            "Square root - various methods of finding square roots",
+            "HCF and LCM - formulas for related problems",
+            "Mean, median and mode based questions",
+            "Percentage - percentage, interest, profit and loss based questions",
+            "Ratio, proportion and unitary method",
+            "Speed, time and distance",
+            "Area, perimeter and volume",
+            "Patterns - identifying patterns, finding similarities between and within problems and solutions",
+            "Geometrical shapes - identification, understanding and construction",
+            "Locating a position using coordinate geometry"
+        ],
+        "Environmental Studies": [
+            "Understanding Environment",
+            "Children’s Understanding of Environment",
+            "Why Teach Environmental Studies",
+            "Pedagogy of Environmental Studies",
+            "Environmental Studies and Classroom Activities",
+            "Family Relations",
+            "Health and Safety",
+            "Ecosystem, Environmental Conservation and Management",
+            "Culture and Traditions"
+        ],
+        "Child Development & Pedagogy": [
+            "No detailed topics provided"
+        ],
+        "General Studies": [
+            "General Mental Ability",
+            "Computer Education",
+            "General Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/cg-assistant-teacher-syllabus-and-exam-pattern-3060321",
+    "extraction_timestamp": "2026-08-06T11:50:08.169069Z"
+}

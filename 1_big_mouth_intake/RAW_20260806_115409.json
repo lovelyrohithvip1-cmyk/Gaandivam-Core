@@ -1,0 +1,23 @@
+{
+    "conducting_body": "State Common Entrance Test (CET) Cell, Maharashtra",
+    "exam_name": "MHT CET",
+    "job_posts_covered": [
+        "BE/B.Tech (First Year Engineering)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": "₹1,000 (non-refundable) for first seat acceptance, ₹2,000 for second acceptance, ₹3,000 for third acceptance",
+    "selection_stages": [
+        "Candidate's final merit rank (MHT CET/JEE Main, as applicable)",
+        "Category and reservation policy",
+        "Preferences filled during the option/choice-filling process",
+        "Availability of seats across participating institutes"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mht-cet-cap-round-1-seat-allotment-result-2026-out-check-3061540",
+    "extraction_timestamp": "2026-08-06T11:54:09.401924Z"
+}

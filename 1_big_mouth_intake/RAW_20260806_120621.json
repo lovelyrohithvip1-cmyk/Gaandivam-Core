@@ -1,0 +1,30 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "UPSC CMS",
+    "job_posts_covered": [
+        "Agricultural Engineer",
+        "Assistant Industrial Adviser",
+        "Principal",
+        "Vice-Principal"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "14-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Medicine",
+            "Paediatrics",
+            "Surgery",
+            "Gynaecology and Obstetrics",
+            "Preventive and Social Medicine"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:06:21.000207Z"
+}

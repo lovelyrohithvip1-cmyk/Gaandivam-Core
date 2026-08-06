@@ -1,0 +1,45 @@
+{
+    "conducting_body": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
+    "exam_name": "Agriculture Technical Assistant (AGTA) Group C",
+    "job_posts_covered": [
+        "Agriculture Technical Assistant (AGTA), Group C"
+    ],
+    "application_dates": {
+        "start_date": "22 May 2026",
+        "end_date": "11 June 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting based on normalized UPSSSC PET 2025 score",
+        "Main Written Examination",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Crop Science": [
+            "Crop Science topics"
+        ],
+        "Biotechnology, Plant Breeding & Crop Physiology": [
+            "Biotechnology, Plant Breeding & Crop Physiology topics"
+        ],
+        "Soil & Water Conservation": [
+            "Soil & Water Conservation topics"
+        ],
+        "Agriculture Extension": [
+            "Agriculture Extension topics"
+        ],
+        "Agriculture Economics & Schemes": [
+            "Agriculture Economics & Schemes topics"
+        ],
+        "Animal Husbandry": [
+            "Animal Husbandry topics"
+        ],
+        "Computer & IT Knowledge": [
+            "Computer & IT Knowledge topics"
+        ],
+        "General Knowledge (UP State)": [
+            "General Knowledge (UP State) topics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/upsssc-agta-admit-card-2026-3061560",
+    "extraction_timestamp": "2026-08-06T11:39:09.860045Z"
+}

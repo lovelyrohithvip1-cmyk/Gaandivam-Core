@@ -1,0 +1,59 @@
+{
+    "conducting_body": "Various Government Organizations",
+    "exam_name": "ITI NCVT Based Govt Job Vacancies",
+    "job_posts_covered": [
+        "Act Apprentice",
+        "Police Constable",
+        "Apprentice",
+        "Project Assistant",
+        "Project Associate",
+        "Wireman",
+        "Fitter",
+        "Electrician",
+        "Technician",
+        "Aadhaar Supervisor/Operator",
+        "Project Scientist",
+        "Jr. Project Assistant",
+        "Technical Assistant",
+        "Project Engineer",
+        "Caretaker",
+        "Plumber",
+        "Electrician Apprentice",
+        "Lineman Apprentice",
+        "Junior Engineer",
+        "Foreman Electrical",
+        "SI",
+        "Deputy Jailor",
+        "Assistant Technical Consultants",
+        "Para Pump Operator",
+        "Para Fitter",
+        "Para Multipurpose Worker",
+        "Sports Quota",
+        "Trade Apprentice (ITI)",
+        "Junior Engineer",
+        "Technician",
+        "LDC",
+        "Security Guard"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Written Exam",
+        "Interview",
+        "Merit List"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "ITI NCVT Syllabus",
+            "General Knowledge",
+            "Aptitude",
+            "Technical Subjects"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/iti-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:09:01.657218Z"
+}

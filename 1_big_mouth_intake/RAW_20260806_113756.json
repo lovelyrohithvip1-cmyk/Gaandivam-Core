@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Himachal Pradesh Rajya Chayan Aayog (HPRCA)",
+    "exam_name": "HPRCA Teacher Exam",
+    "job_posts_covered": [
+        "Chemistry Teacher",
+        "Music Teacher"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Chemistry": [
+            "Chemical Reactions",
+            "Atomic Structure",
+            "Thermodynamics",
+            "Kinetics",
+            "Electrochemistry"
+        ],
+        "Music": [
+            "Theory of Music",
+            "History of Music",
+            "Music Composition",
+            "Music Performance"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/hprca-chemistry-and-music-teacher-answer-key-2026-3061629",
+    "extraction_timestamp": "2026-08-06T11:37:56.744244Z"
+}

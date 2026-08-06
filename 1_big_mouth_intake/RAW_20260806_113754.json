@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Mizoram Public Service Commission (MPSC)",
+    "exam_name": "Jr. Grade of Mizoram Health Service (Combined Competitive Examination) 2026",
+    "job_posts_covered": [
+        "Dental Surgeon",
+        "Allopathy"
+    ],
+    "application_dates": {
+        "start_date": "20.04.2026",
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Combined Competitive Examination",
+        "Provisional Answer Key",
+        "Objection Window"
+    ],
+    "detailed_syllabus": {
+        "General English": [
+            "40 questions"
+        ],
+        "Dental Surgeon": [
+            "Technical Subject Paper-I (100 questions)",
+            "Technical Subject Paper-II (100 questions)",
+            "Technical Subject Paper-III (100 questions)"
+        ],
+        "Allopathy": [
+            "Technical Subject Paper-I (100 questions)",
+            "Technical Subject Paper-II (100 questions)",
+            "Technical Subject Paper-III (100 questions)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mizoram-psc-junior-grade-answer-key-2026-3061427",
+    "extraction_timestamp": "2026-08-06T11:37:54.158276Z"
+}

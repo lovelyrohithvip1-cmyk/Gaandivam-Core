@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Karnataka Examination Authority (KEA)",
+    "exam_name": "KEA Land Surveyor Recruitment 2026",
+    "job_posts_covered": [
+        "Surveyor (Bhoomapaka), Group-C"
+    ],
+    "application_dates": {
+        "start_date": "11-07-2026",
+        "end_date": "20-08-2026"
+    },
+    "fee_structure": "₹750 for General and other categories, ₹500 for SC / ST / Category-1 / Ex-servicemen / Third Gender, ₹250 for Special Pay (PWD) candidates",
+    "selection_stages": [
+        "Competitive Written Examination",
+        "Kannada Language Test",
+        "Document Verification",
+        "Probation and Departmental Training"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "current affairs",
+            "daily science",
+            "Indian Constitution basics",
+            "Karnataka & India"
+        ],
+        "Specific Paper": [
+            "Surveying and Mapping",
+            "Geography",
+            "Mathematics",
+            "Computer Applications"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/kea-land-surveyor-recruitment-2026-apply-online-for-750-posts-3057813",
+    "extraction_timestamp": "2026-08-06T11:57:23.298774Z"
+}

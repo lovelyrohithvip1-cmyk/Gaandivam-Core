@@ -1,0 +1,75 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "RRB Group D (Level-1) Recruitment Exam 2025-26",
+    "job_posts_covered": [
+        "Pointsman-B",
+        "Track Maintainer Grade IV",
+        "Assistant (S&T)",
+        "Assistant (C&W)",
+        "Assistant TRD",
+        "Assistant Operations (Electrical)",
+        "Assistant (Track Machine)",
+        "Assistant (Bridge)",
+        "Assistant TL & AC",
+        "Assistant P-Way",
+        "Assistant Loco Shed (Electrical)"
+    ],
+    "application_dates": {
+        "start_date": "31 January 2026",
+        "end_date": "09 March 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer Based Test (CBT-I)",
+        "Physical Efficiency Test (PET)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "General Intelligence and Reasoning": [
+            "Analogies",
+            "Alphabetical and Number Series",
+            "Coding and Decoding",
+            "Mathematical operations",
+            "Relationships",
+            "Syllogism",
+            "Jumbling",
+            "Venn Diagram",
+            "Data Interpretation and Sufficiency",
+            "Conclusions and Decision Making"
+        ],
+        "General Knowledge": [
+            "Current Events",
+            "General Science",
+            "History of India",
+            "Indian Geography",
+            "Indian Polity and Constitution",
+            "Economic Scene of India",
+            "General Mental Ability"
+        ],
+        "General Science": [
+            "Physics",
+            "Chemistry",
+            "Life Sciences (up to 10th standard)"
+        ],
+        "Mathematics": [
+            "Number systems",
+            "Decimals",
+            "Fractions",
+            "LCM",
+            "HCF",
+            "Ratio and Proportions",
+            "Percentages",
+            "Mensuration",
+            "Time and Work",
+            "Time and Distance",
+            "Simple and Compound Interest",
+            "Profit and Loss",
+            "Algebra",
+            "Geometry and Trigonometry",
+            "Elementary Statistics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rrb-group-d-admit-card-2026-out-3061149",
+    "extraction_timestamp": "2026-08-06T12:15:47.922174Z"
+}

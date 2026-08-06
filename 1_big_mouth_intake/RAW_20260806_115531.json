@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Commissioner for Entrance Examinations (CEE), Kerala",
+    "exam_name": "KEAM 2026",
+    "job_posts_covered": [
+        "MBBS",
+        "BDS",
+        "BAMS",
+        "BHMS",
+        "BSMS",
+        "BUMS",
+        "Medical allied courses"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "August 10, 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Submission of NEET (UG) 2026 result",
+        "Preparation of Kerala State Rank List"
+    ],
+    "detailed_syllabus": {
+        "Physics": [
+            "No specific topics mentioned"
+        ],
+        "Chemistry": [
+            "No specific topics mentioned"
+        ],
+        "Biology": [
+            "No specific topics mentioned"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/keam-2026-neet-ug-result-submission-window-open-check-3061722",
+    "extraction_timestamp": "2026-08-06T11:55:31.563035Z"
+}

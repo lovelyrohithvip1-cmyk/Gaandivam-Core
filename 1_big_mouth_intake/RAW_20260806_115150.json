@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Department of Medical Education (DME), Madhya Pradesh",
+    "exam_name": "MP NEET UG 2026 Counselling",
+    "job_posts_covered": [
+        "MBBS",
+        "BDS"
+    ],
+    "application_dates": {
+        "start_date": "August 5, 2026",
+        "end_date": "August 13, 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Registration",
+        "Publication of State Merit List",
+        "Choice Filling and Locking",
+        "Round 1 Allotment Result",
+        "Reporting at allotted Medical/Dental College"
+    ],
+    "detailed_syllabus": {
+        "Physics": [
+            "No specific topics mentioned"
+        ],
+        "Chemistry": [
+            "No specific topics mentioned"
+        ],
+        "Biology": [
+            "No specific topics mentioned"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mp-neet-ug-2026-counselling-schedule-out-check-details-3061436",
+    "extraction_timestamp": "2026-08-06T11:51:50.641849Z"
+}

@@ -1,0 +1,54 @@
+{
+    "conducting_body": "Various Government Organizations",
+    "exam_name": "Diploma Based Government Job Exams",
+    "job_posts_covered": [
+        "Project Assistant",
+        "Project Scientist",
+        "Junior Accountant",
+        "Apprentice",
+        "Junior Laboratory Technical Officer",
+        "Pharmacist Officer",
+        "Nursing Officer",
+        "Data Entry Operator",
+        "Technician",
+        "Junior Faculty",
+        "Overseer",
+        "Medical Officer",
+        "Driver",
+        "Engineer",
+        "Safety Officer",
+        "Block Manager",
+        "Cluster Supervisor",
+        "Aadhaar Supervisor",
+        "Contractual Data Assistant",
+        "Contractual Warden",
+        "Project Scientist",
+        "Junior Project Assistant",
+        "Technical Assistant",
+        "Assistant Data Manager",
+        "Statistical Programmer",
+        "Junior Clerk",
+        "Stenographer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Skill Test"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning",
+            "Technical Subjects"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:20:08.672837Z"
+}

@@ -1,0 +1,62 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB), Railway Recruitment Cell (RRC), and other Railway PSUs",
+    "exam_name": "Railway Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "Assistant Manager",
+        "General Manager",
+        "Teacher",
+        "Sports Quota",
+        "Apprentice",
+        "Manager",
+        "Section Controller",
+        "Deputy General Manager",
+        "Scouts & Guides Quota",
+        "Act Apprentice",
+        "IT Professionals",
+        "Assistant Executive",
+        "Tourism Monitors",
+        "Company Secretary",
+        "Sportspersons"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer-Based Test (CBT)",
+        "Physical Efficiency Test (PET)",
+        "Document Verification",
+        "Medical Examination",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Calculus"
+        ],
+        "General Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ],
+        "General Awareness": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ],
+        "Reasoning and Aptitude": [
+            "Logical Reasoning",
+            "Data Interpretation",
+            "Quantitative Aptitude"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/railway-jobs/",
+    "extraction_timestamp": "2026-08-06T12:05:11.767396Z"
+}

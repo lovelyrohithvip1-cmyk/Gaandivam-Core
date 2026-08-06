@@ -1,0 +1,30 @@
+{
+    "conducting_body": "KEA",
+    "exam_name": "Assistant Horticulture Officer",
+    "job_posts_covered": [
+        "Assistant Horticulture Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "4 days left"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Agriculture": [
+            "Agricultural Practices",
+            "Crop Production",
+            "Horticulture"
+        ],
+        "General Knowledge": [
+            "Current Affairs",
+            "General Science",
+            "Indian History"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/",
+    "extraction_timestamp": "2026-08-06T11:41:43.402142Z"
+}

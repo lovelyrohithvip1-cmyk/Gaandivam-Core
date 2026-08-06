@@ -1,0 +1,35 @@
+{
+    "conducting_body": "RITES Limited",
+    "exam_name": "RITES IT Professional Recruitment 2026",
+    "job_posts_covered": [
+        "Deputy General Manager (Joint Program Manager)",
+        "Senior Manager (Cyber Security Expert)",
+        "Manager (API Developer)"
+    ],
+    "application_dates": {
+        "start_date": "03 August 2026",
+        "end_date": "24 August 2026"
+    },
+    "fee_structure": "₹600 + Applicable Taxes for General/OBC Candidates, ₹300 + Applicable Taxes for EWS/SC/ST/PwD Candidates",
+    "selection_stages": [
+        "Written Test",
+        "Document Scrutiny",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Computer Science": [
+            "API Development",
+            "Cyber Security"
+        ],
+        "Information Technology": [
+            "Software Development",
+            "Networking"
+        ],
+        "Electronics": [
+            "Electronics & Telecommunication",
+            "Electronics & Instrumentation"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/rites-it-professionals-recruitment-2026-3061368",
+    "extraction_timestamp": "2026-08-06T11:38:57.615250Z"
+}

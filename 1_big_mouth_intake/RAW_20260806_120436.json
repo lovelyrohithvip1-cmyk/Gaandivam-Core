@@ -1,0 +1,69 @@
+{
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "exam_name": "UPSC Recruitment 2026",
+    "job_posts_covered": [
+        "Agricultural Engineer",
+        "Medical Officer/Research Officer (Unani)",
+        "Scientist 'B' (Botany)",
+        "Scientist 'B' (Environmental Science)",
+        "Scientist 'B' (Geology)",
+        "Scientist 'B' (Physics)",
+        "Scientist 'B' (Zoology)",
+        "Civilian Medical Officer",
+        "Specialist Grade III Assistant Professor (Immuno-Haematology & Blood Transfusion)",
+        "Specialist Grade III Assistant Professor (Surgical Oncology)",
+        "Assistant Industrial Adviser",
+        "Veterinary Assistant Surgeon"
+    ],
+    "application_dates": {
+        "start_date": "25 July 2026",
+        "end_date": "14 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Direct Recruitment by Selection",
+        "Interview/Shortlisting"
+    ],
+    "detailed_syllabus": {
+        "Agricultural Engineer": [
+            "Degree in Agricultural Engineering or Mechanical Engineering",
+            "2 years’ experience in testing/evaluation of agricultural machinery",
+            "2 years’ teaching/training experience in operation/maintenance of tractors and agricultural implements"
+        ],
+        "Medical Officer/Research Officer (Unani)": [
+            "Degree in Unani Medicine",
+            "Enrolment on the Central/State Register of Indian Medicine"
+        ],
+        "Scientist 'B' (Botany/Environmental Science/Geology/Physics/Zoology)": [
+            "Master’s Degree in the respective discipline",
+            "3 years’ research experience after acquiring the essential qualification",
+            "PhD and lab experience in conservation/non-destructive testing"
+        ],
+        "Civilian Medical Officer": [
+            "Recognized MBBS degree",
+            "Completion of compulsory rotating internship",
+            "Post-graduate medical qualification"
+        ],
+        "Specialist Grade III Assistant Professor (Immuno-Haematology and Blood Transfusion)": [
+            "MBBS with a postgraduate degree/diploma (MD/DNB) in Immunology, Immuno-Haematology and Blood Transfusion, Pathology, Bacteriology or Haematology",
+            "Relevant special training",
+            "At least 3 years’ teaching experience as Senior Resident/Tutor/Registrar/Assistant Professor"
+        ],
+        "Specialist Grade III Assistant Professor (Surgical Oncology)": [
+            "MBBS with a postgraduate degree/diploma in Surgical Oncology or General Surgery/ENT/Orthopaedics/Obst. & Gynae",
+            "Special training in Surgical Oncology",
+            "At least 3 years’ teaching experience"
+        ],
+        "Assistant Industrial Adviser": [
+            "Bachelor’s degree in Mechanical/Electrical/Chemical/Metallurgical/Electronics & Communication Engineering",
+            "3 years’ experience in steel works/rolling mills/plant machinery manufacturing or in iron & steel production, planning, development and research"
+        ],
+        "Veterinary Assistant Surgeon": [
+            "Bachelor’s Degree in Veterinary Science and Animal Husbandry/Veterinary Science",
+            "Registered with the Veterinary Council of India or a State/UT Veterinary Council",
+            "Knowledge of Tamil, Malayalam or Telugu"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/upsc-recruitment-2026-apply-online-for-41-agricultural-engineer-scientist-and-more-posts-3060202",
+    "extraction_timestamp": "2026-08-06T12:04:36.921295Z"
+}

@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Andhra Pradesh Public Service Commission (APPSC)",
+    "exam_name": "APPSC CPT",
+    "job_posts_covered": [
+        "Staff Assistant",
+        "Assistant Manager",
+        "Lecturer",
+        "Technical Assistant",
+        "Junior Engineer",
+        "Staff Nurse"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Aptitude",
+            "English",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/ap-government-jobs/",
+    "extraction_timestamp": "2026-08-06T12:18:18.138721Z"
+}
