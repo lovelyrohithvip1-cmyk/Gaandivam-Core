@@ -1,0 +1,23 @@
+{
+    "conducting_body": "Uttar Pradesh Police Recruitment & Promotion Board",
+    "exam_name": "UP Police Constable",
+    "job_posts_covered": [
+        "Constable"
+    ],
+    "application_dates": {
+        "start_date": "31 December 2025",
+        "end_date": "30 January 2026"
+    },
+    "fee_structure": "Rs. 500/- (Gen/ OBC/ EWS), Rs. 400/- (SC/ ST/ PWD)",
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/up-police-constable-admit-card-2026/",
+    "extraction_timestamp": "2026-08-07T07:21:14.999970Z"
+}

@@ -1,0 +1,23 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "RRB NTPC",
+    "job_posts_covered": [
+        "Clerk",
+        "Station Master",
+        "Goods Guard",
+        "Traffic Assistant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "CBT-1 Exam"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-ntpc-answer-key/",
+    "extraction_timestamp": "2026-08-07T07:11:18.900027Z"
+}

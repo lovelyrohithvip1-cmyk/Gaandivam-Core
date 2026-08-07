@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Madhya Pradesh Employees Selection Board (MPESB)",
+    "exam_name": "Group-2 Sub Group-1 Agriculture Extension Officer Recruitment Examination 2026",
+    "job_posts_covered": [
+        "Agriculture Extension Officer"
+    ],
+    "application_dates": {
+        "start_date": "03 July 2026",
+        "end_date": "17 July 2026"
+    },
+    "fee_structure": "₹500 for General / Other State, ₹250 for SC / ST / OBC / EWS / PwD (MP Domicile), ₹60 for MP Online Portal Charge (Kiosk), ₹20 for Registered Citizen User Portal Charge",
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Document Verification",
+        "Medical Examination",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Agriculture": [
+            "No specific topics mentioned"
+        ],
+        "Horticulture": [
+            "No specific topics mentioned"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/mpesb-agriculture-extension-officer-recruitment-2026/",
+    "extraction_timestamp": "2026-08-07T07:28:07.612291Z"
+}

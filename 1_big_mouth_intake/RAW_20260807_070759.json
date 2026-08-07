@@ -1,0 +1,30 @@
+{
+    "conducting_body": "MPESB",
+    "exam_name": "MPESB Exam",
+    "job_posts_covered": [
+        "Teaching Posts",
+        "Deputy Manager",
+        "LDC",
+        "Steno",
+        "Police Constable",
+        "Credit Officer",
+        "Project Assistant",
+        "Safai Sewak",
+        "Mali",
+        "Assistant Personnel"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Apply Online",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-07T07:07:59.436453Z"
+}

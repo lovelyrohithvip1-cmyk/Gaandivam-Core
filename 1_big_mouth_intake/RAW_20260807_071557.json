@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Railway Recruitment Board",
+    "exam_name": "RRB Group D Recruitment 2026",
+    "job_posts_covered": [
+        "Group D"
+    ],
+    "application_dates": {
+        "start_date": "23 January 2025",
+        "end_date": "01 March 2025"
+    },
+    "fee_structure": {
+        "Gen/ OBC/ EWS": "Rs. 500/-",
+        "SC/ ST/ PWD": "Rs. 250/-"
+    },
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Group D": [
+            "10TH/ ITI Pass"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-group-d-result-2026/",
+    "extraction_timestamp": "2026-08-07T07:15:57.434127Z"
+}

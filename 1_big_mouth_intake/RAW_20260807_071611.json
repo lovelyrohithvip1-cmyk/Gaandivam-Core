@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Haryana Kaushal Rozgar Nigam Limited (HKRNL)",
+    "exam_name": "HKRN Recruitment 2026",
+    "job_posts_covered": [
+        "Doctor General Practitioner",
+        "Yoga Instructor",
+        "HVAC Repair & Plumber",
+        "Driver",
+        "Nurse & Home Based Caregiver",
+        "Ceramic Tiling",
+        "Drywall Worker",
+        "Home Based Caregiver",
+        "Masons",
+        "Plastering Work"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "13.08.2026"
+    },
+    "fee_structure": "Rs. 236/- (Gen/ OBC/ EWS/ SC/ ST/ PWD)",
+    "selection_stages": [
+        "Shortlisting/ Interview",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/haryana-kaushal-rojgar-nigam/",
+    "extraction_timestamp": "2026-08-07T07:16:11.329737Z"
+}

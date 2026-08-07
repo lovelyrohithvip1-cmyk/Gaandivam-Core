@@ -1,0 +1,34 @@
+{
+    "conducting_body": "UPSSSC",
+    "exam_name": "UPSSSC PET 2026",
+    "job_posts_covered": [
+        "Female Supervisor",
+        "Jail Warder",
+        "Teaching Posts",
+        "Deputy Manager",
+        "Credit Officer",
+        "Safai Karmachari",
+        "Assistant Personnel",
+        "LDC & Steno",
+        "Constable"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "02.09.26"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Mathematics",
+            "English"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/active-govt-jobs/",
+    "extraction_timestamp": "2026-08-07T07:06:06.262917Z"
+}

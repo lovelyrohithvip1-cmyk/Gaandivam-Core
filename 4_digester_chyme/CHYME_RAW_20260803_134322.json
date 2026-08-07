@@ -1,0 +1,291 @@
+{
+    "exam_name": "AAI Manager & Junior Executive Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Engineering": {
+            "Aerodrome Engineering": {
+                "Airfield Lighting": [
+                    "Lighting Systems",
+                    "Electrical Engineering",
+                    "Airfield Lighting Design"
+                ],
+                "Airfield Pavement": [
+                    "Pavement Design",
+                    "Pavement Materials",
+                    "Pavement Maintenance"
+                ]
+            },
+            "Electrical Engineering": {
+                "Power Systems": [
+                    "Power Generation",
+                    "Power Transmission",
+                    "Power Distribution"
+                ],
+                "Control Systems": [
+                    "Control Theory",
+                    "Control Systems Design",
+                    "Automation"
+                ]
+            }
+        },
+        "Finance": {
+            "Accounting": {
+                "Financial Accounting": [
+                    "Financial Statements",
+                    "Accounting Standards",
+                    "Financial Reporting"
+                ],
+                "Management Accounting": [
+                    "Cost Accounting",
+                    "Budgeting",
+                    "Financial Analysis"
+                ]
+            },
+            "Financial Management": {
+                "Investment Analysis": [
+                    "Portfolio Management",
+                    "Risk Management",
+                    "Investment Strategies"
+                ],
+                "Corporate Finance": [
+                    "Capital Structure",
+                    "Dividend Policy",
+                    "Mergers and Acquisitions"
+                ]
+            }
+        },
+        "Information Technology": {
+            "Computer Systems": {
+                "Hardware": [
+                    "Computer Architecture",
+                    "Microprocessors",
+                    "Peripheral Devices"
+                ],
+                "Software": [
+                    "Operating Systems",
+                    "Programming Languages",
+                    "Software Engineering"
+                ]
+            },
+            "Networking": {
+                "Network Fundamentals": [
+                    "Network Topologies",
+                    "Network Protocols",
+                    "Network Devices"
+                ],
+                "Network Security": [
+                    "Network Threats",
+                    "Firewalls",
+                    "Encryption"
+                ]
+            }
+        },
+        "Architecture": {
+            "Building Design": {
+                "Residential Buildings": [
+                    "Building Codes",
+                    "Building Materials",
+                    "Sustainable Design"
+                ],
+                "Commercial Buildings": [
+                    "Space Planning",
+                    "Building Systems",
+                    "Facility Management"
+                ]
+            },
+            "Urban Planning": {
+                "Urban Design": [
+                    "City Planning",
+                    "Transportation Systems",
+                    "Public Spaces"
+                ],
+                "Landscape Architecture": [
+                    "Landscape Design",
+                    "Park Planning",
+                    "Green Infrastructure"
+                ]
+            }
+        },
+        "Law": {
+            "Contract Law": {
+                "Contract Formation": [
+                    "Offer and Acceptance",
+                    "Consideration",
+                    "Capacity"
+                ],
+                "Contract Performance": [
+                    "Contract Terms",
+                    "Breach of Contract",
+                    "Remedies"
+                ]
+            },
+            "Tort Law": {
+                "Negligence": [
+                    "Duty of Care",
+                    "Breach of Duty",
+                    "Causation"
+                ],
+                "Strict Liability": [
+                    "Product Liability",
+                    "Environmental Liability",
+                    "Occupiers Liability"
+                ]
+            }
+        },
+        "Fire Services": {
+            "Fire Safety": {
+                "Fire Prevention": [
+                    "Fire Hazards",
+                    "Fire Risk Assessment",
+                    "Fire Safety Measures"
+                ],
+                "Fire Fighting": [
+                    "Fire Fighting Techniques",
+                    "Fire Fighting Equipment",
+                    "Rescue Operations"
+                ]
+            },
+            "Emergency Response": {
+                "Emergency Planning": [
+                    "Emergency Procedures",
+                    "Emergency Response Teams",
+                    "Communication Systems"
+                ],
+                "Disaster Management": [
+                    "Disaster Response",
+                    "Disaster Recovery",
+                    "Disaster Mitigation"
+                ]
+            }
+        },
+        "Operations": {
+            "Airport Operations": {
+                "Air Traffic Control": [
+                    "Air Traffic Management",
+                    "Air Traffic Services",
+                    "Air Traffic Control Systems"
+                ],
+                "Ground Handling": [
+                    "Passenger Handling",
+                    "Baggage Handling",
+                    "Cargo Handling"
+                ]
+            },
+            "Facility Management": {
+                "Facility Maintenance": [
+                    "Maintenance Scheduling",
+                    "Maintenance Procedures",
+                    "Maintenance Records"
+                ],
+                "Facility Security": [
+                    "Access Control",
+                    "Surveillance Systems",
+                    "Security Personnel"
+                ]
+            }
+        },
+        "Commercial": {
+            "Marketing": {
+                "Market Research": [
+                    "Market Analysis",
+                    "Market Segmentation",
+                    "Target Marketing"
+                ],
+                "Advertising": [
+                    "Advertising Strategies",
+                    "Advertising Media",
+                    "Advertising Effectiveness"
+                ]
+            },
+            "Sales": {
+                "Sales Management": [
+                    "Sales Strategies",
+                    "Sales Techniques",
+                    "Sales Performance"
+                ],
+                "Customer Service": [
+                    "Customer Needs",
+                    "Customer Satisfaction",
+                    "Customer Retention"
+                ]
+            }
+        },
+        "Corporate Planning": {
+            "Strategic Planning": {
+                "Mission Statement": [
+                    "Mission Definition",
+                    "Mission Objectives",
+                    "Mission Strategies"
+                ],
+                "Vision Statement": [
+                    "Vision Definition",
+                    "Vision Objectives",
+                    "Vision Strategies"
+                ]
+            },
+            "Business Planning": {
+                "Business Model": [
+                    "Business Model Definition",
+                    "Business Model Canvas",
+                    "Business Model Innovation"
+                ],
+                "Business Strategy": [
+                    "Business Strategy Definition",
+                    "Business Strategy Formulation",
+                    "Business Strategy Implementation"
+                ]
+            }
+        },
+        "Corporate Communications": {
+            "Internal Communications": {
+                "Employee Engagement": [
+                    "Employee Communication",
+                    "Employee Participation",
+                    "Employee Recognition"
+                ],
+                "Change Management": [
+                    "Change Leadership",
+                    "Change Management Process",
+                    "Change Communication"
+                ]
+            },
+            "External Communications": {
+                "Media Relations": [
+                    "Media Strategy",
+                    "Media Outreach",
+                    "Media Crisis Management"
+                ],
+                "Public Relations": [
+                    "Public Relations Strategy",
+                    "Public Relations Tactics",
+                    "Public Relations Measurement"
+                ]
+            }
+        },
+        "Survey & Cartography": {
+            "Geographic Information Systems": {
+                "GIS Fundamentals": [
+                    "GIS Definition",
+                    "GIS Components",
+                    "GIS Applications"
+                ],
+                "GIS Analysis": [
+                    "GIS Data Analysis",
+                    "GIS Spatial Analysis",
+                    "GIS Mapping"
+                ]
+            },
+            "Cartography": {
+                "Map Design": [
+                    "Map Definition",
+                    "Map Types",
+                    "Map Scales"
+                ],
+                "Map Production": [
+                    "Map Creation",
+                    "Map Editing",
+                    "Map Publishing"
+                ]
+            }
+        }
+    }
+}
