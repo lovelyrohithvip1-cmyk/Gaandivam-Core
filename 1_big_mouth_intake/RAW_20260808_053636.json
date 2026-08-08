@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "SSC",
+        "Railway",
+        "UPSC"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ],
+        "Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/tools/",
+    "extraction_timestamp": "2026-08-08T05:36:36.493477Z"
+}

@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Uttarakhand Public Service Commission",
+    "exam_name": "UKPSC Tax & Revenue Inspector Exam",
+    "job_posts_covered": [
+        "Tax & Revenue Inspector"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "18 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/",
+    "extraction_timestamp": "2026-08-08T05:47:34.041189Z"
+}

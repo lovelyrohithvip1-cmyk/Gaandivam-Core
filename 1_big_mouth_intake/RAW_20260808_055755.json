@@ -1,0 +1,24 @@
+{
+    "conducting_body": "WBJEEB",
+    "exam_name": "WBJEE",
+    "job_posts_covered": [
+        "BPharm"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Counselling"
+    ],
+    "detailed_syllabus": {
+        "BPharm": [
+            "Pharmaceutical Chemistry",
+            "Pharmacology",
+            "Pharmaceutics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/new-edu-updates/",
+    "extraction_timestamp": "2026-08-08T05:57:55.935173Z"
+}

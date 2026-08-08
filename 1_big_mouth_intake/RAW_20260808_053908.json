@@ -1,0 +1,61 @@
+{
+    "conducting_body": "Maharaja Ganga Singh University (MGSU)",
+    "exam_name": "BA/B.Sc/B.Com Computer Vocational 2025-26, BA Drawing & Painting Sem III-VI 2024-26, BA History Sem IV",
+    "job_posts_covered": [
+        "Local Bank Officer",
+        "Clerk (Junior Associate)",
+        "Apprentice",
+        "Specialist Cadre Officer",
+        "Professionals",
+        "Group C Recruitment",
+        "Deputy Manager",
+        "IT Professionals",
+        "Technician",
+        "Supervisor/Operator",
+        "Assistant Manager (Mechanical)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "BA": [
+            "Hindi",
+            "English",
+            "History",
+            "Political Science",
+            "Geography",
+            "Public Administration",
+            "Music",
+            "Sociology",
+            "Jainology",
+            "Philosophy"
+        ],
+        "B.Sc": [
+            "Mathematics",
+            "Home Science"
+        ],
+        "B.Com": [
+            "Commerce"
+        ],
+        "MA": [
+            "Philosophy",
+            "Home Science",
+            "Mathematics",
+            "Geography",
+            "Political Science",
+            "Economics",
+            "Sociology",
+            "Rajasthani",
+            "Sanskrit",
+            "Urdu"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mgsu-syllabus-2025-26-3023795",
+    "extraction_timestamp": "2026-08-08T05:39:08.559640Z"
+}

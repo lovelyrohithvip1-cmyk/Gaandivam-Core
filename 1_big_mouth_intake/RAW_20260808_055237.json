@@ -1,0 +1,70 @@
+{
+    "conducting_body": "State Bank of India (SBI)",
+    "exam_name": "SBI Junior Associate (Clerk) Exam",
+    "job_posts_covered": [
+        "Junior Associate (Customer Support & Sales)"
+    ],
+    "application_dates": {
+        "start_date": "7 August 2026",
+        "end_date": "27 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Local Language Proficiency Test"
+    ],
+    "detailed_syllabus": {
+        "English Language": [
+            "Reading comprehension",
+            "Cloze test",
+            "Para jumbles",
+            "Error detection",
+            "Fill in the blanks",
+            "Vocabulary-based questions"
+        ],
+        "Numerical Ability": [
+            "Simplification",
+            "Number series",
+            "Quadratic equations",
+            "Data interpretation",
+            "Arithmetic problems (percentage, profit & loss, average, ratio, time & work, simple/compound interest)"
+        ],
+        "Reasoning Ability": [
+            "Puzzles",
+            "Seating arrangement",
+            "Syllogism",
+            "Inequality",
+            "Coding-decoding",
+            "Blood relations",
+            "Direction sense",
+            "Alphanumeric series"
+        ],
+        "General/Financial Awareness": [
+            "Current affairs",
+            "Banking and financial awareness",
+            "Static general knowledge"
+        ],
+        "General English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary",
+            "Sentence correction",
+            "Para-based questions"
+        ],
+        "Quantitative Aptitude": [
+            "Data interpretation",
+            "Data sufficiency",
+            "Arithmetic word problems",
+            "Number series",
+            "Simplification/approximation"
+        ],
+        "Reasoning Ability & Computer Aptitude": [
+            "Advanced puzzles and seating arrangement",
+            "Logical reasoning",
+            "Basic computer knowledge (fundamentals, MS Office, internet, and banking-related computer terms)"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/sbi-junior-associates-syllabus-and-exam-pattern-3061934",
+    "extraction_timestamp": "2026-08-08T05:52:37.200600Z"
+}

@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Hindustan Petroleum Corporation Limited (HPCL)",
+    "exam_name": "HPCL Recruitment Exam",
+    "job_posts_covered": [
+        "Engineer",
+        "Junior Executive",
+        "Mechanical Engineer",
+        "Electrical Engineer",
+        "Civil Engineer",
+        "Chemical Engineer",
+        "Junior Executive - Civil",
+        "Junior Executive - Mechanical",
+        "Junior Executive - Electrical",
+        "Junior Executive - Chemical",
+        "Junior Executive - Quality Control",
+        "Junior Executive - HR",
+        "Junior Executive - Fire & Safety"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Further stages of the recruitment process"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "Mechanical",
+            "Electrical",
+            "Civil",
+            "Chemical",
+            "Quality Control",
+            "HR",
+            "Fire & Safety"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/hpcl-junior-executive-and-engineer-final-result-2026-3061911",
+    "extraction_timestamp": "2026-08-08T05:40:26.679531Z"
+}

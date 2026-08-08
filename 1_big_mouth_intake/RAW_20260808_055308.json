@@ -1,0 +1,44 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "CDS (I) Exam 2025",
+    "job_posts_covered": [
+        "Security Guard",
+        "Assistant",
+        "Junior Associates (Clerk)",
+        "Assistant Horticulture Officer",
+        "PO",
+        "Circle Based Officer",
+        "Staff Asst",
+        "Asst Manager & Staff Asst"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Mains"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Calculus"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "General Knowledge": [
+            "History",
+            "Geography",
+            "Science",
+            "Current Affairs"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/exam-pattern/",
+    "extraction_timestamp": "2026-08-08T05:53:08.425872Z"
+}

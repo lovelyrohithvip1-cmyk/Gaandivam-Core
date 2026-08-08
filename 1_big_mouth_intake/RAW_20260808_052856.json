@@ -1,0 +1,67 @@
+{
+    "conducting_body": "Madhya Pradesh Employees Selection Board (MPESB)",
+    "exam_name": "MP Patwari",
+    "job_posts_covered": [
+        "Patwari"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "History of India",
+            "Geography of India",
+            "Polity and Constitution",
+            "Indian Economy",
+            "Current affairs at national and state level",
+            "Madhya Pradesh GK, including history, geography, and culture"
+        ],
+        "General Hindi": [
+            "संधि",
+            "समास",
+            "विलोम शब्द",
+            "पर्यायवाची शब्द",
+            "मुहावरे एवं लोकोक्तियां",
+            "वाक्य शुद्धि",
+            "आनेकार्थी शब्द"
+        ],
+        "General English": [
+            "Grammar, including tenses, articles, and prepositions",
+            "Synonyms and antonyms",
+            "One word substitution",
+            "Comprehension passage",
+            "Spotting errors"
+        ],
+        "Mathematics and Reasoning Ability": [
+            "Number system",
+            "Percentage",
+            "Ratio and proportion",
+            "Time and work",
+            "Time and distance",
+            "Simplification",
+            "Logical reasoning",
+            "Analogy",
+            "Coding-decoding"
+        ],
+        "Computer Knowledge": [
+            "Basics of computer",
+            "MS Office, including Word, Excel, and PowerPoint",
+            "Internet and email",
+            "Input and output devices"
+        ],
+        "Rural Economy and Panchayati Raj": [
+            "Panchayati Raj system in India",
+            "Village administration",
+            "Rural development schemes",
+            "Role and duties of a Patwari"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mp-patwari-syllabus-and-exam-pattern-3061585",
+    "extraction_timestamp": "2026-08-08T05:28:56.613013Z"
+}

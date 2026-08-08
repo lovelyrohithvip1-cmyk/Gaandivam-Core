@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Department of School Education, Andhra Pradesh",
+    "exam_name": "Andhra Pradesh Teacher Eligibility Test (APTET) June 2026",
+    "job_posts_covered": [
+        "Teacher for Classes I to V",
+        "Teacher for Classes VI to VIII"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Child Development & Pedagogy": [
+            "topics not specified"
+        ],
+        "Language I (Telugu/Urdu/Tamil/Kannada/Odia/Hindi)": [
+            "topics not specified"
+        ],
+        "Language II (English)": [
+            "topics not specified"
+        ],
+        "Mathematics": [
+            "topics not specified"
+        ],
+        "Environmental Studies": [
+            "topics not specified"
+        ],
+        "Mathematics & Science, or Social Studies, or Languages (Telugu/Urdu/Tamil/Kannada/Odia/Hindi/English/Sanskrit)": [
+            "topics not specified"
+        ],
+        "Category of Disability Specialisation & Pedagogy": [
+            "topics not specified"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ap-tet-hall-ticket-2026-out-download-admit-card-3060289",
+    "extraction_timestamp": "2026-08-08T05:52:14.431273Z"
+}

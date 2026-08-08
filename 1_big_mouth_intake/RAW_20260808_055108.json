@@ -1,0 +1,50 @@
+{
+    "conducting_body": "Airports Authority of India (AAI)",
+    "exam_name": "AAI Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Graduate Apprentice (Finance)",
+        "Graduate Apprentice (Electrical / Civil)",
+        "Graduate Apprentice (Electronic Communication / Tele Communication)",
+        "Graduate Apprentice (Information Technology / Computer Science)",
+        "Graduate Apprentice (Mechanical Engineering)",
+        "Graduate Apprentice (HR)",
+        "Diploma Apprentice (Electrical / Civil)",
+        "Diploma Apprentice (Mechanical Engineering)"
+    ],
+    "application_dates": {
+        "start_date": "03 August 2026",
+        "end_date": "30 September 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Percentage of marks obtained by candidates in their qualifying examination"
+    ],
+    "detailed_syllabus": {
+        "Finance": [
+            "Commerce (B.Com) or Bachelor's Degree in Business Administration (BBA)"
+        ],
+        "Electrical Engineering": [
+            "Bachelor's Degree in Engineering/Technology in Electrical Engineering"
+        ],
+        "Civil Engineering": [
+            "Bachelor's Degree in Engineering/Technology in Civil Engineering"
+        ],
+        "Electronics & Telecommunication": [
+            "Bachelor's Degree in Engineering/Technology in Electronic Communication or Tele Communication"
+        ],
+        "Information Technology": [
+            "Bachelor's Degree in Computer Science or Information Technology"
+        ],
+        "Computer Science": [
+            "Bachelor's Degree in Computer Science or Information Technology"
+        ],
+        "Mechanical Engineering": [
+            "Degree in Engineering or Technology in Mechanical/Automobile Engineering"
+        ],
+        "Human Resources": [
+            "Degree in any stream with knowledge of computer and administrative work"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/aai-wr-apprentice-recruitment-2026-3061343",
+    "extraction_timestamp": "2026-08-08T05:51:08.270794Z"
+}

@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Commissioner for Entrance Examinations (CEE), Kerala",
+    "exam_name": "KLEE LLM 2026 (LLM Entrance Examination, Kerala 2026-27)",
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": "01 July 2026",
+        "end_date": "10 July 2026"
+    },
+    "fee_structure": "General & SEBC candidates: Rs. 950, SC/ST & Persons with Disabilities candidates: Rs. 450",
+    "selection_stages": [
+        "CBT entrance examination",
+        "Provisional answer key publication and objection process",
+        "Final answer key release",
+        "Rank list preparation",
+        "Centralised Allotment Process (CAP)"
+    ],
+    "detailed_syllabus": {
+        "Part A": [
+            "Jurisprudence",
+            "Constitutional Law",
+            "Law of Crimes",
+            "Law of Contracts"
+        ],
+        "Part B": [
+            "Public International Law",
+            "Administrative Law",
+            "Law of Property",
+            "Company Law",
+            "Interpretation of Statutes",
+            "Law of Torts"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/klee-llm-2026-provisional-answer-key-out-download-pdf-raise-objections-check-important-dates-3060522",
+    "extraction_timestamp": "2026-08-08T06:01:32.201377Z"
+}

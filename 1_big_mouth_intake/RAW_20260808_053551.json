@@ -1,0 +1,25 @@
+{
+    "conducting_body": "KEA",
+    "exam_name": "KSRP Police Constable",
+    "job_posts_covered": [
+        "Police Constable"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "2 days from the current date"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Form",
+        "Selection Process"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Mathematics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/",
+    "extraction_timestamp": "2026-08-08T05:35:51.843115Z"
+}

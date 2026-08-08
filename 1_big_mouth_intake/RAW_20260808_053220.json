@@ -1,0 +1,37 @@
+{
+    "conducting_body": "Andhra Pradesh Public Service Commission (APPSC)",
+    "exam_name": "APPSC Exam",
+    "job_posts_covered": [
+        "Staff Nurse",
+        "Forest Range Officer",
+        "Junior Assistant",
+        "Lecturer",
+        "Technical Assistant",
+        "Executive",
+        "Fire Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "10 Aug 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity"
+        ],
+        "Aptitude": [
+            "Reasoning",
+            "Quantitative Ability",
+            "English"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/ap-government-jobs/",
+    "extraction_timestamp": "2026-08-08T05:32:20.951894Z"
+}

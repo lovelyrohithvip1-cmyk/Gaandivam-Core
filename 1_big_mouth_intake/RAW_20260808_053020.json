@@ -1,0 +1,44 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "Civil Services Examination",
+    "job_posts_covered": [
+        "Junior Associate",
+        "Staff Nurse Unani",
+        "Head Constable (Ministerial)",
+        "GD Constable",
+        "Selection Posts Phase XIII",
+        "Tier I",
+        "LDCE",
+        "AWO TPO",
+        "Head Constable",
+        "CGL Tier 2",
+        "CGL",
+        "Stenographer Grade C and D",
+        "Assistant Director, Veterinary Assistant Surgeon",
+        "Chief Scientific Officer & Scientific Officer",
+        "Hospital Assistant",
+        "Pharmacist",
+        "Junior Staff Nurse / Junior Male Nurse",
+        "Assistant Staff Nurse"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Studies",
+            "Aptitude",
+            "English",
+            "Mathematics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/answer-key/",
+    "extraction_timestamp": "2026-08-08T05:30:20.630260Z"
+}

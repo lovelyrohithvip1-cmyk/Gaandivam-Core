@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Himachal Pradesh Public Service Commission (HPPSC)",
+    "exam_name": "HPPSC HP Police Constable Recruitment 2026",
+    "job_posts_covered": [
+        "Police Constable (Male)",
+        "Police Constable (Female)"
+    ],
+    "application_dates": {
+        "start_date": "10 July 2026, 12:01 AM",
+        "end_date": "21 August 2026, 11:59 PM"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Physical Standards Test",
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity",
+            "Economy"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/hppsc-police-constable-recruitment-2026-apply-online-for-734-posts-3057549",
+    "extraction_timestamp": "2026-08-08T05:28:38.451374Z"
+}

@@ -1,0 +1,78 @@
+{
+    "exam_name": "HSSC CET",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Inequalities": [
+                    "Linear Inequalities",
+                    "Quadratic Inequalities"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Coordinates",
+                    "Midpoint Formula",
+                    "Distance Formula"
+                ],
+                "Circles": [
+                    "Properties of Circles",
+                    "Circle Theorems"
+                ]
+            }
+        },
+        "Science": {
+            "Physics": {
+                "Mechanics": [
+                    "Kinematics",
+                    "Dynamics",
+                    "Energy and Work"
+                ],
+                "Thermodynamics": [
+                    "Laws of Thermodynamics",
+                    "Thermal Properties of Matter"
+                ]
+            },
+            "Chemistry": {
+                "Inorganic Chemistry": [
+                    "Atomic Structure",
+                    "Chemical Bonding",
+                    "Periodic Table"
+                ],
+                "Organic Chemistry": [
+                    "Hydrocarbons",
+                    "Functional Groups"
+                ]
+            }
+        },
+        "English": {
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Literature": {
+                "Poetry": [
+                    "Types of Poems",
+                    "Poetic Devices"
+                ],
+                "Prose": [
+                    "Types of Prose",
+                    "Literary Devices"
+                ]
+            }
+        }
+    }
+}

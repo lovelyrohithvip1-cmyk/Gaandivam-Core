@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Karnataka Government",
+    "exam_name": "KPSC KAS Exam",
+    "job_posts_covered": [
+        "Gazetted Probationers",
+        "Local Bank Officer",
+        "Project Assistant-I",
+        "Civil Servant",
+        "Land Surveyor",
+        "Anganwadi Worker & Helper",
+        "Sanitation Worker",
+        "Apprentice",
+        "Police Constable"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry",
+            "Statistics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/karnataka-government-jobs/",
+    "extraction_timestamp": "2026-08-08T05:37:10.583623Z"
+}

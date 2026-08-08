@@ -1,0 +1,45 @@
+{
+    "conducting_body": "Kerala Government",
+    "exam_name": "KTET",
+    "job_posts_covered": [
+        "Young Professional",
+        "Assistant Professor",
+        "Apprentice",
+        "Junior Research Fellow",
+        "Project Assistant",
+        "Assistant Executive",
+        "UDC, Steno and More",
+        "Manager, Junior Executive",
+        "Driver",
+        "General Manager, Chief Engineer and More Posts",
+        "General Manager",
+        "Junior Clerk, Assistant Engineer and More",
+        "Accreditation & Ranking Executive",
+        "Scientist/ Engineer",
+        "Technician & Operator",
+        "Executive Level Posts",
+        "Research Assistant and Field Investigator",
+        "Assistant Professor",
+        "Executive Trainee",
+        "Research Engineer, Junior Research Engineer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Mathematics",
+            "Science",
+            "Social Science",
+            "Language"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/kerala-government-jobs/",
+    "extraction_timestamp": "2026-08-08T05:31:20.845116Z"
+}

@@ -1,0 +1,39 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "IES and ISS",
+    "job_posts_covered": [
+        "Junior Resident",
+        "Senior Resident",
+        "Tax & Revenue Inspector",
+        "Local Bank Officer",
+        "Clerk, Peon and More",
+        "Project Assistant, Project Scientist and More",
+        "JRF, Project Assistant and More",
+        "Materials Manager",
+        "Research Associate-I/SRF",
+        "Packaging Designer, Technical Assistant",
+        "Manager",
+        "Paid Internship",
+        "Accountant, Constable and More"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Science",
+            "Reasoning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/sarkarijob/",
+    "extraction_timestamp": "2026-08-08T05:42:44.142301Z"
+}

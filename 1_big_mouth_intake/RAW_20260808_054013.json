@@ -1,0 +1,33 @@
+{
+    "conducting_body": "NTPC Green Energy Limited (NGEL)",
+    "exam_name": "NGEL Recruitment 2026",
+    "job_posts_covered": [
+        "Assistant Engineer - RE (Asset Management/Operation & Maintenance)",
+        "Deputy General Manager - RE"
+    ],
+    "application_dates": {
+        "start_date": "11-07-2026",
+        "end_date": "31-08-2026"
+    },
+    "fee_structure": "₹500 (non-refundable) for General / EWS / OBC candidates, No fee for SC / ST / PwBD / Ex-Servicemen (XSM) and Female candidates",
+    "selection_stages": [
+        "Application shortlisting/screening",
+        "Written Test",
+        "Group Discussion",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Assistant Engineer - RE": [
+            "Diploma in Engineering (Electrical/Mechanical/Electronics/Electrical & Electronics/Instrumentation)",
+            "Power Sector knowledge",
+            "Operation and Maintenance/Asset Management"
+        ],
+        "Deputy General Manager - RE": [
+            "Graduate in Engineering (Electrical/Electrical & Electronics/Electronics/Control & Instrumentation/Civil/Mechanical)",
+            "Renewable Energy knowledge",
+            "Construction/Erection/Commissioning"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ngel-recruitment-2026-apply-online-for-114-deputy-general-manager-assistant-manager-posts-3055902",
+    "extraction_timestamp": "2026-08-08T05:40:13.724629Z"
+}

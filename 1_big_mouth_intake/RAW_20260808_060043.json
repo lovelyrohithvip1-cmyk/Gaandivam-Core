@@ -1,0 +1,47 @@
+{
+    "conducting_body": "IBPS",
+    "exam_name": "Clerk",
+    "job_posts_covered": [
+        "Clerk",
+        "Specialist Officer",
+        "Apprentice",
+        "Junior Associate",
+        "Local Bank Officer",
+        "Office Attendant",
+        "Junior Engineer",
+        "Officer Grade B",
+        "Security Manager"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English": [
+            "Grammar",
+            "Comprehension",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Number Systems",
+            "Algebra",
+            "Geometry",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/exam-results/",
+    "extraction_timestamp": "2026-08-08T06:00:43.083200Z"
+}

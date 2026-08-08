@@ -1,0 +1,26 @@
+{
+    "conducting_body": "Indian Institute of Management (IIM) Sirmaur",
+    "exam_name": "IPMAT (Integrated Programme in Management Aptitude Test)",
+    "job_posts_covered": [
+        "Bachelor of Management Studies (BMS)"
+    ],
+    "application_dates": {
+        "start_date": "February 2, 2026",
+        "end_date": "March 14, 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting based on IPMAT 2026 Aptitude Test Score (ATS)",
+        "Final Selection based on composite score including IPMAT ATS, Class 12 board marks, Personal Interview (PI) score, and diversity points"
+    ],
+    "detailed_syllabus": {
+        "IPMAT": [
+            "Aptitude Test"
+        ],
+        "Class 12": [
+            "Board marks"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/iim-sirmaur-bms-merit-list-2026-out-check-status-3061944",
+    "extraction_timestamp": "2026-08-08T05:47:13.706645Z"
+}

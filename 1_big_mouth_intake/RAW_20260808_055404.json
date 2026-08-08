@@ -1,0 +1,44 @@
+{
+    "conducting_body": "IndianOil Corporation Limited (IOCL), Marketing Division, Northern Region",
+    "exam_name": "IOCL Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Technician Apprentice",
+        "Trade Apprentice (ITI)",
+        "Graduate Apprentice",
+        "Trade Apprentice-Data Entry Operator"
+    ],
+    "application_dates": {
+        "start_date": "07 August 2026, 10:00 AM",
+        "end_date": "06 September 2026, 5:00 PM"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Merit list based on qualifying marks"
+    ],
+    "detailed_syllabus": {
+        "Technician Apprentice": [
+            "Mechanical",
+            "Electrical",
+            "Instrumentation",
+            "Civil",
+            "Electrical & Electronics",
+            "Electronics"
+        ],
+        "Trade Apprentice/ITI": [
+            "Fitter",
+            "Electrician",
+            "Electronics Mechanic",
+            "Instrument Mechanic",
+            "Machinist"
+        ],
+        "Graduate Apprentice": [
+            "Any discipline"
+        ],
+        "Trade Apprentice-Data Entry Operator": [
+            "Fresher",
+            "Skill Certificate Holders"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/iocl-apprentice-recruitment-2026-apply-online-for-433-technician-graduate-and-trade-apprentice-posts-3061929",
+    "extraction_timestamp": "2026-08-08T05:54:04.274537Z"
+}

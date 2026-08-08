@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Haryana Vidyut Parsaran Nigam Limited (HVPNL)",
+    "exam_name": "HVPNL Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Stenographer (English) Apprentice",
+        "Draughtsman (Civil) Apprentice",
+        "Lineman Apprentice"
+    ],
+    "application_dates": {
+        "start_date": "4 August 2026",
+        "end_date": "14 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Merit based on ITI marksheet"
+    ],
+    "detailed_syllabus": {
+        "Stenographer (English)": [
+            "Stenography"
+        ],
+        "Draughtsman (Civil)": [
+            "Draughtsmanship"
+        ],
+        "Lineman": [
+            "Electrical/Lineman trade"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/hvpnl-apprentice-recruitment-2026-3061483",
+    "extraction_timestamp": "2026-08-08T06:02:27.293788Z"
+}

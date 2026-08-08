@@ -1,0 +1,40 @@
+{
+    "conducting_body": "District & Sessions Court, Chamarajanagar",
+    "exam_name": "Chamarajanagar District Court Recruitment 2026",
+    "job_posts_covered": [
+        "Peon",
+        "Stenographer Grade-III",
+        "Typist",
+        "Typist-Copyist"
+    ],
+    "application_dates": {
+        "start_date": "27 July 2026",
+        "end_date": "27 August 2026"
+    },
+    "fee_structure": "₹200/- for General/OBC Candidates, Exempted for SC/ST/PwD Candidates",
+    "selection_stages": [
+        "Written Examination",
+        "Typing Test/Skill Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Stenographer": [
+            "Second PUC or equivalent three-year diploma",
+            "Senior Grade exam in Kannada and English shorthand and typing"
+        ],
+        "Typist": [
+            "Second PUC or equivalent three-year Diploma Course",
+            "Senior Grade Kannada and English typewriting subjects"
+        ],
+        "Typist & Copyist": [
+            "2nd PUC, a 3-year Diploma, or an equivalent qualification",
+            "Junior Grade examinations conducted by the Karnataka Secondary Education Examination Board"
+        ],
+        "Peon": [
+            "SSLC examination conducted by the Karnataka Secondary Education Examination Board or equivalent qualification",
+            "Reading and writing Kannada"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/chamarajanagar-district-court-recruitment-2026-apply-online-for-25-peon-stenographer-and-more-posts-3061641",
+    "extraction_timestamp": "2026-08-08T05:33:54.511870Z"
+}

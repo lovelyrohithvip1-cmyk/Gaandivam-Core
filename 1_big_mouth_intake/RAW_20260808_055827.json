@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Haryana Public Service Commission (HPSC), Panchkula",
+    "exam_name": "HPSC Senior Manager & Manager Exam",
+    "job_posts_covered": [
+        "Senior Manager (IA)",
+        "Manager (IA)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Subject Knowledge Test",
+        "Interview/Viva-Voce"
+    ],
+    "detailed_syllabus": {
+        "Structural Engineering": [
+            "Engineering Mechanics",
+            "Solid Mechanics",
+            "Structural Analysis",
+            "Construction Materials and Management",
+            "Concrete Structures",
+            "Steel Structures"
+        ],
+        "Geotechnical Engineering": [
+            "Soil Mechanics",
+            "Compaction of Soils",
+            "Foundation Engineering"
+        ],
+        "Water Resources Engineering": [
+            "Fluid Mechanics",
+            "Hydraulics",
+            "Hydrology",
+            "Irrigation"
+        ],
+        "Environmental Engineering": [
+            "Water and Waste Water Quality and Treatment"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/hpsc-manager-and-senior-manager-syllabus-3061506",
+    "extraction_timestamp": "2026-08-08T05:58:27.829782Z"
+}

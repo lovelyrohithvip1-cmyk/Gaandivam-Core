@@ -1,0 +1,123 @@
+{
+    "exam_name": "IBPS Clerk Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "English Language": {
+            "Reading Comprehension": {
+                "Passage Types": [
+                    "Narrative Passages",
+                    "Descriptive Passages",
+                    "Analytical Passages"
+                ],
+                "Question Types": [
+                    "Vocabulary-based Questions",
+                    "Inference-based Questions",
+                    "Main Idea Questions"
+                ]
+            },
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            }
+        },
+        "Numerical Ability": {
+            "Number Series": {
+                "Pattern Recognition": [
+                    "Identifying Patterns in Numbers",
+                    "Completing the Series"
+                ],
+                "Missing Term": [
+                    "Finding the Missing Term in a Series"
+                ]
+            },
+            "Data Interpretation": {
+                "Tables and Graphs": [
+                    "Reading Tables",
+                    "Interpreting Graphs"
+                ],
+                "Charts and Diagrams": [
+                    "Pie Charts",
+                    "Bar Diagrams"
+                ]
+            }
+        },
+        "Reasoning Ability": {
+            "Logical Reasoning": {
+                "Syllogisms": [
+                    "Basic Syllogisms",
+                    "Complex Syllogisms"
+                ],
+                "Puzzles": [
+                    "Seating Arrangements",
+                    "Blood Relations"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Pattern Completion": [
+                    "Completing the Pattern"
+                ],
+                "Image Series": [
+                    "Identifying the Next Image in the Series"
+                ]
+            }
+        },
+        "General Awareness": {
+            "Current Affairs": {
+                "National News": [
+                    "Politics",
+                    "Economy",
+                    "Social Issues"
+                ],
+                "International News": [
+                    "Global Politics",
+                    "Economy",
+                    "Environmental Issues"
+                ]
+            },
+            "Static General Knowledge": {
+                "History": [
+                    "Ancient History",
+                    "Medieval History",
+                    "Modern History"
+                ],
+                "Geography": [
+                    "Indian Geography",
+                    "World Geography"
+                ]
+            }
+        },
+        "Computer Knowledge": {
+            "Hardware": {
+                "Computer Components": [
+                    "CPU",
+                    "Motherboard",
+                    "RAM"
+                ],
+                "Input/Output Devices": [
+                    "Keyboard",
+                    "Mouse",
+                    "Monitor"
+                ]
+            },
+            "Software": {
+                "Operating Systems": [
+                    "Windows",
+                    "Linux",
+                    "MacOS"
+                ],
+                "Application Software": [
+                    "Microsoft Office",
+                    "Google Suite"
+                ]
+            }
+        }
+    }
+}

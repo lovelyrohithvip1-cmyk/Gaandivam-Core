@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Indo-Tibetan Border Police Force (ITBP)",
+    "exam_name": "ITBP Medical Officer Recruitment 2026",
+    "job_posts_covered": [
+        "Super Specialist Medical Officer",
+        "Specialist Medical Officer",
+        "Medical Officer"
+    ],
+    "application_dates": {
+        "start_date": "10-08-2026",
+        "end_date": "08-09-2026"
+    },
+    "fee_structure": "Male candidates: Rs. 400/-, Female candidates, Ex-Servicemen and SC/ST candidates: Exempted",
+    "selection_stages": [
+        "Online Application",
+        "Shortlisting",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Medicine": [
+            "Cardiology",
+            "Neurology",
+            "Gastroenterology",
+            "Infectious Diseases"
+        ],
+        "General Surgery": [
+            "Abdominal Surgery",
+            "Orthopedic Surgery",
+            "Neurosurgery",
+            "Plastic Surgery"
+        ],
+        "Pediatrics": [
+            "Neonatology",
+            "Pediatric Cardiology",
+            "Pediatric Neurology",
+            "Pediatric Gastroenterology"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/itbp-medical-officer-recruitment-2026-3061335",
+    "extraction_timestamp": "2026-08-08T05:52:51.114544Z"
+}

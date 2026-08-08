@@ -1,0 +1,49 @@
+{
+    "conducting_body": "TNPSC",
+    "exam_name": "TNPSC CTS",
+    "job_posts_covered": [
+        "Local Bank Officer",
+        "Paid Internship",
+        "Social Case Work Expert",
+        "Project Associate",
+        "Project Assistant",
+        "Data Assistant",
+        "Attender",
+        "Guest Faculty",
+        "Young Professional",
+        "Manager",
+        "Technical Manager",
+        "Deputy Manager",
+        "Pilot",
+        "JAG Entry Scheme 125th Course",
+        "Junior Faculty",
+        "Academic Support Staff",
+        "Apprentice",
+        "Customer Service Officer",
+        "Junior Engineer",
+        "Customer Service Associate / Clerk",
+        "Manager",
+        "Junior Executive"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Skill Test"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning",
+            "Computer Knowledge"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/tn-government-jobs/",
+    "extraction_timestamp": "2026-08-08T05:43:30.027101Z"
+}

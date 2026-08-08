@@ -1,0 +1,59 @@
+{
+    "conducting_body": "State Bank of India (SBI), Central Recruitment & Promotion Department, Mumbai",
+    "exam_name": "SBI Specialist Cadre Officer Recruitment 2026",
+    "job_posts_covered": [
+        "Deputy Vice President (DVP) – Cyber Innovation & Simulation Lab",
+        "Deputy Vice President (DVP) – Citizen Centric Initiatives",
+        "Deputy Vice President (DVP) – Cyber Security",
+        "Deputy Manager – AI Specialists",
+        "Deputy Manager – IT Security Expert",
+        "Deputy Manager – Cyber Security Analyst",
+        "Manager (Manpower Planning & Recruitment)",
+        "Manager (Learning & Development)",
+        "Dy. Chief Technology Officer (Enterprise Architecture)",
+        "Vice President (Enterprise & Technology Architect)"
+    ],
+    "application_dates": {
+        "start_date": "07.08.2026",
+        "end_date": "27.08.2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting",
+        "Interview",
+        "CTC Negotiation (for contractual posts)"
+    ],
+    "detailed_syllabus": {
+        "Cyber Security": [
+            "Cyber Research",
+            "Cyber Defence & Intelligence"
+        ],
+        "AI": [
+            "Machine Learning",
+            "Deep Learning",
+            "GenAI/RAG pipelines",
+            "Cloud ML"
+        ],
+        "IT": [
+            "Software Engineering",
+            "Data Science",
+            "IT Security",
+            "Computer Science"
+        ],
+        "HR": [
+            "Manpower Planning",
+            "Recruitment",
+            "Learning & Development"
+        ],
+        "Enterprise Technology Architecture": [
+            "TOGAF Certification",
+            "Software Engineering",
+            "CSE",
+            "IT",
+            "Computer Technology",
+            "Electronics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/sbi-sco-specialist-cadre-officer-recruitment-2026-3061889",
+    "extraction_timestamp": "2026-08-08T05:28:44.730369Z"
+}

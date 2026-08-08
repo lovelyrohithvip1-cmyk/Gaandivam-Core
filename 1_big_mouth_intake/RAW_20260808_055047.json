@@ -1,0 +1,33 @@
+{
+    "conducting_body": "University of Delhi (DU)",
+    "exam_name": "JEE Main 2026",
+    "job_posts_covered": [
+        "Bachelor of Technology (BTech) in Computer Science and Engineering (CSE)",
+        "Bachelor of Technology (BTech) in Electronics and Communication Engineering (ECE)",
+        "Bachelor of Technology (BTech) in Electrical Engineering (EE)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "JEE Main 2026 CRL",
+        "Category",
+        "Programme preferences",
+        "Seat availability"
+    ],
+    "detailed_syllabus": {
+        "Computer Science and Engineering": [
+            "No specific topics mentioned"
+        ],
+        "Electronics and Communication Engineering": [
+            "No specific topics mentioned"
+        ],
+        "Electrical Engineering": [
+            "No specific topics mentioned"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/du-btech-admission-2026-spot-round-1-updated-schedule-fee-payment-last-date-3062000",
+    "extraction_timestamp": "2026-08-08T05:50:47.071593Z"
+}

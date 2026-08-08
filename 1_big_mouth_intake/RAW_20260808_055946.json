@@ -1,0 +1,86 @@
+{
+    "conducting_body": "Oriental Insurance Company Limited (OICL)",
+    "exam_name": "OICL Assistant",
+    "job_posts_covered": [
+        "Assistant (Class III)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims (Tier I)",
+        "Mains (Tier II)",
+        "Regional Language Test"
+    ],
+    "detailed_syllabus": {
+        "Reasoning Ability": [
+            "Puzzles (Seating Arrangement, Box-Based, Floor-Based)",
+            "Syllogism",
+            "Coding-Decoding",
+            "Blood Relations",
+            "Inequality (Direct & Coded)",
+            "Alphanumeric Series",
+            "Direction Sense",
+            "Order and Ranking",
+            "Data Sufficiency",
+            "Input-Output",
+            "Statement and Assumptions / Conclusions",
+            "Decision Making",
+            "Dices, Directions, Embedded Images, Figure Matrix",
+            "Mirror and Water Images",
+            "Odd One Out, Paper Folding"
+        ],
+        "English Language": [
+            "Reading Comprehension",
+            "Cloze Test",
+            "Error Spotting",
+            "Sentence Rearrangement",
+            "Fill in the Blanks (Single/Double)",
+            "Synonyms & Antonyms",
+            "Sentence Improvement",
+            "Idioms & Phrases",
+            "Active and Passive Voice",
+            "One Word Substitution",
+            "Direct & Indirect Speech Rules",
+            "Rules for Tenses, Prepositions, and Conjunctions"
+        ],
+        "Numerical Ability": [
+            "Simplification / Approximation",
+            "Number Series (Missing/Wrong)",
+            "Data Interpretation (Pie Chart, Table, Bar Graph)",
+            "Quadratic Equations",
+            "Arithmetic (Profit & Loss, SI & CI, Time & Work, Time & Distance, Percentage, Ratio & Proportion, Average, Partnership)",
+            "Caselet Data Interpretation",
+            "Data Sufficiency",
+            "Probability",
+            "Permutation & Combination",
+            "Mensuration",
+            "Miscellaneous High-Level Arithmetic"
+        ],
+        "General Awareness": [
+            "Current Affairs (last 4-6 months)",
+            "Insurance Sector Awareness",
+            "Static GK (Countries, Capitals, Currency, National Parks, Important Days)",
+            "Indian Economy",
+            "Banking Awareness (RBI, SEBI, NITI Aayog, Budget, Government Schemes)",
+            "Recent Mergers & Acquisitions",
+            "Sports, Awards, Books & Authors",
+            "International Affairs"
+        ],
+        "Computer Knowledge": [
+            "Fundamentals of Computers",
+            "Operating Systems (Windows, Linux)",
+            "Internet & Networking",
+            "Microsoft Office (Word, Excel, PowerPoint)",
+            "Keyboard Shortcuts",
+            "Email & Internet",
+            "Memory & Storage Devices",
+            "Computer Abbreviations",
+            "Cyber Security"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/oicl-assistant-syllabus-and-exam-pattern-3061863",
+    "extraction_timestamp": "2026-08-08T05:59:46.460664Z"
+}

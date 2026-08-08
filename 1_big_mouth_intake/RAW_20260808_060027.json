@@ -1,0 +1,55 @@
+{
+    "conducting_body": "Various Government Organizations",
+    "exam_name": "Diploma Based Government Job Exams",
+    "job_posts_covered": [
+        "Project Technical Support",
+        "Project Assistant",
+        "Accountant",
+        "Constable",
+        "Technician",
+        "Graduate Apprentice",
+        "Trade Apprentice",
+        "Senior Resident",
+        "Data Assistant",
+        "Attender",
+        "Project Research Scientist",
+        "Project Nurse",
+        "Assistant Manager",
+        "Professionals",
+        "Project Scientist",
+        "DEO",
+        "Clerk",
+        "Peon",
+        "Apprentice",
+        "Junior Faculty",
+        "Academic Support Staff",
+        "Overseer",
+        "Medical Officer",
+        "Driver",
+        "Engineer",
+        "Safety Officer",
+        "Block Manager",
+        "Cluster Supervisor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Written Exam",
+        "Interview",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Aptitude",
+            "Technical Subjects",
+            "English Language"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/diploma-government-jobs/",
+    "extraction_timestamp": "2026-08-08T06:00:27.117040Z"
+}

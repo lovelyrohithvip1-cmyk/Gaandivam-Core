@@ -1,0 +1,49 @@
+{
+    "conducting_body": "State Health Society, Bihar (SHSB), National Health Mission",
+    "exam_name": "SHS Bihar Specialist Doctor Recruitment 2026",
+    "job_posts_covered": [
+        "Obstetrician and Gynaecologist",
+        "Paediatrician",
+        "Anaesthetist",
+        "MD Medicine/Physician",
+        "General Surgeon",
+        "Orthopaedic Surgeon"
+    ],
+    "application_dates": {
+        "start_date": "7 August 2026, 10:00 AM",
+        "end_date": "21 August 2026, up to 6:00 PM"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Application",
+        "Document Verification",
+        "Counselling"
+    ],
+    "detailed_syllabus": {
+        "Obstetrician and Gynaecologist": [
+            "MD/MS/DNB in Obstetrics & Gynaecology",
+            "DGO"
+        ],
+        "Paediatrician": [
+            "MD/DNB in Paediatrics",
+            "Diploma in Child Health (DCH)"
+        ],
+        "Anaesthetist": [
+            "MD/DNB in Anaesthesia",
+            "Diploma in Anaesthesia (DA)"
+        ],
+        "MD Medicine/Physician": [
+            "MD/DNB in General Medicine"
+        ],
+        "General Surgeon": [
+            "MS/DNB in General Surgery"
+        ],
+        "Orthopaedic Surgeon": [
+            "MBBS with MS-Ortho/DNB in Orthopaedic",
+            "MD in Orthopaedic",
+            "D.Ortho"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/shs-bihar-specialist-doctor-recruitment-2026-apply-online-for-450-posts-3061861",
+    "extraction_timestamp": "2026-08-08T05:46:23.400623Z"
+}

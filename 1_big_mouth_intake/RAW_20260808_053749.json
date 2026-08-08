@@ -1,0 +1,48 @@
+{
+    "conducting_body": "State Public Service Commissions (e.g., RPSC, UPPSC, MPPSC) and other government agencies",
+    "exam_name": "State Judicial Service Exams (PCS-J), IBPS SO Law, LIC AAO Legal, SEBI Grade A Legal, etc.",
+    "job_posts_covered": [
+        "Civil Judge (Junior Division)",
+        "Additional District Judge",
+        "High Court Judge",
+        "Law Officer",
+        "Legal Officer",
+        "Assistant Public Prosecutor",
+        "Legal Assistant",
+        "Legal Advisor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written examination",
+        "Interview / viva-voce",
+        "Document verification"
+    ],
+    "detailed_syllabus": {
+        "Constitutional Law": [
+            "Fundamental Rights",
+            "Directive Principles of State Policy",
+            "Judicial Review"
+        ],
+        "Contract Law": [
+            "Formation of Contract",
+            "Breach of Contract",
+            "Remedies for Breach of Contract"
+        ],
+        "Criminal Law": [
+            "Indian Penal Code",
+            "Criminal Procedure Code",
+            "Evidence Act"
+        ],
+        "Family Law": [
+            "Hindu Law",
+            "Muslim Law",
+            "Christian Law"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/law-jobs/",
+    "extraction_timestamp": "2026-08-08T05:37:49.995739Z"
+}

@@ -1,0 +1,48 @@
+{
+    "conducting_body": "Indian Institute of Banking and Finance (IIBF)",
+    "exam_name": "JAIIB Principles & Practices of Banking (PPB)",
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Exam"
+    ],
+    "detailed_syllabus": {
+        "Module A: General Banking Operations": [
+            "Banker-Customer Relationship",
+            "AML-KYC Guidelines",
+            "Operational Aspects of KYC",
+            "Opening of Accounts",
+            "Operational Aspects of Deposit Accounts",
+            "Clearing, Collection & Cash Handling",
+            "Banker's Special Relationship",
+            "Foreign Exchange Remittance Facilities",
+            "Operational Aspects of NRI Business",
+            "Foreign Currency Accounts",
+            "Cash Management Services (CMS)",
+            "Negotiable Instruments",
+            "Responsibility of Paying Bank",
+            "Responsibility of Collecting Bank",
+            "Ancillary Services",
+            "Financial Inclusion & Literacy",
+            "Customer Service Guidelines",
+            "Grievance Redressal & Legal Framework"
+        ],
+        "Module B: Functions of Banks": [
+            "Principles of Lending & Credit Facilities",
+            "Appraisal and Assessment of Credit Facilities",
+            "Operational Aspects of Loan Accounts",
+            "Types of Collaterals and Securities",
+            "Modes of Charging Securities",
+            "Documentation",
+            "Non-Performing Assets (NPA) / Stressed Assets",
+            "Laws Relating to Recovery of Dues",
+            "Contracts of Indemnity"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/jaiib-ppb-syllabus-2026-out-check-exam-pattern-module-wise-topics-preparation-tips-3061162",
+    "extraction_timestamp": "2026-08-08T05:31:31.810043Z"
+}

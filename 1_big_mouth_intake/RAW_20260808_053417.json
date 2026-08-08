@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Mazagon Dock Shipbuilders Limited (MDL), Apprentice Training School",
+    "exam_name": "MDL Trade Apprentice Batch 2026",
+    "job_posts_covered": [
+        "Trade Apprentice"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online Written Examination (MCQ)"
+    ],
+    "detailed_syllabus": {
+        "Group A (Non-ITI)": [
+            "English & General Knowledge",
+            "Physics",
+            "Chemistry",
+            "Mathematics"
+        ],
+        "Group B1 (ITI Passed)": [
+            "English & General Knowledge",
+            "Trade Theory",
+            "Workshop Calculation & Science",
+            "Engineering Drawing"
+        ],
+        "Group B2 (ITI Passed)": [
+            "English & General Knowledge",
+            "Trade Theory",
+            "Workshop Calculation & Science",
+            "Engineering Drawing"
+        ],
+        "Group C (Non-ITI)": [
+            "English & General Knowledge",
+            "Physics",
+            "Chemistry",
+            "Mathematics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/mdl-trade-apprentice-syllabus-3060084",
+    "extraction_timestamp": "2026-08-08T05:34:17.232465Z"
+}

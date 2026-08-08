@@ -1,0 +1,42 @@
+{
+    "conducting_body": "Indian Overseas Bank (IOB)",
+    "exam_name": "IOB Local Bank Officer (LBO) Recruitment 2026-27",
+    "job_posts_covered": [
+        "Local Bank Officer (LBO)"
+    ],
+    "application_dates": {
+        "start_date": "08.08.2026",
+        "end_date": "24.08.2026"
+    },
+    "fee_structure": {
+        "SC/ST/PwBD": "₹175 (inclusive of GST) - Intimation charges only",
+        "General/EWS/OBC": "₹850 (inclusive of GST)"
+    },
+    "selection_stages": [
+        "Online Examination",
+        "Language Proficiency Test (LPT)",
+        "Personal Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning and Computer Aptitude": [
+            "Reasoning",
+            "Computer Aptitude"
+        ],
+        "General/Economy/Banking Awareness": [
+            "General Knowledge",
+            "Economy",
+            "Banking Awareness"
+        ],
+        "Data Analysis and Interpretation": [
+            "Data Analysis",
+            "Data Interpretation"
+        ],
+        "English Knowledge": [
+            "English Language",
+            "English Grammar",
+            "English Comprehension"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/indian-overseas-bank-lbo-recruitment-2026-apply-online-for-250-local-bank-officer-posts-3061995",
+    "extraction_timestamp": "2026-08-08T05:44:52.164180Z"
+}

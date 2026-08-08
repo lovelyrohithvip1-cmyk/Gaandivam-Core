@@ -1,0 +1,37 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "Engineering Services Exam",
+    "job_posts_covered": [
+        "Assistant Executive Engineer",
+        "Research Officer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "28-08-2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Civil Engineering": [
+            "Building Materials",
+            "Structural Analysis",
+            "Construction Management"
+        ],
+        "Mechanical Engineering": [
+            "Thermodynamics",
+            "Mechanics of Solids",
+            "Fluid Mechanics"
+        ],
+        "Electrical Engineering": [
+            "Electrical Circuits",
+            "Electromagnetic Theory",
+            "Control Systems"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/search-jobs/btech-be-government-jobs/",
+    "extraction_timestamp": "2026-08-08T05:30:49.488799Z"
+}

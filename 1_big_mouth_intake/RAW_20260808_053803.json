@@ -1,0 +1,30 @@
+{
+    "conducting_body": "TSLPRB",
+    "exam_name": "TSLPRB Police Constable Exam",
+    "job_posts_covered": [
+        "Constable",
+        "Warder",
+        "SI",
+        "Police Constable"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Mathematics",
+            "English"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/new-updates/",
+    "extraction_timestamp": "2026-08-08T05:38:03.562886Z"
+}

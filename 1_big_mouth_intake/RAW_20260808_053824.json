@@ -1,0 +1,35 @@
+{
+    "conducting_body": "SBI",
+    "exam_name": "SBI Junior Associates (Clerk)",
+    "job_posts_covered": [
+        "Clerk (Junior Associate)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Mains Exam"
+    ],
+    "detailed_syllabus": {
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Numerical Ability": [
+            "Number Series",
+            "Data Interpretation",
+            "Quantitative Aptitude"
+        ],
+        "Reasoning Ability": [
+            "Logical Reasoning",
+            "Data Sufficiency",
+            "Puzzle"
+        ]
+    },
+    "data_source_url": "https://sarkariresult.freejobalert.com/",
+    "extraction_timestamp": "2026-08-08T05:38:24.665321Z"
+}

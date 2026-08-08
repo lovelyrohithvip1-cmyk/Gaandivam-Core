@@ -1,0 +1,33 @@
+{
+    "conducting_body": "UPSSSC",
+    "exam_name": "UPSSSC AGTA Exam",
+    "job_posts_covered": [
+        "Anganwadi Worker",
+        "Anganwadi Helper",
+        "Cane Supervisor",
+        "AGTA"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/up-government-jobs/",
+    "extraction_timestamp": "2026-08-08T05:29:51.752046Z"
+}

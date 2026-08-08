@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Oil India Limited (OIL)",
+    "exam_name": "Walk-in Personal Assessment",
+    "job_posts_covered": [
+        "Contractual Data Assistant (Medical)",
+        "Contractual Warden (Female) for School of Nursing"
+    ],
+    "application_dates": {
+        "start_date": "12 August 2026, 07:00 AM",
+        "end_date": "12 August 2026, 09:00 AM"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Walk-in Personal Assessment"
+    ],
+    "detailed_syllabus": {
+        "Contractual Data Assistant (Medical)": [
+            "Professional Knowledge and Skills (concerned discipline)",
+            "Professional Knowledge and Skills (allied discipline)",
+            "Personal Attributes and Soft Skills"
+        ],
+        "Contractual Warden (Female) for School of Nursing": [
+            "Professional Knowledge and Skills (concerned discipline)",
+            "Professional Knowledge and Skills (allied discipline)",
+            "Personal Attributes and Soft Skills"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/oil-india-contractual-data-assistant-warden-recruitment-2026-3060116",
+    "extraction_timestamp": "2026-08-08T05:59:02.423183Z"
+}

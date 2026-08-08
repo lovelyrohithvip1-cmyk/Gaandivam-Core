@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Meghalaya Public Service Commission (MPSC)",
+    "exam_name": "Lower Division Assistant (LDA) Screening Test",
+    "job_posts_covered": [
+        "Lower Division Assistant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Screening Test"
+    ],
+    "detailed_syllabus": {
+        "English": [
+            "Not specified"
+        ],
+        "General Knowledge & Current Affairs": [
+            "Not specified"
+        ],
+        "Aptitude": [
+            "Not specified"
+        ],
+        "Reasoning": [
+            "Not specified"
+        ],
+        "Basic Computer": [
+            "Not specified"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/meghalaya-psc-lda-admit-card-2026-3061337",
+    "extraction_timestamp": "2026-08-08T05:53:21.111448Z"
+}

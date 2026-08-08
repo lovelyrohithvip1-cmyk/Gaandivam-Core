@@ -1,0 +1,45 @@
+{
+    "conducting_body": "U R Rao Satellite Centre (URSC), ISRO, Department of Space",
+    "exam_name": "URSC Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Graduate Apprentice (B.E./B.Tech.)",
+        "Technician Apprentice (Diploma)",
+        "Commercial Practice Apprentice"
+    ],
+    "application_dates": {
+        "start_date": "29 July 2026",
+        "end_date": "28 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting based on percentage of marks",
+        "Document Verification",
+        "Panel formation based on academic scores"
+    ],
+    "detailed_syllabus": {
+        "Graduate Apprenticeship": [
+            "Computer Science Engineering",
+            "Electronics and Communication Engineering",
+            "Mechanical Engineering",
+            "Chemical Engineering",
+            "Industrial Engineering and Management",
+            "Automobile Engineering",
+            "Aeronautical Engineering",
+            "Aerospace Engineering"
+        ],
+        "Technician Apprenticeship": [
+            "Computer Science Engineering",
+            "Electronics Engineering",
+            "Mechanical Engineering",
+            "Electrical Engineering",
+            "Civil Engineering",
+            "Instrumentation Technology",
+            "Automobile Engineering"
+        ],
+        "Commercial Practice Apprenticeship": [
+            "Diploma in Commercial Practice"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/isro-ursc-apprentice-recruitment-2026-apply-online-for-410-posts-3060668",
+    "extraction_timestamp": "2026-08-08T05:51:11.294058Z"
+}

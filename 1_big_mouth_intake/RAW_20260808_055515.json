@@ -1,0 +1,56 @@
+{
+    "conducting_body": "Central Railway",
+    "exam_name": "Central Railway Teacher Recruitment 2026",
+    "job_posts_covered": [
+        "Post Graduate Teacher (PGT)",
+        "Trained Graduate Teacher (TGT)",
+        "Primary Teacher"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Walk-in Interview",
+        "Document Verification",
+        "Final Selection by Selection Committee"
+    ],
+    "detailed_syllabus": {
+        "PGT English": [
+            "English Literature"
+        ],
+        "PGT Economics": [
+            "Economics"
+        ],
+        "PGT Business Studies": [
+            "Business Studies"
+        ],
+        "PGT Accountancy": [
+            "Accountancy"
+        ],
+        "PGT Chemistry": [
+            "Chemistry"
+        ],
+        "PGT Biology": [
+            "Biology"
+        ],
+        "TGT Hindi": [
+            "Hindi"
+        ],
+        "TGT Social Science": [
+            "History",
+            "Geography",
+            "Economics",
+            "Political Science"
+        ],
+        "TGT English": [
+            "English"
+        ],
+        "TGT Mathematics": [
+            "Mathematics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/central-railway-teacher-recruitment-2026-walk-in-for-17-posts-3061400",
+    "extraction_timestamp": "2026-08-08T05:55:15.048839Z"
+}

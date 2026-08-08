@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Guru Gobind Singh Indraprastha University (GGSIPU)",
+    "exam_name": "IPU Admission 2026",
+    "job_posts_covered": [
+        "BPT (Physiotherapy)",
+        "BOT (Occupational Therapy)",
+        "BPO (Prosthetics and Orthotics)",
+        "BASLP",
+        "BSc MLT (Medical Lab Technology)",
+        "BSc Medical Imaging Technology"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Registration",
+        "Choice Filling",
+        "Seat Allotment",
+        "Document Verification",
+        "Fee Payment"
+    ],
+    "detailed_syllabus": {
+        "Physics": null,
+        "Chemistry": null,
+        "Mathematics/Biology": null
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/ipu-admisssion-2026-ug-spot-round-result-check-3061992",
+    "extraction_timestamp": "2026-08-08T05:34:06.323747Z"
+}

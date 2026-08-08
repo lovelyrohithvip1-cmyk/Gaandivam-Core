@@ -1,0 +1,53 @@
+{
+    "conducting_body": "State Selection Board (SSB), Odisha",
+    "exam_name": "Odisha B.Ed Entrance Examination 2026",
+    "job_posts_covered": [
+        "Bachelor in Education (B.Ed.) 2 Years"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Entrance Test",
+        "Counselling"
+    ],
+    "detailed_syllabus": {
+        "Language (English)": [
+            "Comprehension – Unseen text",
+            "Vocabulary & Usage, Word formation, Synonyms & Antonyms",
+            "Spelling and Punctuation",
+            "Grammar (Parts of speech, Tenses, Voice, Direct-Indirect Speech)"
+        ],
+        "General Awareness": [
+            "Everyday Science, Political System & Current Happenings",
+            "General Information, Educational Committees & Commissions",
+            "Educational Policies, Schemes & Initiatives",
+            "Agencies working in Education"
+        ],
+        "Reasoning": [
+            "Logical and Analytical Reasoning",
+            "Series, Analogy, Coding-Decoding, Blood Relations"
+        ],
+        "Teaching Aptitude": [
+            "Solving problems of educational context",
+            "Managing classroom and learning",
+            "Learner and learning-related issues",
+            "Goals of education, Role of agencies in education"
+        ],
+        "Arts Stream": [
+            "General English",
+            "Odia",
+            "History & Political Science",
+            "Geography & Economics"
+        ],
+        "Science Stream": [
+            "Physical Science",
+            "Biological Science",
+            "Mathematics"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/odisha-bed-entrance-exam-syllabus-and-exam-pattern-3051682",
+    "extraction_timestamp": "2026-08-08T05:46:48.079167Z"
+}

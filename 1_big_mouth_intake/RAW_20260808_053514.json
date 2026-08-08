@@ -1,0 +1,69 @@
+{
+    "conducting_body": "National Institutes of Technology (NITs) – Rotating (NIT Tiruchirappalli for 2026)",
+    "exam_name": "NIT MCA Common Entrance Test (NIMCET)",
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Online (Computer-Based Test)"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Set Theory and Logic",
+            "Probability and Statistics",
+            "Algebra",
+            "Coordinate Geometry",
+            "Calculus",
+            "Trigonometry"
+        ],
+        "Analytical Ability & Logical Reasoning": [
+            "Verbal & Non-verbal Reasoning",
+            "Deductive/inductive reasoning",
+            "Blood relations",
+            "Direction sense",
+            "Coding-decoding",
+            "Seating arrangements",
+            "Puzzles",
+            "Input-output",
+            "Syllogisms",
+            "Alphanumeric series",
+            "Mirror images",
+            "Statements & conclusions/arguments",
+            "Data sufficiency",
+            "Data interpretation/visualization",
+            "Numerical reasoning",
+            "Critical thinking",
+            "Problem-solving"
+        ],
+        "Computer Awareness": [
+            "Computer Basics",
+            "Organization",
+            "CPU",
+            "Instruction structure",
+            "Input/output devices",
+            "Memory",
+            "Backup/storage devices",
+            "Data Representation",
+            "Binary/hexadecimal",
+            "Character/integer/fraction representation",
+            "Binary arithmetic",
+            "Two’s complement",
+            "Floating-point",
+            "Boolean algebra",
+            "Hardware & Software",
+            "Internet & Email"
+        ],
+        "General English": [
+            "Reading comprehension of passages",
+            "Vocabulary",
+            "Grammar",
+            "Technical writing accuracy",
+            "Fluency in expressions for technical education"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/nimcet-syllabus-3042119",
+    "extraction_timestamp": "2026-08-08T05:35:14.264211Z"
+}

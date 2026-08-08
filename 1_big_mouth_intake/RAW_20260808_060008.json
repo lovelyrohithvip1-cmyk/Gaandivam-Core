@@ -1,0 +1,30 @@
+{
+    "conducting_body": "APSC",
+    "exam_name": "APSC Research Assistant Exam",
+    "job_posts_covered": [
+        "Research Assistant"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Events",
+            "History",
+            "Geography"
+        ],
+        "English": [
+            "Grammar",
+            "Vocabulary",
+            "Comprehension"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/assam-government-jobs/",
+    "extraction_timestamp": "2026-08-08T06:00:08.463146Z"
+}

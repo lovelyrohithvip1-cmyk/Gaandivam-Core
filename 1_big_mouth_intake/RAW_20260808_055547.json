@@ -1,0 +1,35 @@
+{
+    "conducting_body": "SBI",
+    "exam_name": "Junior Associate",
+    "job_posts_covered": [
+        "Junior Associates (Clerk)"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Mains Exam"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Seating Arrangements",
+            "Puzzles",
+            "Blood Relations"
+        ],
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Data Interpretation",
+            "Number Series",
+            "Quadratic Equations"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/syllabus/",
+    "extraction_timestamp": "2026-08-08T05:55:47.206552Z"
+}

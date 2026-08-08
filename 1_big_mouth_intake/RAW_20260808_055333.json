@@ -1,0 +1,62 @@
+{
+    "conducting_body": "CSIR-Central Mechanical Engineering Research Institute (CSIR-CMERI), Durgapur",
+    "exam_name": "CSIR CMERI Technician Recruitment 2026",
+    "job_posts_covered": [
+        "Fitter",
+        "Electrician / Mechanic (Electrical Power Drives)",
+        "Electronics Mechanic / Instrument Mechanic",
+        "Machinist",
+        "Foundryman",
+        "Mechanic (Motor Vehicle/Diesel)",
+        "Refrigeration & Air-Conditioning"
+    ],
+    "application_dates": {
+        "start_date": "4 July 2026",
+        "end_date": "14 August 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Screening",
+        "Trade Test (qualifying)",
+        "Competitive Written Examination"
+    ],
+    "detailed_syllabus": {
+        "Fitter": [
+            "SSC / 10th Standard or equivalent with Science subjects, minimum 55% marks",
+            "ITI certificate or national/state trade certificate in Fitter from a recognized institution",
+            "2 years’ full-time apprentice trainee experience in Fitter from a recognized institution"
+        ],
+        "Electrician / Mechanic (Electrical Power Drives)": [
+            "SSC / 10th Standard or equivalent with Science subjects, minimum 55% marks",
+            "ITI certificate or national/state trade certificate in Electrician / Mechanic (Electrical Power Drives) from a recognized institution",
+            "2 years’ full-time apprentice trainee experience in Electrician / Mechanic (Electrical Power Drives) from a recognized institution"
+        ],
+        "Electronics Mechanic / Instrument Mechanic": [
+            "SSC / 10th Standard or equivalent with Science subjects, minimum 55% marks",
+            "ITI certificate or national/state trade certificate in Electronics Mechanic / Instrument Mechanic from a recognized institution",
+            "2 years’ full-time apprentice trainee experience in Electronics Mechanic / Instrument Mechanic from a recognized institution"
+        ],
+        "Machinist": [
+            "SSC / 10th Standard or equivalent with Science subjects, minimum 55% marks",
+            "ITI certificate or national/state trade certificate in Machinist from a recognized institution",
+            "2 years’ full-time apprentice trainee experience in Machinist from a recognized institution"
+        ],
+        "Foundryman": [
+            "SSC / 10th Standard or equivalent with Science subjects, minimum 55% marks",
+            "ITI certificate or national/state trade certificate in Foundryman from a recognized institution",
+            "2 years’ full-time apprentice trainee experience in Foundryman from a recognized institution"
+        ],
+        "Mechanic (Motor Vehicle/Diesel)": [
+            "SSC / 10th Standard or equivalent with Science subjects, minimum 55% marks",
+            "ITI certificate or national/state trade certificate in Mechanic (Motor Vehicle/Diesel) from a recognized institution",
+            "2 years’ full-time apprentice trainee experience in Mechanic (Motor Vehicle/Diesel) from a recognized institution"
+        ],
+        "Refrigeration & Air-Conditioning": [
+            "SSC / 10th Standard or equivalent with Science subjects, minimum 55% marks",
+            "ITI certificate or national/state trade certificate in Refrigeration & Air-Conditioning from a recognized institution",
+            "2 years’ full-time apprentice trainee experience in Refrigeration & Air-Conditioning from a recognized institution"
+        ]
+    },
+    "data_source_url": "https://www.freejobalert.com/articles/csir-cmeri-recruitment-2026-apply-online-for-27-fitter-electrician-and-more-posts-3056106",
+    "extraction_timestamp": "2026-08-08T05:53:33.719115Z"
+}
