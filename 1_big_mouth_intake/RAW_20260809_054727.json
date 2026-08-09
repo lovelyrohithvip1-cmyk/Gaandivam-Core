@@ -1,0 +1,24 @@
+{
+    "conducting_body": "Haryana Government",
+    "exam_name": "HTET",
+    "job_posts_covered": [
+        "Government Jobs",
+        "Sarkari Naukri"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Merit Status"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-09T05:47:27.597231Z"
+}

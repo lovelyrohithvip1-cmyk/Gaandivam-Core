@@ -1,0 +1,54 @@
+{
+    "conducting_body": "Various Government Bodies",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Haryana Jobs",
+        "HP TET",
+        "UPTET",
+        "AIIMS CRE-5 Recruitment",
+        "UPSC CMSE",
+        "SSC CGL",
+        "CTET",
+        "Delhi Police",
+        "Income Tax Department Canteen Attendant",
+        "HP High Court",
+        "HKRN",
+        "UKPSC Tax & Revenue Inspector",
+        "PNB Bank LBO",
+        "Railway Group D"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "HTET": [
+            "Child Development and Pedagogy",
+            "Language I (Hindi)",
+            "Language II (English)",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "SSC CGL": [
+            "Reasoning",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English Comprehension"
+        ],
+        "CTET": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-08-09T06:16:26.794722Z"
+}

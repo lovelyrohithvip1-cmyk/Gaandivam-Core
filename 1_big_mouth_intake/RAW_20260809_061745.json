@@ -1,0 +1,43 @@
+{
+    "conducting_body": "State Bank of India (SBI)",
+    "exam_name": "SBI Clerk Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Associate (Customer Support & Sales)"
+    ],
+    "application_dates": {
+        "start_date": "07 August 2026",
+        "end_date": "27 August 2026"
+    },
+    "fee_structure": {
+        "SC": "Nil",
+        "ST": "Nil",
+        "PwBD": "Nil",
+        "Ex-Servicemen / Disabled Ex-Servicemen": "Nil",
+        "OBC": "₹750/-"
+    },
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Numerical Ability": [
+            "Quantitative Aptitude",
+            "Data Interpretation"
+        ],
+        "General Awareness": [
+            "Current Affairs",
+            "Static General Knowledge"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/sbi-clerk-recruitment-2026/",
+    "extraction_timestamp": "2026-08-09T06:17:45.984436Z"
+}

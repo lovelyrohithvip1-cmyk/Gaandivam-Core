@@ -1,0 +1,24 @@
+{
+    "conducting_body": "UPSSSC",
+    "exam_name": "UPSSSC PET 2026",
+    "job_posts_covered": [
+        "PET"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "01.09.26"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Awareness",
+            "Reasoning",
+            "Quantitative Aptitude"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/active-govt-jobs/",
+    "extraction_timestamp": "2026-08-09T05:59:24.742081Z"
+}

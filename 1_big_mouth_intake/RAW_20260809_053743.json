@@ -1,0 +1,24 @@
+{
+    "conducting_body": "Indian Army",
+    "exam_name": "Indian Army Agniveer",
+    "job_posts_covered": [
+        "Agniveer"
+    ],
+    "application_dates": {
+        "start_date": "13 February 2026",
+        "end_date": "10 April 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Common Entrance Examination (CEE)",
+        "Physical Fitness Test (PFT)",
+        "Physical Measurement Test (PMT)",
+        "Medical Examination",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/indian-army-agniveer-result-2026/",
+    "extraction_timestamp": "2026-08-09T05:37:43.518288Z"
+}

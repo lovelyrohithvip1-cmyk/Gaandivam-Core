@@ -1,0 +1,87 @@
+{
+    "conducting_body": "Various Government Bodies",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Haryana Jobs",
+        "HP TET",
+        "UPTET",
+        "AIIMS CRE-5 Recruitment",
+        "UPSC CMSE",
+        "SSC CGL",
+        "CTET",
+        "Delhi Police",
+        "Income Tax Department Canteen Attendant",
+        "HP High Court",
+        "HKRN",
+        "UKPSC Tax & Revenue Inspector",
+        "PNB Bank LBO",
+        "Railway Group D"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "HTET": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "SSC Phase XIV": [
+            "Reasoning",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English Language"
+        ],
+        "HP TET": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "UPTET": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "AIIMS CRE-5 Recruitment": [
+            "General Knowledge",
+            "English",
+            "Reasoning",
+            "Quantitative Aptitude"
+        ],
+        "UPSC CMSE": [
+            "Paper I: General Ability",
+            "Paper II: General Studies",
+            "Paper III: Optional Subject",
+            "Paper IV: Optional Subject",
+            "Interview"
+        ],
+        "SSC CGL": [
+            "Reasoning",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English Language"
+        ],
+        "CTET": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-08-09T05:47:32.750211Z"
+}

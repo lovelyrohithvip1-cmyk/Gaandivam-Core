@@ -1,0 +1,46 @@
+{
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "exam_name": "NDA & NA (I) 2026",
+    "job_posts_covered": [
+        "Army (NDA)",
+        "Navy (NDA)",
+        "Air Force – Flying",
+        "Air Force – Ground Duties (Tech)",
+        "Air Force – Ground Duties (Non-Tech)",
+        "Naval Academy (10+2 Cadet Entry)"
+    ],
+    "application_dates": {
+        "start_date": "10 December 2025",
+        "end_date": "30 December 2025"
+    },
+    "fee_structure": "₹100/- (General/OBC), Exempted (SC/ST, Female, Wards of JCOs/NCOs/ORs)",
+    "selection_stages": [
+        "Written Examination",
+        "SSB Interview",
+        "Documents Verification",
+        "Medical Test"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Algebra",
+            "Matrices and Determinants",
+            "Trigonometry",
+            "Analytical Geometry",
+            "Differential Calculus",
+            "Integral Calculus",
+            "Statistics and Probability"
+        ],
+        "General Ability": [
+            "English",
+            "General Knowledge",
+            "Physics",
+            "Chemistry",
+            "General Science",
+            "History",
+            "Geography",
+            "Current Events"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/upsc-nda-i-recruitment-2026/",
+    "extraction_timestamp": "2026-08-09T06:15:48.042471Z"
+}
