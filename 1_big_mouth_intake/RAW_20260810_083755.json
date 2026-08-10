@@ -1,0 +1,21 @@
+{
+    "conducting_body": "HSSC",
+    "exam_name": "Haryana Teacher Eligibility Test (HTET)",
+    "job_posts_covered": [
+        "JBT Teacher"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Final Result"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-10T08:37:55.854565Z"
+}

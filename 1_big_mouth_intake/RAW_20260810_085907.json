@@ -1,0 +1,53 @@
+{
+    "conducting_body": "State Bank of India (SBI)",
+    "exam_name": "SBI PO Recruitment 2026",
+    "job_posts_covered": [
+        "Probationary Officer (PO)"
+    ],
+    "application_dates": {
+        "start_date": "18 June 2026",
+        "end_date": "08 July 2026"
+    },
+    "fee_structure": {
+        "General / OBC / EWS": "₹750/-",
+        "SC / ST / PwBD": "Nil"
+    },
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Psychometric Test",
+        "Group Exercise",
+        "Interview",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Data Interpretation",
+            "Number Series",
+            "Quadratic Equations"
+        ],
+        "Reasoning Ability": [
+            "Logical Reasoning",
+            "Data Sufficiency",
+            "Puzzles"
+        ],
+        "Data Analysis & Interpretation": [
+            "Caselets",
+            "Tables",
+            "Graphs"
+        ],
+        "General Awareness / Economy / Banking Knowledge": [
+            "Current Affairs",
+            "Banking Awareness",
+            "Economic Concepts"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/sbi-po-recruitment-2026/",
+    "extraction_timestamp": "2026-08-10T08:59:07.439907Z"
+}

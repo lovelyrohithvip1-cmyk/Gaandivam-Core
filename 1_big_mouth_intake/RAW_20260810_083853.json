@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Central Board of Secondary Education (CBSE)",
+    "exam_name": "Central Teacher Eligibility Test (CTET) 2026",
+    "job_posts_covered": [
+        "Primary Teacher (PRT) Level-I",
+        "Secondary Teacher (TGT) Level-II"
+    ],
+    "application_dates": {
+        "start_date": "27 November 2025",
+        "end_date": "18 December 2025"
+    },
+    "fee_structure": "General/OBC (NCL): ₹1000/- (One Paper), ₹1200/- (Both Papers), SC/ST/PwD: ₹500/- (One Paper), ₹600/- (Both Papers)",
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Child Development and Pedagogy": [
+            "No specific topics mentioned"
+        ],
+        "Language I": [
+            "No specific topics mentioned"
+        ],
+        "Language II": [
+            "No specific topics mentioned"
+        ],
+        "Mathematics": [
+            "No specific topics mentioned"
+        ],
+        "Environmental Studies": [
+            "No specific topics mentioned"
+        ],
+        "Mathematics & Science": [
+            "No specific topics mentioned"
+        ],
+        "Social Studies/Social Science": [
+            "No specific topics mentioned"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/ctet-2025-notification/",
+    "extraction_timestamp": "2026-08-10T08:38:53.923737Z"
+}

@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Women and Child Development Department, Haryana",
+    "exam_name": "Haryana Anganwadi Recruitment 2026",
+    "job_posts_covered": [
+        "Anganwadi Worker",
+        "Anganwadi Helper"
+    ],
+    "application_dates": {
+        "start_date": "20 July 2026",
+        "end_date": "29 July 2026"
+    },
+    "fee_structure": "No Application Fee",
+    "selection_stages": [
+        "Merit List"
+    ],
+    "detailed_syllabus": {
+        "Anganwadi Worker": [
+            "12th Pass (Intermediate)",
+            "Higher educational qualifications",
+            "Relevant work experience"
+        ],
+        "Anganwadi Helper": [
+            "10th Pass (Matriculation)",
+            "12th Pass",
+            "Graduation"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/haryana-anganwadi-recruitment-2026/",
+    "extraction_timestamp": "2026-08-10T09:02:45.647237Z"
+}

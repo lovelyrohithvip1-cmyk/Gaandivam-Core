@@ -1,0 +1,39 @@
+{
+    "conducting_body": "Indian Air Force (IAF)",
+    "exam_name": "IAF Agniveervayu Non-Combatant Recruitment 2026",
+    "job_posts_covered": [
+        "Agniveervayu Non-Combatant (Hospitality & Housekeeping)"
+    ],
+    "application_dates": {
+        "start_date": "31 July 2026",
+        "end_date": "17 August 2026"
+    },
+    "fee_structure": "Rs 0/- (No fee for all categories)",
+    "selection_stages": [
+        "Scrutiny of Application",
+        "Physical Fitness Test (PFT)",
+        "Written Examination",
+        "Adaptability/Skill Assessment",
+        "Medical Examination",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Hospitality Stream": [
+            "Cooking",
+            "Kitchen management",
+            "Food preparation",
+            "Serving food",
+            "Storage of food items",
+            "Maintenance of kitchen hygiene"
+        ],
+        "Housekeeping Stream": [
+            "Cleaning rooms, offices and premises",
+            "Garden maintenance",
+            "Washing utensils and clothes",
+            "Handling office equipment",
+            "Hair cutting, ironing, shoe polishing and related housekeeping duties"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/iaf-agniveervayu-non-combatant-recruitment-2026/",
+    "extraction_timestamp": "2026-08-10T08:23:44.397949Z"
+}

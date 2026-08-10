@@ -1,0 +1,41 @@
+{
+    "conducting_body": "UPSSSC",
+    "exam_name": "UPSSSC PET 2026",
+    "job_posts_covered": [
+        "PET"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "01.09.26"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning": [
+            "Verbal Reasoning",
+            "Non-Verbal Reasoning"
+        ],
+        "Quantitative Aptitude": [
+            "Number System",
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "General Awareness": [
+            "Current Events",
+            "History",
+            "Geography",
+            "Polity"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/active-govt-jobs/",
+    "extraction_timestamp": "2026-08-10T08:39:32.254826Z"
+}

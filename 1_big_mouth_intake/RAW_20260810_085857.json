@@ -1,0 +1,44 @@
+{
+    "conducting_body": "Jawaharlal Nehru University (JNU), New Delhi",
+    "exam_name": "JNU Delhi Non-Teaching Recruitment 2026",
+    "job_posts_covered": [
+        "Assistant",
+        "Junior Assistant",
+        "Stenographer",
+        "MTS",
+        "Laboratory Attendant",
+        "Engineering Attendant",
+        "Executive Engineer",
+        "Assistant Registrar"
+    ],
+    "application_dates": {
+        "start_date": "29 June 2026",
+        "end_date": "27 July 2026 (05:00 PM)"
+    },
+    "fee_structure": {
+        "UR / OBC / EWS": {
+            "Group A": "₹1500",
+            "Group B & C": "₹1000"
+        },
+        "SC / ST / Women": {
+            "Group A": "₹1000",
+            "Group B & C": "₹600"
+        },
+        "PwD": "Nil"
+    },
+    "selection_stages": [
+        "Computer Based Test (Paper-I)",
+        "Paper-II (For applicable posts)",
+        "Skill Test / Trade Test / Practical Test (Where applicable)",
+        "Interview / Personality Test (Group A posts only)",
+        "Document Verification",
+        "Medical Examination (if applicable)"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not explicitly mentioned in the provided text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/jnu-delhi-non-teaching-recruitment-2026/",
+    "extraction_timestamp": "2026-08-10T08:58:57.823670Z"
+}

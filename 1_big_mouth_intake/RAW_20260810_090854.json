@@ -1,0 +1,33 @@
+{
+    "conducting_body": "Shri Krishna AYUSH University (SKAU), Kurukshetra",
+    "exam_name": "SKAU Kurukshetra Non-Teaching Recruitment 2026",
+    "job_posts_covered": [
+        "Staff Nurse",
+        "Ayurvedic Pharmacist",
+        "Clerk"
+    ],
+    "application_dates": {
+        "start_date": "30 July 2026",
+        "end_date": "21 August 2026"
+    },
+    "fee_structure": "₹1,500/- to Nil depending on the category",
+    "selection_stages": [
+        "Written Examination",
+        "Skill Test / Data Entry Test (For Clerk)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Staff Nurse": [
+            "GNM/ B.Sc Nursing or related field"
+        ],
+        "Ayurvedic Pharmacist": [
+            "Up-Vaidya OR Diploma in Ayurvedic Pharmacy with required educational qualifications and Hindi/Sanskrit"
+        ],
+        "Clerk": [
+            "Graduate + Typing"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/skau-kurukshetra-non-teaching-recruitment-2026/",
+    "extraction_timestamp": "2026-08-10T09:08:54.133615Z"
+}

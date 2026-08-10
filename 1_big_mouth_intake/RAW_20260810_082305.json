@@ -1,0 +1,39 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "RRB NTPC Recruitment 2025-26",
+    "job_posts_covered": [
+        "Station Master",
+        "Goods Guard",
+        "Commercial Clerk",
+        "Accounts Clerk",
+        "Junior Typist",
+        "Trains Clerk",
+        "Senior Clerk cum Typist",
+        "Traffic Assistant"
+    ],
+    "application_dates": {
+        "start_date": "21 October 2025",
+        "end_date": "04 December 2025"
+    },
+    "fee_structure": "₹500/- (General / OBC / EWS), ₹250/- (SC / ST / PwD / Female / Ex-Servicemen)",
+    "selection_stages": [
+        "Computer Based Tests",
+        "Skill Tests",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "General Awareness": [
+            "General Knowledge"
+        ],
+        "Mathematics": [
+            "Mathematical Problems"
+        ],
+        "General Intelligence & Reasoning": [
+            "Logical Reasoning",
+            "Analytical Ability"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-ntpc-vacancy-2025-26/",
+    "extraction_timestamp": "2026-08-10T08:23:05.653845Z"
+}

@@ -1,0 +1,43 @@
+{
+    "conducting_body": "NTPC Green Energy Limited (NGEL)",
+    "exam_name": "NGEL Recruitment 2026",
+    "job_posts_covered": [
+        "Assistant Engineer – RE (E-0 Grade)",
+        "Deputy General Manager – RE (E-6 Grade)"
+    ],
+    "application_dates": {
+        "start_date": "11 July 2026 (10:00 AM)",
+        "end_date": "31 July 2026 (6:00 PM)"
+    },
+    "fee_structure": {
+        "General / OBC / EWS": "₹500/-",
+        "SC / ST / PwBD / Ex-Servicemen / Female": "Nil"
+    },
+    "selection_stages": [
+        "Application Screening / Shortlisting",
+        "Written Test (if conducted)",
+        "Group Discussion",
+        "Interview",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Assistant Engineer – RE": [
+            "Electrical",
+            "Mechanical",
+            "Electronics",
+            "Electrical & Electronics",
+            "Instrumentation Engineering"
+        ],
+        "Deputy General Manager – RE": [
+            "Electrical",
+            "Electrical & Electronics",
+            "Electronics",
+            "Control & Instrumentation",
+            "Civil",
+            "Mechanical"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/ntpc-green-recruitment-2026/",
+    "extraction_timestamp": "2026-08-10T08:46:48.269621Z"
+}

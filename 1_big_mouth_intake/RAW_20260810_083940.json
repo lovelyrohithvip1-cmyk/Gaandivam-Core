@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Eklavya Model Residential Schools (EMRS), Ministry of Tribal Affairs",
+    "exam_name": "EMRS Teaching & Non-Teaching Recruitment 2025",
+    "job_posts_covered": [
+        "Principal",
+        "PGT",
+        "TGT",
+        "Hostel Warden",
+        "Accountant",
+        "Clerk",
+        "Lab Attendant",
+        "Female Staff Nurse"
+    ],
+    "application_dates": {
+        "start_date": "19 September 2025",
+        "end_date": "28 October 2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination",
+        "Skill Test / Practical Test",
+        "Interview",
+        "Document Verification & Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/emrs-teaching-non-teaching-recruitment-2025/",
+    "extraction_timestamp": "2026-08-10T08:39:40.215766Z"
+}

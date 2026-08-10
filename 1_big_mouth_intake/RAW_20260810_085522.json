@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Haryana Staff Selection Commission (HSSC)",
+    "exam_name": "HSSC TGT",
+    "job_posts_covered": [
+        "Trained Graduate Teacher (TGT) English",
+        "Trained Graduate Teacher (TGT) Home Science",
+        "Trained Graduate Teacher (TGT) Physical Education",
+        "Trained Graduate Teacher (TGT) Sanskrit",
+        "Trained Graduate Teacher (TGT) Social Studies",
+        "Trained Graduate Teacher (TGT) Punjabi"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Examination"
+    ],
+    "detailed_syllabus": {
+        "TGT English": null,
+        "TGT Home Science": null,
+        "TGT Physical Education": null,
+        "TGT Sanskrit": null,
+        "TGT Social Studies": null,
+        "TGT Punjabi": null
+    },
+    "data_source_url": "https://haryanajobs.in/hssc-tgt-result/",
+    "extraction_timestamp": "2026-08-10T08:55:22.402785Z"
+}

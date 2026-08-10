@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Board of School Education Haryana (BSEH)",
+    "exam_name": "Haryana Teacher Eligibility Test (HTET) 2026",
+    "job_posts_covered": [
+        "Level-1 (PRT)",
+        "Level-2 (TGT)",
+        "Level-3 (PGT)"
+    ],
+    "application_dates": {
+        "start_date": "24 December 2025",
+        "end_date": "05 January 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam"
+    ],
+    "detailed_syllabus": {
+        "Child Development and Pedagogy": [
+            "Concept of Inclusive Education",
+            "Understanding Children with Special Needs"
+        ],
+        "Language I (Hindi)": [
+            "Grammar",
+            "Comprehension"
+        ],
+        "Language II (English)": [
+            "Grammar",
+            "Comprehension"
+        ],
+        "Mathematics": [
+            "Geometry",
+            "Algebra"
+        ],
+        "Environmental Studies": [
+            "Family and Friends",
+            "Food and Nutrition"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/htet-admit-card/",
+    "extraction_timestamp": "2026-08-10T08:43:34.768849Z"
+}

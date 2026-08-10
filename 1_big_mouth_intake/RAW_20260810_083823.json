@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB)",
+    "exam_name": "UP Police SI Recruitment 2025",
+    "job_posts_covered": [
+        "Reserve Civil Police",
+        "Special Security Force",
+        "Female Battalions",
+        "Citizen Police",
+        "Armed Police",
+        "Mounted Police"
+    ],
+    "application_dates": {
+        "start_date": "12 August 2025",
+        "end_date": "11 September 2025"
+    },
+    "fee_structure": {
+        "General/OBC": "Rs 500/-",
+        "SC/ST": "Rs 400/-"
+    },
+    "selection_stages": [
+        "Written Exam",
+        "Physical Efficiency Test (PET)",
+        "Physical Standard Test (PST)",
+        "Medical Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge + Constitution and Law": [
+            "Not specified"
+        ],
+        "Numerical Ability": [
+            "Not specified"
+        ],
+        "Reasoning Ability": [
+            "Not specified"
+        ],
+        "General Hindi": [
+            "Not specified"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/up-police-si-recruitment-2025/",
+    "extraction_timestamp": "2026-08-10T08:38:23.470371Z"
+}
