@@ -1,0 +1,58 @@
+{
+    "conducting_body": "High Court of Himachal Pradesh, Shimla",
+    "exam_name": "HP High Court Recruitment 2026",
+    "job_posts_covered": [
+        "Court Manager",
+        "Clerk",
+        "Stenographer Grade-III",
+        "Driver",
+        "Process Server",
+        "Peon/Orderly/Chowkidar/Safai Karamchari"
+    ],
+    "application_dates": {
+        "start_date": "10 August 2026",
+        "end_date": "10 September 2026"
+    },
+    "fee_structure": {
+        "UR": "₹450/-",
+        "SC/ST/OBC/EWS/PH of Himachal Pradesh": "₹300/-"
+    },
+    "selection_stages": [
+        "Written Test",
+        "Viva-Voce",
+        "Screening Test",
+        "Typing Test",
+        "Document Verification",
+        "Stenography Test",
+        "Driving Proficiency Test",
+        "Evaluation"
+    ],
+    "detailed_syllabus": {
+        "Court Manager": [
+            "Process Management",
+            "IT Systems Management",
+            "HR Management",
+            "Financial Management"
+        ],
+        "Clerk": [
+            "Basic Computer Knowledge"
+        ],
+        "Stenographer Grade-III": [
+            "English Stenography",
+            "Typing"
+        ],
+        "Driver": [
+            "Driving Proficiency"
+        ],
+        "Process Server": [
+            "Written Test",
+            "Evaluation"
+        ],
+        "Peon/Orderly/Chowkidar/Safai Karamchari": [
+            "10+2 Marks",
+            "Document Evaluation"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/hp-high-court-recruitment-2026/",
+    "extraction_timestamp": "2026-08-11T06:46:45.388924Z"
+}
