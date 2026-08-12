@@ -1,0 +1,32 @@
+{
+    "conducting_body": "National Testing Agency",
+    "exam_name": "NEET PG 2026",
+    "job_posts_covered": [
+        "Doctor"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Counselling"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Anatomy",
+            "Biochemistry",
+            "Biophysics",
+            "Forensic Medicine",
+            "General Medicine",
+            "Microbiology",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Preventive and Social Medicine"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-12T08:15:15.160849Z"
+}

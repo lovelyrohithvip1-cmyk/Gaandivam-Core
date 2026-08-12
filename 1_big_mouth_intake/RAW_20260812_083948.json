@@ -1,0 +1,39 @@
+{
+    "conducting_body": "Northern Coalfields Limited (NCL)",
+    "exam_name": "NCL Mining Sirdar Recruitment 2026",
+    "job_posts_covered": [
+        "Mining Sirdar (T&S Grade C)",
+        "Surveyor (Mining) (T&S Grade B)"
+    ],
+    "application_dates": {
+        "start_date": "14 July 2026",
+        "end_date": "05 August 2026"
+    },
+    "fee_structure": {
+        "General / OBC (NCL) / EWS": "₹1,180 (₹1,000 + GST)",
+        "SC / ST / Ex-Servicemen / Departmental Candidates": "Nil"
+    },
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Document Verification",
+        "Medical Examination (before appointment)"
+    ],
+    "detailed_syllabus": {
+        "Mining Sirdar": [
+            "Mining Methods",
+            "Mine Ventilation",
+            "Mine Safety",
+            "First Aid",
+            "Gas Testing"
+        ],
+        "Surveyor (Mining)": [
+            "Mine Surveying",
+            "Surveying Methods",
+            "Map Reading",
+            "Compass Survey",
+            "Leveling"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/ncl-mining-sirdar-recruitment-2026/",
+    "extraction_timestamp": "2026-08-12T08:39:48.950981Z"
+}

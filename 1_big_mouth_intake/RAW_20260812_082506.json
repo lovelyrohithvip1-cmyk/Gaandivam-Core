@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Indian Overseas Bank (IOB)",
+    "exam_name": "Indian Overseas Bank Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Apprentice"
+    ],
+    "application_dates": {
+        "start_date": "07 July 2026",
+        "end_date": "27 July 2026"
+    },
+    "fee_structure": "₹236 (₹200 + GST) for SC/ST/PwBD, ₹708 (₹600 + GST) for General/OBC/EWS (Female), ₹944 (₹800 + GST) for General/OBC/EWS (Male)",
+    "selection_stages": [
+        "Online Written Examination",
+        "Local Language Test",
+        "Document Verification",
+        "Personal Interaction (if required)",
+        "Medical Fitness Verification"
+    ],
+    "detailed_syllabus": {
+        "General/Financial Awareness": [
+            "Not specified"
+        ],
+        "General English": [
+            "Not specified"
+        ],
+        "Quantitative & Reasoning Aptitude": [
+            "Not specified"
+        ],
+        "Computer/Subject Knowledge": [
+            "Not specified"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/indian-overseas-bank-apprentice-recruitment-2026/",
+    "extraction_timestamp": "2026-08-12T08:25:06.435774Z"
+}

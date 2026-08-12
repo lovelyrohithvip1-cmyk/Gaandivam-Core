@@ -1,0 +1,21 @@
+{
+    "conducting_body": "Delhi Subordinate Services Selection Board (DSSSB)",
+    "exam_name": "DSSSB Recruitment Examination 2026",
+    "job_posts_covered": [
+        "Teaching Posts",
+        "Non-Teaching Posts"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Computer Based Test (CBT)"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/dsssb-admit-card/",
+    "extraction_timestamp": "2026-08-12T08:52:59.863040Z"
+}

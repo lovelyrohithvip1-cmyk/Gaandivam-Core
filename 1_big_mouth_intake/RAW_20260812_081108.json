@@ -1,0 +1,57 @@
+{
+    "conducting_body": "Army ASC Centre South",
+    "exam_name": "Army ASC Centre South Recruitment 2026",
+    "job_posts_covered": [
+        "Civilian Catering Instructor",
+        "MTS",
+        "Motor Driver",
+        "Cleaner",
+        "Tradesman",
+        "Fire Engine Driver",
+        "Fireman",
+        "Leading Fireman"
+    ],
+    "application_dates": {
+        "start_date": "15 August 2026",
+        "end_date": "04 September 2026"
+    },
+    "fee_structure": "₹0/-",
+    "selection_stages": [
+        "Skill Test/Physical Test",
+        "Written Examination",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Civilian Catering Instructor": [
+            "Catering"
+        ],
+        "MTS": [
+            "General Knowledge"
+        ],
+        "Motor Driver": [
+            "Driving Skills",
+            "Vehicle Maintenance"
+        ],
+        "Cleaner": [
+            "Sanitation and Hygiene"
+        ],
+        "Tradesman": [
+            "Trade-specific skills"
+        ],
+        "Fire Engine Driver": [
+            "Fire Fighting",
+            "Driving Skills"
+        ],
+        "Fireman": [
+            "Fire Fighting",
+            "Physical Fitness"
+        ],
+        "Leading Fireman": [
+            "Fire Fighting",
+            "Leadership"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/army-asc-centre-south-recruitment-2026/",
+    "extraction_timestamp": "2026-08-12T08:11:08.254692Z"
+}

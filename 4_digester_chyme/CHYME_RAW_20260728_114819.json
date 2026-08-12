@@ -1,0 +1,123 @@
+{
+    "exam_name": "DRDO Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Matrices": [
+                    "Matrix Operations",
+                    "Determinants",
+                    "Inverse of a Matrix"
+                ]
+            },
+            "Calculus": {
+                "Differential Calculus": [
+                    "Limits",
+                    "Derivatives",
+                    "Differentiation Rules"
+                ],
+                "Integral Calculus": [
+                    "Definite Integrals",
+                    "Indefinite Integrals",
+                    "Integration Rules"
+                ]
+            }
+        },
+        "Science": {
+            "Physics": {
+                "Mechanics": [
+                    "Kinematics",
+                    "Dynamics",
+                    "Energy and Work"
+                ],
+                "Electromagnetism": [
+                    "Electric Fields",
+                    "Magnetic Fields",
+                    "Electromagnetic Induction"
+                ]
+            },
+            "Chemistry": {
+                "Inorganic Chemistry": [
+                    "Atomic Structure",
+                    "Chemical Bonding",
+                    "Periodic Table"
+                ],
+                "Organic Chemistry": [
+                    "Hydrocarbons",
+                    "Functional Groups",
+                    "Reaction Mechanisms"
+                ]
+            }
+        },
+        "English": {
+            "Comprehension": {
+                "Reading Comprehension": [
+                    "Passage Analysis",
+                    "Vocabulary",
+                    "Inference and Conclusion"
+                ],
+                "Writing Skills": [
+                    "Grammar",
+                    "Syntax",
+                    "Essay Writing"
+                ]
+            }
+        },
+        "Reasoning": {
+            "Logical Reasoning": {
+                "Deductive Reasoning": [
+                    "Syllogisms",
+                    "Arguments",
+                    "Inferences"
+                ],
+                "Inductive Reasoning": [
+                    "Patterns",
+                    "Analogies",
+                    "Abstractions"
+                ]
+            },
+            "Analytical Reasoning": {
+                "Data Analysis": [
+                    "Data Interpretation",
+                    "Graphs and Charts",
+                    "Statistical Methods"
+                ],
+                "Problem Solving": [
+                    "Decision Making",
+                    "Critical Thinking",
+                    "Creative Thinking"
+                ]
+            }
+        },
+        "General Awareness": {
+            "Current Events": {
+                "National News": [
+                    "Politics",
+                    "Economy",
+                    "Social Issues"
+                ],
+                "International News": [
+                    "Global Politics",
+                    "Economy",
+                    "Environmental Issues"
+                ]
+            },
+            "Static General Knowledge": {
+                "History": [
+                    "Ancient History",
+                    "Medieval History",
+                    "Modern History"
+                ],
+                "Geography": [
+                    "Physical Geography",
+                    "Human Geography",
+                    "Environmental Geography"
+                ]
+            }
+        }
+    }
+}

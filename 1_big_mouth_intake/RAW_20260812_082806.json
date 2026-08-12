@@ -1,0 +1,42 @@
+{
+    "conducting_body": "South Asian University (SAU), CBSE",
+    "exam_name": "CUET, JEE, CAT, GMAT, NET",
+    "job_posts_covered": [
+        "NTPC Deputy Manager",
+        "CSIR NAL MTS",
+        "SBI Clerk",
+        "ISRO Assistant, JPA, UDC & Stenographer",
+        "SSC Stenographer",
+        "Navy Apprentice",
+        "SRCC Delhi University Teaching Posts"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "2 June 2025, 19 June 2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "National level exams",
+        "Direct admission"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "Computer Science",
+            "Mathematics",
+            "Biotechnology",
+            "Management Studies (BBA-MBA)",
+            "Law (LLM)",
+            "Economics",
+            "Sociology",
+            "International Relations",
+            "Climate Change and Sustainable Development",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Cyber Security",
+            "Interdisciplinary Sciences"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/cbse-scholarship-hongkong-university/",
+    "extraction_timestamp": "2026-08-12T08:28:06.268213Z"
+}

@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Airports Authority of India (AAI)",
+    "exam_name": "AAI Manager & Junior Executive Recruitment 2026",
+    "job_posts_covered": [
+        "Manager",
+        "Junior Executive"
+    ],
+    "application_dates": {
+        "start_date": "08 August 2026",
+        "end_date": "07 September 2026"
+    },
+    "fee_structure": {
+        "General / OBC / EWS": "₹1000/-",
+        "SC / ST / PwBD / Women / AAI Apprentices": "Nil"
+    },
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Application Verification",
+        "Interview (Manager Posts)",
+        "Physical Measurement Test / Driving Test / Physical Endurance Test (Fire Services only)",
+        "Document Verification",
+        "Medical Examination",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Syllabus": "Available on official website"
+    },
+    "data_source_url": "https://haryanajobs.in/aai-manager-junior-executive-recruitment-2026/",
+    "extraction_timestamp": "2026-08-12T08:55:40.483916Z"
+}

@@ -1,0 +1,80 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Government Recruitment Exams",
+    "job_posts_covered": [
+        "NTPC Deputy Manager",
+        "CSIR NAL MTS",
+        "Safai Sewak",
+        "Mali",
+        "SBI Clerk",
+        "ISRO Assistant",
+        "JPA",
+        "UDC",
+        "Stenographer",
+        "Navy Apprentice",
+        "SRCC Delhi University Teaching Posts"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Admit Card Release"
+    ],
+    "detailed_syllabus": {
+        "HTET": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "SSC Phase XIV 2026": [
+            "Reasoning",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English Language"
+        ],
+        "HP TET 2026": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "UPTET 2026": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ],
+        "AIIMS CRE-5 Recruitment 2026": [
+            "Reasoning",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English Language"
+        ],
+        "UPSC CMSE 2026": [
+            "Paper I",
+            "Paper II"
+        ],
+        "SSC CGL 2026": [
+            "Reasoning",
+            "General Awareness",
+            "Quantitative Aptitude",
+            "English Language"
+        ],
+        "CTET September 2026": [
+            "Child Development and Pedagogy",
+            "Language I",
+            "Language II",
+            "Mathematics",
+            "Environmental Studies"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-08-12T08:24:39.043477Z"
+}

@@ -1,0 +1,121 @@
+{
+    "exam_name": "RRB NTPC Recruitment 2025-26",
+    "chyme_granular_syllabus": {
+        "General Awareness": {
+            "Current Events": {
+                "National News": [
+                    "Government Policies",
+                    "Elections",
+                    "Natural Disasters"
+                ],
+                "International News": [
+                    "Global Economy",
+                    "International Relations",
+                    "Environmental Issues"
+                ]
+            },
+            "Indian History": {
+                "Ancient India": [
+                    "Indus Valley Civilization",
+                    "Vedic Period",
+                    "Mauryan Empire"
+                ],
+                "Medieval India": [
+                    "Mughal Empire",
+                    "British Colonization",
+                    "Freedom Struggle"
+                ]
+            },
+            "Geography": {
+                "Indian Geography": [
+                    "Physical Features",
+                    "Climate",
+                    "Natural Resources"
+                ],
+                "World Geography": [
+                    "Continents",
+                    "Countries",
+                    "Mountain Ranges"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Number Systems": {
+                "Whole Numbers": [
+                    "Addition",
+                    "Subtraction",
+                    "Multiplication",
+                    "Division"
+                ],
+                "Fractions": [
+                    "Simplification",
+                    "Comparison",
+                    "Addition",
+                    "Subtraction"
+                ]
+            },
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Graphs": [
+                    "Linear Graphs",
+                    "Quadratic Graphs",
+                    "Circular Graphs"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Midpoint",
+                    "Distance",
+                    "Slope"
+                ],
+                "Angles and Triangles": [
+                    "Types of Angles",
+                    "Properties of Triangles",
+                    "Theorem Proofs"
+                ]
+            }
+        },
+        "General Intelligence & Reasoning": {
+            "Verbal Reasoning": {
+                "Analogies": [
+                    "Word Analogies",
+                    "Number Analogies",
+                    "Figure Analogies"
+                ],
+                "Syllogisms": [
+                    "Basic Syllogisms",
+                    "Complex Syllogisms",
+                    "Syllogism Rules"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Pattern Recognition": [
+                    "Number Patterns",
+                    "Letter Patterns",
+                    "Figure Patterns"
+                ],
+                "Problem Solving": [
+                    "Logical Reasoning",
+                    "Data Interpretation",
+                    "Decision Making"
+                ]
+            },
+            "Logical Reasoning": {
+                "Deductive Reasoning": [
+                    "Arguments",
+                    "Premises",
+                    "Conclusions"
+                ],
+                "Inductive Reasoning": [
+                    "Observations",
+                    "Hypotheses",
+                    "Theories"
+                ]
+            }
+        }
+    }
+}
