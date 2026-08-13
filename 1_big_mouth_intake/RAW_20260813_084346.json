@@ -1,0 +1,35 @@
+{
+    "conducting_body": "RRB, Punjab Vidhan Sabha, GNDU, UPSC, SSC, CBSE, HPSC, NTPC, CSIR NAL",
+    "exam_name": "RRB JE, Punjab Vidhan Sabha Group D, GNDU Non-Teaching, UPSC NDA II, SSC JHT, SSC Stenographer, CBSE 12th Class Compartment, HPSC PGT Computer Science, NTPC Deputy Manager, CSIR NAL MTS",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "DMS",
+        "CMA",
+        "Chowkidar",
+        "Safai Sewak",
+        "Non-Teaching",
+        "Deputy Manager",
+        "Multi Tasking Staff",
+        "PGT Computer Science"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "English",
+            "Mathematics",
+            "Reasoning",
+            "Computer Science"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-13T08:43:46.202434Z"
+}

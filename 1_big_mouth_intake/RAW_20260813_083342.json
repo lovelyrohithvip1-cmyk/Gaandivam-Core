@@ -1,0 +1,57 @@
+{
+    "conducting_body": "South Asian University (SAU), CBSE",
+    "exam_name": "CUET, JEE, CAT, GMAT, NET",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "DMS",
+        "CMA",
+        "Chowkidar",
+        "Safai Sewak",
+        "Non-Teaching",
+        "NDA",
+        "JHT",
+        "Stenographer",
+        "PGT Computer Science",
+        "Deputy Manager",
+        "Multi Tasking Staff"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "2 June 2025, 19 June 2025"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "National level exams",
+        "Direct admission"
+    ],
+    "detailed_syllabus": {
+        "Computer Science": [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Cyber Security"
+        ],
+        "Management Studies": [
+            "BBA",
+            "MBA"
+        ],
+        "Law": [
+            "LLM"
+        ],
+        "Economics": [
+            "International Relations",
+            "Climate Change",
+            "Sustainable Development"
+        ],
+        "Sociology": [
+            "Contemporary subjects"
+        ],
+        "Interdisciplinary Sciences": [
+            "Media",
+            "Arts and Design",
+            "Physics"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/cbse-scholarship-hongkong-university/",
+    "extraction_timestamp": "2026-08-13T08:33:42.456048Z"
+}

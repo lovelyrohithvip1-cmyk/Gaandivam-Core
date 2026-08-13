@@ -1,0 +1,56 @@
+{
+    "conducting_body": "Government Institute of Medical Sciences (GIMS), Greater Noida",
+    "exam_name": "GIMS Staff Nurse Recruitment 2026",
+    "job_posts_covered": [
+        "Staff Nurse"
+    ],
+    "application_dates": {
+        "start_date": "10 August 2026",
+        "end_date": "07 September 2026"
+    },
+    "fee_structure": "UR: ₹1,298, OBC / EWS: ₹1,298, SC / ST: ₹944, Divyang: ₹0",
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Merit based on CBT marks",
+        "Biometric & Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Section A": [
+            "Mental Health Nursing",
+            "Fundamentals of Nursing",
+            "Nursing Foundations I & II",
+            "First Aid",
+            "ACLS",
+            "BCLS",
+            "Applied Microbiology & Infection Control",
+            "Child Health Nursing including Neonatal Care"
+        ],
+        "Section B": [
+            "Applied Anatomy",
+            "Physiology & Biochemistry",
+            "Nutrition & Dietetics",
+            "Applied Psychology",
+            "Forensic Nursing",
+            "Standard Treatment Protocols in National Health Programmes",
+            "Nursing Research & Statistics"
+        ],
+        "Section C": [
+            "Basic Sciences",
+            "Communicative English",
+            "Community Health Nursing",
+            "Environmental Hygiene",
+            "Professionalism/Values/Ethics & Bioethics",
+            "Health/Nursing Informatics & Technology"
+        ],
+        "Other Topics": [
+            "Nursing Management & Leadership",
+            "Applied Sociology",
+            "Medical & Surgical Nursing",
+            "Pharmacology I & II",
+            "Pathology I & II"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/gims-staff-nurse-recruitment-2026/",
+    "extraction_timestamp": "2026-08-13T08:19:34.832489Z"
+}

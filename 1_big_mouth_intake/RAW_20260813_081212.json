@@ -1,0 +1,50 @@
+{
+    "conducting_body": "Intelligence Bureau (IB), Ministry of Home Affairs",
+    "exam_name": "IB Security Assistant/Executive",
+    "job_posts_covered": [
+        "Security Assistant/Executive"
+    ],
+    "application_dates": {
+        "start_date": "26 July 2025",
+        "end_date": "17 August 2025"
+    },
+    "fee_structure": {
+        "General/OBC/EWS": "₹650",
+        "SC/ST/Female": "₹550"
+    },
+    "selection_stages": [
+        "Tier-I Exam",
+        "Tier-II Exam",
+        "Interview Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "General Awareness": [
+            "General Knowledge"
+        ],
+        "Quant": [
+            "Mathematics"
+        ],
+        "Reasoning": [
+            "Logical Reasoning"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar"
+        ],
+        "General Studies": [
+            "Current Affairs"
+        ],
+        "Translation": [
+            "Language Proficiency"
+        ],
+        "Comprehension": [
+            "Reading Comprehension"
+        ],
+        "Skill Test": [
+            "Local Language Proficiency"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/ib-security-assistant-executive-answer-key-2025/",
+    "extraction_timestamp": "2026-08-13T08:12:12.493194Z"
+}

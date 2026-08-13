@@ -1,0 +1,23 @@
+{
+    "conducting_body": "RRB",
+    "exam_name": "RRB JE Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "DMS",
+        "CMA"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Notification",
+        "Apply Online"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-13T08:29:13.666109Z"
+}

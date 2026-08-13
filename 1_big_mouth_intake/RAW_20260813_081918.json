@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "DMS",
+        "CMA",
+        "Chowkidar",
+        "Safai Sewak",
+        "Non-Teaching",
+        "NDA",
+        "JHT",
+        "Stenographer",
+        "PGT Computer Science",
+        "Deputy Manager",
+        "Multi Tasking Staff"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Admit Card Release"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/govt-jobs-exam-date/",
+    "extraction_timestamp": "2026-08-13T08:19:18.628691Z"
+}

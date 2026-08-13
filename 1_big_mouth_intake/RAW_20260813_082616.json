@@ -1,0 +1,29 @@
+{
+    "conducting_body": "Uttar Pradesh Subordinate Services Selection Commission (UPSSSC)",
+    "exam_name": "Preliminary Eligibility Test (PET) 2026",
+    "job_posts_covered": [
+        "Group C government jobs"
+    ],
+    "application_dates": {
+        "start_date": "03 August 2026",
+        "end_date": "01 September 2026"
+    },
+    "fee_structure": {
+        "General": "₹185",
+        "OBC": "₹185",
+        "EWS": "₹185",
+        "SC": "₹95",
+        "ST": "₹95",
+        "PwBD": "₹25"
+    },
+    "selection_stages": [
+        "Offline (OMR Based) Exam"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text, but the exam pattern includes 100 objective type questions"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/upsssc-pet-2026-notification-apply-online-for-preliminary-eligibility-test-10th-pass/",
+    "extraction_timestamp": "2026-08-13T08:26:16.565514Z"
+}

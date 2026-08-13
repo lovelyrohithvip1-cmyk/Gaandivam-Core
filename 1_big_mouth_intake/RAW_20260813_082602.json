@@ -1,0 +1,34 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "UPSC NDA II",
+    "job_posts_covered": [
+        "Junior Engineer",
+        "DMS",
+        "CMA",
+        "Chowkidar",
+        "Safai Sewak"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Trigonometry"
+        ],
+        "Science": [
+            "Physics",
+            "Chemistry",
+            "Biology"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/active-govt-jobs/",
+    "extraction_timestamp": "2026-08-13T08:26:02.845501Z"
+}

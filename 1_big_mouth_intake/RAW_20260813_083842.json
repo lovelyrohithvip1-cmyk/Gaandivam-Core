@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Railway Recruitment Cell (RRC), Central Railway",
+    "exam_name": "RRC Central Railway Scouts & Guides Quota Recruitment 2026",
+    "job_posts_covered": [
+        "Level-2",
+        "Level-1"
+    ],
+    "application_dates": {
+        "start_date": "13 July 2026",
+        "end_date": "12 August 2026"
+    },
+    "fee_structure": "General/OBC/EWS: Rs 500/-, SC/ST/PwBD/Women: Rs 250/-",
+    "selection_stages": [
+        "Scrutiny of eligibility",
+        "Assessment of Scouts & Guides achievements",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Level-2": [
+            "12th pass with 50%",
+            "10th + ITI/NAC + Scouting/Guiding Qualification"
+        ],
+        "Level-1": [
+            "10th pass",
+            "10th + ITI/NAC + Scouting/Guiding Qualification"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rrc-central-railway-scouts-guides-quota-recruitment-2026/",
+    "extraction_timestamp": "2026-08-13T08:38:42.718760Z"
+}

@@ -1,0 +1,29 @@
+{
+    "conducting_body": "All India Institute of Medical Sciences (AIIMS), New Delhi",
+    "exam_name": "Nursing Officer Recruitment Common Eligibility Test (NORCET) 11",
+    "job_posts_covered": [
+        "Nursing Officer (Group-B)"
+    ],
+    "application_dates": {
+        "start_date": "24 July 2026",
+        "end_date": "13 August 2026 (5:00 PM)"
+    },
+    "fee_structure": {
+        "General / OBC": "₹3,000",
+        "EWS / SC / ST": "₹2,400",
+        "Persons with Disabilities (PwD)": "Exempted"
+    },
+    "selection_stages": [
+        "NORCET Stage-I (Preliminary Computer Based Test)",
+        "NORCET Stage-II (Main Computer Based Test)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/aiims-norcet-11-recruitment-2026/",
+    "extraction_timestamp": "2026-08-13T08:36:09.758386Z"
+}
