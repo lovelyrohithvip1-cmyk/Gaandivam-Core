@@ -1,0 +1,42 @@
+{
+    "conducting_body": "Indian Army",
+    "exam_name": "Agniveer Recruitment Rally 2026",
+    "job_posts_covered": [
+        "Agniveer General Duty (Relationship & Open Sportsman)",
+        "Agniveer Tradesman (8th & 10th Pass)",
+        "Agniveer Clerk"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": "No Fee",
+    "selection_stages": [
+        "Document Verification",
+        "Physical Fitness Test (PFT)",
+        "Physical Measurement Test (PMT)",
+        "Sports Aptitude Test (for Sportsman Category)",
+        "Medical Examination",
+        "Common Entrance Examination (CEE)",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Agniveer General Duty (Relationship)": [
+            "Class 10th/Matric with 45% aggregate marks and 33% marks in each subject"
+        ],
+        "Agniveer General Duty (Open Sportsman)": [
+            "Class 10th with 45% aggregate marks and 33% in each subject along with eligible Sports Certificates"
+        ],
+        "Agniveer Tradesman (10th Pass)": [
+            "10th Pass with minimum 33% marks in five basic subjects"
+        ],
+        "Agniveer Tradesman (8th Pass)": [
+            "8th Pass with minimum 33% marks in five basic subjects"
+        ],
+        "Agniveer Clerk": [
+            "10+2/Intermediate with 60% aggregate marks, minimum 50% in each subject, and 50% in English & Maths/Accounts/Book Keeping"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/army-agniveer-recruitment-rally-2026-rajput-regimental-centre-fatehgarh/",
+    "extraction_timestamp": "2026-08-14T08:38:33.548427Z"
+}

@@ -1,0 +1,37 @@
+{
+    "conducting_body": "NTPC Limited",
+    "exam_name": "NTPC Deputy Manager Recruitment 2026",
+    "job_posts_covered": [
+        "Deputy Manager (Electrical)",
+        "Deputy Manager (Mechanical)",
+        "Deputy Manager (Control & Instrumentation)"
+    ],
+    "application_dates": {
+        "start_date": "12 August 2026",
+        "end_date": "26 August 2026"
+    },
+    "fee_structure": {
+        "General / OBC / EWS": "Rs 500/-",
+        "SC / ST / PwBD": "Rs 0/-"
+    },
+    "selection_stages": [
+        "Shortlisting based on eligibility and experience",
+        "Written Exam",
+        "Personal Interview",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Electrical": [
+            "Relevant post-qualification experience in Electrical Engineering"
+        ],
+        "Mechanical": [
+            "Relevant post-qualification experience in Mechanical Engineering"
+        ],
+        "Control & Instrumentation": [
+            "Relevant experience in Control & Instrumentation / Instrumentation / Electronics or equivalent"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/ntpc-deputy-manager-recruitment-2026/",
+    "extraction_timestamp": "2026-08-14T08:29:44.431448Z"
+}

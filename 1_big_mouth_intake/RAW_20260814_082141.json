@@ -1,0 +1,35 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "UPSC Exam",
+    "job_posts_covered": [
+        "Civil Services",
+        "Indian Forest Service",
+        "Indian Administrative Service",
+        "Indian Police Service"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Mains Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Studies": [
+            "Indian History",
+            "Indian Polity",
+            "Geography",
+            "Economy"
+        ],
+        "Optional Subject": [
+            "Literature",
+            "Science",
+            "Engineering"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/",
+    "extraction_timestamp": "2026-08-14T08:21:41.018276Z"
+}

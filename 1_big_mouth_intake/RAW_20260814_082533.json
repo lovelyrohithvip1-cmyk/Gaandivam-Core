@@ -1,0 +1,20 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "RRB Group D",
+    "job_posts_covered": [
+        "Group D"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "CBT"
+    ],
+    "detailed_syllabus": {
+        "Subjects": []
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-group-d-previous-year-question-paper/",
+    "extraction_timestamp": "2026-08-14T08:25:33.117207Z"
+}

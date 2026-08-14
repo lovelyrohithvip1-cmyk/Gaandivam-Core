@@ -1,0 +1,41 @@
+{
+    "conducting_body": "Indian Overseas Bank (IOB)",
+    "exam_name": "Indian Overseas Bank LBO Recruitment 2026",
+    "job_posts_covered": [
+        "Local Bank Officer (LBO) posts in JMGS-I (Scale-I)"
+    ],
+    "application_dates": {
+        "start_date": "08 August 2026",
+        "end_date": "24 August 2026"
+    },
+    "fee_structure": {
+        "General / EWS / OBC": "₹850/-",
+        "SC / ST / PwBD": "₹175/-"
+    },
+    "selection_stages": [
+        "Online Exam",
+        "Language Proficiency Test (LPT)",
+        "Personal Interview"
+    ],
+    "detailed_syllabus": {
+        "Reasoning & Computer Aptitude": [
+            "Reasoning",
+            "Computer Aptitude"
+        ],
+        "General / Economy / Banking Awareness": [
+            "General Knowledge",
+            "Economy",
+            "Banking Awareness"
+        ],
+        "Data Analysis & Interpretation": [
+            "Data Analysis",
+            "Data Interpretation"
+        ],
+        "English Knowledge": [
+            "English Language",
+            "English Comprehension"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/indian-overseas-bank-lbo-recruitment-2026/",
+    "extraction_timestamp": "2026-08-14T08:36:07.264333Z"
+}

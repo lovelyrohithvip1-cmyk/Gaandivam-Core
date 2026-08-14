@@ -1,0 +1,21 @@
+{
+    "conducting_body": "RRB",
+    "exam_name": "RRB JE Exam",
+    "job_posts_covered": [
+        "Junior Engineer"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Tier 1",
+        "Tier 2"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-14T08:35:49.538106Z"
+}

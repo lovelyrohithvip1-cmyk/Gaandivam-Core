@@ -1,0 +1,30 @@
+{
+    "exam_name": "IB Security Assistant/Executive",
+    "raw_syllabus": {
+        "General Awareness": [
+            "General Knowledge"
+        ],
+        "Quant": [
+            "Mathematics"
+        ],
+        "Reasoning": [
+            "Logical Reasoning"
+        ],
+        "English": [
+            "Comprehension",
+            "Grammar"
+        ],
+        "General Studies": [
+            "Current Affairs"
+        ],
+        "Translation": [
+            "Language Proficiency"
+        ],
+        "Comprehension": [
+            "Reading Comprehension"
+        ],
+        "Skill Test": [
+            "Local Language Proficiency"
+        ]
+    }
+}

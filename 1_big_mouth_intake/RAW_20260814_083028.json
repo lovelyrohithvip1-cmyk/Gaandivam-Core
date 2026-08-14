@@ -1,0 +1,46 @@
+{
+    "conducting_body": "Indian Army",
+    "exam_name": "Agniveer Common Entrance Exam (CEE) 2026",
+    "job_posts_covered": [
+        "General Duty",
+        "Technical",
+        "Clerk",
+        "Tradesman"
+    ],
+    "application_dates": {
+        "start_date": "13 February 2026",
+        "end_date": "10 April 2026"
+    },
+    "fee_structure": "Rs. 250/-",
+    "selection_stages": [
+        "Written Exam",
+        "Physical Test",
+        "Skill Test",
+        "Adaptability Test",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "General Duty": [
+            "10th Pass level subjects"
+        ],
+        "Clerk": [
+            "12th Pass level subjects",
+            "English",
+            "Mathematics",
+            "General Knowledge"
+        ],
+        "Tradesman": [
+            "8th Pass level subjects",
+            "10th Pass level subjects"
+        ],
+        "Technical": [
+            "12th Pass level subjects with PCM",
+            "Physics",
+            "Chemistry",
+            "Mathematics"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/indian-army-agniveer-admit-card-2026/",
+    "extraction_timestamp": "2026-08-14T08:30:28.968977Z"
+}

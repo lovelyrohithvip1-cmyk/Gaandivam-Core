@@ -1,0 +1,47 @@
+{
+    "conducting_body": "Security Printing & Minting Corporation of India Limited (SPMCIL)",
+    "exam_name": "SPMCIL Recruitment 2026",
+    "job_posts_covered": [
+        "Deputy Manager",
+        "Assistant Manager"
+    ],
+    "application_dates": {
+        "start_date": "25 July 2026",
+        "end_date": "24 August 2026"
+    },
+    "fee_structure": {
+        "UR / OBC / EWS": "Rs 1000/-",
+        "SC / ST / PwBD": "Rs 200/-"
+    },
+    "selection_stages": [
+        "Online Written Examination",
+        "Interview",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Deputy Manager (IT) – Application Developer": [
+            "B.E./B.Tech./MCA or equivalent in relevant discipline with required experience"
+        ],
+        "Assistant Manager (HR)": [
+            "MBA/PG Degree or PG Diploma in HR/Personnel Management/IR or equivalent"
+        ],
+        "Assistant Manager (Finance & Accounts)": [
+            "CA/CMA or equivalent qualification"
+        ],
+        "Assistant Manager (Materials Management)": [
+            "Engineering Degree with PG Diploma/Degree in Materials Management/Supply Chain or relevant qualification"
+        ],
+        "Assistant Manager (IT)": [
+            "B.E./B.Tech./MCA or equivalent in IT/Computer Science"
+        ],
+        "Assistant Manager (Official Language)": [
+            "Master’s Degree in Hindi/English with translation qualifications as prescribed"
+        ],
+        "Assistant Manager (Safety)": [
+            "Engineering Degree with Diploma/Degree in Industrial Safety or equivalent"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/spmcil-recruitment-2026/",
+    "extraction_timestamp": "2026-08-14T08:45:26.443365Z"
+}

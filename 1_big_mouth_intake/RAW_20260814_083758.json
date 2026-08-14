@@ -1,0 +1,21 @@
+{
+    "conducting_body": "Railway Recruitment Board (RRB)",
+    "exam_name": "Non-Technical Popular Categories (NTPC) exam",
+    "job_posts_covered": [
+        "Non-Technical Popular Categories"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Stage I",
+        "Stage II"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-ntpc-previous-year-paper-hindi-eng-medium/",
+    "extraction_timestamp": "2026-08-14T08:37:58.369286Z"
+}

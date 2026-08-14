@@ -1,0 +1,34 @@
+{
+    "exam_name": "SSC GD Constable Examination 2026",
+    "raw_syllabus": {
+        "General Intelligence and Reasoning": [
+            "Analogy",
+            "Blood Relation",
+            "Coding-Decoding",
+            "Direction and Distance",
+            "Figural Series",
+            "Missing Number",
+            "Non-Verbal Reasoning",
+            "Number Series",
+            "Puzzles",
+            "Seating Arrangement",
+            "Syllogism"
+        ],
+        "General Knowledge and Awareness": [
+            "Current Events",
+            "Economy",
+            "General Polity",
+            "Geography",
+            "History",
+            "Science and Technology"
+        ],
+        "Elementary Mathematics": [
+            "Algebra",
+            "Geometry",
+            "Mensuration",
+            "Number System",
+            "Statistics",
+            "Trigonometry"
+        ]
+    }
+}
