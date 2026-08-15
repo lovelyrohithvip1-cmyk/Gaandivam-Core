@@ -1,0 +1,59 @@
+{
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "exam_name": "UPSC Exam Calendar 2027",
+    "job_posts_covered": [
+        "Civil Services",
+        "NDA",
+        "CDS",
+        "Engineering Services",
+        "CAPF",
+        "IFoS",
+        "CMS",
+        "Combined Geo-Scientist",
+        "CISF AC(EXE) LDCE",
+        "IES/ISS",
+        "Combined Medical Services",
+        "S.O./Steno (GD-B/GD-I) LDCE"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination"
+    ],
+    "detailed_syllabus": {
+        "Civil Services": [
+            "General Studies",
+            "Aptitude",
+            "Optional Subjects"
+        ],
+        "Engineering Services": [
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Electrical Engineering",
+            "Electronics Engineering"
+        ],
+        "Combined Geo-Scientist": [
+            "Geology",
+            "Geophysics",
+            "Chemistry",
+            "Hydrogeology"
+        ],
+        "NDA & NA": [
+            "Mathematics",
+            "General Ability",
+            "English",
+            "Reasoning"
+        ],
+        "CDS": [
+            "English",
+            "General Knowledge",
+            "Elementary Mathematics"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/upsc-exam-calendar-2027/",
+    "extraction_timestamp": "2026-08-15T04:52:10.065527Z"
+}

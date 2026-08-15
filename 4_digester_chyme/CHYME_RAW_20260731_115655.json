@@ -1,0 +1,24 @@
+{
+    "exam_name": "ITAT Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "English": {
+            "Language Skills": {
+                "Typing Skills": [
+                    "Shorthand Speed of 120 WPM"
+                ]
+            }
+        },
+        "Computer Knowledge": {
+            "Software Applications": {
+                "Microsoft Office": [
+                    "MS Office Suite",
+                    "Word Processing"
+                ],
+                "Spreadsheet Management": [
+                    "Excel Basics",
+                    "Data Analysis with Excel"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "conducting_body": "Aeronautical Development Agency (ADA), DRDO",
+    "exam_name": "DRDO ADA Project Assistant Recruitment 2026",
+    "job_posts_covered": [
+        "Project Assistant-I"
+    ],
+    "application_dates": {
+        "start_date": "04 August 2026",
+        "end_date": "13 August 2026"
+    },
+    "fee_structure": "Nil",
+    "selection_stages": [
+        "Shortlisting",
+        "Written Test",
+        "Interview",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Computer Science Engineering": [
+            "GATE syllabus"
+        ],
+        "Electronics & Communication Engineering": [
+            "GATE syllabus"
+        ],
+        "Aeronautical Engineering": [
+            "GATE syllabus"
+        ],
+        "Electrical & Electronics Engineering": [
+            "GATE syllabus"
+        ],
+        "Mechanical Engineering": [
+            "GATE syllabus"
+        ],
+        "Metallurgy Engineering": [
+            "GATE syllabus"
+        ],
+        "Civil Engineering": [
+            "GATE syllabus"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/drdo-ada-project-assistant-recruitment-2026/",
+    "extraction_timestamp": "2026-08-15T04:37:31.533875Z"
+}

@@ -1,0 +1,83 @@
+{
+    "exam_name": "DSSSB Recruitment Examination 2026",
+    "chyme_granular_syllabus": {
+        "General Awareness": {
+            "Indian History": {
+                "Ancient India": [
+                    "Indus Valley Civilization",
+                    "Vedic Period",
+                    "Mauryan Empire"
+                ],
+                "Medieval India": [
+                    "Delhi Sultanate",
+                    "Mughal Empire",
+                    "Maratha Empire"
+                ]
+            },
+            "Indian Geography": {
+                "Physical Geography": [
+                    "Mountains",
+                    "Rivers",
+                    "Climate"
+                ],
+                "Political Geography": [
+                    "States and Union Territories",
+                    "Districts and Tehsils",
+                    "International Boundaries"
+                ]
+            }
+        },
+        "Mathematics": {
+            "Arithmetic": {
+                "Number System": [
+                    "Whole Numbers",
+                    "Fractions",
+                    "Decimals"
+                ],
+                "Algebra": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomials"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Coordinates",
+                    "Distance Formula",
+                    "Section Formula"
+                ],
+                "Angles and Triangles": [
+                    "Types of Angles",
+                    "Properties of Triangles",
+                    "Congruence of Triangles"
+                ]
+            }
+        },
+        "Reasoning": {
+            "Verbal Reasoning": {
+                "Analogy": [
+                    "Word Analogy",
+                    "Letter Analogy",
+                    "Number Analogy"
+                ],
+                "Series": [
+                    "Number Series",
+                    "Letter Series",
+                    "Pattern Series"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Figure Series": [
+                    "Completion of Figures",
+                    "Analogous Figures",
+                    "Embedded Figures"
+                ],
+                "Mirror Images": [
+                    "Reflection",
+                    "Rotation",
+                    "Projection"
+                ]
+            }
+        }
+    }
+}

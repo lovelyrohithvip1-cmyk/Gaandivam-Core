@@ -1,0 +1,83 @@
+{
+    "exam_name": "CSA Result 2025",
+    "chyme_granular_syllabus": {
+        "Mathematics": {
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Inequalities": [
+                    "Linear Inequalities",
+                    "Quadratic Inequalities",
+                    "Rational Inequalities"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Midpoint Formula",
+                    "Distance Formula",
+                    "Slope Formula"
+                ],
+                "Circles": [
+                    "Circle Properties",
+                    "Circle Equations",
+                    "Circle Theorems"
+                ]
+            }
+        },
+        "Science": {
+            "Physics": {
+                "Mechanics": [
+                    "Kinematics",
+                    "Dynamics",
+                    "Energy and Work"
+                ],
+                "Thermodynamics": [
+                    "Laws of Thermodynamics",
+                    "Thermal Properties",
+                    "Thermodynamic Processes"
+                ]
+            },
+            "Chemistry": {
+                "Inorganic Chemistry": [
+                    "Atomic Structure",
+                    "Chemical Bonding",
+                    "Periodic Table"
+                ],
+                "Organic Chemistry": [
+                    "Hydrocarbons",
+                    "Functional Groups",
+                    "Organic Reactions"
+                ]
+            }
+        },
+        "Computer Science": {
+            "Programming": {
+                "Data Types": [
+                    "Variables",
+                    "Data Structures",
+                    "Operators"
+                ],
+                "Control Structures": [
+                    "Conditional Statements",
+                    "Loops",
+                    "Functions"
+                ]
+            },
+            "Algorithms": {
+                "Sorting": [
+                    "Bubble Sort",
+                    "Selection Sort",
+                    "Merge Sort"
+                ],
+                "Searching": [
+                    "Linear Search",
+                    "Binary Search",
+                    "Depth-First Search"
+                ]
+            }
+        }
+    }
+}

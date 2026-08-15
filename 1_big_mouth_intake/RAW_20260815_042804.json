@@ -1,0 +1,66 @@
+{
+    "conducting_body": "Indian Oil Corporation Limited (IOCL), Marketing Division, Northern Region",
+    "exam_name": "IOCL NR Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Technician Apprentice",
+        "Trade Apprentice",
+        "Graduate Apprentice",
+        "Data Entry Operator"
+    ],
+    "application_dates": {
+        "start_date": "07 August 2026",
+        "end_date": "06 September 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Shortlisting",
+        "Documents Verification",
+        "Medical Test"
+    ],
+    "detailed_syllabus": {
+        "Technician Apprentice - Mechanical": [
+            "3-year regular full-time Diploma in Mechanical Engineering"
+        ],
+        "Technician Apprentice - Electrical": [
+            "3-year regular full-time Diploma in Electrical Engineering"
+        ],
+        "Technician Apprentice - Instrumentation": [
+            "3-year regular full-time Diploma in Instrumentation Engineering"
+        ],
+        "Technician Apprentice - Civil": [
+            "3-year regular full-time Diploma in Civil Engineering"
+        ],
+        "Technician Apprentice - Electrical & Electronics": [
+            "3-year regular full-time Diploma in Electrical & Electronics Engineering"
+        ],
+        "Technician Apprentice - Electronics": [
+            "3-year regular full-time Diploma in Electronics Engineering"
+        ],
+        "Trade Apprentice - Fitter": [
+            "Matriculation + regular full-time 2-year ITI in Fitter trade"
+        ],
+        "Trade Apprentice - Electrician": [
+            "Matriculation + regular full-time 2-year ITI in Electrician trade"
+        ],
+        "Trade Apprentice - Electronics Mechanic": [
+            "Matriculation + regular full-time 2-year ITI in Electronics Mechanic trade"
+        ],
+        "Trade Apprentice - Instrument Mechanic": [
+            "Matriculation + regular full-time 2-year ITI in Instrument Mechanic trade"
+        ],
+        "Trade Apprentice - Machinist": [
+            "Matriculation + regular full-time 2-year ITI in Machinist trade"
+        ],
+        "Graduate Apprentice": [
+            "Regular full-time Graduation in any discipline"
+        ],
+        "Data Entry Operator - Fresher": [
+            "Class 12th pass but below graduation"
+        ],
+        "Data Entry Operator - Skill Certificate Holders": [
+            "Class 12th pass but below graduation + Domestic Data Entry Operator Skill Certificate"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/iocl-nr-recruitment-2026/",
+    "extraction_timestamp": "2026-08-15T04:28:04.829166Z"
+}

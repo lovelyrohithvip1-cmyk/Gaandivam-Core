@@ -1,0 +1,157 @@
+{
+    "exam_name": "IBPS PO Recruitment 2026",
+    "chyme_granular_syllabus": {
+        "Reasoning": {
+            "Verbal Reasoning": {
+                "Logical Deductions": [
+                    "Syllogisms",
+                    "Logical Puzzles",
+                    "Statement Conclusions"
+                ],
+                "Analytical Reasoning": [
+                    "Seating Arrangements",
+                    "Blood Relations",
+                    "Direction Sense"
+                ]
+            },
+            "Non-Verbal Reasoning": {
+                "Pattern Completion": [
+                    "Series Completion",
+                    "Analogies",
+                    "Odd One Out"
+                ],
+                "Visual Reasoning": [
+                    "Mirror Images",
+                    "Paper Folding",
+                    "Water Images"
+                ]
+            }
+        },
+        "English Language": {
+            "Reading Comprehension": {
+                "Passage Types": [
+                    "Narrative Passages",
+                    "Descriptive Passages",
+                    "Argumentative Passages"
+                ],
+                "Question Types": [
+                    "Vocabulary Questions",
+                    "Inference Questions",
+                    "Main Idea Questions"
+                ]
+            },
+            "Grammar": {
+                "Parts of Speech": [
+                    "Nouns",
+                    "Verbs",
+                    "Adjectives",
+                    "Adverbs"
+                ],
+                "Sentence Structure": [
+                    "Simple Sentences",
+                    "Compound Sentences",
+                    "Complex Sentences"
+                ]
+            },
+            "Vocabulary": {
+                "Word Types": [
+                    "Synonyms",
+                    "Antonyms",
+                    "Homophones",
+                    "Homographs"
+                ],
+                "Word Usage": [
+                    "Idioms",
+                    "Phrases",
+                    "Collocations"
+                ]
+            }
+        },
+        "Quantitative Aptitude": {
+            "Number Systems": {
+                "Number Theory": [
+                    "Divisibility Rules",
+                    "Prime Numbers",
+                    "LCM and HCF"
+                ],
+                "Decimal and Fraction Operations": [
+                    "Addition and Subtraction",
+                    "Multiplication and Division"
+                ]
+            },
+            "Algebra": {
+                "Equations": [
+                    "Linear Equations",
+                    "Quadratic Equations",
+                    "Polynomial Equations"
+                ],
+                "Inequalities": [
+                    "Linear Inequalities",
+                    "Quadratic Inequalities"
+                ]
+            },
+            "Geometry": {
+                "Points and Lines": [
+                    "Midpoint Theorem",
+                    "Distance Formula",
+                    "Section Formula"
+                ],
+                "Angles and Triangles": [
+                    "Angle Properties",
+                    "Triangle Properties",
+                    "Circle Properties"
+                ]
+            },
+            "Data Interpretation": {
+                "Data Representation": [
+                    "Tables",
+                    "Graphs",
+                    "Charts"
+                ],
+                "Data Analysis": [
+                    "Ratios",
+                    "Percentages",
+                    "Averages"
+                ]
+            }
+        },
+        "General Awareness": {
+            "Current Affairs": {
+                "National News": [
+                    "Politics",
+                    "Economy",
+                    "Social Issues"
+                ],
+                "International News": [
+                    "Global Politics",
+                    "Economy",
+                    "Environmental Issues"
+                ]
+            },
+            "Banking Awareness": {
+                "Banking Concepts": [
+                    "Types of Banks",
+                    "Banking Products",
+                    "Banking Services"
+                ],
+                "Financial Regulations": [
+                    "RBI Policies",
+                    "Banking Laws",
+                    "Financial Inclusion"
+                ]
+            },
+            "Economy": {
+                "Indian Economy": [
+                    "GDP",
+                    "Inflation",
+                    "Unemployment"
+                ],
+                "Global Economy": [
+                    "International Trade",
+                    "Globalization",
+                    "Economic Systems"
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "conducting_body": "Sardar Vallabhbhai Patel University of Agriculture & Technology (SVPUAT), Meerut",
+    "exam_name": "SVPUAT Non-Teaching Recruitment 2026",
+    "job_posts_covered": [
+        "Farm Manager",
+        "Programme Assistant (Computer)",
+        "Programme Assistant (Lab Technician)",
+        "Assistant",
+        "Stenographer Grade-III",
+        "Driver"
+    ],
+    "application_dates": {
+        "start_date": "03 July 2026",
+        "end_date": "10 August 2026"
+    },
+    "fee_structure": {
+        "General/OBC/EWS": "Rs 1000/-",
+        "SC/ST/PwBD": "Rs 500/-"
+    },
+    "selection_stages": [
+        "Written Examination",
+        "Skill Test / Trade Test (where applicable)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Note": "Not Provided"
+    },
+    "data_source_url": "https://haryanajobs.in/svpuat-non-teaching-recruitment-2026-notification/",
+    "extraction_timestamp": "2026-08-15T04:27:02.833418Z"
+}

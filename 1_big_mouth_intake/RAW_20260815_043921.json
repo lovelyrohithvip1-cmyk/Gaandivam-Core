@@ -1,0 +1,34 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "UPSC Civil Service Mains Exam",
+    "job_posts_covered": [
+        "Principal",
+        "Vice Principal",
+        "PO",
+        "Security Assistant/Executive",
+        "Forest Guard",
+        "Jail Prahari",
+        "Field Guard",
+        "Superintendent"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Prelims",
+        "Mains",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Studies",
+            "Optional Subject",
+            "English",
+            "Hindi"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-15T04:39:21.601416Z"
+}

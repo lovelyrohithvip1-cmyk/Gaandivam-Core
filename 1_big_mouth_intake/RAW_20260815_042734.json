@@ -1,0 +1,27 @@
+{
+    "conducting_body": "Haryana Public Service Commission",
+    "exam_name": "Haryana Civil Services (HCS)",
+    "job_posts_covered": [
+        "HCS (Executive Branch) & Allied Services"
+    ],
+    "application_dates": {
+        "start_date": "06 February 2026",
+        "end_date": "26 February 2026"
+    },
+    "fee_structure": "General (Male): ₹1000, General (Female): ₹250, SC / BC / EWS (Haryana): ₹250, PwD: ₹0",
+    "selection_stages": [
+        "Preliminary Examination (Screening Test)",
+        "Mains Written Examination",
+        "Interview / Personality Test"
+    ],
+    "detailed_syllabus": {
+        "GS Paper 1": [
+            "Not specified in the given text"
+        ],
+        "CSAT Paper 2": [
+            "Not specified in the given text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/hpsc-hcs-answer-key-2026/",
+    "extraction_timestamp": "2026-08-15T04:27:34.838566Z"
+}
