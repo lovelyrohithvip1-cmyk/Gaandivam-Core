@@ -1,0 +1,36 @@
+{
+    "conducting_body": "IBPS",
+    "exam_name": "IBPS PO Recruitment 2026",
+    "job_posts_covered": [
+        "PO"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Exam",
+        "Main Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "English Language": [
+            "Reading Comprehension",
+            "Grammar",
+            "Vocabulary"
+        ],
+        "Quantitative Aptitude": [
+            "Data Interpretation",
+            "Number Series",
+            "Quadratic Equations"
+        ],
+        "Reasoning Ability": [
+            "Logical Reasoning",
+            "Data Sufficiency",
+            "Puzzles"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-16T05:03:05.911435Z"
+}

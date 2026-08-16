@@ -1,0 +1,45 @@
+{
+    "conducting_body": "Airports Authority of India (AAI), Regional Headquarters Northern Region, New Delhi",
+    "exam_name": "AAI Northern Region Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Graduate Apprentice",
+        "Diploma/Technician Apprentice",
+        "ITI Trade Apprentice"
+    ],
+    "application_dates": {
+        "start_date": "14 August 2026",
+        "end_date": "16 September 2026"
+    },
+    "fee_structure": "No Application Fee",
+    "selection_stages": [
+        "Merit Based",
+        "Document Verification/Interview"
+    ],
+    "detailed_syllabus": {
+        "Graduate Apprentice": [
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronics",
+            "Computer Science / IT",
+            "Aeronautical / Aerospace / Aircraft Maintenance",
+            "Architecture",
+            "Mechanical / Automobile",
+            "BCA / B.Com"
+        ],
+        "Diploma/Technician Apprentice": [
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronics",
+            "Computer Science / IT",
+            "Aeronautical / Aerospace / Aircraft Maintenance",
+            "Architecture",
+            "Mechanical / Automobile"
+        ],
+        "ITI Trade Apprentice": [
+            "COPA / Steno",
+            "Computer Hardware & Networking"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/aai-northern-region-apprentice-recruitment-2026/",
+    "extraction_timestamp": "2026-08-16T05:15:22.715904Z"
+}

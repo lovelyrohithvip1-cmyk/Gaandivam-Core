@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Liquid Propulsion Systems Centre (LPSC), Indian Space Research Organisation (ISRO), Department of Space, Government of India",
+    "exam_name": "LPSC Recruitment 2026",
+    "job_posts_covered": [
+        "Technical Assistant",
+        "Technician ‘B’",
+        "Draughtsman ‘B’",
+        "Fireman ‘A’"
+    ],
+    "application_dates": {
+        "start_date": "18 August 2026, 02:00 PM",
+        "end_date": "04 September 2026, 02:00 PM"
+    },
+    "fee_structure": "General / OBC / EWS: Rs 750/- (Refunded Rs 500/-), SC / ST: Rs 750/- (Refunded 750/-), Women / PwBD / Ex-Servicemen: Rs 750/- (Refunded 750/-)",
+    "selection_stages": [
+        "Written Test",
+        "Skill Test",
+        "Physical Efficiency Test (PET)",
+        "Document/Certificate Verification"
+    ],
+    "detailed_syllabus": {
+        "Technical Assistant": [
+            "Mechanical Engineering",
+            "Chemical Engineering"
+        ],
+        "Technician ‘B’": [
+            "Electronic Mechanic Trade",
+            "Fitter Trade"
+        ],
+        "Draughtsman ‘B’": [
+            "Draughtsman (Mechanical) Trade"
+        ],
+        "Fireman ‘A’": [
+            "Physical Fitness",
+            "PET standards"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/isro-lpsc-recruitment-2026/",
+    "extraction_timestamp": "2026-08-16T05:36:08.825621Z"
+}

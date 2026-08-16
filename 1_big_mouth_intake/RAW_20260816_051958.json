@@ -1,0 +1,32 @@
+{
+    "conducting_body": "Guru Nanak Dev University (GNDU), Amritsar",
+    "exam_name": "GNDU Non-Teaching Recruitment 2026",
+    "job_posts_covered": [
+        "Medical Officer",
+        "Programmer",
+        "Consultant"
+    ],
+    "application_dates": {
+        "start_date": "13 August 2026",
+        "end_date": "04 September 2026"
+    },
+    "fee_structure": "₹1180/- for Post No. 1 (General), ₹590/- for Post No. 1 (SC/ST/PWD Punjab), ₹944/- for Post No. 2 to 6 (General), ₹472/- for Post No. 2 to 6 (SC/ST/PWD Punjab)",
+    "selection_stages": [
+        "Written examination",
+        "Skill test (as per post recruitment)",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Medical Officer": [
+            "MBBS Degree"
+        ],
+        "Programmer": [
+            "M.Tech(CSE)/M.Tech(IT)/MCA/ Equivalent with atleast 60% marks in aggregate"
+        ],
+        "Consultant": [
+            "Class-I / A-Class officer serving or retired in government organization"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/gndu-non-teaching-vacancy-2026/",
+    "extraction_timestamp": "2026-08-16T05:19:58.841478Z"
+}

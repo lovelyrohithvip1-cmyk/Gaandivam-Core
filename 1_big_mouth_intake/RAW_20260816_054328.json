@@ -1,0 +1,27 @@
+{
+    "conducting_body": "Madhya Pradesh Employees Selection Board (MPESB)",
+    "exam_name": "MPESB Recruitment 2026",
+    "job_posts_covered": [
+        "Forest Guard (Van Rakshak)",
+        "Field Guard (Kshetra Rakshak)",
+        "Jail Prahari",
+        "Assistant Jail Superintendent"
+    ],
+    "application_dates": {
+        "start_date": "28 February 2026",
+        "end_date": "30 April 2026"
+    },
+    "fee_structure": "General / Other State Candidates: ₹500/-, SC / ST / OBC / EWS (MP Domicile): ₹250/-, Backlog Posts: No Fee, MP Online Portal Charges: ₹60/-, Registered Citizen Portal Charges: ₹20/-",
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Physical Efficiency / Measurement Test (for applicable posts)",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified in the given text"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/mpesb-forest-guard-field-guard-jail-prahari-recruitment-2026/",
+    "extraction_timestamp": "2026-08-16T05:43:28.275870Z"
+}

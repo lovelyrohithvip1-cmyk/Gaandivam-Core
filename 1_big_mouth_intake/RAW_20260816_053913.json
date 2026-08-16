@@ -1,0 +1,24 @@
+{
+    "conducting_body": "UPSC",
+    "exam_name": "UPSC Principal & Vice Principal Recruitment 2026",
+    "job_posts_covered": [
+        "Principal",
+        "Vice Principal"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": "18.08.26"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Notification",
+        "Apply Online"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Not specified"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/active-govt-jobs/",
+    "extraction_timestamp": "2026-08-16T05:39:13.196337Z"
+}

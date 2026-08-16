@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Indira Gandhi Delhi Technical University for Women (IGDTUW)",
+    "exam_name": "IGDTUW Delhi University Teaching Recruitment 2026",
+    "job_posts_covered": [
+        "Professor",
+        "Associate Professor",
+        "Assistant Professor"
+    ],
+    "application_dates": {
+        "start_date": "22 July 2026",
+        "end_date": "21 August 2026"
+    },
+    "fee_structure": {
+        "General": "Rs 1000/-",
+        "OBC/ EWS/ Female": "Rs 800/-",
+        "SC/ ST/ Pwd": "Rs 0/-"
+    },
+    "selection_stages": [
+        "Screening of Applications",
+        "Written Screening Test (for Assistant Professor, if applicable)",
+        "Seminar / Teaching Presentation",
+        "Personal Interview",
+        "Document Verification",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "Relevant discipline with First Class at Bachelor’s or Master’s level",
+            "Research publications",
+            "Teaching/Research experience"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/igdtuw-du-teaching-recruitment-2026/",
+    "extraction_timestamp": "2026-08-16T05:25:55.499205Z"
+}

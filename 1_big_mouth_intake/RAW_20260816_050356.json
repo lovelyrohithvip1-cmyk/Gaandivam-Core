@@ -1,0 +1,23 @@
+{
+    "conducting_body": "Staff Selection Commission (SSC)",
+    "exam_name": "SSC GD",
+    "job_posts_covered": [
+        "Constable (General Duty)"
+    ],
+    "application_dates": {
+        "start_date": "01 December 2025",
+        "end_date": "31 December 2025"
+    },
+    "fee_structure": "Gen/ OBC/ EWS: Rs.100/-, SC/ ST/ PWD: Rs.0/-",
+    "selection_stages": [
+        "Computer Based Test",
+        "Physical Efficiency Test",
+        "Physical Standard Test",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Subject": []
+    },
+    "data_source_url": "https://haryanajobs.in/ssc-gd-admit-card-2026/",
+    "extraction_timestamp": "2026-08-16T05:03:56.094680Z"
+}

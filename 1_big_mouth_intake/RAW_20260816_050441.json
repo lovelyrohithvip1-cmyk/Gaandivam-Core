@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Punjab Vidhan Sabha Secretariat",
+    "exam_name": "Punjab Vidhan Sabha Group D Recruitment 2026",
+    "job_posts_covered": [
+        "Chowkidar",
+        "Safai Sewak"
+    ],
+    "application_dates": {
+        "start_date": "13 August 2026",
+        "end_date": "27 August 2026"
+    },
+    "fee_structure": "₹200/- (General Category), ₹100/- (Punjab State SC/ST/BC & Other Reserved Categories)",
+    "selection_stages": [
+        "Punjabi language test",
+        "Written examination",
+        "Skilled Test-cum-Interview"
+    ],
+    "detailed_syllabus": {
+        "Punjabi": [
+            "Language test"
+        ],
+        "General Knowledge": [
+            "Written examination"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/punjab-vidhan-sabha-group-d-recruitment-2026/",
+    "extraction_timestamp": "2026-08-16T05:04:41.743826Z"
+}

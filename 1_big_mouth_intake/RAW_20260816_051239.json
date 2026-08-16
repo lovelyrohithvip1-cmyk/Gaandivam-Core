@@ -1,0 +1,34 @@
+{
+    "conducting_body": "CSIR-Central Scientific Instruments Organisation (CSIR-CSIO)",
+    "exam_name": "CSIR-CSIO Recruitment 2026",
+    "job_posts_covered": [
+        "Security Officer",
+        "Receptionist",
+        "Driver"
+    ],
+    "application_dates": {
+        "start_date": "14 August 2026",
+        "end_date": "14 September 2026"
+    },
+    "fee_structure": "₹590/- for General/OBC/EWS candidates, Nil for SC/ST/PwBD/ESM/Women candidates",
+    "selection_stages": [
+        "Physical & Personality Assessment Test",
+        "Personality Assessment Test",
+        "Skill Test",
+        "Written Examination"
+    ],
+    "detailed_syllabus": {
+        "Security Officer": [
+            "Mental Ability and Personality Assessment Test",
+            "Comprehension, Report Writing, Security Regulations/Firefighting and General Awareness"
+        ],
+        "Driver": [
+            "General Intelligence",
+            "Quantitative Aptitude",
+            "General Awareness",
+            "English Language"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/csir-csio-chandigarh-recruitment-2026/",
+    "extraction_timestamp": "2026-08-16T05:12:39.785656Z"
+}

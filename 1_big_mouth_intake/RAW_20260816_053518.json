@@ -1,0 +1,40 @@
+{
+    "conducting_body": "Naval Ship Repair Yard (NSRY), Sri Vijaya Puram",
+    "exam_name": "Navy Apprentice Recruitment 2026",
+    "job_posts_covered": [
+        "Electrician",
+        "Fitter",
+        "Information & Communication System Maintenance",
+        "Instrument Mechanic",
+        "Machinist",
+        "Mechanic Refrigeration & AC",
+        "Mechanic (Diesel)",
+        "Programming and System Administration Assistant",
+        "Pipe Fitter",
+        "Shipwright (Wood)",
+        "Welder (Gas & Electric)",
+        "Electronics Mechanic",
+        "Sheet Metal Worker"
+    ],
+    "application_dates": {
+        "start_date": "17 August 2026",
+        "end_date": "10 October 2026"
+    },
+    "fee_structure": "Rs 0/-",
+    "selection_stages": [
+        "Merit-based process",
+        "Interview",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "ITI": [
+            "Relevant trade under NCVT/SCVT"
+        ],
+        "Class 10th": [
+            "Matriculation/Class 10th"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/navy-apprentice-recruitment-2026/",
+    "extraction_timestamp": "2026-08-16T05:35:18.274626Z"
+}

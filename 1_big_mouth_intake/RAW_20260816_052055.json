@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Uttarakhand Subordinate Service Selection Commission (UKSSSC)",
+    "exam_name": "UKSSSC Assistant Accountant Recruitment 2026",
+    "job_posts_covered": [
+        "Accountant",
+        "Assistant Accountant",
+        "Assistant Accountant/Junior Auditor",
+        "Office Assistant Grade-III (Accounts)",
+        "Cashier-cum-Assistant Accountant"
+    ],
+    "application_dates": {
+        "start_date": "26 July 2026",
+        "end_date": "15 August 2026"
+    },
+    "fee_structure": {
+        "UR / OBC": "Rs 300/-",
+        "SC / ST / EWS / PwBD": "Rs 150/-"
+    },
+    "selection_stages": [
+        "Written Examination",
+        "Skill Test",
+        "Document Verification",
+        "Medical Examination (if applicable)"
+    ],
+    "detailed_syllabus": {
+        "Accountancy": [
+            "Financial Accounting",
+            "Cost Accounting",
+            "Management Accounting"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/uksssc-assistant-accountant-recruitment-2026/",
+    "extraction_timestamp": "2026-08-16T05:20:55.774396Z"
+}
