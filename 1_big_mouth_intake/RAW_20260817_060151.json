@@ -1,0 +1,37 @@
+{
+    "conducting_body": "Various",
+    "exam_name": "Multiple Exams",
+    "job_posts_covered": [
+        "Haryana Court Clerk",
+        "Haryana Roadways Karnal Apprentice",
+        "Haryana Police ASPO",
+        "NVS Counsellors & Hostel Superintendent",
+        "HKRN Various Posts",
+        "UGC NET",
+        "Rajasthan Safai Karmachari",
+        "Income Tax Pune Sports Quota",
+        "Army ASC Centre South"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview",
+        "Physical Test",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Knowledge",
+            "Reasoning",
+            "Mathematics",
+            "English",
+            "Current Affairs"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/haryana-roadways-karnal-apprentice-recruitment-2026/https://haryanajobs.in/haryana-roadways-karnal-apprentice-recruitment-2026/",
+    "extraction_timestamp": "2026-08-17T06:01:51.992355Z"
+}

@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Institute of Banking Personnel Selection (IBPS)",
+    "exam_name": "IBPS Clerk Recruitment 2026",
+    "job_posts_covered": [
+        "Customer Service Associate (CSA) / Clerk"
+    ],
+    "application_dates": {
+        "start_date": "01 August 2026",
+        "end_date": "21 August 2026"
+    },
+    "fee_structure": "Gen/OBC/EWS: Rs 850/-, SC/ST/Other: Rs 175/-",
+    "selection_stages": [
+        "Preliminary Online Examination",
+        "Main Online Examination",
+        "Local Language Proficiency Test",
+        "Documents Verification",
+        "Medical Test"
+    ],
+    "detailed_syllabus": {
+        "English Language": null,
+        "Numerical Ability": null,
+        "Reasoning Ability": null,
+        "General Awareness": null,
+        "Computer Knowledge": null
+    },
+    "data_source_url": "https://haryanajobs.in/ibps-clerk-recruitment-2026/",
+    "extraction_timestamp": "2026-08-17T05:17:18.579660Z"
+}

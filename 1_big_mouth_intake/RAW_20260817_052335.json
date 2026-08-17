@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Punjab and Haryana High Court",
+    "exam_name": "Haryana Court Clerk Recruitment 2026",
+    "job_posts_covered": [
+        "Clerk"
+    ],
+    "application_dates": {
+        "start_date": "26 May 2026",
+        "end_date": "09 July 2026"
+    },
+    "fee_structure": "₹1200 for General Male, ₹875 for General Female, ₹710 for SC / BC / EWS / ESM Haryana, NIL for PwBD Haryana",
+    "selection_stages": [
+        "Computer Based Test",
+        "English Composition Test",
+        "Computer Proficiency Test",
+        "Document Verification",
+        "Final Merit List"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "50 questions"
+        ],
+        "English Objective": [
+            "50 questions"
+        ],
+        "English Subjective": [
+            "Essay",
+            "Letter",
+            "Precis & Translation"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/punjab-haryana-court-clerk-recruitment-2026/",
+    "extraction_timestamp": "2026-08-17T05:23:35.446005Z"
+}

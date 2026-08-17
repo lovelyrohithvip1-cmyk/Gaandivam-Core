@@ -1,0 +1,28 @@
+{
+    "conducting_body": "Railway Recruitment Boards (RRB)",
+    "exam_name": "RRB Technician Recruitment 2026",
+    "job_posts_covered": [
+        "Technician Grade-I Signal",
+        "Technician Grade-III"
+    ],
+    "application_dates": {
+        "start_date": "30 June 2026",
+        "end_date": "29 July 2026"
+    },
+    "fee_structure": "General / OBC / EWS: Rs. 500/-, SC / ST / Female: Rs. 250/-",
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Document Verification",
+        "Medical Examination"
+    ],
+    "detailed_syllabus": {
+        "Technician Grade-I Signal": [
+            "Engineering Diploma / Degree / Relevant Technical Qualification"
+        ],
+        "Technician Grade-III": [
+            "10th Pass + ITI in Relevant Trade"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rrb-technician-recruitment-2026/",
+    "extraction_timestamp": "2026-08-17T05:22:57.381555Z"
+}

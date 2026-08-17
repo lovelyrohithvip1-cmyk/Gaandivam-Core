@@ -1,0 +1,34 @@
+{
+    "conducting_body": "Civil Surgeon Panipat",
+    "exam_name": "Haryana Health Department Recruitment 2026",
+    "job_posts_covered": [
+        "Pharmacist",
+        "Data Manager",
+        "Care Coordinator"
+    ],
+    "application_dates": {
+        "start_date": "12 August 2026",
+        "end_date": "27 August 2026"
+    },
+    "fee_structure": "Rs 0/-",
+    "selection_stages": [
+        "Merit-Based Selection Criteria",
+        "Document Verification"
+    ],
+    "detailed_syllabus": {
+        "Pharmacist": [
+            "Bachelor’s Degree in Pharmacy",
+            "Diploma in Pharmacy"
+        ],
+        "Data Manager": [
+            "Graduate in any discipline",
+            "Diploma/Certificate in Computer Applications"
+        ],
+        "Care Coordinator": [
+            "10+2 Pass",
+            "Working knowledge of computer, internet and electronic mail"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/haryana-health-department-recruitment-2026/",
+    "extraction_timestamp": "2026-08-17T05:46:19.411178Z"
+}

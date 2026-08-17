@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Haryana Government",
+    "exam_name": "Haryana Court Clerk Recruitment 2026",
+    "job_posts_covered": [
+        "Clerk"
+    ],
+    "application_dates": {
+        "start_date": null,
+        "end_date": null
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Written Exam",
+        "Interview"
+    ],
+    "detailed_syllabus": {
+        "General Knowledge": [
+            "Current Affairs",
+            "History",
+            "Geography"
+        ],
+        "English": [
+            "Grammar",
+            "Comprehension",
+            "Vocabulary"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/contact-us/",
+    "extraction_timestamp": "2026-08-17T05:35:35.531720Z"
+}

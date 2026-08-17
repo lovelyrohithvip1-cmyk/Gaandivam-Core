@@ -1,0 +1,37 @@
+{
+    "conducting_body": "Chennai Petroleum Corporation Limited (CPCL)",
+    "exam_name": "CPCL Recruitment 2026",
+    "job_posts_covered": [
+        "Junior Engineering Assistant-IV (Production)",
+        "Junior Engineering Assistant-IV (Mechanical)",
+        "Junior Engineering Assistant-IV (Electrical)",
+        "Junior Engineering Assistant-IV (Instrumentation)"
+    ],
+    "application_dates": {
+        "start_date": "14 August 2026",
+        "end_date": "11 September 2026"
+    },
+    "fee_structure": "₹500/- for General/EWS/OBC, Nil for SC/ST/PwBD/Ex-Servicemen/Women",
+    "selection_stages": [
+        "Computer Based Test (CBT)",
+        "Document Verification",
+        "Skill, Proficiency and/or Physical Test (SPPT)",
+        "Medical Fitness"
+    ],
+    "detailed_syllabus": {
+        "General Aptitude": [
+            "Verbal Ability",
+            "General Knowledge",
+            "Reasoning/Logical Deduction",
+            "Numerical Ability"
+        ],
+        "Discipline Knowledge": [
+            "Chemical/Petroleum/Petrochemical Engineering/Technology",
+            "Mechanical Engineering",
+            "Electrical/Electrical & Electronics Engineering",
+            "Instrumentation/Instrumentation & Electronics/Instrumentation & Control/Electronics & Communication"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/cpcl-recruitment-2026-junior-engineering-assistant/",
+    "extraction_timestamp": "2026-08-17T05:48:17.281724Z"
+}

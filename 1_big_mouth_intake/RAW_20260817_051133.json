@@ -1,0 +1,39 @@
+{
+    "conducting_body": "University of Delhi",
+    "exam_name": "SRCC Recruitment 2026",
+    "job_posts_covered": [
+        "Assistant Professor",
+        "Director of Physical Education"
+    ],
+    "application_dates": {
+        "start_date": "08 August 2026",
+        "end_date": "22 August 2026"
+    },
+    "fee_structure": {
+        "UR / OBC / EWS": "₹500/-",
+        "SC / ST": "No Fee",
+        "PwBD": "No Fee",
+        "Women Candidates": "No Fee"
+    },
+    "selection_stages": [
+        "Education Qualification",
+        "Interview",
+        "Documents Verification",
+        "Medical Test"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "Commerce",
+            "Economics",
+            "Mathematics",
+            "Physical Education"
+        ],
+        "Topics": [
+            "Master’s Degree with at least 55% marks",
+            "NET/UGC eligibility requirements",
+            "Master’s degree in Physical Education/Sports-related discipline"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/srcc-du-teaching-recruitment-2026/",
+    "extraction_timestamp": "2026-08-17T05:11:33.844001Z"
+}

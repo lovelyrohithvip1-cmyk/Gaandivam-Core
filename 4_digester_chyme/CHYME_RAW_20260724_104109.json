@@ -1,0 +1,84 @@
+{
+    "exam_name": "NEET PG 2026",
+    "chyme_granular_syllabus": {
+        "Anatomy": {
+            "General Anatomy": {
+                "Introduction to Anatomy": [
+                    "Branches of Anatomy",
+                    "Importance of Anatomy",
+                    "Anatomical Terminology"
+                ],
+                "Skeletal System": [
+                    "Bones of the Upper Limb",
+                    "Bones of the Lower Limb",
+                    "Bones of the Axial Skeleton"
+                ]
+            },
+            "Microscopic Anatomy": {
+                "Cell Biology": [
+                    "Cell Structure",
+                    "Cell Membrane",
+                    "Cell Division"
+                ],
+                "Tissue Biology": [
+                    "Epithelial Tissue",
+                    "Connective Tissue",
+                    "Muscle Tissue"
+                ]
+            }
+        },
+        "Biochemistry": {
+            "Biological Molecules": {
+                "Carbohydrates": [
+                    "Monosaccharides",
+                    "Disaccharides",
+                    "Polysaccharides"
+                ],
+                "Proteins": [
+                    "Amino Acids",
+                    "Peptide Bond",
+                    "Protein Structure"
+                ]
+            },
+            "Metabolic Pathways": {
+                "Glycolysis": [
+                    "Glucose Breakdown",
+                    "Pyruvate Formation",
+                    "Energy Yield"
+                ],
+                "Citric Acid Cycle": [
+                    "Acetyl-CoA Formation",
+                    "Citrate Formation",
+                    "Energy Yield"
+                ]
+            }
+        },
+        "Pharmacology": {
+            "General Pharmacology": {
+                "Introduction to Pharmacology": [
+                    "Definition of Pharmacology",
+                    "Branches of Pharmacology",
+                    "Pharmacological Effects"
+                ],
+                "Pharmacokinetics": [
+                    "Absorption",
+                    "Distribution",
+                    "Metabolism",
+                    "Excretion"
+                ]
+            },
+            "Autonomic Pharmacology": {
+                "Sympathetic Nervous System": [
+                    "Adrenergic Receptors",
+                    "Adrenergic Agonists",
+                    "Adrenergic Antagonists"
+                ],
+                "Parasympathetic Nervous System": [
+                    "Cholinergic Receptors",
+                    "Cholinergic Agonists",
+                    "Cholinergic Antagonists"
+                ]
+            }
+        }
+    }
+}

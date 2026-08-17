@@ -1,0 +1,37 @@
+{
+    "conducting_body": "National Projects Construction Corporation Limited (NPCC)",
+    "exam_name": "NPCC Recruitment 2026",
+    "job_posts_covered": [
+        "Executive Director (Engineering)",
+        "Joint General Manager (Finance)",
+        "Manager (Finance)",
+        "Manager (HR)",
+        "Deputy Manager (Finance)",
+        "Deputy Manager (Law)"
+    ],
+    "application_dates": {
+        "start_date": "01 August 2026",
+        "end_date": "22 August 2026"
+    },
+    "fee_structure": {
+        "General / OBC": "₹1,000/-",
+        "SC / ST / EWS / PwBD / Ex-Servicemen": "₹0/-"
+    },
+    "selection_stages": [
+        "Shortlisting of Applications",
+        "Personal Interview / Other Selection Method decided by NPCC",
+        "Document Verification",
+        "Medical Examination",
+        "Final Selection"
+    ],
+    "detailed_syllabus": {
+        "Subjects": [
+            "Engineering",
+            "Finance",
+            "Human Resource",
+            "Law"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/npcc-recruitment-2026/",
+    "extraction_timestamp": "2026-08-17T05:44:07.212739Z"
+}

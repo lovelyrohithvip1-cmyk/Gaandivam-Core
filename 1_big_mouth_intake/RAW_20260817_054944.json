@@ -1,0 +1,30 @@
+{
+    "conducting_body": "Union Public Service Commission (UPSC)",
+    "exam_name": "Civil Services Examination 2026",
+    "job_posts_covered": [
+        "Indian Administrative Service",
+        "Indian Foreign Service",
+        "Indian Police Service",
+        "Indian Revenue Service",
+        "Other Civil Services"
+    ],
+    "application_dates": {
+        "start_date": "04 February 2026",
+        "end_date": "27 February 2026"
+    },
+    "fee_structure": null,
+    "selection_stages": [
+        "Preliminary Examination",
+        "Main Examination",
+        "Personality Test / Interview"
+    ],
+    "detailed_syllabus": {
+        "Subject": [
+            "General Studies",
+            "CSAT (Civil Services Aptitude Test)",
+            "Optional Subjects"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/upsc-cse-result-2026/",
+    "extraction_timestamp": "2026-08-17T05:49:44.245904Z"
+}

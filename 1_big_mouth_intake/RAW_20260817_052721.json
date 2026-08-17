@@ -1,0 +1,35 @@
+{
+    "conducting_body": "Rashtriya Military School",
+    "exam_name": "Rashtriya Military School Admission 2026-27",
+    "job_posts_covered": [],
+    "application_dates": {
+        "start_date": "10 September 2025",
+        "end_date": "09 October 2025"
+    },
+    "fee_structure": {
+        "General/Defence": "₹680/-",
+        "SC/ST": "₹340/-"
+    },
+    "selection_stages": [
+        "Common Entrance Test (CET)",
+        "Interview",
+        "Medical Test"
+    ],
+    "detailed_syllabus": {
+        "Class 6": [
+            "Intelligence",
+            "General Knowledge",
+            "Mathematics",
+            "English"
+        ],
+        "Class 9": [
+            "English",
+            "Hindi",
+            "Social Science",
+            "Mathematics",
+            "Science"
+        ]
+    },
+    "data_source_url": "https://haryanajobs.in/rashtriya-military-school-rms-admission-2026-27/",
+    "extraction_timestamp": "2026-08-17T05:27:21.884152Z"
+}
